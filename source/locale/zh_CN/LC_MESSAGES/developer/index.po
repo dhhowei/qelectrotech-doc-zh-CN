@@ -30,16 +30,16 @@ msgstr "开发者手册"
 
 #: ../../source/developer/index.rst:13
 msgid "Image showing QElectroTech's interface wizard"
-msgstr "显示 QElectroTech 接口向导的图像"
+msgstr "显示 QElectroTech 界面向导的图片"
 
 #: ../../source/developer/index.rst:13
 msgid "Building QET from source"
-msgstr "从源头构建QET"
+msgstr "从源代码构建 QET"
 
 #: ../../source/developer/index.rst:19
 msgid "Image showing Git logo"
-msgstr "显示 Git 标志的图像"
+msgstr "显示 Git 标志的图片"
 
 #: ../../source/developer/index.rst:19
 msgid "Contributing to the QET source code"
-msgstr "贡献 QET 源代码"
+msgstr "为 QET 源代码做贡献"

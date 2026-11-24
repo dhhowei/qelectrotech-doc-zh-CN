@@ -22,27 +22,27 @@ msgstr ""
 
 #: ../../source/users/basics/launch_mac.rst:6
 msgid "Launch QElectroTech on Mac"
-msgstr "在 Mac 上发射 QElectroTech"
+msgstr "在 Mac 上启动 QElectroTech"
 
 #: ../../source/users/basics/launch_mac.rst:8
 msgid ""
 "After installation, QElectroTech can be launched from applications folder."
-msgstr "在安装后，QElectroTech可以从应用程序文件夹中启动。"
+msgstr "安装完成后，可以从应用程序文件夹启动 QElectroTech。"
 
 #: ../../source/users/basics/launch_mac.rst:14
 msgid "Figure: Starting splash screen"
-msgstr "图：启动溅射屏幕"
+msgstr "图：启动画面"
 
 #: ../../source/users/basics/launch_mac.rst:18
 msgid ""
 "For easier access, QElectroTech can be added to the dock. Just open the "
 "applications folder and drag QElectroTech to the dock."
-msgstr "为了方便访问，可以在码头上添加QElectroTech,只需打开应用程序文件夹，将QEctroTech拖到码头。"
+msgstr "为方便访问，可以将 QElectroTech 添加到程序坞。只需打开应用程序文件夹，然后将 QElectroTech 拖到程序坞即可。"
 
 #: ../../source/users/basics/launch_mac.rst:20
 msgid "Once QElectroTech has been launched, the main window looks as follow:"
-msgstr "QElectroTech推出后，主窗口看起来如下："
+msgstr "QElectroTech 启动后，主窗口如下所示："
 
 #: ../../source/users/basics/launch_mac.rst:26
 msgid "Figure: Main window QElectroTech"
-msgstr "图：主窗口 QElectroTech"
+msgstr "图：QElectroTech 主窗口"

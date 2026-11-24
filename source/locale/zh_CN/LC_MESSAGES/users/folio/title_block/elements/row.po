@@ -33,7 +33,7 @@ msgid ""
 "A row of `cells`_ from the `title block`_ is a group of `cells`_ that are "
 "placed one beside the other."
 msgstr ""
-"`图框 <cells_>`_ 的 `图框 <title block_>`_ 的一行是一组 `个细胞 <cells_>`_，它们被放在另一边。"
+"`图框 <title block_>`_ 中由 `单元格 <cells_>`_ 组成的一行，是一组彼此相邻排列的 `单元格 <cells_>`_ 。"
 
 #: ../../source/users/folio/title_block/elements/row.rst:15
 msgid "Figure: QElectroTech title block row"
@@ -47,7 +47,7 @@ msgstr "属性"
 msgid ""
 "A row from the `title block`_ has only one property, the height of the "
 "`cells`_ that are part of the row."
-msgstr "从 `图框 <title block_>`_ 的一行只有一个属性，是属于该行的 `细胞的高度 <cells_>`_。"
+msgstr "`图框 <title block_>`_ 的一行只有一个属性，即属于该行的 `单元格 <cells_>`_ 高度。"
 
 #: ../../source/users/folio/title_block/elements/row.rst:23
 msgid "To display the row height:"
@@ -55,14 +55,14 @@ msgstr "要显示行高："
 
 #: ../../source/users/folio/title_block/elements/row.rst:25
 msgid "Double click on the row head."
-msgstr "双击行头。"
+msgstr "双击行标题。"
 
 #: ../../source/users/folio/title_block/elements/row.rst:30
 msgid "Figure: QElectroTech title block row height property"
-msgstr "图：QElectroTech图框行高度属性"
+msgstr "图：QElectroTech 图框行高属性"
 
 #: ../../source/users/folio/title_block/elements/row.rst:34
 msgid ""
 "QElectroTech works with pixels, the height of the row can only be defined "
 "according pixel unit."
-msgstr "QElectroTech用像素工作，行的高度只能按照像素单位来定义。"
+msgstr "QElectroTech 以像素为单位工作，行的高度只能按像素单位定义。"

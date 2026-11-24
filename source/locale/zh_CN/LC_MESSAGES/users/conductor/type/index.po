@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/conductor/type/index.rst:7
 msgid "Type of conductor"
-msgstr "指挥者类型"
+msgstr "导体类型"

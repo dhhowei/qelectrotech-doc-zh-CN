@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/schema/what_is.rst:5
 msgid "What is a schema?"
-msgstr "什么是计划?"
+msgstr "什么是原理图？"

@@ -28,17 +28,17 @@ msgstr "全屏模式"
 msgid ""
 "QElectroTech provides the option of displaying full screen. The full screen "
 "mode can be selected from `menu bar`_ and using keyboard shortcut."
-msgstr "QElectroTech 提供了显示全屏幕的选项。全屏幕模式可以从 `菜单栏 <menu bar_>`_ 选择，并使用键盘快捷键 。"
+msgstr "QElectroTech 提供全屏显示选项。全屏模式可从 `菜单栏 <menu bar_>`_ 中选择，也可使用键盘快捷键。"
 
 #: ../../source/users/interface/customize/full_screen.rst:13
 msgid "Full screen mode from menu bar"
-msgstr "来自菜单栏的全屏幕模式"
+msgstr "从菜单栏进入全屏模式"
 
 #: ../../source/users/interface/customize/full_screen.rst:15
 msgid ""
 "Select **Settings > FullScreen Mode** menu item to display QElectroTech in "
 "full screen mode."
-msgstr "选择 **设置 > FullScreen Mode** 菜单项以全屏幕模式显示 QElectroTech 。"
+msgstr "选择 **设置 > 全屏模式** 菜单项，使 QElectroTech 以全屏模式显示。"
 
 #: ../../source/users/interface/customize/full_screen.rst:20
 msgid "Figure: QElectroTech settings menu"
@@ -46,27 +46,27 @@ msgstr "图：QElectroTech 设置菜单"
 
 #: ../../source/users/interface/customize/full_screen.rst:23
 msgid "Full screen mode using keyboard shortcut"
-msgstr "使用键盘快捷键的全屏幕模式"
+msgstr "使用键盘快捷键进入全屏模式"
 
 #: ../../source/users/interface/customize/full_screen.rst:25
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/interface/customize/full_screen.rst:27
 msgid ""
 "Press ``Ctrl + Shift + f`` to display QElectroTech in full screen mode."
-msgstr "按 ``Ctrl + Shift + f`` 在全屏模式下显示QElectroTech."
+msgstr "按 ``Ctrl + Shift + f`` 使 QElectroTech 以全屏模式显示。"
 
 #: ../../source/users/interface/customize/full_screen.rst:31
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
 
 #: ../../source/users/interface/customize/full_screen.rst:35
 msgid ""
 "To leave full screen mode, select **Settings > Leave FullScreen Mode** menu "
 "item or use again ``Ctrl + Shift + f`` keyboard shortcut."
-msgstr "要离开全屏模式，请选择 **设置 > 离开全屏模式** 菜单项或再次使用 ``Ctrl + Shift + f`` 键盘快捷键。"
+msgstr "要退出全屏模式，请选择 **设置 > 退出全屏模式** 菜单项，或再次使用 ``Ctrl + Shift + f`` 键盘快捷键。"

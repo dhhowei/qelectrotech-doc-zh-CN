@@ -31,9 +31,9 @@ msgid ""
 "allows finding automatically an `element`_ with a desired label, list the "
 "`folios`_ from an specific author, etc."
 msgstr ""
-"搜索菜单允许搜索具有特定值的文本字段或属性的 `元件 <elements_>`_，`图幅 <folios_>`_ 或 `导体 "
-"<conductors_>`_。搜索菜单允许自动找到带有理想标签的 `元件 <element_>`_，从特定作者中列出 `图幅 <folios_>`_ "
-"等。"
+"搜索菜单可以搜索具有特定值的文本字段或属性的 `元件 <elements_>`_ 、`图幅 <folios_>`_ 或 `导体 "
+"<conductors_>`_ 。搜索菜单可以自动找到具有所需标签的 `元件 <element_>`_ 、列出特定作者的 `图幅 <folios_>`_"
+" 等。"
 
 #: ../../source/users/interface/search_menu.rst:13
 msgid ""
@@ -43,11 +43,11 @@ msgid ""
 "previous coincidence."
 msgstr ""
 "QElectroTech "
-"提供了一个由文本框构成的基本而简单的搜索菜单，它允许写出应该找到的想要的字符串和关闭菜单的一些按钮，实现搜索并前往下一个和之前的巧合。"
+"提供了一个简单的基础搜索菜单，它由一个文本框和若干按钮组成：文本框用于输入要查找的字符串，按钮用于关闭菜单、刷新搜索，以及跳到下一个或上一个匹配项。"
 
 #: ../../source/users/interface/search_menu.rst:20
 msgid "Figure: QElectroTech search menu"
-msgstr "图：QElectroTech搜索菜单"
+msgstr "图：QElectroTech 搜索菜单"
 
 #: ../../source/users/interface/search_menu.rst:22
 msgid ""
@@ -55,12 +55,12 @@ msgid ""
 "inside `folios`_, `text fields`_, `elements`_ and `conductors`_ trees. The "
 "advanced mode also allows replacing actions."
 msgstr ""
-"QElectroTech还提供了高级菜单，在 `图幅 <folios_>`_，`文本字段 <text fields_>`_，`元件 "
-"<elements_>`_ 和 `导体 <conductors_>`_ 树内可以定义过滤器。高级模式还允许替换动作。"
+"QElectroTech 还提供了高级菜单，可在 `图幅 <folios_>`_ 、`文本字段 <text fields_>`_ 、`元件 "
+"<elements_>`_ 和 `导体 <conductors_>`_ 树中定义过滤器。高级模式还支持替换操作。"
 
 #: ../../source/users/interface/search_menu.rst:28
 msgid "Figure: QElectroTech advanced search menu"
-msgstr "图：QElectroTech高级搜索菜单"
+msgstr "图：QElectroTech 高级搜索菜单"
 
 #: ../../source/users/interface/search_menu.rst:30
 msgid "To display or hidden the search menu:"
@@ -70,9 +70,9 @@ msgstr "要显示或隐藏搜索菜单："
 msgid ""
 "Select **Edit > Search / Replace** menu item to display or hidden the search"
 " menu at the bottom from the `workspace`_."
-msgstr "选择 **Edit > 搜索 / 替换** 菜单项，从 `工作区 <workspace_>`_ 中显示或隐藏底部的搜索菜单 。"
+msgstr "选择 **编辑 > 搜索 / 替换** 菜单项，可在 `工作区 <workspace_>`_ 底部显示或隐藏搜索菜单。"
 
 #: ../../source/users/interface/search_menu.rst:36
 msgid ""
 "The search menu can also be displayed using ``Ctrl + f`` shortcut keyboard."
-msgstr "搜索菜单也可以使用 ``Ctrl + f`` 快捷键盘显示。"
+msgstr "搜索菜单也可以使用 ``Ctrl + f`` 快捷键显示。"

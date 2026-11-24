@@ -22,17 +22,17 @@ msgstr ""
 
 #: ../../source/users/element/properties/element_author.rst:5
 msgid "Element author and license"
-msgstr "要素作者和许可证"
+msgstr "元件作者和许可证"
 
 #: ../../source/users/element/properties/element_author.rst:7
 msgid ""
 "QElectroTech provides the option to define the author and the desired "
 "license from the `element`_."
-msgstr "QElectroTech提供了定义作者和从 `元件 <element_>`_ 想要的许可证的选项。"
+msgstr "QElectroTech 提供了为 `元件 <element_>`_ 定义作者和所需许可证的选项。"
 
 #: ../../source/users/element/properties/element_author.rst:12
 msgid "Figure: QElectroTech author and license element PopUp window"
-msgstr "图：QElectroTech 作者和许可元素弹出窗口"
+msgstr "图：QElectroTech 元件作者和许可证弹出窗口"
 
 #: ../../source/users/element/properties/element_author.rst:14
 msgid ""
@@ -40,13 +40,13 @@ msgid ""
 "`main window`_ from QElectroTech, this information can only be found from "
 "`element editor`_."
 msgstr ""
-"在QElectroTech的 `元件 <element_>`_ 上无法显示作者和 `元素 <main window_>`_ 的许可证，此信息只能从 "
-"`元素编辑器 <element editor_>`_ 中找到。"
+"无法在 QElectroTech 的 `主窗口 <main window_>`_ 中显示 `元件 <element_>`_ 的作者和许可证，此信息只能从"
+" `元件编辑器 <element editor_>`_ 中找到。"
 
 #: ../../source/users/element/properties/element_author.rst:19
 msgid ""
 "For more information about how to find the license and author from an "
 "`element`_, refer to `define author element information`_ section."
 msgstr ""
-"关于如何从 `元件 <element_>`_ 中找到许可证和作者的更多信息，参见 `定义作者元素信息 <define author element "
-"information_>`_ 节。"
+"有关如何从 `元件 <element_>`_ 中找到许可证和作者的更多信息，请参阅 `定义元件作者信息 <define author element "
+"information_>`_ 一节。"

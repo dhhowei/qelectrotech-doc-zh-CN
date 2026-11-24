@@ -22,15 +22,15 @@ msgstr ""
 
 #: ../../source/users/folio/title_block/properties/parent_collection.rst:5
 msgid "Title block parent collection"
-msgstr "图框父收藏"
+msgstr "图框父集合"
 
 #: ../../source/users/folio/title_block/properties/parent_collection.rst:7
 msgid ""
 "The parent collection property from a `title block`_ defines the `title "
 "block collection`_ to which the `title block`_ belongs."
 msgstr ""
-"父收藏属性来自 `图框 <title block_>`_ 定义了 `图框 <title block collection_>`_ 所属的 `图框 "
-"<title block_>`_。"
+"`图框 <title block_>`_ 的父集合属性定义了该 `图框 <title block_>`_ 所属的 `图框集合 <title block "
+"collection_>`_ 。"
 
 #: ../../source/users/folio/title_block/properties/parent_collection.rst:10
 msgid ""
@@ -40,17 +40,17 @@ msgid ""
 "collection`_ or `project title block collection`_ as parent collection can "
 "be read and written (`edited`_) by the user."
 msgstr ""
-"此属性定义了用户对 `编辑图框 <edit the title block_>`_。A `图框 <title block_>`_ 与 `QET 图框收藏"
-" <QET title block collection_>`_ 作为父收藏只能由用户阅读。 A `图框 <title block_>`_ 与 "
-"`用户图框收藏 <user title block collection_>`_ 或 `项目图框集 <project title block "
-"collection_>`_ 作为父收藏可以读和写(`编辑 <edited_>`_) 由用户进行。"
+"此属性定义了用户 `编辑图框 <edit the title block_>`_ 的权限。以 `QET 图框集合 <QET title block "
+"collection_>`_ 作为父集合的 `图框 <title block_>`_ 只能由用户读取。以 `用户图框集合 <user title "
+"block collection_>`_ 或 `项目图框集合 <project title block collection_>`_ 作为父集合的 "
+"`图框 <title block_>`_ 可由用户读取和写入（`编辑 <edited_>`_ ）。"
 
 #: ../../source/users/folio/title_block/properties/parent_collection.rst:15
 msgid ""
 "The parent collection from a `title block`_ can be defined during the `save "
 "process`_."
-msgstr "从 `图框 <title block_>`_ 的母集可以在 `save process <save process_>`_ 中定义。"
+msgstr "`图框 <title block_>`_ 的父集合可以在 `保存过程 <save process_>`_ 中定义。"
 
 #: ../../source/users/folio/title_block/properties/parent_collection.rst:20
 msgid "Figure: QElectroTech title block save PopUP window"
-msgstr "图：QElectroTech 图框保存 PopUP 窗口"
+msgstr "图：QElectroTech 图框保存弹出窗口"

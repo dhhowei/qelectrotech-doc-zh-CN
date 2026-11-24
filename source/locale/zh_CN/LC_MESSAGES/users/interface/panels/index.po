@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/interface/panels/index.rst:7
 msgid "Panels"
-msgstr "小组"
+msgstr "面板"

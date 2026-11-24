@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/basics/index.rst:7
 msgid "Basics"
-msgstr "基本情况"
+msgstr "基础知识"

@@ -22,19 +22,19 @@ msgstr ""
 
 #: ../../source/users/interface/workspace.rst:7
 msgid "Workspace"
-msgstr "工作空间"
+msgstr "工作区"
 
 #: ../../source/users/interface/workspace.rst:9
 msgid ""
 "The workspace, also named graphical editor, is the area where the diagrams, "
 "schematics and reports (index table, component list, symbol glossary, etc.) "
 "are created."
-msgstr "工作空间，也命名为图形编辑器，是创建图表，图表和报告(索引表，组件列表，符号词汇表等)的区域。"
+msgstr "工作区又称图形编辑器，是创建图形、原理图和报表（索引表、元件列表、符号词汇表等）的区域。"
 
 #: ../../source/users/interface/workspace.rst:11
 msgid "The QElectroTech workspace looks as follow:"
-msgstr "QElectroTech的工作空间看起来如下："
+msgstr "QElectroTech 的工作区如下所示："
 
 #: ../../source/users/interface/workspace.rst:17
 msgid "Figure: QElectroTech Workspace"
-msgstr "图：QElectroTech工作空间"
+msgstr "图：QElectroTech 工作区"

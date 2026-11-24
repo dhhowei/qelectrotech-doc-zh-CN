@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/folio/type/index.rst:5
 msgid "Type of folio"
-msgstr "光圈类型"
+msgstr "图幅类型"

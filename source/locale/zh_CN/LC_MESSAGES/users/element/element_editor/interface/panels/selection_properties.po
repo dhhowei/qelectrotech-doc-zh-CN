@@ -30,12 +30,12 @@ msgid ""
 "properties from the selected `part`_ (`line`_, `terminal`_, `rectangle`_, "
 "`dynamic text`_, etc.)."
 msgstr ""
-"选择属性面板显示所选 `部件 <part_>`_ (`线条 <line_>`_，`端子 <terminal_>`_，`矩形 "
-"<rectangle_>`_，`动态文本 <dynamic text_>`_ 等的外观和几何属性。"
+"选择属性面板显示所选 `部件 <part_>`_ （`线条 <line_>`_、`端子 <terminal_>`_、`矩形 "
+"<rectangle_>`_、`动态文本 <dynamic text_>`_ 等）的外观和几何属性。"
 
 #: ../../source/users/element/element_editor/interface/panels/selection_properties.rst:13
 msgid "Figure: QElectroTech element editor Selection properties panel"
-msgstr "图：QElectroTech 元素编辑器选择属性面板"
+msgstr "图：QElectroTech 元件编辑器选择属性面板"
 
 #: ../../source/users/element/element_editor/interface/panels/selection_properties.rst:15
 msgid "To display the Selection properties panel:"

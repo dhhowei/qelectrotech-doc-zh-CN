@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:5
 msgid "Define element name"
-msgstr "定义元素名称"
+msgstr "定义元件名称"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:7
 msgid ""
@@ -32,19 +32,19 @@ msgid ""
 "information from the `element`_. The element name is the name which "
 "represents the `element`_ in the different collection."
 msgstr ""
-"元素名称用于识别 QElectroTech 的 `元件 <element_>`_ 。 名称与元素文件名称没有关系，它们可以完全不同。 "
-"名称文件是文件名称，其中包含来自 `元件 <element_>`_ 的信息。 元素名称是不同集合中代表 `元件 <element_>`_ 的名称 。"
+"元件名称用于在 QElectroTech 中标识 `元件 <element_>`_ 。该名称与元件文件名无关，二者可以完全不同。这里的文件名是指包含 "
+"`元件 <element_>`_ 信息的文件的名称。元件名称则是在不同集合中代表 `元件 <element_>`_ 的名称。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:12
 msgid ""
 "The element name can be defined in many different languages. Depending on "
 "the chosen language at QElectroTech settings, the name is displayed for the "
 "user at one language or at another."
-msgstr "元素名称可以用许多不同的语言定义。根据在 QElectroTech 设置中选择的语言，该名称以一种或另一种语言显示给用户。"
+msgstr "元件名称可以用多种不同的语言定义。根据在 QElectroTech 设置中选择的语言，界面会以相应语言向用户显示该名称。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:18
 msgid "Figure: QElectroTech element name PopUp window"
-msgstr "图：QElectroTech 元素名称 PopUp 窗口"
+msgstr "图：QElectroTech 元件名称弹出窗口"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:22
 msgid ""
@@ -52,22 +52,22 @@ msgid ""
 " using 2 letters code which should be used at the **Language** column from "
 "the cell value table."
 msgstr ""
-"QElectroTech 工作符合 `ISO 639-1 <ISO 639-1_>`_ 规范。文本语言的定义使用2个字母代码，应在单元格值表的 "
-"**语言** 栏中使用。"
+"QElectroTech 遵循 `ISO 639-1`_ 规范。文本语言使用由 2 个字母组成的代码定义，该代码应填写在单元格值表的 "
+"**Language** （语言）列中。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:28
 msgid "Define element name from menu bar"
-msgstr "从菜单栏定义元素名称"
+msgstr "从菜单栏定义元件名称"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:30
 msgid ""
 "Select **Edit > Edit name and information of the element** menu item to "
 "display the name editor PopUp window."
-msgstr "选择 **Edit > 编辑元素的名称和信息** 菜单项以显示名称编辑器 PopUp 窗口 。"
+msgstr "选择 **编辑 > 编辑元件名称和信息** 菜单项，以显示名称编辑器弹出窗口。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:35
 msgid "Figure: QElectroTech element editor Edit Menu"
-msgstr "图：QElectroTech 元素编辑器编辑菜单"
+msgstr "图：QElectroTech 元件编辑器“编辑”菜单"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:37
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:47
@@ -75,63 +75,63 @@ msgstr "图：QElectroTech 元素编辑器编辑菜单"
 msgid ""
 "Press the button **+ Add a line** to introduce a new row at the element name"
 " table."
-msgstr "按下按钮 **+ 添加一行** 在元素名称表中引入新行。"
+msgstr "点击 **+ 添加一行** 按钮，在元件名称表格中新增一行。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:38
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:48
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:65
 msgid "Define the 2 letters code language at **Language** column."
-msgstr "在 **Language** 栏中定义2个字母代码语言。"
+msgstr "在 **Language** （语言）列中填写由 2 个字母组成的语言代码。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:39
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:49
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:66
 msgid "Define the element name with the defined language at **Text** column."
-msgstr "在 **Text** 栏用定义的语言定义元素名称。"
+msgstr "在 **Text** （文本）列中用所定义的语言填写元件名称。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:40
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:50
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:67
 msgid ""
 "Press the button **OK** to accept and close the name editor PopUp window."
-msgstr "按下按钮 **OK** 接受并关闭名称编辑器 PopUp 窗口。"
+msgstr "点击 **OK** 按钮以确认并关闭名称编辑器弹出窗口。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:44
 msgid "Define element name from toolbar"
-msgstr "从工具栏中定义元素名称"
+msgstr "从工具栏定义元件名称"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:46
 msgid ""
 "Press the icon |names| from the `toolbar`_ to display the name editor PopUp "
 "window."
-msgstr "按下图标 |names| 从 `工具栏 <toolbar_>`_ 以显示名称编辑器 PopUp 窗口。"
+msgstr "点击 `工具栏 <toolbar_>`_ 上的 |names| 图标，以显示名称编辑器弹出窗口。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:52
 msgid "names"
-msgstr "名称"
+msgstr "names"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:56
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Element**."
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 元素** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 元件** 将其显示出来。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:59
 msgid "Define element name using keyboard shortcut"
-msgstr "使用键盘快捷键定义元素名称"
+msgstr "使用快捷键定义元件名称"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:61
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 支持使用快捷键来提高工作效率。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:63
 msgid "Press ``Ctrl + e`` to display the name editor PopUp window."
-msgstr "按 ``Ctrl + e`` 显示名称编辑器 PopUp 窗口 。"
+msgstr "按 ``Ctrl + e`` 显示名称编辑器弹出窗口。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_name.rst:71
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

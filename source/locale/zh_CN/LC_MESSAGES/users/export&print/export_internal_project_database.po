@@ -28,7 +28,7 @@ msgstr "导出内部项目数据库"
 msgid ""
 "QElectroTech allows creating a SQLite database which contains the project "
 "database."
-msgstr "QElectroTech允许创建包含项目数据库的SQLite数据库。"
+msgstr "QElectroTech 允许创建包含项目数据库的 SQLite 数据库。"
 
 #: ../../source/users/export&print/export_internal_project_database.rst:8
 msgid "To export the internal project database to a ``.sqlite`` file:"
@@ -38,15 +38,15 @@ msgstr "将内部项目数据库导出为 ``.sqlite`` 文件："
 msgid ""
 "Select **Project > Export the internal project database** menu item to open "
 "the exporting PopUp window."
-msgstr "选择 **项目 > 导出内部项目数据库** 菜单项打开导出弹出窗口 。"
+msgstr "选择 **项目 > 导出内部项目数据库** 菜单项，以打开导出弹出窗口。"
 
 #: ../../source/users/export&print/export_internal_project_database.rst:11
 msgid "Choose target directory and database name."
-msgstr "选择目标目录和数据库名称 。"
+msgstr "选择目标目录和数据库名称。"
 
 #: ../../source/users/export&print/export_internal_project_database.rst:12
 msgid "Press **Save** button to create the file with extension ``.sqlite``."
-msgstr "按 **保存** 按钮创建带有扩展名的文件 ``.sqlite``."
+msgstr "按下 **保存** 按钮，创建扩展名为 ``.sqlite`` 的文件。"
 
 #: ../../source/users/export&print/export_internal_project_database.rst:17
 msgid "Figure: QElectroTech project menu"

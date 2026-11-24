@@ -31,8 +31,8 @@ msgid ""
 "available (Windows, Linux/Unix and MacOS). The main window from QElectroTech"
 " contains the following areas:"
 msgstr ""
-"QElectroTech的设计采用了 `Qt <Qt_>`_ "
-"框架和部件工具包。QEctroTech的主窗口对于所有可用的平台(Windows,Linux/Unix和MacOS)来说都是相同的。QEctroTech的主窗口包含以下领域：."
+"QElectroTech 基于 `Qt <Qt_>`_ 框架和部件工具包设计。QElectroTech "
+"的主窗口在所有可用平台（Windows、Linux/Unix 和 macOS）上均相同。QElectroTech 的主窗口包含以下区域："
 
 #: ../../source/users/interface/elements.rst:19
 msgid ":greentext:`Menu bar`"
@@ -44,11 +44,11 @@ msgstr ":bluetext:`工具栏`"
 
 #: ../../source/users/interface/elements.rst:21
 msgid ":yellowtext:`Workspace`"
-msgstr ":yellowtext:`工作空间`"
+msgstr ":yellowtext:`工作区`"
 
 #: ../../source/users/interface/elements.rst:22
 msgid ":orangetext:`Panels`"
-msgstr ":orangetext:`小组`"
+msgstr ":orangetext:`面板`"
 
 #: ../../source/users/interface/elements.rst:23
 msgid ":redtext:`Project tabs bar`"
@@ -56,7 +56,7 @@ msgstr ":redtext:`项目标签栏`"
 
 #: ../../source/users/interface/elements.rst:24
 msgid ":lilactext:`Folio tabs bar`"
-msgstr ":lilactext:`Folio 标签栏`"
+msgstr ":lilactext:`图幅标签栏`"
 
 #: ../../source/users/interface/elements.rst:25
 msgid ":browntext:`Help bar`"
@@ -68,4 +68,4 @@ msgstr ":pinktext:`搜索菜单`"
 
 #: ../../source/users/interface/elements.rst:31
 msgid "Figure: QElectroTech main window"
-msgstr "图：QElectroTech主窗口"
+msgstr "图：QElectroTech 主窗口"

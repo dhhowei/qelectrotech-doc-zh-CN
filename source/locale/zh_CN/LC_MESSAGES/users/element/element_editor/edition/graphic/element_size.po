@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/edition/graphic/element_size.rst:5
 msgid "Change element size"
-msgstr "更改元素大小"
+msgstr "更改元件大小"
 
 #: ../../source/users/element/element_editor/edition/graphic/element_size.rst:7
 msgid ""
@@ -30,46 +30,43 @@ msgid ""
 "symbol from an `element`_. This feature is equivalent to the scale feature "
 "from CAD tools and graphical vector editors."
 msgstr ""
-"QElectroTech 提供了从 `元件 <element_>`_ 中更改图形符号大小的特性，这个特性相当于 CAD 工具和图形向量编辑器的尺度特性。"
+"QElectroTech 提供了更改 `元件 <element_>`_ 图形符号大小的功能。该功能相当于 CAD 工具和矢量图形编辑器中的缩放功能。"
 
 #: ../../source/users/element/element_editor/edition/graphic/element_size.rst:12
 msgid ""
 "QElectroTech version 0.7, does not provide the option of defining the "
 "proportion to scale."
-msgstr "QElectroTech版本0.7,没有提供定义比例与规模的选项。"
+msgstr "QElectroTech 0.7 版本未提供定义缩放比例的选项。"
 
 #: ../../source/users/element/element_editor/edition/graphic/element_size.rst:15
 msgid "To change the size from element symbol:"
-msgstr "要改变元素符号的大小："
+msgstr "更改元件符号的大小："
 
 #: ../../source/users/element/element_editor/edition/graphic/element_size.rst:17
 msgid "Open the `element`_ desired using the `element editor`_."
-msgstr "打开 `元件 <element_>`_ 希望使用 `元素编辑器 <element editor_>`_。"
+msgstr "使用 `元件编辑器 <element editor_>`_ 打开所需的 `元件 <element_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/element_size.rst:18
 msgid "`Select all element parts`_ from `workspace`_."
-msgstr ""
-"` 从 `工作空间 <Select all element parts_>`_ 选择全部元素部件 <Select all element "
-"parts_>`_。"
+msgstr "从 `工作区 <workspace_>`_ 中 `选择全部元件部件 <Select all element parts_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/element_size.rst:19
 msgid ""
 "Press one of the control points from the global element symbol rectangle "
 "(green points from the figure)."
-msgstr "从全局元素符号矩形(图中的绿点)按一个控制点。"
+msgstr "按住全局元件符号矩形上的一个控制点（图中的绿色控制点）。"
 
 #: ../../source/users/element/element_editor/edition/graphic/element_size.rst:24
 msgid "Figure: QElectroTech element editor workspace"
-msgstr "图：QElectroTech 元素编辑器工作空间"
+msgstr "图：QElectroTech 元件编辑器工作区"
 
 #: ../../source/users/element/element_editor/edition/graphic/element_size.rst:26
 msgid "Move the point without releasing the left button of the mouse."
-msgstr "移动点而不释放鼠标的左键 。"
+msgstr "在不松开鼠标左键的情况下移动该点。"
 
 #: ../../source/users/element/element_editor/edition/graphic/element_size.rst:27
 msgid ""
 "Once the element symbol has been scaled, `save changes`_ and `close element "
 "editor`_."
 msgstr ""
-"一旦元素符号缩放，`save会改变 <save changes_>`_ 和 `close 元素编辑器 <close element "
-"editor_>`_。"
+"元件符号缩放完成后，`保存更改 <save changes_>`_ 并 `关闭元件编辑器 <close element editor_>`_ 。"

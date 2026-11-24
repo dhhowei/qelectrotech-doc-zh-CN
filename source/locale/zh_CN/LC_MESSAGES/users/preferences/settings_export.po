@@ -28,21 +28,21 @@ msgstr "导出设置"
 msgid ""
 "QElectroTech allows predefining export settings for reducing the working "
 "configuration effort each time that a `project`_ have to be exported."
-msgstr "QElectroTech允许在每次需要输出一个 `项目 <project_>`_ 时，预先定义导出设置以减少工作配置工作。"
+msgstr "QElectroTech 允许预先定义导出设置，以减少每次必须导出 `项目 <project_>`_ 时的配置工作。"
 
 #: ../../source/users/preferences/settings_export.rst:10
 msgid "The default exporting settings which can be chosen are:"
-msgstr "可以选择的默认导出设置为："
+msgstr "可以选择的默认导出设置包括："
 
 #: ../../source/users/preferences/settings_export.rst:12
 msgid "Default target directory."
-msgstr "默认目标目录 。"
+msgstr "默认目标目录。"
 
 #: ../../source/users/preferences/settings_export.rst:13
 msgid ""
 "Default exporting format (**PNG**, **JPEG**, **Bitmap**, **SVG** or "
 "**DXF**)."
-msgstr "默认导出格式 (**PNG**,**JPEG**,**Bitmap**,**SVG** 或 **DXF**)."
+msgstr "默认导出格式（ **PNG** 、 **JPEG** 、 **Bitmap** 、 **SVG** 或 **DXF** ）。"
 
 #: ../../source/users/preferences/settings_export.rst:14
 msgid "Default rendering options:"
@@ -50,7 +50,7 @@ msgstr "默认渲染选项："
 
 #: ../../source/users/preferences/settings_export.rst:15
 msgid "Draw or not borders."
-msgstr "画不画边际。"
+msgstr "是否绘制边框。"
 
 #: ../../source/users/preferences/settings_export.rst:16
 msgid "Title block."
@@ -62,11 +62,11 @@ msgstr "绘制网格。"
 
 #: ../../source/users/preferences/settings_export.rst:18
 msgid "Draw terminals."
-msgstr "绘制终端。"
+msgstr "绘制端子。"
 
 #: ../../source/users/preferences/settings_export.rst:19
 msgid "Keep conductor colors or monochrome."
-msgstr "保持导体颜色或单色。"
+msgstr "保留导体颜色或使用单色。"
 
 #: ../../source/users/preferences/settings_export.rst:21
 msgid "To define default export settings:"
@@ -74,15 +74,15 @@ msgstr "要定义默认导出设置："
 
 #: ../../source/users/preferences/settings_export.rst:23
 msgid "`Display`_ QElectroTech settings PopUP window."
-msgstr "`显示 <Display_>`_ QElectroTech设置 PopUP 窗口。"
+msgstr "`显示 <Display_>`_ QElectroTech 设置弹出窗口。"
 
 #: ../../source/users/preferences/settings_export.rst:24
 msgid "Go to **Export** section."
-msgstr "转到 **出口** 段。"
+msgstr "转到 **导出** 部分。"
 
 #: ../../source/users/preferences/settings_export.rst:25
 msgid "Select the desired setting values for each field."
-msgstr "选择每个字段想要的设置值。"
+msgstr "为每个字段选择所需的设置值。"
 
 #: ../../source/users/preferences/settings_export.rst:26
 msgid "Press **OK** button to save the configuration changes."
@@ -96,4 +96,4 @@ msgstr "图：QElectroTech 导出设置"
 msgid ""
 "For more information about QElectroTech export options, refer to `export`_ "
 "section."
-msgstr "关于QElectroTech出口选项的更多信息，请参见 `导出 <export_>`_ 节。"
+msgstr "有关 QElectroTech 导出选项的更多信息，请参阅 `导出 <export_>`_ 一节。"

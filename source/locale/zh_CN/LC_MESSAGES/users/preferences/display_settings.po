@@ -30,9 +30,9 @@ msgid ""
 "`appearance`_, `export`_ and `printing`_ settings, pre-define `new project`_"
 " settings, `element`_ collection paths, etc."
 msgstr ""
-"QElectroTech允许用户自定义许多设置：`语言 <language_>`_，`外观 <appearance_>`_，`导出 "
-"<export_>`_ 和 `打印 <printing_>`_ 设置，预定义 `新项目 <new project_>`_ 设置，`元件 "
-"<element_>`_ 收藏路径等。"
+"QElectroTech 允许用户自定义许多设置： `语言 <language_>`_ 、 `外观 <appearance_>`_ 、 `导出 "
+"<export_>`_ 和 `打印 <printing_>`_ 设置，预定义 `新项目 <new project_>`_ 设置，以及 `元件 "
+"<element_>`_ 集合路径等。"
 
 #: ../../source/users/preferences/display_settings.rst:10
 msgid "To display QElectroTech settings:"

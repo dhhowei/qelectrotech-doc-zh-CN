@@ -31,21 +31,21 @@ msgid ""
 " user avoiding to define many `project properties`_ each time that the user "
 "`creates new projects`_."
 msgstr ""
-"QElectroTech 从应用程序中提供了从数据中存储一些 `项目属性 <project properties_>`_ "
-"由用户预先定义的选项。该特性允许用户每次在用户 `创建新项目 <project properties_>`_ 时避免定义许多 `项目属性 "
-"<creates new projects_>`_ 。"
+"QElectroTech 提供了将用户预定义的一些 `项目属性 <project properties_>`_ "
+"存储到应用程序数据中的选项。此功能让用户每次 `创建新项目 <creates new projects_>`_ 时，无需重复定义大量 `项目属性 "
+"<project properties_>`_ 。"
 
 #: ../../source/users/preferences/new_project/cross_references_settings.rst:11
 msgid ""
 "The **Cross references** tab from **New project** settings section allows "
 "pre-defining some `cross references properties`_:"
 msgstr ""
-"**交叉引用** 选项卡来自 **新项目** 设置部分允许预先定义一些 `交叉引用属性 <cross references properties_>`_"
-" :"
+"**新项目** 设置部分中的 **交叉引用** 标签页允许预先定义一些 `交叉引用属性 <cross references properties_>`_"
+" ："
 
 #: ../../source/users/preferences/new_project/cross_references_settings.rst:14
 msgid "Cross references type (Coil, organ of protection or Switch/button)."
-msgstr "交叉引用类型(油，保护机关或开关/按钮)."
+msgstr "交叉引用类型（线圈、保护元件或开关/按钮）。"
 
 #: ../../source/users/preferences/new_project/cross_references_settings.rst:15
 msgid "Cross references label"
@@ -55,7 +55,7 @@ msgstr "交叉引用标签"
 msgid ""
 "Representation position cross references label (Under the label of the "
 "element or Footer)."
-msgstr "表示位置交叉引用标签(在元素或脚的标签下)."
+msgstr "交叉引用标签的显示位置（元件标签下方或页脚）。"
 
 #: ../../source/users/preferences/new_project/cross_references_settings.rst:21
 msgid "Figure: QElectroTech New project cross references settings"
@@ -67,7 +67,7 @@ msgstr "要定义交叉引用设置："
 
 #: ../../source/users/preferences/new_project/cross_references_settings.rst:25
 msgid "`Display`_ QElectroTech settings PopUP window."
-msgstr "`显示 <Display_>`_ QElectroTech设置 PopUP 窗口。"
+msgstr "`显示 <Display_>`_ QElectroTech 设置弹出窗口。"
 
 #: ../../source/users/preferences/new_project/cross_references_settings.rst:26
 msgid "Go to **New project** section."
@@ -75,17 +75,17 @@ msgstr "转到 **新项目** 部分。"
 
 #: ../../source/users/preferences/new_project/cross_references_settings.rst:27
 msgid "Go to **Cross references** tab."
-msgstr "转到 **引用** 标签 。"
+msgstr "转到 **交叉引用** 标签页。"
 
 #: ../../source/users/preferences/new_project/cross_references_settings.rst:28
 msgid "Define the desired parameters for each field."
-msgstr "定义每个字段的理想参数。"
+msgstr "为每个字段设置所需的参数。"
 
 #: ../../source/users/preferences/new_project/cross_references_settings.rst:29
 msgid ""
 "Press **OK** button to save the configuration changes and close settings "
 "PopUP window."
-msgstr "按 **OK** 按钮保存配置更改和关闭设置 PopUP 窗口。"
+msgstr "按 **OK** 按钮保存配置更改并关闭设置弹出窗口。"
 
 #: ../../source/users/preferences/new_project/cross_references_settings.rst:33
 msgid ""
@@ -94,6 +94,6 @@ msgid ""
 "`project properties`_. The cross references properties can be found at "
 "`Cross references tab`_ tab from `New folio`_ section."
 msgstr ""
-"在 QElectroTech 设置中定义的所有预定义的交叉引用属性 PopUP 窗口将在 `项目创建 <project creation_>`_ "
-"项目属性 `项目属性 <project properties_>`_ 中自动定义。交叉引用属性可以在 `Cross 引用标签 <Cross "
-"references tab_>`_ 标签中找到，来自 `节的新 folio <New folio_>`_ 。"
+"在 QElectroTech 设置弹出窗口中预定义的所有交叉引用属性，都会在 `项目创建 <project creation_>`_ 时自动填入 "
+"`项目属性 <project properties_>`_ 。交叉引用属性可在 `新建图幅 <New folio_>`_ 部分的 `交叉引用标签页 "
+"<Cross references tab_>`_ 中找到。"

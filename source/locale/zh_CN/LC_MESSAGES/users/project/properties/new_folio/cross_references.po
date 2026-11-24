@@ -32,16 +32,16 @@ msgid ""
 "display automatically at the `workspace`_  information from the `Master`_ or"
 " `Slave`_ linked element."
 msgstr ""
-"使用 `Master <Master_>`_ 和 `Slave <Slave_>`_ 元素的主要优点在于，可以在 `元素 <cross "
-"references (links)_>`_ 之间创建 `元件 <elements_>`_。在 `交叉引用定义 <cross references "
-"definition_>`_ 的情况下，QelectroTech允许您在 `工作区 <workspace_>`_ 或 `Slave "
-"<Master_>`_ 链接元素的 `工作空间 <Slave_>`_ 信息中自动显示。"
+"使用 `主元件 <Master_>`_ 和 `从元件 <Slave_>`_ 的主要优点在于，可以在 `元件 <elements_>`_ 之间创建 "
+"`交叉引用（链接） <cross references (links)_>`_ 。在 `交叉引用定义 <cross references "
+"definition_>`_ 的情况下，QElectroTech 允许在 `工作区 <workspace_>`_ 中自动显示来自所链接的 `主元件 "
+"<Master_>`_ 或 `从元件 <Slave_>`_ 的信息。"
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:12
 msgid ""
 "The definition or cross references properties inside a project can be "
 "customized by the user at `project properties`_."
-msgstr "项目内部的定义或交叉引用属性可由用户在 `项目属性 <project properties_>`_ 上定制。"
+msgstr "项目中的交叉引用定义或属性可由用户在 `项目属性 <project properties_>`_ 中自定义。"
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:17
 msgid ""
@@ -50,46 +50,46 @@ msgid ""
 "some `cross references properties`_ from `project`_ to `project`_, please "
 "refers to the `QElectroTech cross references settings`_ section."
 msgstr ""
-"QElectroTech 允许自动定义 `交叉引用属性 <cross references properties_>`_ 期间 `项目创建 "
-"<project creation_>`_。关于如何使某些标准标准化的更多信息 `交叉引用属性 <cross references "
-"properties_>`_ 从 `项目 <project_>`_ 改为 `项目 <project_>`_，请参考 `QElectroTech "
-"交叉引用设置 <QElectroTech cross references settings_>`_ 节。"
+"QElectroTech 允许在 `项目创建 <project creation_>`_ 期间自动定义 `交叉引用属性 <cross "
+"references properties_>`_ 。有关如何让某些 `交叉引用属性 <cross references properties_>`_ "
+"从一个 `项目 <project_>`_ 到另一个 `项目 <project_>`_ 保持统一的更多信息，请参阅 `QElectroTech "
+"交叉引用设置 <QElectroTech cross references settings_>`_ 一节。"
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:21
 msgid ""
 "The **Cross references** tab from **New folio** settings section allows pre-"
 "defining some `cross references properties`_:"
 msgstr ""
-"**Cross 引用** 选项卡来自 **新folio** 设置部分允许预先定义一些 `交叉引用属性 <cross references "
-"properties_>`_ :"
+"**新建图幅** 设置部分中的 **交叉引用** 标签页允许预先定义一些 `交叉引用属性 <cross references "
+"properties_>`_ ："
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:24
 msgid ""
 "Cross references `Master element`_ type (Coil, organ of protection or "
 "Switch/button)."
-msgstr "交叉引用 `主元件 <Master element_>`_ 类型(油，保护机关或开关/按钮)."
+msgstr "交叉引用 `主元件 <Master element_>`_ 类型（线圈、保护元件或开关/按钮）。"
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:25
 msgid ""
 "Cross references label (Master and slave cross references label to be "
 "display at the `workspace`_)"
-msgstr "交叉引用标签( 在 `工作区 <workspace_>`_)"
+msgstr "交叉引用标签（要在 `工作区 <workspace_>`_ 中显示的主元件和从元件交叉引用标签）"
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:26
 msgid ""
 "Representation position from the cross references label (Under the element "
 "label or Footer)."
-msgstr "从交叉引用标签(元素标签或脚下)中表示位置。"
+msgstr "交叉引用标签的显示位置（元件标签下方或页脚）。"
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:27
 msgid "Display option from `cross references`_"
-msgstr "从 `显示引用 <cross references_>`_"
+msgstr "`交叉引用 <cross references_>`_ 的显示选项"
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:31
 msgid ""
 "The cross reference label can be created using the general variables from "
 "`Master`_ and `Slave`_ elements."
-msgstr "交叉引用标签可以使用 `Master <Master_>`_ 和 `Slave <Slave_>`_ 元素的一般变量创建。"
+msgstr "交叉引用标签可以使用 `主元件 <Master_>`_ 和 `从元件 <Slave_>`_ 的通用变量来创建。"
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:36
 msgid "Figure: Project cross referencing properties window"
@@ -101,25 +101,25 @@ msgstr "要定义交叉引用设置："
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:40
 msgid "`Display`_ project properties PopUP window."
-msgstr "`显示 <Display_>`_ 项目属性 PopUP 窗口。"
+msgstr "`显示 <Display_>`_ 项目属性弹出窗口。"
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:41
 msgid "Go to **New folio** section."
-msgstr "转到 **新folio** 部分。"
+msgstr "转到 **新建图幅** 部分。"
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:42
 msgid "Go to **Cross references** tab."
-msgstr "转到 **引用** 标签 。"
+msgstr "转到 **交叉引用** 标签页。"
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:43
 msgid "Define the desired parameters for each field."
-msgstr "定义每个字段的理想参数。"
+msgstr "为每个字段设置所需的参数。"
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:44
 msgid ""
 "Press **OK** button to save the configuration changes and close project "
 "properties PopUP window."
-msgstr "按 **OK** 按钮保存配置更改和关闭项目属性 PopUP 窗口。"
+msgstr "按 **OK** 按钮保存配置更改并关闭项目属性弹出窗口。"
 
 #: ../../source/users/project/properties/new_folio/cross_references.rst:48
 msgid ""
@@ -128,6 +128,6 @@ msgid ""
 "`project properties`_. The cross references properties can be found at "
 "`Cross references tab`_ tab from `New folio`_ section."
 msgstr ""
-"在 QElectroTech 设置中定义的所有预定义的交叉引用属性 PopUP 窗口将在 `项目创建 <project creation_>`_ "
-"项目属性 `项目属性 <project properties_>`_ 中自动定义。交叉引用属性可以在 `Cross 引用标签 <Cross "
-"references tab_>`_ 标签中找到，来自 `节的新 folio <New folio_>`_ 。"
+"在 QElectroTech 设置弹出窗口中预定义的所有交叉引用属性，都会在 `项目创建 <project creation_>`_ 时自动填入 "
+"`项目属性 <project properties_>`_ 。交叉引用属性可在 `新建图幅 <New folio_>`_ 部分的 `交叉引用标签页 "
+"<Cross references tab_>`_ 中找到。"

@@ -30,29 +30,30 @@ msgid ""
 "field`_, `basic object`_ and `picture`_) which has already been `copied`_ or"
 " `cut`_ at the same `folio`_ or at different `folio`_ and/or `project`_."
 msgstr ""
-"QElectroTech允许粘贴对象(`元件 <element_>`_，`导体 <conductor_>`_，`文本字段 <text "
-"field_>`_，`基本对象 <basic object_>`_ 和 `图片 <picture_>`_) 已经 `复制 <copied_>`_ 或 "
-"`剪切 <cut_>`_ 同为 `图幅 <folio_>`_ 或不同地点 `图幅 <folio_>`_ 和(或) `项目 <project_>`_。"
+"QElectroTech 允许粘贴已 `复制 <copied_>`_ 或 `剪切 <cut_>`_ 的对象（`元件 <element_>`_ 、`导体 "
+"<conductor_>`_ 、`文本字段 <text field_>`_ 、`基本对象 <basic object_>`_ 和 `图片 "
+"<picture_>`_ ），可将其粘贴到同一个 `图幅 <folio_>`_ 或不同的 `图幅 <folio_>`_ 和/或 `项目 "
+"<project_>`_ 中。"
 
 #: ../../source/users/schema/paste.rst:13
 msgid ""
 "Multiples objects can be pasted at the same time `copying`_ or `cutting`_ "
 "multiple objects."
-msgstr "多个对象可以同时粘贴 `复制 <copying_>`_ 或 `剪切 <cutting_>`_ 多个对象。"
+msgstr "可以通过 `复制 <copying_>`_ 或 `剪切 <cutting_>`_ 多个对象来同时粘贴多个对象。"
 
 #: ../../source/users/schema/paste.rst:17
 msgid ""
 "The `element`_ would suffer data losses if the intention is to paste it at "
 "different `project`_."
-msgstr "如果打算用不同的 `元件 <element_>`_ 粘贴数据，则 `项目 <project_>`_ 将遭受数据损失。"
+msgstr "如果打算将 `元件 <element_>`_ 粘贴到其他 `项目 <project_>`_ ，该元件可能会出现数据丢失。"
 
 #: ../../source/users/schema/paste.rst:19
 msgid ""
 "Pasting objects can be done from `menu bar`_, `toolbar`_, by right click at "
 "the `workspace`_ and using the corresponding keyboard shortcut."
 msgstr ""
-"粘贴对象可以从 `菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_ 中通过右键点击 `工作区 <workspace_>`_ "
-"并使用相应的键盘快捷键完成。"
+"粘贴对象可以通过 `菜单栏 <menu bar_>`_ 、`工具栏 <toolbar_>`_ 、在 `工作区 <workspace_>`_ "
+"中右键单击以及相应的键盘快捷键完成。"
 
 #: ../../source/users/schema/paste.rst:23
 msgid "Paste object from menu bar"
@@ -63,7 +64,8 @@ msgid ""
 "Select **Edit > Paste** menu item to paste at the active `folio`_ an object "
 "`copied`_ or `cut`_ previously."
 msgstr ""
-"选择 **编辑 > 粘贴** 菜单项在活动 `图幅 <folio_>`_ 上粘贴对象 `复制 <copied_>`_ 或 `剪切 <cut_>`_ 。"
+"选择 **编辑 > 粘贴** 菜单项，将之前 `复制 <copied_>`_ 或 `剪切 <cut_>`_ 的对象粘贴到当前 `图幅 "
+"<folio_>`_ 。"
 
 #: ../../source/users/schema/paste.rst:30
 msgid "Figure: QElectroTech edit menu"
@@ -78,37 +80,37 @@ msgid ""
 "Select the icon |edit-paste| from `toolbar`_ to paste at the active `folio`_"
 " an object `copied`_ or `cut`_ previously."
 msgstr ""
-"从 `工具栏 <toolbar_>`_ 选择图标 |edit-paste| 在活动 `图幅 <folio_>`_ 上粘贴一个对象 `复制 "
-"<copied_>`_ 或 `剪切 <cut_>`_ 。"
+"从 `工具栏 <toolbar_>`_ 中选择 |edit-paste| 图标，将之前 `复制 <copied_>`_ 或 `剪切 <cut_>`_ "
+"的对象粘贴到当前 `图幅 <folio_>`_ 。"
 
 #: ../../source/users/schema/paste.rst:37
 msgid "edit-paste"
-msgstr "编辑-粘贴"
+msgstr "粘贴图标"
 
 #: ../../source/users/schema/paste.rst:41
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**."
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 工具** 将其显示出来。"
 
 #: ../../source/users/schema/paste.rst:44
 msgid "Paste object by right click"
-msgstr "右键粘贴对象"
+msgstr "通过右键单击粘贴对象"
 
 #: ../../source/users/schema/paste.rst:46
 msgid ""
 "Right click at the `workspace`_ area where the object should be pasted."
-msgstr "在 `工作区 <workspace_>`_ 区域右键单击，该物体应当粘贴。"
+msgstr "在要粘贴对象的 `工作区 <workspace_>`_ 区域右键单击。"
 
 #: ../../source/users/schema/paste.rst:47
 msgid ""
 "Select the option **Paste Here** to paste an object `copied`_ or `cut`_ "
 "previously."
-msgstr "选择选项 **Paste Here** 粘贴一个对象 `复制 <copied_>`_ 或 `剪切 <cut_>`_ 。"
+msgstr "选择 **在此处粘贴** 选项，粘贴之前 `复制 <copied_>`_ 或 `剪切 <cut_>`_ 的对象。"
 
 #: ../../source/users/schema/paste.rst:52
 msgid "Figure: QElectroTech right click PopUP window"
-msgstr "图：右键点击 PopUP 窗口的QElectroTech"
+msgstr "图：QElectroTech 右键单击弹出窗口"
 
 #: ../../source/users/schema/paste.rst:55
 msgid "Paste object using keyboard shortcut"
@@ -118,17 +120,17 @@ msgstr "使用键盘快捷键粘贴对象"
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/schema/paste.rst:59
 msgid ""
 "Press ``Ctrl + v`` to paste at the active `folio`_ an object `copied`_ or "
 "`cut`_ previously."
 msgstr ""
-"按 ``Ctrl + v`` 在活动 `图幅 <folio_>`_ 粘贴一个对象 `复制 <copied_>`_ 或 `剪切 <cut_>`_ 。"
+"按 ``Ctrl + v`` 将之前 `复制 <copied_>`_ 或 `剪切 <cut_>`_ 的对象粘贴到当前 `图幅 <folio_>`_ 。"
 
 #: ../../source/users/schema/paste.rst:63
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "关于 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

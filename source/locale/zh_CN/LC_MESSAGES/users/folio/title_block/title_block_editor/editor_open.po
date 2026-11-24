@@ -28,7 +28,7 @@ msgstr "打开图框编辑器"
 msgid ""
 "QElectroTech allows displaying the title block editor by one of the "
 "following actions:"
-msgstr "QElectroTech 允许通过下列动作之一显示图框编辑器："
+msgstr "QElectroTech 允许通过以下操作之一显示图框编辑器："
 
 #: ../../source/users/folio/title_block/title_block_editor/editor_open.rst:9
 msgid "`Create new title block`_"

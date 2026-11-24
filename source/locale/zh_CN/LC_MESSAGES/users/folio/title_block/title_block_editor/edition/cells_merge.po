@@ -29,16 +29,16 @@ msgid ""
 "QElectroTech `title block editor`_ allows merging `cells`_ from `menu bar`_,"
 " `toolbar`_ and using the corresponding keyboard shortcut."
 msgstr ""
-"QElectroTech `图框编辑器 <title block editor_>`_ 允许将 `cells <cells_>`_ 从 `菜单栏 "
-"<menu bar_>`_，`工具栏 <toolbar_>`_ 合并，并使用相应的键盘快捷键。"
+"QElectroTech `图框编辑器 <title block editor_>`_ 允许通过 `菜单栏 <menu bar_>`_ 、`工具栏 "
+"<toolbar_>`_ 以及相应的键盘快捷键来合并 `单元格 <cells_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/cells_merge.rst:10
 msgid ""
 "QElectroTech has no restrictions merging `cells`_, QElectroTech allows "
 "merging `cells`_ from same `column`_ and/or `row`_."
 msgstr ""
-"QElectroTech没有合并 `cells <cells_>`_ 的限制，QEctroTech允许从相同的 `栏 <cells_>`_ 和/或 "
-"`row <column_>`_ 合并 `cells <row_>`_。"
+"QElectroTech 对合并 `单元格 <cells_>`_ 没有限制，可以合并同一 `列 <column_>`_ 和/或 `行 <row_>`_ "
+"中的 `单元格 <cells_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/cells_merge.rst:14
 msgid "Merge cells from menu bar"
@@ -53,15 +53,15 @@ msgstr "选择应当合并的 `单元格 <cells_>`_ 。"
 #: ../../source/users/folio/title_block/title_block_editor/edition/cells_merge.rst:17
 msgid ""
 "Select **Edit > Merge cells** menu item to merge the selected `cells`_."
-msgstr "选择 **Edit > 合并单元格** 菜单项以合并选定的 `单元格 <cells_>`_ 。"
+msgstr "选择 **编辑 > 合并单元格** 菜单项以合并选定的 `单元格 <cells_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/cells_merge.rst:22
 msgid "Figure: QElectroTech title block editor, edit menu"
-msgstr "图：QElectroTech图框编辑器，编辑菜单"
+msgstr "图：QElectroTech 图框编辑器，编辑菜单"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/cells_merge.rst:26
 msgid "To select more than one `cell`_, press **Ctrl** from keyboard."
-msgstr "要选择一个以上的 `cell <cell_>`_，请按 **Ctrl** 从键盘中选择。"
+msgstr "要选择多个 `单元格 <cell_>`_ ，请按住键盘上的 **Ctrl** 键。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/cells_merge.rst:29
 msgid "Merge cells from toolbar"
@@ -70,17 +70,17 @@ msgstr "从工具栏合并单元格"
 #: ../../source/users/folio/title_block/title_block_editor/edition/cells_merge.rst:32
 msgid ""
 "Select the icon |icon_merge| from `toolbar`_ to merge the selected `cells`_."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |icon_merge| 合并选定的 `单元格 <cells_>`_ 。"
+msgstr "从 `工具栏 <toolbar_>`_ 中选择图标 |icon_merge| 以合并选定的 `单元格 <cells_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/cells_merge.rst:38
 msgid "icon_merge"
-msgstr "图标( E)"
+msgstr "合并图标"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/cells_merge.rst:36
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Edit**"
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 编辑** 显示"
+msgstr "如果未显示 `工具栏 <toolbar_>`_ ，可通过 **设置 > 显示 > 编辑** 将其显示。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/cells_merge.rst:41
 msgid "Merge cells using keyboard shortcut"
@@ -90,14 +90,14 @@ msgstr "使用键盘快捷键合并单元格"
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/cells_merge.rst:46
 msgid "Press ``Ctrl + j`` to merge the selected `cells`_."
-msgstr "按 ``Ctrl + j`` 合并选定的 `单元格 <cells_>`_。"
+msgstr "按 ``Ctrl + j`` 可合并选定的 `单元格 <cells_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/cells_merge.rst:50
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

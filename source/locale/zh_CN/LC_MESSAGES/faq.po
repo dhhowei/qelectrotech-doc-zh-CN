@@ -26,24 +26,24 @@ msgstr "常见问题"
 
 #: ../../source/faq.rst:8
 msgid "What is QET?"
-msgstr "问题是什么?"
+msgstr "QET 是什么？"
 
 #: ../../source/faq.rst:10
 msgid ""
 "**QET** (QElectroTech) is a cross-platform free and open-source (FOSS) tool "
 "allowing you to create electrical, hydraulic and pneumatic drawings."
-msgstr "**QET** (QElectroTech)是一种跨平台自由开源(FOSS)工具，允许您创建电气，液压和肺动画。"
+msgstr "**QET** (QElectroTech) 是一款跨平台、自由且开源（FOSS）的工具，可用于绘制电气、液压和气动图纸。"
 
 #: ../../source/faq.rst:11
 msgid ""
 "These drawings are essential tools for Electricians and Electrical Engineers"
 " alike, allowing them to easily identify components and connections of a "
 "electrical circuit."
-msgstr "这些图纸是电气师和电气项目师的基本工具，使他们能够很容易地识别电路的组件和连接。"
+msgstr "这类图纸是电工和电气工程师的重要工具，可帮助他们轻松识别电气回路中的元件与连接。"
 
 #: ../../source/faq.rst:14
 msgid "Why does </feature> isn't yet implemented?"
-msgstr "为什么</feature>还没有执行?"
+msgstr "为什么 </feature> 尚未实现？"
 
 #: ../../source/faq.rst:16
 msgid ""
@@ -52,8 +52,8 @@ msgid ""
 "are a small developer team, we sadly do not have the capacity to implement "
 "every feature that our users propose."
 msgstr ""
-"与专有绘图软件相反，QET是一个爱好项目，由 `电力技术小组 <https://qelectrotech.org/contact.php>`_ "
-"由于我们是一个小型的开发者团队，我们可悲地没有能力实施我们用户提出的每一个功能。"
+"与专有绘图软件不同，QET 是由 `QElectroTech 团队 <https://qelectrotech.org/contact.php>`_ "
+"开发的业余项目。由于我们只是一个小型开发团队，很遗憾没有能力实现用户提出的每一项功能。"
 
 #: ../../source/faq.rst:19
 msgid ""
@@ -63,23 +63,23 @@ msgid ""
 "<developer/index>`_ in the documentation explaining you how to setup a dev "
 "environment."
 msgstr ""
-"也就是说，如果你在C编程方面有一些经验的话 `问题T <https://doc.qt.io/>`_ 并且愿意执行QET的功能，请这样做。 `专用条目 "
-"<developer/index>`_ 在文档中解释如何设置一个 dev 环境。"
+"话虽如此，如果你有一定的 C 语言编程经验，或熟悉 `Qt <https://doc.qt.io/>`_，并且愿意为 QET "
+"实现某项功能，欢迎动手。我们欢迎贡献，文档中有一个 `专门章节 <developer/index>`_ 介绍如何搭建开发环境。"
 
 #: ../../source/faq.rst:23
 msgid "How long has QET been in existence?"
-msgstr "QET存在多久了?"
+msgstr "QET 存在多久了？"
 
 #: ../../source/faq.rst:25
 msgid ""
 "The project began in October 2006 in the form of small experiments. However,"
 " due to the development team's other involvement in OSS, the project's time "
 "estimation isn't very precise."
-msgstr "该项目于2006年10月开始以小型实验的形式进行，但由于开发团队的其他参与OSS,该项目的时间估计并不十分精确。"
+msgstr "该项目于 2006 年 10 月以小型实验的形式起步。不过，由于开发团队还参与了其他开源项目，项目的时间估算并不十分精确。"
 
 #: ../../source/faq.rst:29
 msgid "When is the next version of QElectroTech scheduled for release?"
-msgstr "QEelectroTech的下一个版本何时安排发布?."
+msgstr "QElectroTech 的下一个版本计划何时发布？"
 
 #: ../../source/faq.rst:30
 msgid ""
@@ -89,5 +89,5 @@ msgid ""
 " a target date (which would inevitably be missed) for the next release. The "
 "next version of QElectroTech will therefore be released “When it's done.”"
 msgstr ""
-"虽然开源软件的格言之一是“提前发布，经常发布 ” , 但开发团队需要时间在每次发布之前对软件进行微调。 "
-"因此，它甚至不再试图为下一次发布设定一个目标日期(将不可避免地错过),因此，下一个版本的QEElectroTech将“完成之后”发布。"
+"尽管开源软件的口号之一是“尽早发布，频繁发布”，但开发团队会在每次发布前花时间对软件进行打磨。因此，他们甚至不再为下一个版本设定目标日期（那注定会被错过）。所以，QElectroTech"
+" 的下一个版本将在“完成之时”发布。"

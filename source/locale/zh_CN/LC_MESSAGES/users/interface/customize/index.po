@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/interface/customize/index.rst:7
 msgid "GUI customization"
-msgstr "图形用户界面定制"
+msgstr "图形界面自定义"

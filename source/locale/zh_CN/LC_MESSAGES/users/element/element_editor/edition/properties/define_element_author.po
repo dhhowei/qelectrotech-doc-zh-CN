@@ -22,52 +22,51 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/edition/properties/define_element_author.rst:5
 msgid "Define author element information"
-msgstr "定义作者元素信息"
+msgstr "定义元件作者信息"
 
 #: ../../source/users/element/element_editor/edition/properties/define_element_author.rst:8
 msgid "Define author element information from menu bar"
-msgstr "从菜单栏定义作者元素信息"
+msgstr "从菜单栏定义元件作者信息"
 
 #: ../../source/users/element/element_editor/edition/properties/define_element_author.rst:10
 msgid ""
 "Select **Edit > Edit author information** menu item to display the `author "
 "information PopUp window`_."
 msgstr ""
-"选择 **Edit > 编辑作者信息** 菜单项以显示 `作者信息 PopUp 窗口 <author information PopUp "
-"window_>`_。"
+"选择 **编辑 > 编辑作者信息** 菜单项，以显示 `作者信息弹出窗口 <author information PopUp window_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/properties/define_element_author.rst:15
 msgid "Figure: QElectroTech element editor Edit Menu"
-msgstr "图：QElectroTech 元素编辑器编辑菜单"
+msgstr "图：QElectroTech 元件编辑器“编辑”菜单"
 
 #: ../../source/users/element/element_editor/edition/properties/define_element_author.rst:17
 #: ../../source/users/element/element_editor/edition/properties/define_element_author.rst:26
 msgid "Introduce the desired information to the text box."
-msgstr "将想要的信息引入文本框。"
+msgstr "在文本框中输入所需信息。"
 
 #: ../../source/users/element/element_editor/edition/properties/define_element_author.rst:18
 #: ../../source/users/element/element_editor/edition/properties/define_element_author.rst:27
 msgid ""
 "Press the button **OK** to accept and close the `author information PopUp "
 "window`_."
-msgstr "按下按钮 **OK** 接受并关闭 `作者信息弹出窗口 <author information PopUp window_>`_。"
+msgstr "点击 **OK** 按钮以确认并关闭 `作者信息弹出窗口 <author information PopUp window_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/properties/define_element_author.rst:21
 msgid "Define author element information using keyboard shortcut"
-msgstr "使用键盘快捷键定义作者元素信息"
+msgstr "使用快捷键定义元件作者信息"
 
 #: ../../source/users/element/element_editor/edition/properties/define_element_author.rst:23
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 支持使用快捷键来提高工作效率。"
 
 #: ../../source/users/element/element_editor/edition/properties/define_element_author.rst:25
 msgid "Press ``Ctrl + y`` to display the `author information PopUp window`_."
-msgstr "按 ``Ctrl + y`` 显示 `作者信息弹出窗口 <author information PopUp window_>`_。"
+msgstr "按 ``Ctrl + y`` 显示 `作者信息弹出窗口 <author information PopUp window_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/properties/define_element_author.rst:31
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

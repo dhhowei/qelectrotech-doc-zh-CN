@@ -22,14 +22,15 @@ msgstr ""
 
 #: ../../source/users/element/cross_reference/index.rst:5
 msgid "Element cross reference"
-msgstr "元素交叉引用"
+msgstr "元件交叉引用"
 
 #: ../../source/users/element/cross_reference/index.rst:7
 msgid ""
 "E-CAD software like QElectroTech allow creating projects where different "
 "type of subsystems or/and disciplines are combined. This means that one "
 "device can be represented many times."
-msgstr "QElectroTech 等 E-CAD 软件允许创建不同类型子系统或/和学科合并的项目，这意味着一个设备可以被多次代表。"
+msgstr ""
+"像 QElectroTech 这样的 E-CAD 软件允许创建将不同类型的子系统或/和学科组合在一起的项目。这意味着一个设备可以被表示多次。"
 
 #: ../../source/users/element/cross_reference/index.rst:10
 msgid ""
@@ -38,13 +39,13 @@ msgid ""
 "power contactor is represented at the control command system and the "
 "electrical contactors are represented at the electrical power system."
 msgstr ""
-"合并子系统的一个例子是将指令系统和动力系统合并在一起的电气控制系统，来自一个动力接触器的控制线圈在控制指令系统中被代表，电气接触器在电力系统中被代表。"
+"组合子系统的一个例子是电气控制系统，其中指令系统与动力系统组合在一起。动力接触器的控制线圈在控制指令系统中表示，而电气接触器在电力系统中表示。"
 
 #: ../../source/users/element/cross_reference/index.rst:14
 msgid ""
 "An example of combining different disciplines is the representation of an "
 "hydraulic valve at the electrical schema and at the hydraulic schema."
-msgstr "将不同学科结合起来的一个例子是，在电图和液压图中代表液压阀。"
+msgstr "组合不同学科的一个例子是：在电气原理图和液压原理图中表示同一个液压阀。"
 
 #: ../../source/users/element/cross_reference/index.rst:17
 msgid ""
@@ -55,5 +56,6 @@ msgid ""
 "later on will be linked. The link between master and slave elements is known"
 " at QElectroTech as cross reference."
 msgstr ""
-"前面提到的例子有：项目中引入的不同QElectroTech元素代表同一设备，后来在Bill Of "
-"Materials(BOM)中必须列为一个项目，因此，QEctroTech允许定义Master和Slave元素，这些元素以后会被连接起来。Master和Slave元素之间的联系在QEctroTech中被称为交叉参考。"
+"前面提到的例子都是这样的情况：项目中引入的不同 QElectroTech "
+"元件表示同一设备，之后必须将它们作为一项列入物料清单（BOM）。因此，QElectroTech "
+"允许定义主元件和从元件，之后再将其关联起来。主元件与从元件之间的关联在 QElectroTech 中称为交叉引用。"

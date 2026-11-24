@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/element/collection/user_collection.rst:5
 msgid "User collection"
-msgstr "用户收藏"
+msgstr "用户集合"
 
 #: ../../source/users/element/collection/user_collection.rst:7
 msgid ""
@@ -30,27 +30,28 @@ msgid ""
 " and organize `elements`_, the user is allowed to read and edit the "
 "collection. The actions allowed at the user collection are:"
 msgstr ""
-"用户库是用户可以创建和组织 `元件 <elements_>`_ 的QEelectroTech集合，允许用户阅读和编辑集合。用户库允许的行动有："
+"用户集合是用户可以在其中创建和组织 `元件 <elements_>`_ 的 QElectroTech "
+"集合，用户有权读取和编辑该集合。用户集合中允许的操作包括："
 
 #: ../../source/users/element/collection/user_collection.rst:10
 msgid "Add new elements."
-msgstr "添加新元素。"
+msgstr "添加新元件。"
 
 #: ../../source/users/element/collection/user_collection.rst:11
 msgid "Edit elements from the collection."
-msgstr "从收藏中编辑元素 。"
+msgstr "编辑集合中的元件。"
 
 #: ../../source/users/element/collection/user_collection.rst:12
 msgid "Delete elements from the collection."
-msgstr "从收藏中删除元素。"
+msgstr "删除集合中的元件。"
 
 #: ../../source/users/element/collection/user_collection.rst:13
 msgid "Create new categories / folders."
-msgstr "创建新类别/ 文件夹 。"
+msgstr "创建新类别/文件夹。"
 
 #: ../../source/users/element/collection/user_collection.rst:14
 msgid "Create new sub-categories / sub-folders."
-msgstr "创建新的子类别/子文件夹 。"
+msgstr "创建新的子类别/子文件夹。"
 
 #: ../../source/users/element/collection/user_collection.rst:15
 msgid "Delete categories or sub-categories."
@@ -58,8 +59,8 @@ msgstr "删除类别或子类别。"
 
 #: ../../source/users/element/collection/user_collection.rst:16
 msgid "Re-organize the collection."
-msgstr "重新组织藏书。"
+msgstr "重新组织集合。"
 
 #: ../../source/users/element/collection/user_collection.rst:21
 msgid "Figure: Example user collection tree at collection panel"
-msgstr "图：收藏面板上的用户收藏树示例"
+msgstr "图：集合面板中的用户集合树示例"

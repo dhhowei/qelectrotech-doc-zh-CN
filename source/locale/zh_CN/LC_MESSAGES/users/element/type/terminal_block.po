@@ -28,18 +28,18 @@ msgstr "端子排"
 msgid ""
 "Element which represents a terminal block, connection between two cables "
 "from the same potential."
-msgstr "代表一个终端区块的元素连接两个电缆从同样的潜力。"
+msgstr "表示端子排的元件，用于连接同一电位下的两根电缆。"
 
 #: ../../source/users/element/type/terminal_block.rst:12
 msgid "Figure: QElectroTech Terminal block"
-msgstr "图：QElectroTech 终端区块"
+msgstr "图：QElectroTech 端子排"
 
 #: ../../source/users/element/type/terminal_block.rst:14
 msgid ""
 "For terminal block element exist two type of variables, the general "
 "variables that are common for all type of elements and managed internally by"
 " QElectroTech, and the specific variables for this type of element."
-msgstr "对于端子排元素，存在两种类型的变量，即所有类型元素常见并由QEelectroTech内部管理的一般变量，以及这类元素的具体变量。"
+msgstr "端子排元件有两种类型的变量：所有类型元件通用且由 QElectroTech 内部管理的一般变量，以及此类元件专用的特定变量。"
 
 #: ../../source/users/element/type/terminal_block.rst:18
 msgid ""
@@ -48,14 +48,16 @@ msgid ""
 " variables. QElectroTech allows only displaying variables at dynamic texts "
 "and define value of the specific variables."
 msgstr ""
-"QElectroTech允许在 **选择属性** "
-"面板上定义该类元素的变量值。QEctroTech不允许定义新的变量。QEctroTech只允许在动态文本中显示变量，并定义特定变量的值。"
+"QElectroTech 允许在 **Selection properties** 面板中定义此类元件的变量值。QElectroTech "
+"不允许定义新变量。QElectroTech 仅允许在动态文本中显示变量，并定义特定变量的值。"
 
 #: ../../source/users/element/type/terminal_block.rst:24
 msgid ""
 "If the Selection properties panel is not displayed, it can be displayed from"
 " **Settings > Display > Selection properties**."
-msgstr "如果选择属性面板未显示，可以从 **设置 > 显示 > 选择属性** 显示。"
+msgstr ""
+"如果 Selection properties 面板未显示，可以从 **Settings > Display > Selection "
+"properties** 中显示。"
 
 #: ../../source/users/element/type/terminal_block.rst:26
 msgid "General variables"
@@ -63,37 +65,37 @@ msgstr "一般变量"
 
 #: ../../source/users/element/type/terminal_block.rst:28
 msgid "**% {F}**: Label from the folio where the element can be found"
-msgstr "**% {F}**:从可找到元素的圆柱处划出标签"
+msgstr "**% {F}**: 元件所在图幅的标签"
 
 #: ../../source/users/element/type/terminal_block.rst:29
 msgid "**% {f}**: Number from the folio where the element can be found"
-msgstr "**% {f}**:可以找到元素的光圈中的数字"
+msgstr "**% {f}**: 元件所在图幅的编号"
 
 #: ../../source/users/element/type/terminal_block.rst:30
 msgid ""
 "**% {M}**: Plant variable from the folio where the element can be found"
-msgstr "**% {M}**:可以找到元素的圆柱形的植物变量"
+msgstr "**% {M}**: 元件所在图幅的设备变量"
 
 #: ../../source/users/element/type/terminal_block.rst:31
 msgid ""
 "**% {LM}**: Location variable of the folio where the element can be found"
-msgstr "**% {LM}**:可以找到元素的光圈位置变量"
+msgstr "**% {LM}**: 元件所在图幅的位置变量"
 
 #: ../../source/users/element/type/terminal_block.rst:32
 msgid ""
 "**% {l}**: Folio line number from the workspace where the element can be "
 "found"
-msgstr "**% {l}**:可以找到元素的工作空间的Folio行号"
+msgstr "**% {l}**: 元件所在工作区中图幅的行号"
 
 #: ../../source/users/element/type/terminal_block.rst:33
 msgid ""
 "**% {c}**: Folio column number from the workspace where the element can be "
 "found"
-msgstr "**% {c}**:可以找到元素的工作空间的Folio列号"
+msgstr "**% {c}**: 元件所在工作区中图幅的列号"
 
 #: ../../source/users/element/type/terminal_block.rst:34
 msgid "**% {id}**: Folio position in the project (Schema number)"
-msgstr "**% {id}**:项目中的Folio位置(计划编号)"
+msgstr "**% {id}**: 图幅在项目中的位置（原理图编号）"
 
 #: ../../source/users/element/type/terminal_block.rst:36
 msgid "Specific variables"
@@ -105,82 +107,82 @@ msgid ""
 "value. If a auto numbering pattern is selected during terminal creation, "
 "QElectroTech defines ``%autnum`` as default formula."
 msgstr ""
-"**标签公式**:定义定义 **标签** 值的公式。如果在终端创建过程中选择了自动编号模式，QEelectroTech将 ``%autnum`` "
-"定义为默认公式。"
+"**Label formula**: 定义 **Label** 值的公式。如果在创建端子时选择了自动编号模式，QElectroTech 会将 "
+"``%autnum`` 设为默认公式。"
 
 #: ../../source/users/element/type/terminal_block.rst:39
 msgid ""
 "**Label**: Internal variable which is used to defines the element code."
-msgstr "**标签**:用于定义元素代码的内部变量。"
+msgstr "**Label**: 内部变量，用于定义元件代码。"
 
 #: ../../source/users/element/type/terminal_block.rst:40
 msgid ""
 "**Annotation**: Internal variable, it cannot be a formula (group of other "
 "variables)."
-msgstr "**注释**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Annotation**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/terminal_block.rst:41
 msgid ""
 "**Textual description**: Internal variable, it cannot be a formula (group of"
 " other variables)."
-msgstr "**文字描述**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Textual description**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/terminal_block.rst:42
 msgid ""
 "**Article number**: Internal variable, it cannot be a formula (group of "
 "other variables)."
-msgstr "**第** 条：内部变量，不能是一个公式(组其他变量)."
+msgstr "**Article number**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/terminal_block.rst:43
 msgid ""
 "**Manufacturer**: Internal variable, it cannot be a formula (group of other "
 "variables)."
-msgstr "**制造商**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Manufacturer**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/terminal_block.rst:44
 msgid ""
 "**Order number**: Internal variable, it cannot be a formula (group of other "
 "variables)."
-msgstr "**命令号**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Order number**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/terminal_block.rst:45
 msgid ""
 "**Supplier**: Internal variable, it cannot be a formula (group of other "
 "variables)."
-msgstr "**Supplier**:内部变量，不能是一个公式(其他变量组)."
+msgstr "**Supplier**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/terminal_block.rst:46
 msgid ""
 "**Auxiliary block 1**: Internal variable, it cannot be a formula (group of "
 "other variables)."
-msgstr "**辅助区块1**:内部变量，不能是一个公式(其他变量组)."
+msgstr "**Auxiliary block 1**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/terminal_block.rst:47
 msgid ""
 "**Auxiliary block 2**: Internal variable, it cannot be a formula (group of "
 "other variables)."
-msgstr "**辅助区块2**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Auxiliary block 2**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/terminal_block.rst:48
 msgid ""
 "**Internal number**: Internal variable, it cannot be a formula (group of "
 "other variables)."
-msgstr "**内数**:内部变量，不能是一个公式(其他变量组)."
+msgstr "**Internal number**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/terminal_block.rst:49
 msgid ""
 "**Location**: Internal variable, it cannot be a formula (group of other "
 "variables)."
-msgstr "**Location**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Location**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/terminal_block.rst:50
 msgid ""
 "**Function**: Internal variable, it cannot be a formula (group of other "
 "variables)."
-msgstr "**功能**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Function**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/terminal_block.rst:51
 msgid ""
 "**Voltage/Protocol**: Internal variable, it cannot be a formula (group of "
 "other variables)."
-msgstr "**Voltage/Protocol**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Voltage/Protocol**: 内部变量，不能是公式（其他变量的组合）。"

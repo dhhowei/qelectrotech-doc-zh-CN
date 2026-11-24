@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/element/type/index.rst:5
 msgid "Type of elements"
-msgstr "要素类型"
+msgstr "元件类型"

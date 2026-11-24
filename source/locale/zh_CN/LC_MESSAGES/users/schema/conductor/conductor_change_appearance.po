@@ -22,41 +22,41 @@ msgstr ""
 
 #: ../../source/users/schema/conductor/conductor_change_appearance.rst:5
 msgid "Change appearance conductor"
-msgstr "更改外观导线"
+msgstr "更改导体外观"
 
 #: ../../source/users/schema/conductor/conductor_change_appearance.rst:7
 msgid ""
 "QElectroTech allows changing the `conductors appearance`_, the line style "
 "and color can be defined for each `conductor`_."
 msgstr ""
-"QElectroTech允许改变 `导体外观 <conductors appearance_>`_，每 `导体 <conductor_>`_ "
-"的线条样式和颜色可以定义。"
+"QElectroTech 允许更改 `导体外观 <conductors appearance_>`_ ，可以为每个 `导体 <conductor_>`_"
+" 定义线条样式和颜色。"
 
 #: ../../source/users/schema/conductor/conductor_change_appearance.rst:10
 msgid "To change the conductor appearance:"
-msgstr "要改变导线外观："
+msgstr "要更改导体外观："
 
 #: ../../source/users/schema/conductor/conductor_change_appearance.rst:12
 msgid "`Select the conductor`_ which should be edited."
-msgstr "`选择应当编辑的导体 <Select the conductor_>`_。"
+msgstr "`选择要编辑的导体 <Select the conductor_>`_ 。"
 
 #: ../../source/users/schema/conductor/conductor_change_appearance.rst:13
 msgid "`Display conductor properties`_ PopUp window."
-msgstr "`播放导体属性 <Display conductor properties_>`_ 弹出窗口。"
+msgstr "在 `显示导体属性 <Display conductor properties_>`_ 弹出窗口中进行设置。"
 
 #: ../../source/users/schema/conductor/conductor_change_appearance.rst:14
 msgid "Go to **Appearance** tab."
-msgstr "转到 **Appearance** 标签 。"
+msgstr "转到 **外观** 标签页。"
 
 #: ../../source/users/schema/conductor/conductor_change_appearance.rst:19
 msgid "Figure: QElectroTech conductor appearance PopUP window"
-msgstr "图：QElectroTech导体外观 PopUP 窗口"
+msgstr "图：QElectroTech 导体外观弹出窗口"
 
 #: ../../source/users/schema/conductor/conductor_change_appearance.rst:22
 msgid ""
 "Choose the desired parameters for main color and secondary color if "
 "necessary."
-msgstr "必要时选择主色和次色的理想参数。"
+msgstr "根据需要选择所需的主色和次色参数。"
 
 #: ../../source/users/schema/conductor/conductor_change_appearance.rst:23
 msgid ""
@@ -64,21 +64,21 @@ msgid ""
 "potential** if the changes should be applied for all `conductor`_ with "
 "common initial or end `terminal`_."
 msgstr ""
-"单击检查按钮 **将属性应用到此潜力的所有导师** 如果修改应适用于所有人 `导体 <conductor_>`_ 带有共同初始或结束 `端子 "
-"<terminal_>`_。"
+"如果更改应应用于具有相同起点或终点 `端子 <terminal_>`_ 的所有 `导体 <conductor_>`_ ，请单击 "
+"**将属性应用到此电位的所有导体** 复选框。"
 
 #: ../../source/users/schema/conductor/conductor_change_appearance.rst:24
 msgid ""
 "Click or unclick the option **Apply properties to all conductors of this "
 "potential**."
-msgstr "单击或取消单击此选项 **, 将属性应用到此潜能的所有导师** 。"
+msgstr "勾选或取消勾选 **将属性应用到此电位的所有导体** 选项。"
 
 #: ../../source/users/schema/conductor/conductor_change_appearance.rst:25
 msgid "Press **OK** button to save and apply the property changes."
-msgstr "按 **OK** 按钮保存并应用属性更改 。"
+msgstr "单击 **OK** 按钮以保存并应用属性更改。"
 
 #: ../../source/users/schema/conductor/conductor_change_appearance.rst:29
 msgid ""
 "For more information about conductor appearance, refer to `conductor "
 "appearance`_ section."
-msgstr "关于导体外观的更多信息，参见 `导体外观 <conductor appearance_>`_ 节。"
+msgstr "有关导体外观的更多信息，请参见 `导体外观 <conductor appearance_>`_ 一节。"

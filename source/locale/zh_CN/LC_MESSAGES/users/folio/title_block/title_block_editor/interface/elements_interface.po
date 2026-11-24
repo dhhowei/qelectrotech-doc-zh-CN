@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/elements_interface.rst:10
 msgid "Elements title block window"
-msgstr "元素图框窗口"
+msgstr "图框编辑器窗口的界面元素"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/elements_interface.rst:12
 msgid ""
@@ -32,8 +32,8 @@ msgid ""
 "available (Windows, Linux/Unix and MacOS). The window from the title block "
 "editor contains the following areas:"
 msgstr ""
-"图框编辑器窗口是一个来自QElectroTech的PopUP窗口，它的设计也使用了 `Qt <Qt_>`_ "
-"框架和部件工具包。QEctroTech图框编辑器的窗口对于所有可用的平台(Windows,Linux/Unix和MacOS)都是一样的。图框编辑器的窗口包含以下领域：."
+"图框编辑器窗口是 QElectroTech 的一个弹出窗口，同样使用 `Qt <Qt_>`_ 框架和部件工具包设计。在所有提供 QElectroTech"
+" 的平台上（Windows、Linux/Unix 和 MacOS），图框编辑器窗口的外观都相同。图框编辑器窗口包含以下区域："
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/elements_interface.rst:14
 msgid ":greentext:`Menu bar`"
@@ -45,11 +45,11 @@ msgstr ":bluetext:`工具栏`"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/elements_interface.rst:16
 msgid ":yellowtext:`Drawing area`"
-msgstr ":yellowtext:`绘图区域`"
+msgstr ":yellowtext:`绘图区`"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/elements_interface.rst:17
 msgid ":orangetext:`Panels`"
-msgstr ":orangetext:`小组`"
+msgstr ":orangetext:`面板`"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/elements_interface.rst:22
 msgid "Figure: QElectroTech Title block editor window"

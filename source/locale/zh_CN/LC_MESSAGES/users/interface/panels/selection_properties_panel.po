@@ -29,7 +29,7 @@ msgid ""
 "The selection properties panel displays the properties from the selected "
 "object. Only the properties from some object can be displayed at the panel. "
 "The selection properties panel can display the properties from:"
-msgstr "选择属性面板显示来自选定对象的属性。只能在面板上显示来自某些对象的属性。选择属性面板可以显示来自："
+msgstr "选择属性面板显示所选对象的属性。该面板只能显示某些对象的属性。选择属性面板可以显示以下对象的属性："
 
 #: ../../source/users/interface/panels/selection_properties_panel.rst:13
 msgid "`Elements`_"
@@ -40,8 +40,8 @@ msgid ""
 "Some `basic objects`_: `line`_, `rectangle`_, `ellipse`_, `polygon`_ and "
 "`picture`_."
 msgstr ""
-"一些 `基本对象 <basic objects_>`_:`线条 <line_>`_，`矩形 <rectangle_>`_，`椭圆 "
-"<ellipse_>`_，`多边形 <polygon_>`_ 和 `图片 <picture_>`_。"
+"一些 `基本对象 <basic objects_>`_ ：`线条 <line_>`_ 、`矩形 <rectangle_>`_ 、`椭圆 "
+"<ellipse_>`_ 、`多边形 <polygon_>`_ 和 `图片 <picture_>`_ 。"
 
 #: ../../source/users/interface/panels/selection_properties_panel.rst:20
 msgid "Figure: QElectroTech selection properties panel"
@@ -61,44 +61,44 @@ msgid ""
 "properties. At QElectroTech, the object properties can be different for each"
 " object. The main tasks that can be done from the selection properties panel"
 " are:"
-msgstr "选择属性面板的主要功能是管理对象属性。在 QElectroTech 中，对象属性可以对每个对象不同。选择属性面板可以完成的主要任务是："
+msgstr "选择属性面板的主要功能是管理对象属性。在 QElectroTech 中，每个对象的属性可能各不相同。选择属性面板可以完成的主要任务有："
 
 #: ../../source/users/interface/panels/selection_properties_panel.rst:30
 msgid ""
 "Manage the properties from the basic geometrical objects (`line`_, "
 "`rectangle`_, `ellipse`_ and `polygon`_)."
 msgstr ""
-"管理基本几何对象的属性(`线条 <line_>`_，`矩形 <rectangle_>`_，`椭圆 <ellipse_>`_ 和 `多边形 "
-"<polygon_>`_)."
+"管理基本几何对象的属性（`线条 <line_>`_ 、`矩形 <rectangle_>`_ 、`椭圆 <ellipse_>`_ 和 `多边形 "
+"<polygon_>`_ ）。"
 
 #: ../../source/users/interface/panels/selection_properties_panel.rst:31
 msgid "Define the scale from the imported `pictures`_."
-msgstr "从导入的 `图片中定义比例尺 <pictures_>`_ 。"
+msgstr "定义导入的 `图片 <pictures_>`_ 的比例。"
 
 #: ../../source/users/interface/panels/selection_properties_panel.rst:32
 msgid ""
 "Lock the position of the `basic objects`_ (`line`_, `rectangle`_, "
 "`ellipse`_, `polygon`_ and `picture`_)."
 msgstr ""
-"锁定位置 `基本对象 <basic objects_>`_ (`线条 <line_>`_，`矩形 <rectangle_>`_，`椭圆 "
-"<ellipse_>`_，`多边形 <polygon_>`_ 和 `图片 <picture_>`_)."
+"锁定 `基本对象 <basic objects_>`_ 的位置（`线条 <line_>`_ 、`矩形 <rectangle_>`_ 、`椭圆 "
+"<ellipse_>`_ 、`多边形 <polygon_>`_ 和 `图片 <picture_>`_ ）。"
 
 #: ../../source/users/interface/panels/selection_properties_panel.rst:33
 msgid ""
 "Manage the information from the `elements`_ (label, function, manufacturer, "
 "article number, order number, etc.)."
-msgstr "管理来自 `元件 <elements_>`_ (标签，功能，制造商，物品号，订单号等)."
+msgstr "管理 `元件 <elements_>`_ 的信息（标签、功能、制造商、货号、订货号等）。"
 
 #: ../../source/users/interface/panels/selection_properties_panel.rst:34
 msgid "Manage the text and dynamic text from element symbols."
-msgstr "从元件符号管理文本和动态文本。"
+msgstr "管理元件符号中的文本和动态文本。"
 
 #: ../../source/users/interface/panels/selection_properties_panel.rst:35
 msgid ""
 "Display the general element properties (name, position, dimensions, number "
 "of terminals, etc.)."
-msgstr "显示一般元素属性(名称、位置、尺寸、终端数量等)。"
+msgstr "显示元件的常规属性（名称、位置、尺寸、端子数量等）。"
 
 #: ../../source/users/interface/panels/selection_properties_panel.rst:36
 msgid "Manage the element links (cross references)."
-msgstr "管理元素链接( 交叉引用) 。"
+msgstr "管理元件链接（交叉引用）。"

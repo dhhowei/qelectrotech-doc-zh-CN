@@ -22,32 +22,32 @@ msgstr ""
 
 #: ../../source/users/element/type/element_simple.rst:5
 msgid "Simple element"
-msgstr "简单元素"
+msgstr "简单元件"
 
 #: ../../source/users/element/type/element_simple.rst:7
 msgid ""
 "The simple element is used to represent devices such actuators (electric "
 "motors, cylinders, pneumatic or hydraulic valves, etc.), control devices "
 "(PLC, Microcontrollers, etc.), circuit breakers, etc."
-msgstr "简单的元件用于代表此类起动器(电动机，气缸，气压阀或液压阀等),控制装置(PLC,微控制器等),断路器等。"
+msgstr "简单元件用于表示执行器（电动机、气缸、气动或液压阀等）、控制设备（PLC、微控制器等）、断路器等设备。"
 
 #: ../../source/users/element/type/element_simple.rst:14
 msgid "Figure: QElectroTech simple element"
-msgstr "图：QElectroTech 简单元素"
+msgstr "图：QElectroTech 简单元件"
 
 #: ../../source/users/element/type/element_simple.rst:16
 msgid "For simple element exist two type of variables:"
-msgstr "对于简单的元素存在两种类型的变量："
+msgstr "简单元件有两种类型的变量："
 
 #: ../../source/users/element/type/element_simple.rst:18
 msgid ""
 "General variables common for all type of elements and managed internally by "
 "QElectroTech."
-msgstr "所有类型元素通用的普通变量，由QEelectroTech内部管理。"
+msgstr "所有类型元件通用且由 QElectroTech 内部管理的一般变量。"
 
 #: ../../source/users/element/type/element_simple.rst:19
 msgid "Specific variables from simple elements."
-msgstr "来自简单元素的特定变量。"
+msgstr "简单元件专用的特定变量。"
 
 #: ../../source/users/element/type/element_simple.rst:21
 msgid "General variables"
@@ -55,37 +55,37 @@ msgstr "一般变量"
 
 #: ../../source/users/element/type/element_simple.rst:23
 msgid "**% {F}**: Label from the folio where the element can be found"
-msgstr "**% {F}**:从可找到元素的圆柱处划出标签"
+msgstr "**% {F}**: 元件所在图幅的标签"
 
 #: ../../source/users/element/type/element_simple.rst:24
 msgid "**% {f}**: Number from the folio where the element can be found"
-msgstr "**% {f}**:可以找到元素的光圈中的数字"
+msgstr "**% {f}**: 元件所在图幅的编号"
 
 #: ../../source/users/element/type/element_simple.rst:25
 msgid ""
 "**% {M}**: Plant variable from the folio where the element can be found"
-msgstr "**% {M}**:可以找到元素的圆柱形的植物变量"
+msgstr "**% {M}**: 元件所在图幅的设备变量"
 
 #: ../../source/users/element/type/element_simple.rst:26
 msgid ""
 "**% {LM}**: Location variable of the folio where the element can be found"
-msgstr "**% {LM}**:可以找到元素的光圈位置变量"
+msgstr "**% {LM}**: 元件所在图幅的位置变量"
 
 #: ../../source/users/element/type/element_simple.rst:27
 msgid ""
 "**% {l}**: Folio line number from the workspace where the element can be "
 "found"
-msgstr "**% {l}**:可以找到元素的工作空间的Folio行号"
+msgstr "**% {l}**: 元件所在工作区中图幅的行号"
 
 #: ../../source/users/element/type/element_simple.rst:28
 msgid ""
 "**% {c}**: Folio column number from the workspace where the element can be "
 "found"
-msgstr "**% {c}**:可以找到元素的工作空间的Folio列号"
+msgstr "**% {c}**: 元件所在工作区中图幅的列号"
 
 #: ../../source/users/element/type/element_simple.rst:29
 msgid "**% {id}**: Folio position in the project (Schema number)"
-msgstr "**% {id}**:项目中的Folio位置(计划编号)"
+msgstr "**% {id}**: 图幅在项目中的位置（原理图编号）"
 
 #: ../../source/users/element/type/element_simple.rst:31
 msgid "Specific variables"
@@ -97,82 +97,82 @@ msgid ""
 "value. If a auto numbering pattern is selected during terminal creation, "
 "QElectroTech defiens ``%autnum`` as default formula."
 msgstr ""
-"**标签公式**:定义定义 **标签** 值的公式。如果在终端创建过程中选择了自动编号模式，QEelectroTech defiens "
-"``%autnum`` 作为默认公式。"
+"**Label formula**: 定义 **Label** 值的公式。如果在创建端子时选择了自动编号模式，QElectroTech 会将 "
+"``%autnum`` 设为默认公式。"
 
 #: ../../source/users/element/type/element_simple.rst:34
 msgid ""
 "**Label**: Internal variable which is used to defines the element code."
-msgstr "**标签**:用于定义元素代码的内部变量。"
+msgstr "**Label**: 内部变量，用于定义元件代码。"
 
 #: ../../source/users/element/type/element_simple.rst:35
 msgid ""
 "**Annotation**: Internal variable, it cannot be a formula (group of other "
 "variables)."
-msgstr "**注释**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Annotation**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/element_simple.rst:36
 msgid ""
 "**Textual description**: Internal variable, it cannot be a formula (group of"
 " other variables)."
-msgstr "**文字描述**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Textual description**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/element_simple.rst:37
 msgid ""
 "**Article number**: Internal variable, it cannot be a formula (group of "
 "other variables)."
-msgstr "**第** 条：内部变量，不能是一个公式(组其他变量)."
+msgstr "**Article number**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/element_simple.rst:38
 msgid ""
 "**Manufacturer**: Internal variable, it cannot be a formula (group of other "
 "variables)."
-msgstr "**制造商**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Manufacturer**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/element_simple.rst:39
 msgid ""
 "**Order number**: Internal variable, it cannot be a formula (group of other "
 "variables)."
-msgstr "**命令号**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Order number**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/element_simple.rst:40
 msgid ""
 "**Supplier**: Internal variable, it cannot be a formula (group of other "
 "variables)."
-msgstr "**Supplier**:内部变量，不能是一个公式(其他变量组)."
+msgstr "**Supplier**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/element_simple.rst:41
 msgid ""
 "**Auxiliary block 1**: Internal variable, it cannot be a formula (group of "
 "other variables)."
-msgstr "**辅助区块1**:内部变量，不能是一个公式(其他变量组)."
+msgstr "**Auxiliary block 1**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/element_simple.rst:42
 msgid ""
 "**Auxiliary block 2**: Internal variable, it cannot be a formula (group of "
 "other variables)."
-msgstr "**辅助区块2**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Auxiliary block 2**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/element_simple.rst:43
 msgid ""
 "**Internal number**: Internal variable, it cannot be a formula (group of "
 "other variables)."
-msgstr "**内数**:内部变量，不能是一个公式(其他变量组)."
+msgstr "**Internal number**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/element_simple.rst:44
 msgid ""
 "**Location**: Internal variable, it cannot be a formula (group of other "
 "variables)."
-msgstr "**Location**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Location**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/element_simple.rst:45
 msgid ""
 "**Function**: Internal variable, it cannot be a formula (group of other "
 "variables)."
-msgstr "**功能**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Function**: 内部变量，不能是公式（其他变量的组合）。"
 
 #: ../../source/users/element/type/element_simple.rst:46
 msgid ""
 "**Voltage/Protocol**: Internal variable, it cannot be a formula (group of "
 "other variables)."
-msgstr "**Voltage/Protocol**:内部变量，不能是一个公式(组其他变量)."
+msgstr "**Voltage/Protocol**: 内部变量，不能是公式（其他变量的组合）。"

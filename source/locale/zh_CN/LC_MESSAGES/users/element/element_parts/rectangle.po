@@ -30,29 +30,29 @@ msgstr "创建矩形"
 
 #: ../../source/users/element/element_parts/rectangle.rst:10
 msgid "The rectangle can only be added to `workspace`_ from `toolbar`_."
-msgstr "矩形只能从 `工作区 <workspace_>`_ 加入 `工具栏 <toolbar_>`_。"
+msgstr "矩形只能从 `工具栏 <toolbar_>`_ 添加到 `工作区 <workspace_>`_ 。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:12
 msgid "Select the icon |icon_rectangle| from `toolbar`_ to add a rectangle."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |icon_rectangle| 添加矩形 。"
+msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |icon_rectangle| 以添加矩形。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:16
 msgid "icon_rectangle"
-msgstr "图标( R)"
+msgstr "矩形图标"
 
 #: ../../source/users/element/element_parts/rectangle.rst:13
 msgid "Click on the initial vertex from the rectangle in the `workspace`_."
-msgstr "点击 `工作区 <workspace_>`_ 中矩形的初始顶点。"
+msgstr "在 `工作区 <workspace_>`_ 中单击矩形的起始顶点。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:14
 msgid "Click on the end vertex from the rectangle in the `workspace`_."
-msgstr "点击 `工作区 <workspace_>`_ 中矩形的顶点。"
+msgstr "在 `工作区 <workspace_>`_ 中单击矩形的结束顶点。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:20
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Parts**."
-msgstr "如果 `工具栏 <toolbar_>`_ 不显示，可以从 **设置 > 显示 > 部件** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **Settings > Display > Parts** 中显示。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:23
 msgid "Rectangle properties"
@@ -62,18 +62,20 @@ msgstr "矩形属性"
 msgid ""
 "Element part properties can be displayed from `information panel`_ when the "
 "part is selected."
-msgstr "元素部分属性可以在选择该部分时从 `信息面板 <information panel_>`_ 显示。"
+msgstr "选中部件后，可以从 `信息面板 <information panel_>`_ 显示元件部件属性。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:30
 msgid ""
 "If the `information panel`_ is not displayed, it can be displayed from "
 "**Settings > Display > Information**."
-msgstr "如果 `信息面板 <information panel_>`_ 未显示，可以从 **设置 > 显示 > 信息** 显示。"
+msgstr ""
+"如果 `信息面板 <information panel_>`_ 未显示，可以从 **Settings > Display > Information**"
+" 中显示。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:35
 #: ../../source/users/element/element_parts/rectangle.rst:75
 msgid "Figure: QElectroTech rectangle part from element"
-msgstr "图：元素的 QElectroTech 矩形部分"
+msgstr "图：元件中的 QElectroTech 矩形部件"
 
 #: ../../source/users/element/element_parts/rectangle.rst:37
 msgid "QElectroTech allows customizing different rectangle properties:"
@@ -91,7 +93,7 @@ msgstr "颜色"
 msgid ""
 "The outline and filling color of the part can be defined from a list of pre-"
 "defined colors."
-msgstr "部分的轮廓和填充颜色可以从预定义的颜色列表中定义。"
+msgstr "部件的轮廓颜色和填充颜色可以从预定义颜色列表中选择。"
 
 #: ../../source/users/element/element_parts/rectangle.rst
 msgid "Style"
@@ -101,21 +103,21 @@ msgstr "样式"
 msgid ""
 "The type of outline representation can be chosen between: Normal "
 "(Continuous), Dashed, Dotted or, Dots and dashes."
-msgstr "大纲表达式的类型可以在：正常(连续), Dashed, Dotted 或，Dots 和 dustes 之间选择。"
+msgstr "轮廓表示类型可在以下选项中选择：正常（连续）、虚线、点线，或点划线。"
 
 #: ../../source/users/element/element_parts/rectangle.rst
 msgid "Thickness"
-msgstr "厚度"
+msgstr "粗细"
 
 #: ../../source/users/element/element_parts/rectangle.rst:53
 msgid ""
 "The outline thickness (Weight) can be chosen between: None, Thin, Normal, "
 "Strong or High."
-msgstr "轮廓厚度(重量)可以在：无，细，正常，强或高之间选择。"
+msgstr "轮廓粗细（线宽）可在以下选项中选择：无、细、正常、粗或高。"
 
 #: ../../source/users/element/element_parts/rectangle.rst
 msgid "Geometry"
-msgstr "几何"
+msgstr "几何形状"
 
 #: ../../source/users/element/element_parts/rectangle.rst
 msgid "Coordinates"
@@ -123,7 +125,7 @@ msgstr "坐标"
 
 #: ../../source/users/element/element_parts/rectangle.rst:60
 msgid "The upper left vertices coordinates (x, y) can be defined."
-msgstr "左上角的顶点坐标(x,y)可以定义。"
+msgstr "可以定义左上顶点的坐标 (x, y)。"
 
 #: ../../source/users/element/element_parts/rectangle.rst
 msgid "Dimensions"
@@ -134,75 +136,75 @@ msgid ""
 "The width and the height of the rectangle can be defined. The tangent point "
 "at the vertical and horizontal edges can also be defined at the case that a "
 "round vertex is desired."
-msgstr "长方形的宽度和高度可以定义。垂直和水平边缘的切点也可以在需要圆顶时定义。"
+msgstr "可以定义矩形的宽度和高度。如果需要圆角顶点，还可以定义垂直边和水平边上的切点。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:68
 msgid "Rounding rectangle vertices"
-msgstr "圆形矩形顶点"
+msgstr "圆角化矩形顶点"
 
 #: ../../source/users/element/element_parts/rectangle.rst:70
 msgid ""
 "QElectroTech allows rounding the rectangle vertices from `information "
 "panel`_ or `workspace`_."
 msgstr ""
-"QElectroTech允许从 `信息面板 <information panel_>`_ 或 `工作区 <workspace_>`_ "
-"对矩形顶点进行四舍五入。"
+"QElectroTech 允许从 `信息面板 <information panel_>`_ 或 `工作区 <workspace_>`_ "
+"对矩形顶点进行圆角化。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:78
 msgid "Rounding rectangle vertices from information panel"
-msgstr "从信息面板圆形矩形顶点"
+msgstr "从信息面板圆角化矩形顶点"
 
 #: ../../source/users/element/element_parts/rectangle.rst:80
 msgid ""
 "Select the rectangle to display the rectangle properties at `information "
 "panel`_."
-msgstr "选择在 `信息面板 <information panel_>`_ 显示矩形属性的矩形 。"
+msgstr "选择矩形，以在 `信息面板 <information panel_>`_ 中显示矩形属性。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:81
 msgid ""
 "Define the distance between the vertices and the intersection point at the "
 "vertical edges."
-msgstr "定义垂直边缘的顶点和交叉点之间的距离。"
+msgstr "定义垂直边上顶点与交点之间的距离。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:82
 msgid ""
 "Define the distance between the vertices and the intersection point at the "
 "horizontal edges."
-msgstr "定义顶点和横向边缘的交叉点之间的距离。"
+msgstr "定义水平边上顶点与交点之间的距离。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:83
 msgid "Press intro."
-msgstr "按进士出身。"
+msgstr "按回车键。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:84
 #: ../../source/users/element/element_parts/rectangle.rst:93
 msgid ""
 "**Select none** from **Edit** menu or use ``Ctrl + Shift + a`` keyboard "
 "shortcut."
-msgstr "**从** 选择无 **Edit** 菜单或使用 ``Ctrl + Shift + a`` 键盘快捷键。"
+msgstr "从 **Edit** 菜单选择 **Select none** ，或使用 ``Ctrl + Shift + a`` 键盘快捷键。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:87
 msgid "Rounding rectangle vertices from workspace"
-msgstr "从工作空间圆形矩形顶点"
+msgstr "从工作区圆角化矩形顶点"
 
 #: ../../source/users/element/element_parts/rectangle.rst:89
 msgid ""
 "Select the rectangle drawn at `workspace`_. The rectangle outlines change to"
 " red color and the vertices and middle edge point to blue."
-msgstr "选择在 `工作区 <workspace_>`_ 绘制的矩形。矩形勾画为红色，顶点和中边缘点为蓝色。"
+msgstr "选择在 `工作区 <workspace_>`_ 中绘制的矩形。矩形轮廓变为红色，顶点和边中点变为蓝色。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:90
 msgid ""
 "Select the rectangle again. The outlines continue in red and the points "
 "change to green color."
-msgstr "再次选择矩形。 轮廓以红色继续，点改为绿色 。"
+msgstr "再次选择矩形。轮廓保持红色，控制点变为绿色。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:91
 msgid ""
 "Select the rectangle for third time. The outlines continue in red and only "
 "one vertex is displayed, the color is pink."
-msgstr "第三次选择矩形。 轮廓以红色继续，只显示一个顶点，颜色为粉红色 。"
+msgstr "第三次选择矩形。轮廓保持红色，只显示一个顶点，颜色为粉色。"
 
 #: ../../source/users/element/element_parts/rectangle.rst:92
 msgid "Displace the pink points around the horizontal and vertical edge."
-msgstr "将横向和纵向边缘周围的粉红色点移位。"
+msgstr "沿水平边和垂直边移动粉色点。"

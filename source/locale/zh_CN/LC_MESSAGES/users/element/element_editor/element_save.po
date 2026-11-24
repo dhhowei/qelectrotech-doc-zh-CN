@@ -22,35 +22,35 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/element_save.rst:5
 msgid "Save element"
-msgstr "保存元素"
+msgstr "保存元件"
 
 #: ../../source/users/element/element_editor/element_save.rst:7
 msgid ""
 "The current `element`_ can be saved from `menu bar`_, `toolbar`_ and using "
 "the corresponding keyboard shortcut."
 msgstr ""
-"当前 `元件 <element_>`_ 可以从 `菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_ "
-"中保存，并使用相应的键盘快捷键。"
+"当前 `元件 <element_>`_ 可以从 `菜单栏 <menu bar_>`_ 、 `工具栏 <toolbar_>`_ "
+"中保存，也可使用相应的键盘快捷键。"
 
 #: ../../source/users/element/element_editor/element_save.rst:10
 msgid ""
 "One `element`_ is only conformed by one file with format ``.elmt``. The "
 "``.elmt`` extension is the native extension from QElectroTech `elements`_."
 msgstr ""
-"一个 `元件 <element_>`_ 只有一个文件符合格式 ``.elmt`` 编辑 ``.elmt`` 扩展是来自 QElectroTech "
-"的本地扩展 `元件 <elements_>`_。"
+"一个 `元件 <element_>`_ 仅由一个 ``.elmt`` 格式的文件组成。``.elmt`` 扩展名是 QElectroTech `元件 "
+"<elements_>`_ 的原生扩展名。"
 
 #: ../../source/users/element/element_editor/element_save.rst:14
 msgid "Save element from menu bar"
-msgstr "从菜单栏中保存元素"
+msgstr "从菜单栏中保存元件"
 
 #: ../../source/users/element/element_editor/element_save.rst:16
 msgid "Select **File > Save** menu item to save the element changes."
-msgstr "选择 **文件 > 保存** 菜单项以保存元素更改 。"
+msgstr "选择 **文件 > 保存** 菜单项以保存元件更改。"
 
 #: ../../source/users/element/element_editor/element_save.rst:21
 msgid "Figure: QElectroTech element editor file menu"
-msgstr "图：QElectroTech 元素编辑器文件菜单"
+msgstr "图：QElectroTech 元件编辑器文件菜单"
 
 #: ../../source/users/element/element_editor/element_save.rst:23
 #: ../../source/users/element/element_editor/element_save.rst:47
@@ -58,62 +58,62 @@ msgid ""
 "At the case that the opened `element`_ has to overwrite an existing "
 "`element`_ or it has to be saved as a new `element`_:"
 msgstr ""
-"如果打开的 `元件 <element_>`_ 必须覆盖一个现有的 `元件 <element_>`_，或者必须将其保存为一个新的 `元件 "
-"<element_>`_:"
+"如果打开的 `元件 <element_>`_ 需要覆盖现有 `元件 <element_>`_ ，或需要另存为新的 `元件 <element_>`_ ："
 
 #: ../../source/users/element/element_editor/element_save.rst:26
 msgid ""
 "Select **File > Save as** menu item to display the **Save as element** PopUp"
 " window."
-msgstr "选择 **文件 > 另存为** 菜单项以显示 **保存为元素** 弹出窗口 。"
+msgstr "选择 **文件 > 另存为** 菜单项以显示 **保存为元件** 弹出窗口。"
 
 #: ../../source/users/element/element_editor/element_save.rst:31
 #: ../../source/users/element/element_editor/element_save.rst:55
 msgid "Figure: QElectroTech element editor save as PopUp window"
-msgstr "图：QElectroTech 元素编辑器另存为弹出窗口"
+msgstr "图：QElectroTech 元件编辑器另存为弹出窗口"
 
 #: ../../source/users/element/element_editor/element_save.rst:33
 #: ../../source/users/element/element_editor/element_save.rst:57
 msgid ""
 "Select the `element`_ which should be overwritten or the `category`_ and the"
 " name for the new `element`_."
-msgstr "选择应当覆盖的 `元件 <element_>`_ 或 `类别 <category_>`_ 和新 `元件 <element_>`_ 的名称。"
+msgstr ""
+"选择要覆盖的 `元件 <element_>`_ ，或为新 `元件 <element_>`_ 选择 `类别 <category_>`_ 和名称。"
 
 #: ../../source/users/element/element_editor/element_save.rst:34
 #: ../../source/users/element/element_editor/element_save.rst:58
 msgid ""
 "Press the **Save** button to save the `element`_ and close the PopUp window."
-msgstr "按 **保存** 按钮保存 `元件 <element_>`_ 并关闭弹出窗口 。"
+msgstr "按 **保存** 按钮保存 `元件 <element_>`_ 并关闭弹出窗口。"
 
 #: ../../source/users/element/element_editor/element_save.rst:36
 msgid ""
 "The `element`_ can also be directly saved as a new file in the Hard Disk "
 "directory desired:"
-msgstr "`元件 <element_>`_ 也可以作为硬盘目录中希望的新文件直接保存："
+msgstr "还可以将 `元件 <element_>`_ 直接另存为硬盘中所需目录下的新文件："
 
 #: ../../source/users/element/element_editor/element_save.rst:38
 msgid ""
 "Select **File > Save to a file** menu item to display the file system PopUp "
 "window."
-msgstr "选择 **文件 > 保存到文件** 菜单项以显示文件系统 PopUp 窗口 。"
+msgstr "选择 **文件 > 保存到文件** 菜单项以显示文件系统弹出窗口。"
 
 #: ../../source/users/element/element_editor/element_save.rst:39
 msgid "Select the directory and the name from the element file."
-msgstr "从元件文件中选择目录和名称。"
+msgstr "选择元件文件所在的目录并指定文件名。"
 
 #: ../../source/users/element/element_editor/element_save.rst:40
 msgid ""
 "Press **Save** button to save the `element`_ and close the PopUp window."
-msgstr "按 **保存** 按钮保存 `元件 <element_>`_ 并关闭 PopUp 窗口 。"
+msgstr "按 **保存** 按钮保存 `元件 <element_>`_ 并关闭弹出窗口。"
 
 #: ../../source/users/element/element_editor/element_save.rst:43
 msgid "Save element from toolbar"
-msgstr "从工具栏中保存元素"
+msgstr "从工具栏中保存元件"
 
 #: ../../source/users/element/element_editor/element_save.rst:45
 msgid ""
 "Select the icon |document-save| from `toolbar`_ to save the element changes."
-msgstr "从 `工具栏 <toolbar_>`_ 中选择图标 |document-save| 以保存元素更改 。"
+msgstr "从 `工具栏 <toolbar_>`_ 中选择图标 |document-save| 以保存元件更改。"
 
 #: ../../source/users/element/element_editor/element_save.rst:60
 msgid "document-save"
@@ -123,7 +123,7 @@ msgstr "文档保存"
 msgid ""
 "Select the icon |document-save-as| from `toolbar`_ to display the **Save as "
 "element** PopUp window."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |document-save-as| 以显示 **保存为元素** popUp 窗口。"
+msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |document-save-as| 以显示 **保存为元件** 弹出窗口。"
 
 #: ../../source/users/element/element_editor/element_save.rst:61
 msgid "document-save-as"
@@ -133,24 +133,24 @@ msgstr "文档保存为"
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**"
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示"
+msgstr "如果未显示 `工具栏 <toolbar_>`_ ，可从 **设置 > 显示 > 工具** 中将其显示出来。"
 
 #: ../../source/users/element/element_editor/element_save.rst:68
 msgid "Save element using keyboard shortcut"
-msgstr "使用键盘快捷键保存元素"
+msgstr "使用键盘快捷键保存元件"
 
 #: ../../source/users/element/element_editor/element_save.rst:70
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/element/element_editor/element_save.rst:72
 msgid "Press ``Ctrl + s`` to save the element changes."
-msgstr "按 ``Ctrl + s`` 以保存元素更改。"
+msgstr "按 ``Ctrl + s`` 以保存元件更改。"
 
 #: ../../source/users/element/element_editor/element_save.rst:76
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

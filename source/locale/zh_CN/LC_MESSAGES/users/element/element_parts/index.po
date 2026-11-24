@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/element/element_parts/index.rst:5
 msgid "Element parts"
-msgstr "元素组件"
+msgstr "元件部件"

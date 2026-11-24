@@ -22,97 +22,96 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:5
 msgid "Delete part"
-msgstr "删除部分"
+msgstr "删除部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:7
 msgid ""
 "QElectroTech element editor allows deleting `parts`_ which has been `added`_"
 " or `pasted`_ at the `element editor workspace`_ previously."
 msgstr ""
-"QElectroTech 元素编辑器允许删除 `部件 <parts_>`_ 这已经是 `已添加 <added_>`_ 或 `粘贴 <pasted_>`_"
-" 现场 `元素编辑器工作空间 <element editor workspace_>`_ 从前。"
+"QElectroTech 元件编辑器允许删除此前已 `添加 <added_>`_ 或 `粘贴 <pasted_>`_ 到 `元件编辑器工作区 "
+"<element editor workspace_>`_ 的 `部件 <parts_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:10
 msgid ""
 "Deleting parts can be done from `menu bar`_, `toolbar`_, by right click on "
 "the `part`_ and using the corresponding keyboard shortcut."
 msgstr ""
-"删除部件可以从 `菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_ 右键点击 `部件 <part_>`_ "
-"并使用相应的键盘快捷键完成。"
+"可以通过 `菜单栏 <menu bar_>`_、`工具栏 <toolbar_>`_、右键点击 `部件 <part_>`_ 或相应的快捷键来删除部件。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:14
 msgid "Delete part from menu bar"
-msgstr "从菜单栏中删除部分"
+msgstr "从菜单栏删除部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:16
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:27
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:52
 msgid "`Select`_ the `part`_ which should be deleted."
-msgstr "`选择 <Select_>`_ 联合国 `部件 <part_>`_ 应当删除。"
+msgstr "`选择 <Select_>`_ 要删除的 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:17
 msgid ""
 "Select **Edit > Delete** menu item to delete the `part`_ from `workspace`_."
-msgstr "选择 **编辑 > 删除** 菜单项以删除 `部件 <part_>`_ 中的 `工作区 <workspace_>`_ 。"
+msgstr "选择 **编辑 > 删除** 菜单项，从 `工作区 <workspace_>`_ 中删除 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:22
 msgid "Figure: QElectroTech element editor Edit menu"
-msgstr "图：QElectroTech 元素编辑器编辑菜单"
+msgstr "图：QElectroTech 元件编辑器“编辑”菜单"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:25
 msgid "Delete part from toolbar"
-msgstr "从工具栏中删除部分"
+msgstr "从工具栏删除部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:28
 msgid ""
 "Select the icon |edit-delete| from the `toolbar`_ to delete the `part`_ from"
 " `workspace`_."
 msgstr ""
-"从 `工具栏 <toolbar_>`_ 中选择图标 |edit-delete| 从 `部件 <part_>`_ 中删除 `工作区 "
-"<workspace_>`_ 。"
+"在 `工具栏 <toolbar_>`_ 中选择 |edit-delete| 图标，从 `工作区 <workspace_>`_ 中删除 `部件 "
+"<part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:30
 msgid "edit-delete"
-msgstr "编辑-删除"
+msgstr "edit-delete"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:34
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**"
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 工具** 将其显示出来。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:37
 msgid "Delete part by right click"
-msgstr "右键删除部分"
+msgstr "通过右键删除部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:39
 msgid "Right click on the `part`_ which should be deleted."
-msgstr "右键点击应当删除的 `部件 <part_>`_ 。"
+msgstr "右键点击要删除的 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:40
 msgid "Select the option **Delete** to delete the `part`_ from `workspace`_."
-msgstr "选择选项 **删除** 删除 `部件 <part_>`_ 从 `工作区 <workspace_>`_。"
+msgstr "选择 **删除** 选项，从 `工作区 <workspace_>`_ 中删除 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:45
 msgid "Figure: QElectroTech right click PopUp window"
-msgstr "图：右键点击弹出窗口的QElectroTech"
+msgstr "图：QElectroTech 右键弹出窗口"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:48
 msgid "Delete part using keyboard shortcut"
-msgstr "使用键盘快捷键删除部分"
+msgstr "使用快捷键删除部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:50
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 支持使用快捷键来提高工作效率。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:53
 msgid "Press ``Del`` to delete the `part`_ from `workspace`_."
-msgstr "新闻 ``Del`` 删除 `部件 <part_>`_ 从 `工作区 <workspace_>`_。"
+msgstr "按 ``Del`` 从 `工作区 <workspace_>`_ 中删除 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/delete.rst:57
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

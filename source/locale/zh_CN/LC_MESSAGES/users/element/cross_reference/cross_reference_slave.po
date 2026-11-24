@@ -22,17 +22,17 @@ msgstr ""
 
 #: ../../source/users/element/cross_reference/cross_reference_slave.rst:5
 msgid "Cross reference at slave element"
-msgstr "奴隶要素的交叉参照"
+msgstr "从元件的交叉引用"
 
 #: ../../source/users/element/cross_reference/cross_reference_slave.rst:7
 msgid ""
 "A slave element can only have one master element linked. QElectroTech does "
 "not allow that one slave element has more than one cross reference defined."
-msgstr "一个奴隶元素只能有一个主元件链接。QElectroTech不允许一个奴隶元素有一个以上的交叉引用定义。"
+msgstr "一个从元件只能关联一个主元件。QElectroTech 不允许一个从元件定义多个交叉引用。"
 
 #: ../../source/users/element/cross_reference/cross_reference_slave.rst:13
 msgid "Figure: QElectroTech slave element cross reference"
-msgstr "图：QElectroTech 奴隶元素交叉参考"
+msgstr "图：QElectroTech 从元件交叉引用"
 
 #: ../../source/users/element/cross_reference/cross_reference_slave.rst:15
 msgid ""
@@ -42,4 +42,4 @@ msgid ""
 "which appear at the bill of materials (BOM), The information about the "
 "device can only be found at the master element."
 msgstr ""
-"奴隶元素仅具有定义元素应如何表示的属性，元素中的信息是不必要的，主元件是定义设备的元素以及出现在材料单(BOM)中的元素，关于设备的信息只能在主元件中找到。"
+"从元件只具有定义元件如何显示的属性，元件信息不是必需的；主元件是定义设备的元件，也是出现在物料清单（BOM）中的元件，有关设备的信息只能在主元件中找到。"

@@ -26,43 +26,43 @@ msgstr "编辑类别"
 
 #: ../../source/users/element/collection/edit_folder.rst:7
 msgid "Working with collections can only be done from `collections panel`_."
-msgstr "只能从 `收集面板 <collections panel_>`_ 中进行收藏工作。"
+msgstr "集合的相关操作只能在 `集合面板 <collections panel_>`_ 中进行。"
 
 #: ../../source/users/element/collection/edit_folder.rst:11
 msgid ""
 "Select **Settings > Display > Collections** menu item to display the "
 "`collections panel`_."
-msgstr "选择 **设置 > 显示 > 收藏** 菜单项以显示 `收藏面板 <collections panel_>`_ 。"
+msgstr "选择 **设置 > 显示 > 集合** 菜单项以显示 `集合面板 <collections panel_>`_ 。"
 
 #: ../../source/users/element/collection/edit_folder.rst:13
 msgid ""
 "Right click on the user collection or at a category from the collection "
 "which should be edited."
-msgstr "右键点击用户收藏或收藏中应当编辑的类别。"
+msgstr "右键单击用户集合，或右键单击集合中要编辑的类别。"
 
 #: ../../source/users/element/collection/edit_folder.rst:18
 msgid "Figure: Options at folder"
-msgstr "图：文件夹中的选项"
+msgstr "图：文件夹上的选项"
 
 #: ../../source/users/element/collection/edit_folder.rst:20
 msgid ""
 "Click the option **Edit folder** to open **Add a new category** PopUp "
 "window."
-msgstr "单击选项 **编辑文件夹** 打开 **添加一个新的类别** 弹出窗口 。"
+msgstr "单击 **编辑文件夹** 选项，打开 **添加新类别** 弹出窗口。"
 
 #: ../../source/users/element/collection/edit_folder.rst:25
 msgid "Figure: New category PopUp window"
-msgstr "图：新类弹出窗口"
+msgstr "图：新建类别弹出窗口"
 
 #: ../../source/users/element/collection/edit_folder.rst:27
 msgid ""
 "Edit the category name or add a new translation from the category name "
 "pressing **Add a line**."
-msgstr "编辑类别名称或从类别名称按 **添加行** 中添加新译名。"
+msgstr "编辑类别名称，或单击 **添加行** 为类别名称添加新的译文。"
 
 #: ../../source/users/element/collection/edit_folder.rst:28
 msgid "Press **OK** to change the category properties."
-msgstr "按 **OK** 更改类别属性。"
+msgstr "单击 **OK** 更改类别属性。"
 
 #: ../../source/users/element/collection/edit_folder.rst:32
 msgid ""
@@ -70,5 +70,4 @@ msgid ""
 "defined using 2 letter code which should be used at the language column from"
 " the folder internal name table."
 msgstr ""
-"QElectroTech 工作符合 `ISO 639-1 <ISO 639-1_>`_ "
-"规范。文件夹名称语言的定义使用两个字母代码，应在文件夹内部名称表的语言栏中使用。"
+"QElectroTech 遵循 `ISO 639-1`_ 规范。文件夹名称的语言使用两位字母代码定义，该代码应填写在文件夹内部名称表的语言列中。"

@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_part.rst:5
 msgid "Select one part"
-msgstr "选择一个部分"
+msgstr "选择单个部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_part.rst:7
 msgid ""
@@ -30,11 +30,11 @@ msgid ""
 "`Polygon`_, `Terminal`_, `text`_ and `dynamic text field`_) from the "
 "`workspace`_ can be selected by a simple left click on the `part`_."
 msgstr ""
-"在QEelectroTech,一个 `部件 <part_>`_ (`线条 <Line_>`_，`矩形 <Rectangle_>`_，`椭圆 "
-"<Ellipse_>`_，`圆弧 <Arc_>`_，`多边形 <Polygon_>`_，`端子 <Terminal_>`_，`文本 <text_>`_ "
-"和 `动态文本字段 <dynamic text field_>`_ 从 `工作区 <workspace_>`_ 可以通过简单的左键单击 `部件 "
-"<part_>`_。"
+"在 QElectroTech 中，只需在 `工作区 <workspace_>`_ 中的某个 `部件 <part_>`_ （`线条 "
+"<Line_>`_、`矩形 <Rectangle_>`_、`椭圆 <Ellipse_>`_、`圆弧 <Arc_>`_、`多边形 "
+"<Polygon_>`_、`端子 <Terminal_>`_、`文本 <text_>`_ 和 `动态文本字段 <dynamic text "
+"field_>`_ ）上点击左键，即可选中该 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_part.rst:14
 msgid "Figure: QElectroTech element editor workspace"
-msgstr "图：QElectroTech 元素编辑器工作空间"
+msgstr "图：QElectroTech 元件编辑器工作区"

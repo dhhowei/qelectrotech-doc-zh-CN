@@ -29,7 +29,7 @@ msgid ""
 "QElectroTech allows choosing the orientation from many object which are "
 "represented at the `folio`_. The objects which orientation can be chosen are"
 " the following:"
-msgstr "QElectroTech 允许从在 `图幅 <folio_>`_ 中代表的许多对象中选择方向。 可以选择方向的对象如下："
+msgstr "QElectroTech 允许为 `图幅 <folio_>`_ 中显示的许多对象选择方向。可调整方向的对象如下："
 
 #: ../../source/users/schema/rotate.rst:10
 msgid "`Element`_"
@@ -37,7 +37,7 @@ msgstr "`元件 <Element_>`_"
 
 #: ../../source/users/schema/rotate.rst:11
 msgid "`Picture`_"
-msgstr "`平面 <Picture_>`_"
+msgstr "`图片 <Picture_>`_"
 
 #: ../../source/users/schema/rotate.rst:12
 msgid "`Text field`_"
@@ -49,33 +49,33 @@ msgid ""
 "before, only 4 different orientations are possible: **0**, **90**, **180** "
 "and **270** degrees."
 msgstr ""
-"QElectroTech不允许前述对象的所有方向，只有4个不同的方向是可能的：**0**,**90**,**180** 和 **270** 度。"
+"对于上述对象，QElectroTech 并不支持所有方向，只有 4 种方向可用：**0**、**90**、**180** 和 **270** 度。"
 
 #: ../../source/users/schema/rotate.rst:19
 msgid ""
 "QElectroTech only offers the possibility to rotate **90** degrees on the "
 "clock direction."
-msgstr "QElectroTech只提供在时钟方向旋转 **90** 度的可能性。"
+msgstr "QElectroTech 仅支持沿顺时针方向旋转 **90** 度。"
 
 #: ../../source/users/schema/rotate.rst:21
 msgid "To rotate **180** degrees the actions should be repeated once."
-msgstr "要旋转 **180** 度，动作应该重复一次 。"
+msgstr "要旋转 **180** 度，需重复一次上述操作。"
 
 #: ../../source/users/schema/rotate.rst:22
 msgid "To rotate **270** degrees the actions should be repeated twice."
-msgstr "要旋转 **270** 度，动作应该重复两次 。"
+msgstr "要旋转 **270** 度，需重复两次上述操作。"
 
 #: ../../source/users/schema/rotate.rst:26
 msgid ""
 "Multiples objects can be rotated at the same time `selecting multiples "
 "object`_"
-msgstr "多个对象可以同时旋转 `选择多个对象 <selecting multiples object_>`_"
+msgstr "可以 `选择多个对象 <selecting multiples object_>`_ 来同时旋转多个对象。"
 
 #: ../../source/users/schema/rotate.rst:28
 msgid ""
 "Rotating objects can be done from `menu bar`_, `toolbar`_, by right click on"
 " the object and using the corresponding keyboard shortcut."
-msgstr "旋转对象可以从 `菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_ 中通过右键点击对象并使用相应的键盘快捷键完成。"
+msgstr "旋转对象可以通过 `菜单栏 <menu bar_>`_ 、`工具栏 <toolbar_>`_ 、右键单击对象以及相应的键盘快捷键完成。"
 
 #: ../../source/users/schema/rotate.rst:32
 msgid "Rotate object from menu bar"
@@ -85,11 +85,11 @@ msgstr "从菜单栏旋转对象"
 #: ../../source/users/schema/rotate.rst:45
 #: ../../source/users/schema/rotate.rst:70
 msgid "`Select the object`_ which should be rotated."
-msgstr "`选择应当旋转的对象 <Select the object_>`_。"
+msgstr "`选择要旋转的对象 <Select the object_>`_ 。"
 
 #: ../../source/users/schema/rotate.rst:35
 msgid "Select **Edit > Rotate** menu item to rotate the object."
-msgstr "选择 **编辑 > 旋转** 菜单项来旋转对象。"
+msgstr "选择 **编辑 > 旋转** 菜单项以旋转对象。"
 
 #: ../../source/users/schema/rotate.rst:40
 msgid "Figure: QElectroTech Edit menu"
@@ -102,33 +102,33 @@ msgstr "从工具栏旋转对象"
 #: ../../source/users/schema/rotate.rst:46
 msgid ""
 "Select the icon |transform-rotate| from `toolbar`_ to rotate the object."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |transform-rotate| 来旋转对象。"
+msgstr "从 `工具栏 <toolbar_>`_ 中选择 |transform-rotate| 图标以旋转对象。"
 
 #: ../../source/users/schema/rotate.rst:48
 msgid "transform-rotate"
-msgstr "变换旋转"
+msgstr "旋转图标"
 
 #: ../../source/users/schema/rotate.rst:52
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**."
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 工具** 将其显示出来。"
 
 #: ../../source/users/schema/rotate.rst:55
 msgid "Rotate object by right click"
-msgstr "右键旋转对象"
+msgstr "通过右键单击旋转对象"
 
 #: ../../source/users/schema/rotate.rst:57
 msgid "Right click on the object which should be rotated."
-msgstr "右键单击应旋转的对象。"
+msgstr "右键单击要旋转的对象。"
 
 #: ../../source/users/schema/rotate.rst:58
 msgid "Select the option **Rotate** to delete the object."
-msgstr "选择 **旋转** 删除对象。"
+msgstr "选择 **旋转** 选项以旋转对象。"
 
 #: ../../source/users/schema/rotate.rst:63
 msgid "Figure: QElectroTech right click PopUP window"
-msgstr "图：右键点击 PopUP 窗口的QElectroTech"
+msgstr "图：QElectroTech 右键单击弹出窗口"
 
 #: ../../source/users/schema/rotate.rst:66
 msgid "Rotate object using keyboard shortcut"
@@ -138,14 +138,14 @@ msgstr "使用键盘快捷键旋转对象"
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/schema/rotate.rst:71
 msgid "Press ``Space`` to rotate the object."
-msgstr "按 ``Space`` 旋转对象。"
+msgstr "按 ``Space`` 键旋转对象。"
 
 #: ../../source/users/schema/rotate.rst:75
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "关于 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

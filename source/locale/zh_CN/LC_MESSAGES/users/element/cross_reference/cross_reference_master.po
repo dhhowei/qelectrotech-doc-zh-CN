@@ -32,15 +32,16 @@ msgid ""
 "manage the control signal can define the action from many different "
 "components of the device."
 msgstr ""
-"一个主元件可以有许多奴隶元素链接。QElectroTech允许一个主元件有多个交叉引用定义，这个特性与物理设备类似，管理控制信号的组件可以定义来自设备许多不同组件的动作。"
+"一个主元件可以关联多个从元件。QElectroTech "
+"允许一个主元件定义多个交叉引用。这一特性与物理设备类似：管理控制信号的部件可以定义设备中许多不同部件的动作。"
 
 #: ../../source/users/element/cross_reference/cross_reference_master.rst:15
 msgid "Figure: QElectroTech master element cross reference"
-msgstr "图：QElectroTech主元件交叉参考"
+msgstr "图：QElectroTech 主元件交叉引用"
 
 #: ../../source/users/element/cross_reference/cross_reference_master.rst:17
 msgid ""
 "The master element is the element which should appear at the Bill of "
 "Materials (BOM), it s the element with all the information. All slave "
 "element linked are following the master element."
-msgstr "主元件是材料法案(BOM)中应该出现的元素，它是所有信息的元素。所有链接的奴隶元素都遵循主元件。"
+msgstr "主元件是应出现在物料清单（BOM）中的元件，即包含全部信息的元件。所有关联的从元件都从属于主元件。"

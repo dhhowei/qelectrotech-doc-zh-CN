@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/reports/summary/create_summary.rst:5
 msgid "Create summary"
-msgstr "创建摘要"
+msgstr "创建汇总表"
 
 #: ../../source/users/reports/summary/create_summary.rst:7
 msgid ""
@@ -31,28 +31,28 @@ msgid ""
 "from the different `folios`_. QElectroTech allows creating the project "
 "summary automatically."
 msgstr ""
-"A`项目 <project_>`_ 可以是一组 `图幅 <folios_>`_，QElectroTech提供了制作一个摘要的可能性，项目索引，显示不同 "
-"`图幅 <folios_>`_ 的信息。QEctroTech允许自动创建项目摘要。"
+"`项目 <project_>`_ 可以是一组 `图幅 <folios_>`_，QElectroTech 提供了制作汇总表（项目索引）的功能，可显示不同 "
+"`图幅 <folios_>`_ 的信息。QElectroTech 允许自动创建项目汇总表。"
 
 #: ../../source/users/reports/summary/create_summary.rst:13
 msgid "Figure: QElectroTech list of folios"
-msgstr "图：QElectroTech 光圈列表"
+msgstr "图：QElectroTech 图幅列表"
 
 #: ../../source/users/reports/summary/create_summary.rst:15
 msgid "To create a project summary:"
-msgstr "要创建项目摘要："
+msgstr "创建项目汇总表："
 
 #: ../../source/users/reports/summary/create_summary.rst:17
 msgid ""
 "Activate the folio where the summary table has to be created in the "
 "`workspace`_."
-msgstr "激活 `工作区 <workspace_>`_ 中必须创建总表的框。"
+msgstr "在 `工作区 <workspace_>`_ 中激活要在其中创建汇总表的图幅。"
 
 #: ../../source/users/reports/summary/create_summary.rst:18
 msgid ""
 "Select **Project > Add a summary** to display the configuration PopUp window"
 " of the summary creator."
-msgstr "选择 **项目 > 添加摘要** 以显示摘要创建者的配置弹出窗口 。"
+msgstr "选择 **项目 > 添加汇总表**，以显示汇总表创建器的配置弹出窗口。"
 
 #: ../../source/users/reports/summary/create_summary.rst:23
 #: ../../source/users/reports/summary/create_summary.rst:33
@@ -62,21 +62,21 @@ msgstr "图：QElectroTech 项目菜单"
 
 #: ../../source/users/reports/summary/create_summary.rst:26
 msgid "Go to **Display** tab to define display table properties."
-msgstr "转到 **Display** 标签，以定义显示表属性 。"
+msgstr "转到 **Display** 标签页，以定义显示表属性。"
 
 #: ../../source/users/reports/summary/create_summary.rst:27
 msgid "Define the **Table name** which will identify the table."
-msgstr "定义将标明表格的 **表名称**。"
+msgstr "定义用于标识该表格的 **表名称**。"
 
 #: ../../source/users/reports/summary/create_summary.rst:28
 msgid ""
 "Configure the display table settings (header and table cells properties, "
 "auto adjustment of table size, etc.)."
-msgstr "配置显示表设置(标题和表格单元格属性，表格大小的自动调整等)."
+msgstr "配置显示表设置（表头和表格单元格属性、表格大小的自动调整等）。"
 
 #: ../../source/users/reports/summary/create_summary.rst:36
 msgid "Go to **Content** tab to define table columns."
-msgstr "转到 **Content** 标签来定义表格列 。"
+msgstr "转到 **Content** 标签页以定义表格列。"
 
 #: ../../source/users/reports/summary/create_summary.rst:37
 msgid "Modify the table content using the following commands:"
@@ -88,7 +88,7 @@ msgstr "图标"
 
 #: ../../source/users/reports/summary/create_summary.rst:40
 msgid "Action"
-msgstr "行动"
+msgstr "操作"
 
 #: ../../source/users/reports/summary/create_summary.rst:40
 msgid "Keyboard shortcut"
@@ -100,7 +100,7 @@ msgstr "|go_up|"
 
 #: ../../source/users/reports/summary/create_summary.rst:71
 msgid "go_up"
-msgstr "上调"
+msgstr "向上"
 
 #: ../../source/users/reports/summary/create_summary.rst:42
 msgid "Move up this field"
@@ -111,7 +111,7 @@ msgstr "向上移动此字段"
 #: ../../source/users/reports/summary/create_summary.rst:46
 #: ../../source/users/reports/summary/create_summary.rst:48
 msgid "Double-click on element"
-msgstr "双击元素"
+msgstr "双击元件"
 
 #: ../../source/users/reports/summary/create_summary.rst:44
 msgid "|list_add|"
@@ -119,11 +119,11 @@ msgstr "|list_add|"
 
 #: ../../source/users/reports/summary/create_summary.rst:72
 msgid "list_add"
-msgstr "列表添加"
+msgstr "添加"
 
 #: ../../source/users/reports/summary/create_summary.rst:44
 msgid "Add field to display list"
-msgstr "添加字段到显示列表"
+msgstr "向显示列表添加字段"
 
 #: ../../source/users/reports/summary/create_summary.rst:46
 msgid "|list_remove|"
@@ -131,7 +131,7 @@ msgstr "|list_remove|"
 
 #: ../../source/users/reports/summary/create_summary.rst:73
 msgid "list_remove"
-msgstr "列表( R)"
+msgstr "移除"
 
 #: ../../source/users/reports/summary/create_summary.rst:46
 msgid "Remove field from display list"
@@ -143,7 +143,7 @@ msgstr "|go_down|"
 
 #: ../../source/users/reports/summary/create_summary.rst:70
 msgid "go_down"
-msgstr "下行( L)"
+msgstr "向下"
 
 #: ../../source/users/reports/summary/create_summary.rst:48
 msgid "Move down this field"
@@ -153,20 +153,20 @@ msgstr "下移这个字段"
 msgid ""
 "The content request configuration can be saved and chosen from "
 "**Configuration** section to increase working efficiency."
-msgstr "内容请求配置可以从 **配置** 部分保存和选择，以提高工作效率。"
+msgstr "内容请求配置可从 **配置** 部分保存和选择，以提高工作效率。"
 
 #: ../../source/users/reports/summary/create_summary.rst:62
 msgid ""
 "QElectroTech is working with SQLite database, summary table content can also"
 " be defined by SQL query."
-msgstr "QElectroTech正与SQLite数据库合作，总表内容也可以通过SQL查询来定义。"
+msgstr "QElectroTech 使用 SQLite 数据库，汇总表内容也可以通过 SQL 查询来定义。"
 
 #: ../../source/users/reports/summary/create_summary.rst:64
 msgid ""
 "Once the desired configuration is defined, press **OK** to create summary "
 "tables."
-msgstr "一旦定义了想要的配置，按 **OK** 创建汇总表。"
+msgstr "定义所需配置后，按 **OK** 创建汇总表。"
 
 #: ../../source/users/reports/summary/create_summary.rst:68
 msgid "The project summary can be created, modified and updated at any time."
-msgstr "项目概要可以随时创建，修改和更新。"
+msgstr "项目汇总表可随时创建、修改和更新。"

@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/schema/select/index.rst:5
 msgid "Select objects from workspace"
-msgstr "从工作空间选择对象"
+msgstr "从工作区选择对象"

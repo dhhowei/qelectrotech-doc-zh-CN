@@ -22,8 +22,8 @@ msgstr ""
 
 #: ../../source/users/reports/conductor_list.rst:5
 msgid "Conductor list"
-msgstr "导师列表"
+msgstr "导体列表"
 
 #: ../../source/users/reports/conductor_list.rst:7
 msgid "Feature still not available in QElectroTech 0.8"
-msgstr "在 QElectroTech 中仍不具备特性 0.8"
+msgstr "QElectroTech 0.8 中仍不具备此功能"

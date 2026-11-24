@@ -22,54 +22,54 @@ msgstr ""
 
 #: ../../source/users/schema/element/references/slave_item_untie.rst:5
 msgid "Untie master item"
-msgstr "解开主项"
+msgstr "解除主元件项绑定"
 
 #: ../../source/users/schema/element/references/slave_item_untie.rst:7
 msgid ""
 "Some times is necessary to delete previous work, QElectroTech allows "
 "breaking/deleting `links between elements (cross references)`_."
 msgstr ""
-"有时需要删除之前的作品，QElectroTech允许断/删除 `元素之间的链接(交叉引用) <links between elements (cross"
-" references)_>`_。"
+"有时需要删除之前的工作。QElectroTech 允许断开或删除 `元件之间的链接（交叉引用） <links between elements "
+"(cross references)_>`_ 。"
 
 #: ../../source/users/schema/element/references/slave_item_untie.rst:10
 msgid "A `master element`_ can be unlinked from a `slave element`_ as follow:"
-msgstr "A`主元件 <master element_>`_ 可与 `奴隶元件 <slave element_>`_ 脱钩如下："
+msgstr "`主元件 <master element_>`_ 可按以下步骤与 `从元件 <slave element_>`_ 解除链接："
 
 #: ../../source/users/schema/element/references/slave_item_untie.rst:12
 msgid ""
 "Select the `Slave element`_ which should be unlinked from the `project "
 "collection`_ or from the `workspace`_."
 msgstr ""
-"选择 `奴隶元素 <Slave element_>`_，该元素应与 `元件集合 <project collection_>`_ 或 `工作区 "
-"<workspace_>`_ 脱链接。"
+"从 `项目集合 <project collection_>`_ 或 `工作区 <workspace_>`_ 中选择要解除链接的 `从元件 <Slave "
+"element_>`_ 。"
 
 #: ../../source/users/schema/element/references/slave_item_untie.rst:13
 msgid ""
 "Right click on the selected `element`_ and choose the option **Edit the "
 "element**."
-msgstr "右键点击选中的 `元件 <element_>`_ 并选择选项 **编辑元素** 。"
+msgstr "右键单击选中的 `元件 <element_>`_ ，选择 **编辑元件** 选项。"
 
 #: ../../source/users/schema/element/references/slave_item_untie.rst:18
 msgid "Figure: QElectroTech element options"
-msgstr "图：QElectroTech 元素选项"
+msgstr "图：QElectroTech 元件选项"
 
 #: ../../source/users/schema/element/references/slave_item_untie.rst:20
 msgid ""
 "`Display`_ the **Cross-reference (Slave)** tab from the element editor PopUP"
 " window"
-msgstr "`显示 <Display_>`_ 元素编辑器 PopUP 窗口的 **Cross- reference (Slave)** 标签"
+msgstr "在元件编辑器弹出窗口中 `显示 <Display_>`_ **交叉引用（从元件）** 标签页"
 
 #: ../../source/users/schema/element/references/slave_item_untie.rst:25
 msgid "Figure: QElectroTech cross reference tab element properties"
-msgstr "图：QElectroTech 交叉引用标签元素属性"
+msgstr "图：QElectroTech 交叉引用标签页中的元件属性"
 
 #: ../../source/users/schema/element/references/slave_item_untie.rst:27
 msgid ""
 "Press **Unlink** to delete the `cross reference`_ with the `master "
 "element`_."
 msgstr ""
-"按 **unlink** 删除带有 `主元件 <cross reference_>`_ 的 `交叉引用 <master element_>`_。"
+"按 **解除链接** 删除与 `主元件 <master element_>`_ 的 `交叉引用 <cross reference_>`_ 。"
 
 #: ../../source/users/schema/element/references/slave_item_untie.rst:28
 msgid "Press **Apply** to accept and save the changes."

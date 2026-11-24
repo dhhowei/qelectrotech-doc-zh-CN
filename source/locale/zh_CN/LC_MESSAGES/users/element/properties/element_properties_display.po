@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/element/properties/element_properties_display.rst:5
 msgid "Display element properties"
-msgstr "显示元素属性"
+msgstr "显示元件属性"
 
 #: ../../source/users/element/properties/element_properties_display.rst:7
 msgid ""
@@ -31,9 +31,9 @@ msgid ""
 "properties panel`_, the properties can be displayed from `menu bar`_, "
 "`workspace`_ or using keyboard shortcut."
 msgstr ""
-"`元素属性 <element properties_>`_ 可以在 `选择属性面板 <selection properties panel_>`_ 或 "
-"PopUp 窗口中显示。在没有 `选择属性面板 <selection properties panel_>`_ 的情况下，属性可以从 `菜单栏 "
-"<menu bar_>`_，`工作区 <workspace_>`_ 或使用键盘快捷键显示 。"
+"`元件属性 <element properties_>`_ 可在 `选择属性面板 <selection properties panel_>`_ "
+"中或弹出窗口中显示。如果未使用 `选择属性面板 <selection properties panel_>`_，则可以从 `菜单栏 <menu "
+"bar_>`_、`工作区 <workspace_>`_ 显示属性，或使用键盘快捷键显示。"
 
 #: ../../source/users/element/properties/element_properties_display.rst:13
 msgid ""
@@ -41,30 +41,30 @@ msgid ""
 "`element`_ is enough to display automatically the `element properties`_ at "
 "the `panel`_."
 msgstr ""
-"在使用 `选择属性面板 <selection properties panel_>`_ 时，选择 `元件 <element_>`_ 就足以在 `小板 "
-"<element properties_>`_ 自动显示 `元素属性 <panel_>`_。"
+"如果使用 `选择属性面板 <selection properties panel_>`_，只需选择 `元件 <element_>`_，即可在 `面板 "
+"<panel_>`_ 中自动显示 `元件属性 <element properties_>`_。"
 
 #: ../../source/users/element/properties/element_properties_display.rst:16
 msgid ""
 "If the `Selection properties panel`_ is not displayed, it can be displayed "
 "from **Settings > Display > Selection properties**."
 msgstr ""
-"如果 `选择属性面板 <Selection properties panel_>`_ 没有显示，可以从 **设置 > 显示 > 选择属性** 显示。"
+"如果未显示 `选择属性面板 <Selection properties panel_>`_，可从 **设置 > 显示 > 选择属性** 中显示。"
 
 #: ../../source/users/element/properties/element_properties_display.rst:20
 msgid "Display element properties from menu bar"
-msgstr "从菜单栏显示元素属性"
+msgstr "从菜单栏显示元件属性"
 
 #: ../../source/users/element/properties/element_properties_display.rst:22
 #: ../../source/users/element/properties/element_properties_display.rst:46
 msgid "Select the `element`_ which `properties`_ should be displayed."
-msgstr "选择 `元件 <element_>`_ 哪个 `属性 <properties_>`_ 应显示。"
+msgstr "选择要显示 `属性 <properties_>`_ 的 `元件 <element_>`_。"
 
 #: ../../source/users/element/properties/element_properties_display.rst:23
 msgid ""
 "Select **Edit > Edit this element** menu item to display the element "
 "properties PopUp window."
-msgstr "选择 **Edit > 编辑此元素** 菜单项以显示元素属性 PopUp 窗口 。"
+msgstr "选择 **编辑 > 编辑此元件** 菜单项以显示元件属性弹出窗口。"
 
 #: ../../source/users/element/properties/element_properties_display.rst:28
 msgid "Figure: QElectroTech Edit menu"
@@ -72,38 +72,38 @@ msgstr "图：QElectroTech 编辑菜单"
 
 #: ../../source/users/element/properties/element_properties_display.rst:31
 msgid "Display element properties from workspace"
-msgstr "从工作空间显示元素属性"
+msgstr "从工作区显示元件属性"
 
 #: ../../source/users/element/properties/element_properties_display.rst:33
 msgid "Right click on the `element`_ which `properties`_ should be displayed."
-msgstr "右键点击 `元件 <element_>`_，该元素应显示 `属性 <properties_>`_ 。"
+msgstr "右键单击要显示 `属性 <properties_>`_ 的 `元件 <element_>`_。"
 
 #: ../../source/users/element/properties/element_properties_display.rst:34
 msgid ""
 "Select **Edit this element** option to display the element properties PopUp "
 "window."
-msgstr "选择 **编辑此元素** 选项以显示元素属性弹出窗口 。"
+msgstr "选择 **编辑此元件** 选项以显示元件属性弹出窗口。"
 
 #: ../../source/users/element/properties/element_properties_display.rst:39
 msgid "Figure: QElectroTech element options"
-msgstr "图：QElectroTech 元素选项"
+msgstr "图：QElectroTech 元件选项"
 
 #: ../../source/users/element/properties/element_properties_display.rst:42
 msgid "Display element properties using keyboard shortcut"
-msgstr "使用键盘快捷键显示元素属性"
+msgstr "使用键盘快捷键显示元件属性"
 
 #: ../../source/users/element/properties/element_properties_display.rst:44
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键提高工作效率。"
 
 #: ../../source/users/element/properties/element_properties_display.rst:47
 msgid "Press ``Ctrl + e`` to display the element properties PopUp window."
-msgstr "按 ``Ctrl + e`` 显示元素属性 PopUp 窗口。"
+msgstr "按 ``Ctrl + e`` 显示元件属性 弹出窗口。"
 
 #: ../../source/users/element/properties/element_properties_display.rst:51
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "关于 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

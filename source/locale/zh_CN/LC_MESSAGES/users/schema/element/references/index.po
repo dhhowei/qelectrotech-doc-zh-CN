@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/schema/element/references/index.rst:5
 msgid "Working with cross reference"
-msgstr "相互参照"
+msgstr "使用交叉引用"

@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/schema/index.rst:5
 msgid "Schema"
-msgstr "司马"
+msgstr "原理图"

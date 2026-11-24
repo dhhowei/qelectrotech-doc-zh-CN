@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/reports/nomenclature/reload_nomenclature.rst:5
 msgid "Reload nomenclature"
-msgstr "重新装入术语"
+msgstr "重新加载物料清单"
 
 #: ../../source/users/reports/nomenclature/reload_nomenclature.rst:7
 msgid ""
@@ -31,12 +31,12 @@ msgid ""
 "`element properties`_ at the nomenclature, the nomenclature has to be "
 "reload."
 msgstr ""
-"当添加任何 `元件 <element_>`_ 或编辑任何 `元素属性 <element property_>`_ 时，更改将不会在名称中自动更新。 "
-"要在名称中更新 `元素属性 <element properties_>`_，术语必须重新加载 。"
+"当添加任何 `元件 <element_>`_ 或编辑任何 `元件属性 <element property_>`_ "
+"时，更改不会自动在物料清单中更新。要在物料清单中更新 `元件属性 <element properties_>`_，必须重新加载物料清单。"
 
 #: ../../source/users/reports/nomenclature/reload_nomenclature.rst:10
 msgid "To reload the nomenclature:"
-msgstr "重新装入名称："
+msgstr "重新加载物料清单："
 
 #: ../../source/users/reports/nomenclature/reload_nomenclature.rst:12
 msgid ""
@@ -44,22 +44,23 @@ msgid ""
 " more than one, to display the nomenclature properties at `selection "
 "properties panel`_."
 msgstr ""
-"在 `选择属性面板 <selection properties panel_>`_ 上显示名称属性，请选择名称表，或者如果有多个名称表之一。"
+"选择物料清单表（如果有多个，则选择其中一个），以在 `选择属性面板 <selection properties panel_>`_ 中显示物料清单属性。"
 
 #: ../../source/users/reports/nomenclature/reload_nomenclature.rst:13
 msgid "Go to **Content** tab."
-msgstr "转到 **Content** 标签 。"
+msgstr "转到 **Content** 标签页。"
 
 #: ../../source/users/reports/nomenclature/reload_nomenclature.rst:14
 msgid ""
 "Click **Reload** |view-refresh| button to update `element properties`_ at "
 "nomenclature."
-msgstr "点击 **重新装入** |view-refresh| 按钮在名称上更新 `元素属性 <element properties_>`_ 。"
+msgstr ""
+"点击 **重新加载** |view-refresh| 按钮，以在物料清单中更新 `元件属性 <element properties_>`_。"
 
 #: ../../source/users/reports/nomenclature/reload_nomenclature.rst:21
 msgid "view-refresh"
-msgstr "重新视图"
+msgstr "刷新"
 
 #: ../../source/users/reports/nomenclature/reload_nomenclature.rst:19
 msgid "Figure: QElectroTech nomenclature properties panel, content tab"
-msgstr "图：QElectroTech 术语属性面板，内容标签"
+msgstr "图：QElectroTech 物料清单属性面板，内容标签页"

@@ -29,8 +29,8 @@ msgid ""
 "The current `title block`_ can be saved from `menu bar`_, `toolbar`_ and "
 "using the corresponding keyboard shortcut."
 msgstr ""
-"当前的 `图框 <title block_>`_ 可以从 `菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_ "
-"中保存，并使用相应的键盘快捷键。"
+"当前的 `图框 <title block_>`_ 可以通过 `菜单栏 <menu bar_>`_ 、`工具栏 <toolbar_>`_ "
+"以及相应的键盘快捷键保存。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:10
 msgid ""
@@ -38,16 +38,16 @@ msgid ""
 "``.titleblock``. The ``.titleblock`` extension is the native extension from "
 "QElectroTech `title blocks`_."
 msgstr ""
-"1 `图框 <title block_>`_ 只有一个文件符合格式 ``.titleblock`` 。 ``.titleblock`` 扩展是 "
-"QElectroTech `图框 <title blocks_>`_ 的本地扩展 。"
+"一个 `图框 <title block_>`_ 仅由格式为 ``.titleblock`` 的单个文件构成。``.titleblock`` 扩展名是 "
+"QElectroTech `图框 <title blocks_>`_ 的原生扩展名。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:14
 msgid "Save title block from menu bar"
-msgstr "从菜单栏中保存图框"
+msgstr "从菜单栏保存图框"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:16
 msgid "Select **File > Save** menu item to save the `title block`_ changes."
-msgstr "选择 **文件 > 保存** 菜单项以保存 `图框 <title block_>`_ 更改 。"
+msgstr "选择 **文件 > 保存** 菜单项以保存 `图框 <title block_>`_ 的更改。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:21
 msgid "Figure: QElectroTech title block editor File menu"
@@ -59,19 +59,19 @@ msgid ""
 "At the case that the opened `title block`_ has to overwrite an existing "
 "`title block`_ or it has to be saved as new `title block`_:"
 msgstr ""
-"如果打开的 `图框 <title block_>`_ 必须覆盖一个现有的 `图框 <title block_>`_，或者必须保存为新的 `图框 "
-"<title block_>`_:"
+"如果打开的 `图框 <title block_>`_ 需要覆盖现有的 `图框 <title block_>`_ ，或者需要保存为新的 `图框 "
+"<title block_>`_ ："
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:26
 msgid ""
 "Select **File > Save as** menu item to display **Save as title block** PopUP"
 " window."
-msgstr "选择 **文件 > 另存为** 菜单项以显示 **保存为图框** PopUP 窗口 。"
+msgstr "选择 **文件 > 另存为** 菜单项以显示 **保存为图框** 弹出窗口。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:31
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:57
 msgid "Figure: QElectroTech Save as title block PopUP window"
-msgstr "图：QElectroTech 另存为图框 PopUP 窗口"
+msgstr "图：QElectroTech 保存为图框弹出窗口"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:33
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:59
@@ -79,8 +79,8 @@ msgid ""
 "Select the `title block`_ which should be overwritten or the `parent "
 "collection`_ and the name for the new `title block`_."
 msgstr ""
-"选择应当覆盖的 `图框 <title block_>`_ 或 `母集 <parent collection_>`_ 和新 `图框 <title "
-"block_>`_ 的名称 。"
+"选择要覆盖的 `图框 <title block_>`_ ，或者选择 `父集合 <parent collection_>`_ 以及新 `图框 <title"
+" block_>`_ 的名称。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:34
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:40
@@ -88,54 +88,54 @@ msgstr ""
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:79
 msgid ""
 "Press **OK** button to save the `title block`_ and close the PopUP window."
-msgstr "按 **OK** 按钮保存 `图框 <title block_>`_ 并关闭 PopUP 窗口 。"
+msgstr "按 **确定** 按钮保存 `图框 <title block_>`_ 并关闭弹出窗口。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:36
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:75
 msgid ""
 "The `title block`_ can also be directly saved as a new file in the Hard Disk"
 " directory desired:"
-msgstr "`图框 <title block_>`_ 也可以作为硬盘目录中希望的新文件直接保存："
+msgstr "`图框 <title block_>`_ 也可以直接另存为所需硬盘目录中的新文件："
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:38
 msgid ""
 "Select **File > Save to a file** menu item to display the File system PopUp "
 "window."
-msgstr "选择 **文件 > 保存到文件** 菜单项以显示文件系统 PopUp 窗口 。"
+msgstr "选择 **文件 > 保存到文件** 菜单项以显示文件系统弹出窗口。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:39
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:78
 msgid "Select the directory and the name from the title block file."
-msgstr "从图框文件中选择目录和名称。"
+msgstr "选择图框文件所在的目录并输入名称。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:43
 msgid "Save title block from toolbar"
-msgstr "从工具栏中保存图框"
+msgstr "从工具栏保存图框"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:45
 msgid ""
 "Select icon |icon_save| from `toolbar`_ to save `title block`_ changes."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |icon_save| 以保存 `图框 <title block_>`_ 更改 。"
+msgstr "从 `工具栏 <toolbar_>`_ 中选择图标 |icon_save| 以保存 `图框 <title block_>`_ 的更改。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:47
 msgid "icon_save"
-msgstr "图标保存"
+msgstr "保存图标"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:52
 msgid ""
 "Select icon |icon_save_as| from `toolbar`_ to display the **Save as title "
 "block** PopUP window."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |icon_save_as| 以显示 **保存为图框** PopUP 窗口。"
+msgstr "从 `工具栏 <toolbar_>`_ 中选择图标 |icon_save_as| 以显示 **保存为图框** 弹出窗口。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:62
 msgid "icon_save_as"
-msgstr "图标( s)"
+msgstr "另存为图标"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:66
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**."
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示。"
+msgstr "如果未显示 `工具栏 <toolbar_>`_ ，可以从 **设置 > 显示 > 工具** 将其显示。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:69
 msgid "Save title block using keyboard shortcut"
@@ -145,18 +145,18 @@ msgstr "使用键盘快捷键保存图框"
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:73
 msgid "Press ``Ctrl + s`` to save the title block changes."
-msgstr "按 ``Ctrl + s`` 保存图框更改 。"
+msgstr "按 ``Ctrl + s`` 保存图框的更改。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:77
 msgid "Press ``Ctrl + Shift + s`` to display the File system PopUp window."
-msgstr "按 ``Ctrl + Shift + s`` 显示文件系统 PopUp 窗口。"
+msgstr "按 ``Ctrl + Shift + s`` 显示文件系统弹出窗口。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:83
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `Menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <Menu bar_>`_ 节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <Menu bar_>`_ 一节。"

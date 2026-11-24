@@ -22,82 +22,81 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:5
 msgid "Edit element properties"
-msgstr "编辑元素属性"
+msgstr "编辑元件属性"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:8
 msgid "Edit element properties from menu bar"
-msgstr "从菜单栏编辑元素属性"
+msgstr "从菜单栏编辑元件属性"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:10
 msgid ""
 "Select **Edit > Edit element properties** menu item to display the element "
 "properties PopUp window."
-msgstr "选择 **Edit > 编辑元素属性** 菜单项以显示元素属性 PopUp 窗口 。"
+msgstr "选择 **编辑 > 编辑元件属性** 菜单项，以显示元件属性弹出窗口。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:15
 msgid "Figure: QElectroTech element editor Edit Menu"
-msgstr "图：QElectroTech 元素编辑器编辑菜单"
+msgstr "图：QElectroTech 元件编辑器“编辑”菜单"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:17
 msgid ""
 "Select the `element family`_, the base type from the `element`_, at **Type**"
 " tab."
 msgstr ""
-"在 **Type** 标签中选择 `元素家族 <element family_>`_，从 `元件 <element_>`_ 中选择基准类型 。"
+"在 **Type** （类型）标签页中选择 `元件族 <element family_>`_ ，即 `元件 <element_>`_ 的基本类型。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:22
 msgid "Figure: QElectroTech element properties **Type** tab"
-msgstr "图：QElectroTech 元素属性 **Type** 标签"
+msgstr "图：QElectroTech 元件属性的 **Type** （类型）标签页"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:24
 msgid "For `simple`_, `master`_ or `terminal block`_ elements:"
-msgstr ""
-"`简单 <simple_>`_、`master <master_>`_ 或 `terminal 块 <terminal block_>`_ 元素："
+msgstr "对于 `简单 <simple_>`_ 、`主元件 <master_>`_ 或 `端子排 <terminal block_>`_ 元件："
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:26
 msgid "Go to **Information** tab."
-msgstr "转到 **信息** 标签 。"
+msgstr "转到 **Information** （信息）标签页。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:31
 msgid "Figure: QElectroTech element properties Information tab"
-msgstr "图：QElectroTech元素属性信息标签"
+msgstr "图：QElectroTech 元件属性的 Information 标签页"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:33
 msgid "Fill each predefined field with the desired information."
-msgstr "以想要的信息填充每个预定义的字段。"
+msgstr "在每一个预定义字段中填写所需信息。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:34
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:38
 msgid ""
 "Press the button **OK** to accept and close the element properties PopUp "
 "window."
-msgstr "按下按钮 **OK** 接受并关闭元素属性弹出窗口。"
+msgstr "点击 **OK** 按钮以确认并关闭元件属性弹出窗口。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:36
 msgid "For  `slave`_ or `reference folio`_ elements:"
-msgstr "`奴隶 <slave_>`_ 或 `参考框 <reference folio_>`_ 元素："
+msgstr "对于 `从元件 <slave_>`_ 或 `参考图幅 <reference folio_>`_ 元件："
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:42
 msgid "Edit element properties from toolbar"
-msgstr "从工具栏中编辑元素属性"
+msgstr "从工具栏编辑元件属性"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:44
 msgid ""
 "Press the icon |element-edit| from `toolbar`_ to display the element "
 "properties PopUp window."
-msgstr "按下图标 |element-edit| 从 `工具栏 <toolbar_>`_ 以显示元素属性弹出窗口。"
+msgstr "点击 `工具栏 <toolbar_>`_ 上的 |element-edit| 图标，以显示元件属性弹出窗口。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:47
 msgid "element-edit"
-msgstr "元素编辑器"
+msgstr "element-edit"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:45
 msgid ""
 "Follow same procedure defined at the previous section starting from step 2."
-msgstr "从步骤2开始，遵循上一节界定的相同程序。"
+msgstr "按照上一节所述方法，从第 2 步开始操作。"
 
 #: ../../source/users/element/element_editor/edition/properties/edit_element_prop.rst:51
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Element**."
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 元素** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 元件** 将其显示出来。"

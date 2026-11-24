@@ -22,23 +22,23 @@ msgstr ""
 
 #: ../../source/users/conductor/properties/conductor_appearance.rst:7
 msgid "Conductor appearance"
-msgstr "指挥"
+msgstr "导体外观"
 
 #: ../../source/users/conductor/properties/conductor_appearance.rst:9
 msgid ""
 "The color, type and width from the line of the schema that represents the "
 "conductor can be defined. A line can have a main color and, if desired, a "
 "secondary color."
-msgstr "代表导线的图案线的颜色，类型和宽度可以定义。一条线可以有主色，如果需要，也可以有次色。"
+msgstr "可以定义原理图中代表导体的线条的颜色、类型和宽度。线条可以有一种主色，如有需要，还可以有一种次色。"
 
 #: ../../source/users/conductor/properties/conductor_appearance.rst:14
 msgid ""
 "The secondary line is used when a dashes line with double color is desired."
-msgstr "当需要双色的破折线时使用副线。"
+msgstr "当需要双色虚线时，就会使用副线。"
 
 #: ../../source/users/conductor/properties/conductor_appearance.rst:19
 msgid "Figure: Conductor with red secondary color"
-msgstr "图：红色二次颜色的导师"
+msgstr "图：带红色次色的导体"
 
 #: ../../source/users/conductor/properties/conductor_appearance.rst:24
 msgid "Figure: Multiline conductor appearance"
@@ -48,17 +48,17 @@ msgstr "图：多线导体外观"
 msgid ""
 "The different types of lines are: **Solid**, **Dashed** and **Dots and "
 "dashes**."
-msgstr "不同类型的线条有：**索利德**,**达谢德** 和 **多茨和破折号**."
+msgstr "线条的不同类型有：**实线** 、**虚线** 和 **点划线** 。"
 
 #: ../../source/users/conductor/properties/conductor_appearance.rst:27
 msgid "The possible colors are defined by the `RGB scale range`_."
-msgstr "可能的颜色由 `RGB比例范围 <RGB scale range_>`_ 定义。"
+msgstr "可能的颜色由 `RGB 色阶范围 <RGB scale range_>`_ 定义。"
 
 #: ../../source/users/conductor/properties/conductor_appearance.rst:28
 msgid ""
 "The possible line thickness are between 0.4 and 10 mm (0.4, 0.6, 0.8, 1.0, "
 "1.2, 1.4, 1.6, ... , 10)."
-msgstr "可能的线厚度在0.4至10毫米(0.4,0.6,0.8,1.0,1.2,1.4,1.6,.,10)之间。"
+msgstr "可能的线宽在 0.4 到 10 mm 之间（0.4、0.6、0.8、1.0、1.2、1.4、1.6、…、10）。"
 
 #: ../../source/users/conductor/properties/conductor_appearance.rst:32
 msgid ""
@@ -66,10 +66,10 @@ msgid ""
 "before starting to draw conductors at the folio. This feature increase the "
 "working efficiency and avoid defining the appearance conductor by conductors"
 " after their creation."
-msgstr "QElectroTech 提供了在folio开始绘制导师前预先定义导师外观的选项，这个特性提高了工作效率，避免在创建后由导师定义外观导师。"
+msgstr "QElectroTech 提供了在图幅上开始绘制导体之前预定义导体外观的选项。此功能可提高工作效率，并避免在创建导体后逐个定义导体外观。"
 
 #: ../../source/users/conductor/properties/conductor_appearance.rst:36
 msgid ""
 "For more information about appearance pre-definition, refer to `folio "
 "properties`_ section."
-msgstr "关于外观前定义的更多信息，请参见 `follio属性 <folio properties_>`_ 节。"
+msgstr "关于外观预定义的更多信息，请参阅 `图幅属性 <folio properties_>`_ 一节。"

@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/schema/conductor/conductor_modify.rst:5
 msgid "Modify conductor"
-msgstr "修改导线"
+msgstr "修改导体"
 
 #: ../../source/users/schema/conductor/conductor_modify.rst:7
 msgid ""
@@ -31,8 +31,8 @@ msgid ""
 "understanding of the `schema`_ is some times necessary. QElectroTech allows "
 "modifying the route."
 msgstr ""
-"QElectroTech在默认情况下绘制一个 `导体 <conductor_>`_，将水平线和垂直线最小化。改变 `导体 <conductor_>`_ "
-"的路由，以明确了解 `schema <schema_>`_，是某些场合需要的。QEctroTech允许修改路由。"
+"默认情况下，QElectroTech 绘制 `导体 <conductor_>`_ 时会尽量减少水平线和垂直线。为了清晰理解 `原理图 "
+"<schema_>`_ ，有时需要更改 `导体 <conductor_>`_ 的路径。QElectroTech 允许修改路径。"
 
 #: ../../source/users/schema/conductor/conductor_modify.rst:14
 msgid "Figure: QElectroTech modify conductor"
@@ -40,18 +40,18 @@ msgstr "图：QElectroTech 修改导体"
 
 #: ../../source/users/schema/conductor/conductor_modify.rst:16
 msgid "To modify the route of a `conductor`_:"
-msgstr "修改 `导体 <conductor_>`_ 的路由："
+msgstr "要修改 `导体 <conductor_>`_ 的路径："
 
 #: ../../source/users/schema/conductor/conductor_modify.rst:18
 msgid "`Select the conductor`_ which route should be modified."
-msgstr "`选择导线 <Select the conductor_>`_ 哪些路由应当修改。"
+msgstr "`选择要修改路径的导体 <Select the conductor_>`_ 。"
 
 #: ../../source/users/schema/conductor/conductor_modify.rst:19
 msgid "Press on a control point, blue points, from the `conductor`_ selected."
-msgstr "按一个控制点，蓝色点，从选定的 `导体 <conductor_>`_。"
+msgstr "按住选中的 `导体 <conductor_>`_ 上的一个控制点（蓝色点）。"
 
 #: ../../source/users/schema/conductor/conductor_modify.rst:20
 msgid ""
 "Without releasing the control point, displace the control point horizontally"
 " or vertically until desired position."
-msgstr "在不释放控制点的情况下，以水平或垂直方式取代控制点，直至期望的位置。"
+msgstr "不要松开控制点，将其水平或垂直拖动到所需位置。"

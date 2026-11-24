@@ -29,7 +29,7 @@ msgid ""
 "The dynamic text field is an object that displays a text that is coming from"
 " a variable value. The text value is changing with the variable is changed, "
 "editing the part is not necessary to change the text content."
-msgstr "动态文本字段是显示来自可变值的文本的对象。文本值随变量变化，编辑部分不需要更改文本内容。"
+msgstr "动态文本字段是一种显示来自变量值的文本的对象。文本值会随变量的变化而变化，无需编辑部件即可更改文本内容。"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst:12
 msgid "Create dynamic text"
@@ -37,7 +37,7 @@ msgstr "创建动态文本"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst:14
 msgid "The text field can only be added to `workspace`_ from `toolbar`_."
-msgstr "文本字段只能从 `工作区 <workspace_>`_ 添加到 `工具栏 <toolbar_>`_。"
+msgstr "文本字段只能从 `工具栏 <toolbar_>`_ 添加到 `工作区 <workspace_>`_ 。"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst:16
 msgid ""
@@ -47,17 +47,17 @@ msgstr "从 `工具栏 <toolbar_>`_ 中选择图标 |icon_dynamic_text| 以添�
 
 #: ../../source/users/element/element_parts/dynamic_text.rst:19
 msgid "icon_dynamic_text"
-msgstr "图标动态文本"
+msgstr "动态文本图标"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst:17
 msgid "Click the positional point from the text field in the `workspace`_."
-msgstr "单击 `工作区 <workspace_>`_ 中文本字段的位置点。"
+msgstr "在 `工作区 <workspace_>`_ 中单击文本字段的放置点。"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst:23
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Parts**."
-msgstr "如果 `工具栏 <toolbar_>`_ 不显示，可以从 **设置 > 显示 > 部件** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **Settings > Display > Parts** 中显示。"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst:26
 msgid "Dynamic text properties"
@@ -67,17 +67,19 @@ msgstr "动态文本属性"
 msgid ""
 "Element part properties can be displayed from `information panel`_ when the "
 "part is selected."
-msgstr "元素部分属性可以在选择该部分时从 `信息面板 <information panel_>`_ 显示。"
+msgstr "选中部件后，可以从 `信息面板 <information panel_>`_ 显示元件部件属性。"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst:33
 msgid ""
 "If the `information panel`_ is not displayed, it can be displayed from "
 "**Settings > Display > Information**."
-msgstr "如果 `信息面板 <information panel_>`_ 未显示，可以从 **设置 > 显示 > 信息** 显示。"
+msgstr ""
+"如果 `信息面板 <information panel_>`_ 未显示，可以从 **Settings > Display > Information**"
+" 中显示。"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst:38
 msgid "Figure: QElectroTech dynamic text field part from element"
-msgstr "图：来自元素的QElectroTech动态文本字段"
+msgstr "图：元件中的 QElectroTech 动态文本字段部件"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst:40
 msgid "QElectroTech allows customizing different text properties:"
@@ -85,15 +87,15 @@ msgstr "QElectroTech 允许自定义不同的文本属性："
 
 #: ../../source/users/element/element_parts/dynamic_text.rst
 msgid "Placement"
-msgstr "职位安排"
+msgstr "放置"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst
 msgid "Position"
-msgstr "立场"
+msgstr "位置"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst:46
 msgid "The dynamic text coordinates (x, y) can be defined."
-msgstr "可定义动态文本坐标(x,y)."
+msgstr "可以定义动态文本的坐标 (x, y)。"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst
 msgid "Rotation"
@@ -102,16 +104,16 @@ msgstr "旋转"
 #: ../../source/users/element/element_parts/dynamic_text.rst:50
 msgid ""
 "The text display angle can be defined in the range of 0 to 360 degrees."
-msgstr "文本显示角度可以定义为0到360度。"
+msgstr "文本显示角度可在 0 到 360 度范围内设置。"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst
 msgid "Frame"
-msgstr "框架"
+msgstr "边框"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst:54
 msgid ""
 "The possibility to display the text inside a rectangle frame is provided."
-msgstr "提供了在矩形框架内显示文本的可能性。"
+msgstr "可以在矩形边框内显示文本。"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst
 msgid "Alignment"
@@ -121,7 +123,7 @@ msgstr "对齐"
 msgid ""
 "The text position inside the frame can be defined. Left, center or right and"
 " top, middle or bottom."
-msgstr "框内的文本位置可以定义。左，中或右以及上，中或下。"
+msgstr "可以定义文本在边框内的位置：左、中或右，以及上、中或下。"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst
 msgid "Content"
@@ -135,7 +137,7 @@ msgstr "来源"
 msgid ""
 "The source content can be user text (similar to static text), element "
 "information parameter or composite text."
-msgstr "源内容可以是用户文本(类似于静态文本),元素信息参数或复合文本。"
+msgstr "源内容可以是用户文本（类似于静态文本）、元件信息参数或复合文本。"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst
 msgid "Size"
@@ -143,7 +145,7 @@ msgstr "大小"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst:68
 msgid "The text size can be defined."
-msgstr "文本大小可以定义。"
+msgstr "可以设置文本大小。"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst
 msgid "Color"
@@ -151,4 +153,4 @@ msgstr "颜色"
 
 #: ../../source/users/element/element_parts/dynamic_text.rst:72
 msgid "The text color can be chosen from RGB color code database."
-msgstr "文本颜色可以从RGB色彩代码数据库中选择。"
+msgstr "文本颜色可以从 RGB 颜色代码数据库中选择。"

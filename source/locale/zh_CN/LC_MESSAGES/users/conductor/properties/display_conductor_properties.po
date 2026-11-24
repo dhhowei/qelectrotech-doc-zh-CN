@@ -28,7 +28,7 @@ msgstr "显示导体属性"
 msgid ""
 "The conductor properties window can be displayed from `menu bar`_, from "
 "`workspace`_ and using the corresponding keyboard shortcut."
-msgstr "导电器属性窗口可以从 `菜单栏 <menu bar_>`_ 显示，从 `工作区 <workspace_>`_ 并使用相应的键盘快捷键显示。"
+msgstr "可以从 `菜单栏 <menu bar_>`_ 、`工作区 <workspace_>`_ 以及使用相应的键盘快捷键显示导体属性窗口。"
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:13
 msgid "Display conductor properties from menu bar"
@@ -37,13 +37,13 @@ msgstr "从菜单栏显示导体属性"
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:15
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:39
 msgid "Select the `conductor`_ which `properties`_ should be displayed."
-msgstr "选择 `导体 <conductor_>`_ 哪个 `属性 <properties_>`_ 应显示。"
+msgstr "选择要显示其 `属性 <properties_>`_ 的 `导体 <conductor_>`_ 。"
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:16
 msgid ""
 "Select **Edit > Edit conductor** menu item to display the conductor "
 "properties PopUp window."
-msgstr "选择 **编辑 > 编辑导线** 菜单项以显示导线属性 PopUp 窗口 。"
+msgstr "选择 **编辑 > 编辑导体** 菜单项，以显示导体属性弹出窗口。"
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:21
 msgid "Figure: QElectroTech Edit menu"
@@ -51,26 +51,26 @@ msgstr "图：QElectroTech 编辑菜单"
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:24
 msgid "Display conductor properties from workspace"
-msgstr "从工作空间显示导体属性"
+msgstr "从工作区显示导体属性"
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:26
 msgid ""
 "Right click on the `conductor`_ which `properties`_ should be displayed."
-msgstr "右键点击 `导体 <conductor_>`_，该导体应显示 `属性 <properties_>`_。"
+msgstr "右键单击要显示其 `属性 <properties_>`_ 的 `导体 <conductor_>`_ 。"
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:27
 msgid ""
 "Select **Edit conductor** option to display the conductor properties PopUp "
 "window."
-msgstr "选择 **编辑导线** 选项以显示导线属性弹出窗口 。"
+msgstr "选择 **编辑导体** 选项，以显示导体属性弹出窗口。"
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:32
 msgid "Figure: QElectroTech conductor options"
-msgstr "图：QElectroTech导电选项"
+msgstr "图：QElectroTech 导体选项"
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:35
 msgid "Display conductor properties using keyboard shortcut"
-msgstr "使用键盘快捷键显示导电器属性"
+msgstr "使用键盘快捷键显示导体属性"
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:37
 msgid ""
@@ -80,7 +80,7 @@ msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:40
 msgid "Press ``Ctrl + e`` to display the conductor properties PopUp window."
-msgstr "按 ``Ctrl + e`` 显示导体属性 PopUp 窗口。"
+msgstr "按 ``Ctrl + e`` 显示导体属性弹出窗口。"
 
 #: ../../source/users/conductor/properties/display_conductor_properties.rst:44
 msgid ""

@@ -22,19 +22,19 @@ msgstr ""
 
 #: ../../source/users/export&print/export_schema.rst:4
 msgid "Export schema"
-msgstr "导出方案"
+msgstr "导出原理图"
 
 #: ../../source/users/export&print/export_schema.rst:6
 msgid ""
 "QElectroTech allows exporting the different `folios`_ to many type of "
 "formats: **PNG**, **JPEG**, **Bitmap**, **SVG** and **DWX**."
 msgstr ""
-"QElectroTech允许将不同的 `图幅 <folios_>`_ "
-"导出到许多类型的格式：**PNG**,**JPEG**,**Bitmap**,**SVG** 和 **DWX**."
+"QElectroTech 允许将不同的 `图幅 <folios_>`_ "
+"导出为多种格式：**PNG**、**JPEG**、**Bitmap**、**SVG** 和 **DWX**。"
 
 #: ../../source/users/export&print/export_schema.rst:9
 msgid "Select **File > Export** menu item to display exporting PopUp window."
-msgstr "选择 **文件 > 导出** 菜单项以显示导出弹出窗口 。"
+msgstr "选择 **文件 > 导出** 菜单项，以显示导出弹出窗口。"
 
 #: ../../source/users/export&print/export_schema.rst:14
 msgid "Figure: QElectroTech file menu"
@@ -46,16 +46,16 @@ msgid ""
 "efficiency.     For more information about QElectroTech keyboard shortcut, "
 "refer to `menu bar`_ section."
 msgstr ""
-"QElectroTech允许使用键盘快捷键来提高工作效率。有关QEctroTech键盘快捷键的更多信息，请参考 `菜单栏 <menu bar_>`_ "
-"一节。"
+"QElectroTech 允许使用键盘快捷键来提高工作效率。有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu "
+"bar_>`_ 一节。"
 
 #: ../../source/users/export&print/export_schema.rst:23
 msgid "Press ``Ctrl + Shift + X`` to display exporting PopUp window."
-msgstr "按 ``Ctrl + Shift + X`` 显示导出弹出窗口 。"
+msgstr "按 ``Ctrl + Shift + X`` 显示导出弹出窗口。"
 
 #: ../../source/users/export&print/export_schema.rst:26
 msgid "Choose the `folios`_ you wish to export and specify their size."
-msgstr "选择要导出和指定大小的 `图幅 <folios_>`_ 。"
+msgstr "选择要导出的 `图幅 <folios_>`_ 并指定其大小。"
 
 #: ../../source/users/export&print/export_schema.rst:31
 msgid "Figure: QElectroTech export PopUp window"
@@ -63,7 +63,7 @@ msgstr "图：QElectroTech 导出弹出窗口"
 
 #: ../../source/users/export&print/export_schema.rst:33
 msgid "Choose target directory and format."
-msgstr "选择目标目录和格式 。"
+msgstr "选择目标目录和格式。"
 
 #: ../../source/users/export&print/export_schema.rst:38
 msgid "Figure: QElectroTech exporting formats combo box"
@@ -71,7 +71,7 @@ msgstr "图：QElectroTech 导出格式组合框"
 
 #: ../../source/users/export&print/export_schema.rst:40
 msgid "Choose rendering options."
-msgstr "选择渲染选项 。"
+msgstr "选择渲染选项。"
 
 #: ../../source/users/export&print/export_schema.rst:45
 msgid "Figure: QElectroTech rendering options"
@@ -79,13 +79,13 @@ msgstr "图：QElectroTech 渲染选项"
 
 #: ../../source/users/export&print/export_schema.rst:47
 msgid "Press **Export** button to create the files."
-msgstr "按 **输出** 按钮创建文件 。"
+msgstr "按 **导出** 按钮创建文件。"
 
 #: ../../source/users/export&print/export_schema.rst:49
 msgid ""
 "QElectroTech creates one file for each folio in the defined target "
 "directory."
-msgstr "QElectroTech 在定义的目标目录中为每个folio创建一个文件。"
+msgstr "QElectroTech 会在指定的目标目录中为每个图幅创建一个文件。"
 
 #: ../../source/users/export&print/export_schema.rst:53
 msgid ""
@@ -93,5 +93,5 @@ msgid ""
 "configuration effort each time that a `project`_ have to be exported, refer "
 "to `export settings`_ section for more information."
 msgstr ""
-"QElectroTech允许在每次需要输出一个 `项目 <project_>`_ 时，为减少工作配置努力而预先定义导出设置，参考 `导出设置 "
-"<export settings_>`_ 节以获取更多信息。"
+"QElectroTech 允许预先定义导出设置，以减少每次导出 `项目 <project_>`_ 时的工作配置量，更多信息请参阅 `导出设置 "
+"<export settings_>`_ 一节。"

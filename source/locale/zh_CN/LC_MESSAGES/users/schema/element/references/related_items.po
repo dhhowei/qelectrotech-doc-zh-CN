@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/schema/element/references/related_items.rst:5
 msgid "Show linked item"
-msgstr "显示链接项目"
+msgstr "显示链接项"
 
 #: ../../source/users/schema/element/references/related_items.rst:7
 msgid ""
@@ -30,8 +30,8 @@ msgid ""
 " QElectroTech is the possibility to find the linked `elements`_ "
 "automatically. QElectroTech allows finding a linked `element`_ easily."
 msgstr ""
-"关于在QElectroTech等E-CAE工具上与 `交叉引用 <cross references_>`_ 的优点，可以自动找到链接的 `元件 "
-"<elements_>`_。QEctroTech可以轻松地找到链接的 `元件 <element_>`_。"
+"在 QElectroTech 等 E-CAE 工具中使用 `交叉引用 <cross references_>`_ 的优点之一是能够自动找到链接的 `元件"
+" <elements_>`_ 。QElectroTech 可以轻松找到链接的 `元件 <element_>`_ 。"
 
 #: ../../source/users/schema/element/references/related_items.rst:11
 msgid ""
@@ -39,91 +39,90 @@ msgid ""
 "placing the mouse at one `element`_, the other/s will be remarked in blue. "
 "The linked `element/s`_ can also be found from the `element properties`_."
 msgstr ""
-"如果 `master <master_>`_ 和 `slave/s <slave/s_>`_ 元素位于相同的 `图幅 "
-"<folio_>`_，则只能将鼠标放在一个 `元件 <element_>`_ 中，其他/s将以蓝色标注。链接 `element/s "
-"<element/s_>`_ 也可以从 `element 属性中找到 <element properties_>`_。"
+"如果 `主元件 <master_>`_ 与 `slave/s`_ 元件位于同一 `图幅 <folio_>`_ ，只需将鼠标放在一个 `元件 "
+"<element_>`_ 上，其他元件就会以蓝色标示。链接的 `element/s`_ 也可以从 `元件属性 <element "
+"properties_>`_ 中找到。"
 
 #: ../../source/users/schema/element/references/related_items.rst:18
 msgid "Figure: QElectroTech elements cross reference"
-msgstr "图：QElectroTech 元素交叉引用"
+msgstr "图：QElectroTech 元件交叉引用"
 
 #: ../../source/users/schema/element/references/related_items.rst:20
 msgid ""
 "At the case that the `elements`_ are at different `folios`_, the linked "
 "`element/s`_ can only be found from the `element properties`_."
 msgstr ""
-"在 `元件 <elements_>`_ 处于不同的 `图幅 <folios_>`_ 的情况下，链接的 `元素/s <element/s_>`_ 只能从 "
-"`元素属性 <element properties_>`_ 中找到。"
+"如果 `元件 <elements_>`_ 位于不同的 `图幅 <folios_>`_ 中，则只能从 `元件属性 <element "
+"properties_>`_ 中找到链接的 `element/s`_ 。"
 
 #: ../../source/users/schema/element/references/related_items.rst:24
 msgid "Show slave linked item"
-msgstr "显示与奴隶链接的项目"
+msgstr "显示从元件链接项"
 
 #: ../../source/users/schema/element/references/related_items.rst:26
 msgid ""
 "Select the `slave element`_ which should be linked from the `project "
 "collection`_ or from the `workspace`_."
 msgstr ""
-"选择 `奴隶元素 <slave element_>`_，这些元素应当与 `元件集合 <project collection_>`_ 或 `工作区 "
-"<workspace_>`_ 链接。"
+"从 `项目集合 <project collection_>`_ 或 `工作区 <workspace_>`_ 中选择要链接的 `从元件 <slave "
+"element_>`_ 。"
 
 #: ../../source/users/schema/element/references/related_items.rst:27
 msgid ""
 "Right click on the `element`_ selected and choose the option **Edit the "
 "element**."
-msgstr "右键点击选中的 `元件 <element_>`_ 并选择选项 **编辑元素** 。"
+msgstr "右键单击选中的 `元件 <element_>`_ ，选择 **编辑元件** 选项。"
 
 #: ../../source/users/schema/element/references/related_items.rst:32
 #: ../../source/users/schema/element/references/related_items.rst:59
 msgid "Figure: QElectroTech element options"
-msgstr "图：QElectroTech 元素选项"
+msgstr "图：QElectroTech 元件选项"
 
 #: ../../source/users/schema/element/references/related_items.rst:34
 #: ../../source/users/schema/element/references/related_items.rst:61
 msgid ""
 "`Display`_ the **Cross-reference (Slave)** tab from the element editor PopUP"
 " window"
-msgstr "`显示 <Display_>`_ 元素编辑器 PopUP 窗口的 **Cross- reference (Slave)** 标签"
+msgstr "在元件编辑器弹出窗口中 `显示 <Display_>`_ **交叉引用（从元件）** 标签页"
 
 #: ../../source/users/schema/element/references/related_items.rst:39
 #: ../../source/users/schema/element/references/related_items.rst:47
 #: ../../source/users/schema/element/references/related_items.rst:66
 msgid "Figure: QElectroTech cross reference tab element properties"
-msgstr "图：QElectroTech 交叉引用标签元素属性"
+msgstr "图：QElectroTech 交叉引用标签页中的元件属性"
 
 #: ../../source/users/schema/element/references/related_items.rst:41
 msgid ""
 "Search and select the desired `slave element`_ from the **Element related** "
 "table."
-msgstr "搜索并选择想要的 `奴隶元素 <slave element_>`_ 从 **相关要素** 表单。"
+msgstr "在 **相关元件** 表中搜索并选择所需的 `从元件 <slave element_>`_ 。"
 
 #: ../../source/users/schema/element/references/related_items.rst:42
 msgid ""
 "Right click on the `slave element`_ and select the option **Show item** to "
 "find and display the `master element`_."
 msgstr ""
-"右键点击 `奴隶元素 <slave element_>`_ 并选择选项 **显示项** 查找和显示 `master 元素 <master "
-"element_>`_。"
+"右键单击 `从元件 <slave element_>`_ ，选择 **显示项** 选项以查找并显示 `主元件 <master element_>`_ 。"
 
 #: ../../source/users/schema/element/references/related_items.rst:51
 msgid "Show Master linked item"
-msgstr "显示主链接项"
+msgstr "显示主元件链接项"
 
 #: ../../source/users/schema/element/references/related_items.rst:53
 msgid ""
 "Select the `slave element`_ from the `project collection`_ or from the "
 "`workspace`_."
 msgstr ""
-"选择 `元件集合 <slave element_>`_ 或 `工作空间 <project collection_>`_ 的 `工作区 "
-"<workspace_>`_ 。"
+"从 `项目集合 <project collection_>`_ 或 `工作区 <workspace_>`_ 中选择 `从元件 <slave "
+"element_>`_ 。"
 
 #: ../../source/users/schema/element/references/related_items.rst:54
 msgid ""
 "Right click on the selected element and choose the option **Edit the "
 "element**."
-msgstr "右键单击选定元素并选择选项 **编辑元素** 。"
+msgstr "右键单击选中的元件，选择 **编辑元件** 选项。"
 
 #: ../../source/users/schema/element/references/related_items.rst:68
 msgid ""
 "Press **See the linked item** to find and display the `master element`_."
-msgstr "按 **见链接项** 查找并显示 `主元件 <master element_>`_。"
+msgstr "按 **查看链接项** 查找并显示 `主元件 <master element_>`_ 。"

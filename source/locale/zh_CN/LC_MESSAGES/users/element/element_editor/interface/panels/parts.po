@@ -29,12 +29,12 @@ msgid ""
 "The Parts panel lists all `parts`_ (`lines`_, `terminals`_, `rectangles`_, "
 "`dynamic texts`_, etc.) which make up the `element`_."
 msgstr ""
-"部件面板列出了组成 `元件 <element_>`_ 的所有 `部件 <parts_>`_，包括 `线条 <lines_>`_、"
-"`终端 <terminals_>`_、`矩形 <rectangles_>`_、`动态文本 <dynamic texts_>`_ 等。"
+"部件面板列出了组成 `元件 <element_>`_ 的所有 `部件 <parts_>`_ （ `线条 <lines_>`_ 、 `端子 "
+"<terminals_>`_ 、 `矩形 <rectangles_>`_ 、 `动态文本 <dynamic texts_>`_ 等）。"
 
 #: ../../source/users/element/element_editor/interface/panels/parts.rst:13
 msgid "Figure: QElectroTech element editor Parts panel"
-msgstr "图：QElectroTech 元素编辑器部件面板"
+msgstr "图：QElectroTech 元件编辑器部件面板"
 
 #: ../../source/users/element/element_editor/interface/panels/parts.rst:15
 msgid "To display the Parts panel"

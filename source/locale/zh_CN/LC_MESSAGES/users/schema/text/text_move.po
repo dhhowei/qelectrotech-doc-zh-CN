@@ -30,13 +30,13 @@ msgid ""
 "field`_ can be move around the `workspace`_ using the mouse or the keyboard "
 "like `elements`_, `basic objects`_ or `pictures`_."
 msgstr ""
-"A `文本字段 <text field_>`_ 更多在 `工作区 <workspace_>`_ 中考虑对象。A `文本字段 <text "
-"field_>`_ 可用鼠标或键盘如 `工作区 <workspace_>`_，`元件 <elements_>`_ 或 `图片 <basic "
-"objects_>`_ 绕 `工作空间 <pictures_>`_ 移动。"
+"`文本字段 <text field_>`_ 是 `工作区 <workspace_>`_ 中的又一个对象。与 `元件 <elements_>`_ "
+"、`基本对象 <basic objects_>`_ 或 `图片 <pictures_>`_ 一样，可以使用鼠标或键盘在 `工作区 "
+"<workspace_>`_ 中移动 `文本字段 <text field_>`_ 。"
 
 #: ../../source/users/schema/text/text_move.rst:11
 msgid "Move text field by mouse"
-msgstr "通过鼠标移动文本字段"
+msgstr "使用鼠标移动文本字段"
 
 #: ../../source/users/schema/text/text_move.rst:13
 msgid "Left click on the `text field`_ which should be moved."
@@ -44,11 +44,11 @@ msgstr "左键单击应当移动的 `文本字段 <text field_>`_ 。"
 
 #: ../../source/users/schema/text/text_move.rst:14
 msgid "Without releasing, move the mouse to the new desired position."
-msgstr "在不释放的情况下，将鼠标移动到新想要的位置。"
+msgstr "不要松开鼠标，将其移动到新的目标位置。"
 
 #: ../../source/users/schema/text/text_move.rst:17
 msgid "Move text field from selection properties panel"
-msgstr "从选择属性面板中移动文本字段"
+msgstr "从选择属性面板移动文本字段"
 
 #: ../../source/users/schema/text/text_move.rst:19
 msgid "Select the `text field`_ which should be moved."
@@ -59,8 +59,8 @@ msgid ""
 "Define coordinates **X** and **Y** from `text field`_ at `selection "
 "properties panel`_."
 msgstr ""
-"从 `文本字段 <text field_>`_ 定义坐标 **X** 和 **Y**,位于 `选择属性面板 <selection properties "
-"panel_>`_。"
+"在 `选择属性面板 <selection properties panel_>`_ 中为 `文本字段 <text field_>`_ 定义坐标 "
+"**X** 和 **Y** 。"
 
 #: ../../source/users/schema/text/text_move.rst:25
 msgid "Figure: QElectroTech text field selection properties panel"
@@ -71,20 +71,21 @@ msgid ""
 "If the `selection properties panel`_ is not displayed, it can be displayed "
 "from **Settings > Display > Selection properties**"
 msgstr ""
-"如果不显示 `选择属性面板 <selection properties panel_>`_，可以从 **设置 > 显示 > 选择属性** 显示"
+"如果 `选择属性面板 <selection properties panel_>`_ 未显示，可通过 **设置 > 显示 > 选择属性** "
+"将其显示出来。"
 
 #: ../../source/users/schema/text/text_move.rst:32
 msgid "Move text field by keyboard"
-msgstr "通过键盘移动文本字段"
+msgstr "使用键盘移动文本字段"
 
 #: ../../source/users/schema/text/text_move.rst:34
 msgid "`Select the text field`_ which should be moved."
-msgstr "`选择应当移动的文本字段 <Select the text field_>`_。"
+msgstr "`选择要移动的文本字段 <Select the text field_>`_ 。"
 
 #: ../../source/users/schema/text/text_move.rst:35
 msgid ""
 "Press the corresponding arrow (``Downwards``, ``Rightward``, ``Leftwards`` "
 "or ``Upwards``) to move the `text field`_ one grid row or column."
 msgstr ""
-"按相应的箭头(``Downwards``,``Rightward``,``Leftwards`` 或 ``Upwards``)移动 `文本字段 "
-"<text field_>`_ 一个网格行或列。"
+"按相应的方向键（``Downwards``、``Rightward``、``Leftwards`` 或 ``Upwards``）将 `文本字段 "
+"<text field_>`_ 移动一个网格行或列。"

@@ -22,23 +22,23 @@ msgstr ""
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:5
 msgid "Create conductor"
-msgstr "创建导线"
+msgstr "创建导体"
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:8
 msgid "Manual conductor creation"
-msgstr "手动导师创建"
+msgstr "手动创建导体"
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:10
 msgid "To create a `conductor`_ manually:"
-msgstr "手动创建 `导体 <conductor_>`_ :"
+msgstr "要手动创建 `导体 <conductor_>`_ ："
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:12
 #: ../../source/users/schema/conductor/conductor_creation.rst:41
 msgid ""
 "Select `auto numbering pattern`_ at the `Auto numbering selection panel`_."
 msgstr ""
-"选择 `自动编号模式 <auto numbering pattern_>`_ 现场 `自动编号选择面板 <Auto numbering "
-"selection panel_>`_。"
+"在 `自动编号选择面板 <Auto numbering selection panel_>`_ 中选择 `自动编号模式 <auto numbering "
+"pattern_>`_ 。"
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:17
 #: ../../source/users/schema/conductor/conductor_creation.rst:46
@@ -51,28 +51,29 @@ msgid ""
 "If the `Auto numbering selection panel`_ is not displayed, it can be "
 "displayed from **Settings > Display > Auto numbering selection**."
 msgstr ""
-"如果不显示 `自动编号选择面板 <Auto numbering selection panel_>`_，可以从 **设置 > 显示 > 自动编号选择**"
-" 显示。"
+"如果 `自动编号选择面板 <Auto numbering selection panel_>`_ 未显示，可通过 **设置 > 显示 > "
+"自动编号选择** 将其显示出来。"
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:24
 msgid "Click on the initial `terminal`_ from the `conductor`_."
-msgstr "点击首字母 `端子 <terminal_>`_ 从 `导体 <conductor_>`_。"
+msgstr "单击 `导体 <conductor_>`_ 的起始 `端子 <terminal_>`_ 。"
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:25
 msgid ""
 "Without releasing, move the mouse up to the end `terminal`_ of the "
 "`conductor`_."
-msgstr "不释放，将鼠标移动到尾端 `端子 <terminal_>`_ 会议日程和议程 `导体 <conductor_>`_。"
+msgstr "不要松开鼠标，将鼠标移动到 `导体 <conductor_>`_ 的终点 `端子 <terminal_>`_ 。"
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:26
 msgid ""
 "Once the end `terminal`_ is automatically identified by QElectroTech, "
 "release the mouse to create the `conductor`_."
-msgstr "一旦端 `端子 <terminal_>`_ 由QElectroTech自动识别，释放鼠标以创建 `导体 <conductor_>`_。"
+msgstr ""
+"当 QElectroTech 自动识别到终点 `端子 <terminal_>`_ 后，松开鼠标即可创建 `导体 <conductor_>`_ 。"
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:31
 msgid "Figure: QElectroTech manual conductor creation"
-msgstr "图：QElectroTech 手动导电器创建"
+msgstr "图：QElectroTech 手动创建导体"
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:34
 msgid "Automatic conductor creation"
@@ -83,16 +84,16 @@ msgid ""
 "To increase the working efficiency, QElectroTech can create `conductors`_ "
 "automatically when an `element`_ is added to the `workspace`_."
 msgstr ""
-"为了提高工作效率，QElectroTech可以创建 `导体 <conductors_>`_ 当一个 `元件 <element_>`_ 添加到 `工作区 "
-"<workspace_>`_。"
+"为了提高工作效率，当 `元件 <element_>`_ 被添加到 `工作区 <workspace_>`_ 时，QElectroTech 可以自动创建 "
+"`导体 <conductors_>`_ 。"
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:39
 msgid "To create a `conductor`_ automatically:"
-msgstr "要自动创建 `导体 <conductor_>`_ :"
+msgstr "要自动创建 `导体 <conductor_>`_ ："
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:53
 msgid "Select the icon |autoconnect| from `toolbar`_, if it is not selected."
-msgstr "如果未选中，请从 `工具栏 <toolbar_>`_ 中选择图标 |autoconnect| 。"
+msgstr "如果尚未选中，请从 `工具栏 <toolbar_>`_ 中选择图标 |autoconnect| 。"
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:61
 msgid "autoconnect"
@@ -104,18 +105,18 @@ msgid ""
 "initial `terminal`_ and the end `terminal`_ have to be at the same vertical "
 "or horizontal line."
 msgstr ""
-"`添加元素 <Add element_>`_ 至 `工作区 <workspace_>`_，注意 `元件 <element_>`_ 位置，初始 `端子 "
-"<terminal_>`_ 和结尾 `端子 <terminal_>`_ 必须位于相同的垂直或水平线。"
+"`添加元件 <Add element_>`_ 到 `工作区 <workspace_>`_ 时，注意 `元件 <element_>`_ 的位置：起始 "
+"`端子 <terminal_>`_ 和终点 `端子 <terminal_>`_ 必须位于同一条垂直线或水平线上。"
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:59
 msgid "Figure: QElectroTech automatic conductor creation"
-msgstr "图：QElectroTech自动导电器创建"
+msgstr "图：QElectroTech 自动创建导体"
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:65
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**."
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 工具** 将其显示出来。"
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:69
 msgid ""
@@ -124,10 +125,10 @@ msgid ""
 "different potentials, QElectroTech will inform by a warning PopUP window. "
 "Nevertheless, QElectroTech will create the `conductor`_"
 msgstr ""
-"在最初和结束的情况下 `端子 <terminal_>`_ 是不同的潜力，QEElectroTech认为两个 `终端 <terminals_>`_ 从同 "
-"`元件 <element_>`_ 作为不同的潜力，QElectroTech 将通过警告的 PopUP 窗口进行通报。 尽管如此，QEctroTech "
-"将创建 `导体 <conductor_>`_"
+"如果起始和终点 `端子 <terminal_>`_ 属于不同电位，QElectroTech 会将同一 `元件 <element_>`_ 上的两个 `端子"
+" <terminals_>`_ 视为不同电位，并通过警告弹出窗口进行提示。尽管如此，QElectroTech 仍会创建 `导体 "
+"<conductor_>`_ 。"
 
 #: ../../source/users/schema/conductor/conductor_creation.rst:76
 msgid "Figure: QElectroTech different potentials warning"
-msgstr "图：QElectroTech 不同潜力警告"
+msgstr "图：QElectroTech 不同电位警告"

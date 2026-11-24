@@ -22,14 +22,14 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:5
 msgid "Paste part"
-msgstr "粘贴部分"
+msgstr "粘贴部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:7
 msgid ""
 "QElectroTech element editor allows pasting the different possible `type of "
 "parts`_ which have already been copied or cut from the `drawing area`_."
 msgstr ""
-"QElectroTech 元素编辑器允许粘贴不同可能的 `型的 <type of parts_>`_ 部件，这些部件已经从 `绘图区 <drawing "
+"QElectroTech 元件编辑器允许粘贴各种 `部件类型 <type of parts_>`_ ，这些部件已从 `绘图区 <drawing "
 "area_>`_ 复制或剪切。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:12
@@ -37,69 +37,70 @@ msgid ""
 "Multiples `parts`_ can be pasted at the same time, check `copy part`_ or "
 "`cut part`_ section to check how multiples `parts`_ can be copied or cut."
 msgstr ""
-"多个 `部件 <parts_>`_ 可以同时粘贴，检查 `复制部分 <copy part_>`_ 或 `切除部分 <cut part_>`_ "
-"部分，检查如何复制或切除多个 `部件 <parts_>`_。"
+"可以同时粘贴多个 `部件 <parts_>`_ ；有关如何复制或剪切多个 `部件 <parts_>`_ 的说明，请参见 `复制部件 <copy "
+"part_>`_ 或 `剪切部件 <cut part_>`_ 一节。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:16
 msgid ""
 "Pasting `parts`_ can be done from `menu bar`_, by right click on the "
 "`drawing area`_ and using the corresponding keyboard shortcut."
 msgstr ""
-"粘贴 `部件 <parts_>`_ 可以从 `菜单栏 <menu bar_>`_ 完成，通过右键点击 `绘图区 <drawing area_>`_ "
-"并使用相应的键盘快捷键。"
+"可以通过 `菜单栏 <menu bar_>`_、右键点击 `绘图区 <drawing area_>`_ 或相应的快捷键来粘贴 `部件 "
+"<parts_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:20
 msgid "Paste part from menu bar"
-msgstr "从菜单栏粘贴部分"
+msgstr "从菜单栏粘贴部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:22
 msgid ""
 "Select **Edit > Paste** menu item to paste the `part`_ copied or cut "
 "previously from `drawing area`_."
-msgstr "选择 **编辑 > 粘贴** 菜单 `部件 <part_>`_ 复制或剪切之前从 `绘图区 <drawing area_>`_。"
+msgstr ""
+"选择 **编辑 > 粘贴** 菜单项，粘贴此前从 `绘图区 <drawing area_>`_ 复制或剪切的 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:27
 msgid "Figure: QElectroTech element editor Edit menu"
-msgstr "图：QElectroTech 元素编辑器编辑菜单"
+msgstr "图：QElectroTech 元件编辑器“编辑”菜单"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:30
 msgid "Paste part by right click"
-msgstr "右键粘贴部分"
+msgstr "通过右键粘贴部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:32
 msgid "Right click somewhere from `drawing area`_."
-msgstr "从 `绘图区 <drawing area_>`_ 右键单击某处 。"
+msgstr "在 `绘图区 <drawing area_>`_ 的任意位置点击右键。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:33
 msgid ""
 "Select the option **Paste** to paste the `part`_ copied or cut previously."
-msgstr "选择选项 **粘贴** 粘贴 `部件 <part_>`_ 复制或剪切之前。"
+msgstr "选择 **粘贴** 选项，粘贴此前复制或剪切的 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:38
 msgid "Figure: QElectroTech right click PopUp window"
-msgstr "图：右键点击弹出窗口的QElectroTech"
+msgstr "图：QElectroTech 右键弹出窗口"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:41
 msgid "Paste part using keyboard shortcut"
-msgstr "使用键盘快捷键粘贴部分"
+msgstr "使用快捷键粘贴部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:43
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 支持使用快捷键来提高工作效率。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:45
 msgid ""
 "Press ``Ctrl + v`` to paste the `part`_ copied or cut previously from "
 "`drawing area`_."
-msgstr "按 ``Ctrl + v`` 粘贴 `部件 <part_>`_ 先前从 `绘图区 <drawing area_>`_。"
+msgstr "按 ``Ctrl + v`` 粘贴此前从 `绘图区 <drawing area_>`_ 复制或剪切的 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:49
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste.rst:53
 msgid ""
@@ -108,5 +109,5 @@ msgid ""
 "choose the place where the `part`_ has to be pasted, refer to `paste in "
 "area`_ section."
 msgstr ""
-"本节界定的程序只允许粘贴 `部件 <parts_>`_ 从复制或剪切的右格点 `部件 <part_>`_ 地点。 `部件 <part_>`_ "
-"必须粘贴，参考 `区域粘贴 <paste in area_>`_ 节。"
+"本节所述方法只能将 `部件 <parts_>`_ 粘贴到与复制或剪切时 `部件 <part_>`_ 位置对齐的网格点上。若要自行选择 `部件 "
+"<part_>`_ 的粘贴位置，请参见 `在区域内粘贴 <paste in area_>`_ 一节。"

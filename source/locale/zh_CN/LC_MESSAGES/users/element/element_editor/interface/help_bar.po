@@ -32,8 +32,9 @@ msgid ""
 "field that is pointed by the cursor. A user can learn about a field by "
 "simply pointing it with the mouse and reading the information from help bar."
 msgstr ""
-"帮助栏，又称信息栏，是控制标签下面的空间，是主窗口左下角。它对于QElectroTech的初学者非常有用，因为它给出了光标指向的字段的信息。用户只需用鼠标指向它并从帮助栏读取信息就可以了解一个字段。"
+"帮助栏又称信息栏，位于控制标签页下方、主窗口左下角。它对 QElectroTech "
+"初学者非常有用，因为它会显示光标所指字段的信息。用户只需用鼠标指向某个字段，再读取帮助栏中的信息，就能了解该字段。"
 
 #: ../../source/users/element/element_editor/interface/help_bar.rst:12
 msgid "Figure: QElectroTech element editor help bar"
-msgstr "图：QElectroTech 元素编辑器帮助栏"
+msgstr "图：QElectroTech 元件编辑器帮助栏"

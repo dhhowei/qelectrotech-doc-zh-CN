@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/folio/properties/folio_appearance.rst:5
 msgid "Folio conductor appearance"
-msgstr "Folio导体的出现"
+msgstr "图幅导体外观"
 
 #: ../../source/users/folio/properties/folio_appearance.rst:7
 msgid ""
@@ -32,23 +32,22 @@ msgid ""
 "appearance, this action avoid defining individually the `conductor "
 "appearance`_."
 msgstr ""
-"**Appearance** 来自folio属性的标签 PopUP 窗口允许预先定义在folio中绘制的导体的 `导体外观 <conductor "
-"appearance_>`_ 。如果folio中的所有导体都具有相同的外观，则此动作避免单独定义 `导体外观 <conductor "
+"图幅属性弹出窗口中的 **Appearance** 标签页允许预先定义稍后将在图幅中绘制的导体的 `导体外观 <conductor "
+"appearance_>`_ 。如果图幅中的所有导体都应具有相同外观，则此操作可避免逐一定义各导体的 `导体外观 <conductor "
 "appearance_>`_ 。"
 
 #: ../../source/users/folio/properties/folio_appearance.rst:13
 msgid ""
 "For more information about conductor properties, refer to `conductor "
 "appearance`_ section."
-msgstr "关于导体属性的更多信息，参见 `导体外观 <conductor appearance_>`_ 节。"
+msgstr "有关导体属性的更多信息，请参阅 `导体外观 <conductor appearance_>`_ 一节。"
 
 #: ../../source/users/folio/properties/folio_appearance.rst:19
 msgid "Figure: Folio appearance properties"
-msgstr "图：Folio 外观属性"
+msgstr "图：图幅外观属性"
 
 #: ../../source/users/folio/properties/folio_appearance.rst:23
 msgid ""
 "For more information about how to display folio properties, refer to "
 "`display folio properties`_ section."
-msgstr ""
-"关于如何显示folio属性的更多信息，请参见 `display folio属性 <display folio properties_>`_ 一节。"
+msgstr "有关如何显示图幅属性的更多信息，请参阅 `显示图幅属性 <display folio properties_>`_ 一节。"

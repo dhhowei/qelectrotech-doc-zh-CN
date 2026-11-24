@@ -26,14 +26,15 @@ msgstr "线条"
 
 #: ../../source/users/schema/basics/line.rst:8
 msgid "Create line"
-msgstr "创建行"
+msgstr "创建线条"
 
 #: ../../source/users/schema/basics/line.rst:12
 msgid ""
 "To draw more easily, the folio grid can be displayed from **Display > "
 "Display the grid** or from `toolbar`_ icon |grid|."
 msgstr ""
-"为了更方便地绘制，folio网格可以从 **Display > 显示网格** 或 `工具栏 <toolbar_>`_ 图标 |grid| 显示。"
+"为了更方便地绘制，可以通过 **Display > Display the grid** 或 `工具栏 <toolbar_>`_ 上的 |grid| "
+"图标显示图幅网格。"
 
 #: ../../source/users/schema/basics/line.rst:20
 msgid "grid"
@@ -41,11 +42,11 @@ msgstr "网格"
 
 #: ../../source/users/schema/basics/line.rst:14
 msgid "A line can only be added to the `workspace`_ by `toolbar`_."
-msgstr "一行只能由 `工作区 <workspace_>`_ 添加到 `工具栏 <toolbar_>`_。"
+msgstr "线条只能通过 `工具栏 <toolbar_>`_ 添加到 `工作区 <workspace_>`_ 。"
 
 #: ../../source/users/schema/basics/line.rst:16
 msgid "Select the icon |line| from `toolbar`_ to add a line."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |line| 添加一行 。"
+msgstr "从 `工具栏 <toolbar_>`_ 中选择 |line| 图标以添加线条。"
 
 #: ../../source/users/schema/basics/line.rst:21
 msgid "line"
@@ -53,79 +54,80 @@ msgstr "线条"
 
 #: ../../source/users/schema/basics/line.rst:17
 msgid "Click on the initial point from the line."
-msgstr "点击线的起始点。"
+msgstr "单击线条的起点。"
 
 #: ../../source/users/schema/basics/line.rst:18
 msgid "Click on the end point from the line."
-msgstr "点击线的终点。"
+msgstr "单击线条的终点。"
 
 #: ../../source/users/schema/basics/line.rst:25
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Add**."
-msgstr "如果 `工具栏 <toolbar_>`_ 不显示，可以从 **设置 > 显示 > Add** 显示。"
+msgstr "如果未显示 `工具栏 <toolbar_>`_ ，可以从 **Settings > Display > Add** 中将其显示出来。"
 
 #: ../../source/users/schema/basics/line.rst:28
 msgid "Line properties"
-msgstr "行属性"
+msgstr "线条属性"
 
 #: ../../source/users/schema/basics/line.rst:30
 msgid ""
 "QElectroTech allows customizing the type of line, the thickness from the "
 "line and the color of the line."
-msgstr "QElectroTech允许自定义线的类型，线的厚度和线的颜色。"
+msgstr "QElectroTech 允许自定义线条的类型、粗细和颜色。"
 
 #: ../../source/users/schema/basics/line.rst:32
 msgid ""
 "The different types of lines are: **normal**, **dashed**, **dotted**, **dots"
 " and dashes**, **dash dot dot** and **custom dash line**."
 msgstr ""
-"不同类型的线路有：**正常**, **dashed**, **dotted**, **dots and dustes**, **dash dot "
-"dot** 和 **custom dust line**."
+"不同类型的线条有 **normal**, **dashed**, **dotted**, **dots and dashes**, **dash dot"
+" dot** 以及 **custom dash line** 等类型。"
 
 #: ../../source/users/schema/basics/line.rst:37
 msgid "Figure: QElectroTech Color selection PopUP window"
-msgstr "图：QElectroTech 颜色选择 PopUP 窗口"
+msgstr "图：QElectroTech 颜色选择弹出窗口"
 
 #: ../../source/users/schema/basics/line.rst:39
 msgid ""
 "The possible line thickness are between 0.2 and 50 mm (0.2, 0.4, 0.8, 0.6, "
 "0.8, 1, 1.2, 1.4, ... , 50)."
-msgstr "可能的线厚在0.2至50毫米(0.2,0.4,0.8,0.6,0.8,1,1.2,1.4,.,50)之间。"
+msgstr ""
+"可能的线条粗细范围为 0.2 到 50 mm（0.2, 0.4, 0.8, 0.6, 0.8, 1, 1.2, 1.4, ..., 50）。"
 
 #: ../../source/users/schema/basics/line.rst:40
 msgid "The possible colors are defined by the `RGB scale range`_."
-msgstr "可能的颜色由 `RGB比例范围 <RGB scale range_>`_ 定义。"
+msgstr "可用的颜色由 `RGB 色阶范围 <RGB scale range_>`_ 定义。"
 
 #: ../../source/users/schema/basics/line.rst:44
 msgid ""
 "The position from the line can be locked to prevent involuntary movement."
-msgstr "线上的位置可以被锁定以防止非自愿移动。"
+msgstr "可以锁定线条的位置，以避免意外移动。"
 
 #: ../../source/users/schema/basics/line.rst:46
 msgid "Go to line properties and check the **Lock position** button."
-msgstr "转到行属性并检查 **Lock 位置** 按钮 。"
+msgstr "转到线条属性，勾选 **Lock position** 按钮。"
 
 #: ../../source/users/schema/basics/line.rst:48
 msgid ""
 "The line properties can be displayed from `menu bar`_, by right click on the"
 " line, from selection properties panel and using keyboard shortcut."
-msgstr "行属性可以从 `菜单栏 <menu bar_>`_ 显示，通过右键点击行，从选择属性面板和使用键盘快捷键显示。"
+msgstr "线条属性可以通过 `菜单栏 <menu bar_>`_ 、右键单击线条、选择属性面板以及键盘快捷键来显示。"
 
 #: ../../source/users/schema/basics/line.rst:52
 msgid "Line properties from menu bar"
-msgstr "菜单栏的行属性"
+msgstr "从菜单栏显示线条属性"
 
 #: ../../source/users/schema/basics/line.rst:54
 #: ../../source/users/schema/basics/line.rst:92
 msgid "Select the line which should be edited."
-msgstr "选择要编辑的行 。"
+msgstr "选择要编辑的线条。"
 
 #: ../../source/users/schema/basics/line.rst:55
 msgid ""
 "Select **Edit > Edit the selected object** menu item to display the line "
 "properties PopUP window."
-msgstr "选择 **Edit > 编辑选定对象** 菜单项以显示行属性 PopUP 窗口。"
+msgstr "选择 **Edit > Edit the selected object** 菜单项，以显示线条属性弹出窗口。"
 
 #: ../../source/users/schema/basics/line.rst:60
 msgid "Figure: QElectroTech edit menu"
@@ -133,59 +135,60 @@ msgstr "图：QElectroTech 编辑菜单"
 
 #: ../../source/users/schema/basics/line.rst:63
 msgid "Line properties by right click"
-msgstr "按右键点击行属性"
+msgstr "通过右键单击显示线条属性"
 
 #: ../../source/users/schema/basics/line.rst:65
 msgid "Right click on the line which should be edited."
-msgstr "在应编辑的行上右键单击。"
+msgstr "右键单击要编辑的线条。"
 
 #: ../../source/users/schema/basics/line.rst:66
 msgid ""
 "Select the option **Edit the selected object** to display the line "
 "properties PopUP window."
-msgstr "选择选项 **编辑选中的对象** 以显示行属性 PopUP 窗口 。"
+msgstr "选择 **Edit the selected object** 选项，以显示线条属性弹出窗口。"
 
 #: ../../source/users/schema/basics/line.rst:71
 msgid "Figure: QElectroTech line selection PopUP window"
-msgstr "图：QElectroTech 行选择 PopUP 窗口"
+msgstr "图：QElectroTech 线条选择弹出窗口"
 
 #: ../../source/users/schema/basics/line.rst:74
 msgid "Line properties from selection properties panel"
-msgstr "选中属性面板的行属性"
+msgstr "从选择属性面板显示线条属性"
 
 #: ../../source/users/schema/basics/line.rst:76
 msgid ""
 "Select the line which should be edited and the properties from the line will"
 " appear at `selection properties panel`_."
-msgstr "选择应当编辑的行，并且该行的属性将出现在 `选择属性面板 <selection properties panel_>`_ 。"
+msgstr "选择要编辑的线条，线条属性将显示在 `选择属性面板 <selection properties panel_>`_ 中。"
 
 #: ../../source/users/schema/basics/line.rst:81
 msgid "Figure: QElectroTech Line properties panel"
-msgstr "图：QElectroTech 线属性面板"
+msgstr "图：QElectroTech 线条属性面板"
 
 #: ../../source/users/schema/basics/line.rst:85
 msgid ""
 "If the `selection properties panel`_ is not displayed, it can be displayed "
 "from **Settings > Display > Selection properties**"
 msgstr ""
-"如果不显示 `选择属性面板 <selection properties panel_>`_，可以从 **设置 > 显示 > 选择属性** 显示"
+"如果未显示 `选择属性面板 <selection properties panel_>`_ ，可以从 **Settings > Display > "
+"Selection properties** 中将其显示出来。"
 
 #: ../../source/users/schema/basics/line.rst:88
 msgid "Line properties using keyboard shortcut"
-msgstr "使用键盘快捷键的行属性"
+msgstr "使用键盘快捷键显示线条属性"
 
 #: ../../source/users/schema/basics/line.rst:90
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/schema/basics/line.rst:93
 msgid "Press ``Ctrl + e`` to display the line properties PopUP window."
-msgstr "按 ``Ctrl + e`` 显示行属性 PopUP 窗口。"
+msgstr "按 ``Ctrl + e`` 显示线条属性弹出窗口。"
 
 #: ../../source/users/schema/basics/line.rst:97
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "关于 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

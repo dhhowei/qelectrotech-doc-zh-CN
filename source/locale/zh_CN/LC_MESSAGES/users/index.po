@@ -26,23 +26,23 @@ msgstr "用户手册"
 
 #: ../../source/users/index.rst:12 ../../source/users/index.rst:54
 msgid "Image showing the QET app icon"
-msgstr "显示 QET 应用程序图标的图像"
+msgstr "显示 QET 应用图标的图片"
 
 #: ../../source/users/index.rst:12
 msgid "Basics"
-msgstr "基本情况"
+msgstr "基础知识"
 
 #: ../../source/users/index.rst:18
 msgid "Image showing QET's interface wizard"
-msgstr "显示 QET 界面向导的图像"
+msgstr "显示 QET 界面向导的图片"
 
 #: ../../source/users/index.rst:18
 msgid "Interface"
-msgstr "接口"
+msgstr "界面"
 
 #: ../../source/users/index.rst:24
 msgid "Image showing QET's preferences icon"
-msgstr "显示 QET 首选项图标的图像"
+msgstr "显示 QET 首选项图标的图片"
 
 #: ../../source/users/index.rst:24
 msgid "Preferences"
@@ -50,7 +50,7 @@ msgstr "首选项"
 
 #: ../../source/users/index.rst:30
 msgid "Image showing a QET Project folder icon"
-msgstr "显示 QET 项目文件夹图标的图像"
+msgstr "显示 QET 项目文件夹图标的图片"
 
 #: ../../source/users/index.rst:30
 msgid "Project"
@@ -58,7 +58,7 @@ msgstr "项目"
 
 #: ../../source/users/index.rst:36
 msgid "Image showing a QET simplified Folio"
-msgstr "显示一个 QET 简化 Folio 的图像"
+msgstr "显示 QET 简化图幅的图片"
 
 #: ../../source/users/index.rst:36
 msgid "Folio"
@@ -66,7 +66,7 @@ msgstr "图幅"
 
 #: ../../source/users/index.rst:42
 msgid "Image showing a QET Element File icon"
-msgstr "显示 QET 元素文件图标的图像"
+msgstr "显示 QET 元件文件图标的图片"
 
 #: ../../source/users/index.rst:42
 msgid "Element"
@@ -74,7 +74,7 @@ msgstr "元件"
 
 #: ../../source/users/index.rst:48
 msgid "Image showing a QET Conductor icon"
-msgstr "显示 QET 导线图标的图像"
+msgstr "显示 QET 导体图标的图片"
 
 #: ../../source/users/index.rst:48
 msgid "Conductor"
@@ -82,7 +82,7 @@ msgstr "导体"
 
 #: ../../source/users/index.rst:54
 msgid "Schema"
-msgstr "司马"
+msgstr "原理图"
 
 #: ../../source/users/index.rst:60 ../../source/users/index.rst:66
 #: ../../source/users/index.rst:78
@@ -95,16 +95,16 @@ msgstr "绘图"
 
 #: ../../source/users/index.rst:66
 msgid "Reports"
-msgstr "报告"
+msgstr "报表"
 
 #: ../../source/users/index.rst:72
 msgid "Image showing a Printer outputting a document"
-msgstr "显示打印机输出文档的图像"
+msgstr "显示打印机输出文档的图片"
 
 #: ../../source/users/index.rst:72
 msgid "Export & Print"
-msgstr "导出并打印"
+msgstr "导出和打印"
 
 #: ../../source/users/index.rst:78
 msgid "Annex"
-msgstr "页：1"
+msgstr "附录"

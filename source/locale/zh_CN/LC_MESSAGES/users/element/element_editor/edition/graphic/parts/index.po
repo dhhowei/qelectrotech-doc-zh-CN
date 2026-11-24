@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/index.rst:5
 msgid "Working with parts"
-msgstr "处理部件"
+msgstr "使用部件"

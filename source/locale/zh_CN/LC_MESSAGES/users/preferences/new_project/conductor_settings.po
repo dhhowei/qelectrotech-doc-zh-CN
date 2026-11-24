@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/preferences/new_project/conductor_settings.rst:5
 msgid "Conductor settings"
-msgstr "导师设置"
+msgstr "导体设置"
 
 #: ../../source/users/preferences/new_project/conductor_settings.rst:7
 msgid ""
@@ -31,36 +31,36 @@ msgid ""
 " user avoiding to define many `project properties`_ each time that the user "
 "`creates new projects`_."
 msgstr ""
-"QElectroTech 从应用程序中提供了从数据中存储一些 `项目属性 <project properties_>`_ "
-"由用户预先定义的选项。该特性允许用户每次在用户 `创建新项目 <project properties_>`_ 时避免定义许多 `项目属性 "
-"<creates new projects_>`_ 。"
+"QElectroTech 提供了将用户预定义的一些 `项目属性 <project properties_>`_ "
+"存储到应用程序数据中的选项。此功能让用户每次 `创建新项目 <creates new projects_>`_ 时，无需重复定义大量 `项目属性 "
+"<project properties_>`_ 。"
 
 #: ../../source/users/preferences/new_project/conductor_settings.rst:11
 msgid ""
 "The **Conductor** tab from **New project** settings section allows pre-"
 "defining some `conductor properties`_:"
-msgstr "**生成器** 选项卡来自 **新项目** 设置部分允许预定义一些 `导体属性 <conductor properties_>`_ :"
+msgstr "**新项目** 设置部分中的 **导体** 标签页允许预先定义一些 `导体属性 <conductor properties_>`_ ："
 
 #: ../../source/users/preferences/new_project/conductor_settings.rst:13
 msgid "`Conductor type`_ (`Multiline`_ or `Single line`_)."
 msgstr ""
-"`导体类型 <Conductor type_>`_ (`多线 <Multiline_>`_ 或 `单行 <Single line_>`_)."
+"`导体类型 <Conductor type_>`_ （ `多线 <Multiline_>`_ 或 `单线 <Single line_>`_ ）。"
 
 #: ../../source/users/preferences/new_project/conductor_settings.rst:14
 msgid "`Conductor appearance`_."
-msgstr "`制片人外观 <Conductor appearance_>`_。"
+msgstr "`导体外观 <Conductor appearance_>`_。"
 
 #: ../../source/users/preferences/new_project/conductor_settings.rst:19
 msgid "Figure: QElectroTech New project conductor settings"
-msgstr "图：QElectroTech 新项目导电器设置"
+msgstr "图：QElectroTech 新项目导体设置"
 
 #: ../../source/users/preferences/new_project/conductor_settings.rst:21
 msgid "To define conductor settings:"
-msgstr "要定义导师设置："
+msgstr "要定义导体设置："
 
 #: ../../source/users/preferences/new_project/conductor_settings.rst:23
 msgid "`Display`_ QElectroTech settings PopUP window."
-msgstr "`显示 <Display_>`_ QElectroTech设置 PopUP 窗口。"
+msgstr "`显示 <Display_>`_ QElectroTech 设置弹出窗口。"
 
 #: ../../source/users/preferences/new_project/conductor_settings.rst:24
 msgid "Go to **New project** section."
@@ -68,17 +68,17 @@ msgstr "转到 **新项目** 部分。"
 
 #: ../../source/users/preferences/new_project/conductor_settings.rst:25
 msgid "Go to **Conductor** tab."
-msgstr "转到 **制片人** 标签 。"
+msgstr "转到 **导体** 标签页。"
 
 #: ../../source/users/preferences/new_project/conductor_settings.rst:26
 msgid "Define the desired parameters for each field."
-msgstr "定义每个字段的理想参数。"
+msgstr "为每个字段设置所需的参数。"
 
 #: ../../source/users/preferences/new_project/conductor_settings.rst:27
 msgid ""
 "Press **OK** button to save the configuration changes and close settings "
 "PopUP window."
-msgstr "按 **OK** 按钮保存配置更改和关闭设置 PopUP 窗口。"
+msgstr "按 **OK** 按钮保存配置更改并关闭设置弹出窗口。"
 
 #: ../../source/users/preferences/new_project/conductor_settings.rst:31
 msgid ""
@@ -87,6 +87,6 @@ msgid ""
 "properties`_. The `conductor properties`_ can be found at `Conductor tab`_ "
 "from `New folio`_ section."
 msgstr ""
-"在 QElectroTech 设置 PopUP 窗口中定义的所有预定义导体属性将在 `项目创建 <project creation_>`_ 项目属性 "
-"`项目属性 <project properties_>`_ 中自动定义。`导体属性 <conductor properties_>`_ 可以在 "
-"`Conductor tab <Conductor tab_>`_ 从 `New folio <New folio_>`_ 部分找到。"
+"在 QElectroTech 设置弹出窗口中预定义的所有导体属性，都会在 `项目创建 <project creation_>`_ 时自动填入 `项目属性"
+" <project properties_>`_ 。 `导体属性 <conductor properties_>`_ 可在 `新建图幅 <New "
+"folio_>`_ 部分的 `导体标签页 <Conductor tab_>`_ 中找到。"

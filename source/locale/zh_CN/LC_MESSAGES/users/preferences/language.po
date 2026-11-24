@@ -27,39 +27,39 @@ msgstr "选择语言"
 #: ../../source/users/preferences/language.rst:7
 msgid ""
 "QElectroTech is a multilingual tool already translated to 21 languages."
-msgstr "QElectroTech是一个多语种工具，已经翻译成21种语言。"
+msgstr "QElectroTech 是一款多语言工具，已被翻译成 21 种语言。"
 
 #: ../../source/users/preferences/language.rst:9
 msgid "To select the working language:"
-msgstr "选择工作语文："
+msgstr "要选择工作语言："
 
 #: ../../source/users/preferences/language.rst:11
 msgid "`Display`_ QElectroTech settings PopUP window."
-msgstr "`显示 <Display_>`_ QElectroTech设置 PopUP 窗口。"
+msgstr "`显示 <Display_>`_ QElectroTech 设置弹出窗口。"
 
 #: ../../source/users/preferences/language.rst:12
 msgid "Go to **General** section."
-msgstr "至 **总** 节。"
+msgstr "转到 **常规** 部分。"
 
 #: ../../source/users/preferences/language.rst:13
 msgid "Go to **Language** tab."
-msgstr "转到 **Language** 标签 。"
+msgstr "转到 **语言** 标签页。"
 
 #: ../../source/users/preferences/language.rst:14
 msgid "Spread out the combo box and select the desired language."
-msgstr "展开组合框并选择想要的语言。"
+msgstr "展开组合框并选择所需的语言。"
 
 #: ../../source/users/preferences/language.rst:15
 msgid ""
 "Press **OK** button to save the configuration changes and close settings "
 "PopUP window."
-msgstr "按 **OK** 按钮保存配置更改和关闭设置 PopUP 窗口。"
+msgstr "按 **OK** 按钮保存配置更改并关闭设置弹出窗口。"
 
 #: ../../source/users/preferences/language.rst:19
 msgid ""
 "The changes are applied at the next launch, `quit`_ and `launch`_ again "
 "QElectroTech."
-msgstr "在下一次发射 `退出 <quit_>`_ 和 `发射 <launch_>`_ 再次使用QElectroTech."
+msgstr "这些更改会在下次启动时生效，请 `退出 <quit_>`_ 并重新 `启动 <launch_>`_ QElectroTech。"
 
 #: ../../source/users/preferences/language.rst:24
 msgid "Figure: QElectroTech configure language section"

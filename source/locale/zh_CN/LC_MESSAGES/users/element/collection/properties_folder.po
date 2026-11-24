@@ -28,49 +28,49 @@ msgstr "文件夹属性"
 msgid ""
 "A QElectroTech folder and category are the same. The properties from a "
 "folder are:"
-msgstr "一个 QElectroTech 文件夹和类相同。 文件夹中的属性为："
+msgstr "QElectroTech 中的文件夹与类别是同一概念。文件夹的属性包括："
 
 #: ../../source/users/element/collection/properties_folder.rst:9
 msgid "Number of elements in the folder."
-msgstr "文件夹中的元素数量 。"
+msgstr "文件夹中元件的数量。"
 
 #: ../../source/users/element/collection/properties_folder.rst:10
 msgid "Number of sub-folders (sub-categories) in the folder."
-msgstr "文件夹中的子文件夹( 子类) 数量 。"
+msgstr "文件夹中子文件夹（子类别）的数量。"
 
 #: ../../source/users/element/collection/properties_folder.rst:11
 msgid "Internal QElectroTech collection path from the folder."
-msgstr "文件夹中的 QElectroTech 内部收藏路径 。"
+msgstr "文件夹在 QElectroTech 集合中的内部路径。"
 
 #: ../../source/users/element/collection/properties_folder.rst:12
 msgid "File system path from the folder."
-msgstr "文件夹中的文件系统路径 。"
+msgstr "文件夹的文件系统路径。"
 
 #: ../../source/users/element/collection/properties_folder.rst:14
 msgid "Working with collections can only be done from `collections panel`_."
-msgstr "只能从 `收集面板 <collections panel_>`_ 中进行收藏工作。"
+msgstr "集合的相关操作只能在 `集合面板 <collections panel_>`_ 中进行。"
 
 #: ../../source/users/element/collection/properties_folder.rst:18
 msgid ""
 "Select **Settings > Display > Collections** menu item to display the "
 "`collections panel`_."
-msgstr "选择 **设置 > 显示 > 收藏** 菜单项以显示 `收藏面板 <collections panel_>`_ 。"
+msgstr "选择 **设置 > 显示 > 集合** 菜单项以显示 `集合面板 <collections panel_>`_ 。"
 
 #: ../../source/users/element/collection/properties_folder.rst:20
 msgid ""
 "Right click on the category (folder) from the collection whose properties "
 "should be displayed."
-msgstr "右键单击收藏中应当显示其属性的类别(文件夹)。"
+msgstr "右键单击集合中要显示其属性的类别（文件夹）。"
 
 #: ../../source/users/element/collection/properties_folder.rst:25
 msgid "Figure: Options at folder"
-msgstr "图：文件夹中的选项"
+msgstr "图：文件夹上的选项"
 
 #: ../../source/users/element/collection/properties_folder.rst:27
 msgid ""
 "Click the option **Folder properties** to display the PopUp window which "
 "shows the folder properties."
-msgstr "单击选项 **Folder 属性** 显示显示文件夹属性的 PopUp 窗口 。"
+msgstr "单击 **文件夹属性** 选项，显示文件夹属性的弹出窗口。"
 
 #: ../../source/users/element/collection/properties_folder.rst:32
 msgid "Figure: Folder properties PopUp window"

@@ -22,40 +22,40 @@ msgstr ""
 
 #: ../../source/users/interface/folio_tabs.rst:7
 msgid "Folio tabs bar"
-msgstr "Folio 标签栏"
+msgstr "图幅标签栏"
 
 #: ../../source/users/interface/folio_tabs.rst:9
 msgid ""
 "The folio tabs bar can be considered part of the `workspace`_. The folio "
 "tabs bar contains one tab for each `folio`_ of the `project`_."
 msgstr ""
-"folio 标签栏可以被认为是 `工作区 <workspace_>`_ 的一部分。folio 标签栏包含 `图幅 <folio_>`_ 每个 `项目 "
-"<project_>`_ 的一个标签。"
+"图幅标签栏可以视为 `工作区 <workspace_>`_ 的一部分。图幅标签栏为 `项目 <project_>`_ 中的每个 `图幅 "
+"<folio_>`_ 包含一个标签。"
 
 #: ../../source/users/interface/folio_tabs.rst:15
 msgid "Figure: QElectroTech folio tabs bar"
-msgstr "图：QElectroTech folio 标签栏"
+msgstr "图：QElectroTech 图幅标签栏"
 
 #: ../../source/users/interface/folio_tabs.rst:17
 msgid "The folio tabs bar allows the following actions:"
-msgstr "folio 标签栏允许下列动作："
+msgstr "图幅标签栏允许执行以下操作："
 
 #: ../../source/users/interface/folio_tabs.rst:19
 msgid "Choosing the active folio by simple click on the tab."
-msgstr "通过在标签上简单的点击来选择活动框 。"
+msgstr "通过单击标签选择活动图幅。"
 
 #: ../../source/users/interface/folio_tabs.rst:20
 msgid ""
 "Opening the properties PopUp window from an specific folio by double click "
 "on the tab."
-msgstr "通过双击在标签上打开属性弹出窗口 。"
+msgstr "通过双击标签打开特定图幅的属性弹出窗口。"
 
 #: ../../source/users/interface/folio_tabs.rst:21
 msgid ""
 "Adding new folio to the project by simple click on the **Add folio** icon "
 "|add_folio| from right side."
-msgstr "通过从右侧简单点击 **Add folio** 图标 |add_folio| ,将新的folio添加到项目中。"
+msgstr "单击右侧的 **添加图幅** 图标 |add_folio| ，即可向项目中添加新图幅。"
 
 #: ../../source/users/interface/folio_tabs.rst:23
 msgid "add_folio"
-msgstr "添加组合( F)"
+msgstr "添加图幅"

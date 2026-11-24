@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/element/collection/what_is.rst:5
 msgid "What is a collection?"
-msgstr "什么是收藏品吗?"
+msgstr "什么是集合？"
 
 #: ../../source/users/element/collection/what_is.rst:7
 msgid ""
@@ -31,19 +31,19 @@ msgid ""
 "name, category (folder); sub-categories (sub-folders) and category or sub-"
 "category path in the file system."
 msgstr ""
-"元件集合是一个存储和分类所有元素文件的数据库。元件集合给出了文件系统中元素名称，类别(文件夹),子类别(子文件夹)和类别或子类别路径的信息。"
+"元件集合是一个用于存储和分类所有元件文件的数据库。元件集合提供有关元件名称、类别（文件夹）、子类别（子文件夹）以及类别或子类别在文件系统中的路径的信息。"
 
 #: ../../source/users/element/collection/what_is.rst:11
 msgid ""
 "QElectroTech has two different element collections integrated, `QET "
 "collection`_ and `User collection`_."
 msgstr ""
-"QElectroTech有两种不同的元素集成，`QET集 <QET collection_>`_ 和 `用户集 <User "
+"QElectroTech 集成了两种不同的元件集合：`QET 集合 <QET collection_>`_ 和 `用户集合 <User "
 "collection_>`_。"
 
 #: ../../source/users/element/collection/what_is.rst:16
 msgid "Figure: Collection panel"
-msgstr "图：收集面板"
+msgstr "图：集合面板"
 
 #: ../../source/users/element/collection/what_is.rst:18
 msgid ""
@@ -52,6 +52,6 @@ msgid ""
 "part from the software structure and it is treated automatically by "
 "QElectroTech during the draw process in the `workspace`_."
 msgstr ""
-"QElectroTech 在项目打开时的 `收集面板 <collections panel_>`_ 中也显示第三个收藏，`元件集合 <project "
-"collection_>`_ 。 此收藏不是软件结构的一部分，在 `工作区 <workspace_>`_ 的绘图过程中由 QElectroTech "
-"自动处理 。"
+"当项目打开时，QElectroTech 还会在 `集合面板 <collections panel_>`_ 中显示第三种集合，即 `项目集合 "
+"<project collection_>`_。该集合不属于软件结构的一部分，在 `工作区 <workspace_>`_ 的绘图过程中由 "
+"QElectroTech 自动处理。"

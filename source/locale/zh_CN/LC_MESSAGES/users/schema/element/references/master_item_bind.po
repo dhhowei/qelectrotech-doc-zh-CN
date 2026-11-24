@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/schema/element/references/master_item_bind.rst:5
 msgid "Bind slave item"
-msgstr "捆绑奴隶物品"
+msgstr "绑定从元件项"
 
 #: ../../source/users/schema/element/references/master_item_bind.rst:7
 msgid ""
@@ -32,62 +32,62 @@ msgid ""
 "works with `master`_ and `slave`_ elements which are linked using `cross "
 "references`_ to represent the device."
 msgstr ""
-"可能发生的情况是，一个设备应该使用不同的 `项目 <project_>`_，功率和控制子系统和辅助子系统在 `元件 <elements_>`_ "
-"中被表示，所有这些 `元件 <elements_>`_ 都应被视为一个设备。QElectroTech与 `master <master_>`_ 和 "
-"`slave <slave_>`_ 元素一起工作，这些元素是用 `交叉引用 <cross references_>`_ 连接来表示设备的。"
+"有时，同一设备可能需要在 `项目 <project_>`_ 中用不同的 `元件 <elements_>`_ "
+"表示，例如功率与控制子系统以及辅助子系统。所有这些 `元件 <elements_>`_ 都应视为同一设备。QElectroTech 使用通过 `交叉引用"
+" <cross references_>`_ 链接的 `主元件 <master_>`_ 和 `从元件 <slave_>`_ 来表示该设备。"
 
 #: ../../source/users/schema/element/references/master_item_bind.rst:12
 msgid ""
 "A `slave element`_ can be linked to a `master element`_ with the following "
 "steps:"
-msgstr "a `奴隶元素 <slave element_>`_ 可链接到一个 `主元件 <master element_>`_，步骤如下："
+msgstr "`从元件 <slave element_>`_ 可按以下步骤链接到 `主元件 <master element_>`_ ："
 
 #: ../../source/users/schema/element/references/master_item_bind.rst:14
 msgid ""
 "Select the `master element`_ which should be linked from the `project "
 "collection`_ or from the `workspace`_."
 msgstr ""
-"选择 `主元件 <master element_>`_，该元件应从 `元件集合 <project collection_>`_ 或 `工作区 "
-"<workspace_>`_ 链接。"
+"从 `项目集合 <project collection_>`_ 或 `工作区 <workspace_>`_ 中选择要链接的 `主元件 <master "
+"element_>`_ 。"
 
 #: ../../source/users/schema/element/references/master_item_bind.rst:15
 msgid ""
 "Right click on the selected `element`_ and choose the option **Edit the "
 "element**."
-msgstr "右键点击选中的 `元件 <element_>`_ 并选择选项 **编辑元素** 。"
+msgstr "右键单击选中的 `元件 <element_>`_ ，选择 **编辑元件** 选项。"
 
 #: ../../source/users/schema/element/references/master_item_bind.rst:20
 msgid "Figure: QElectroTech element options"
-msgstr "图：QElectroTech 元素选项"
+msgstr "图：QElectroTech 元件选项"
 
 #: ../../source/users/schema/element/references/master_item_bind.rst:22
 msgid ""
 "`Display`_ the **Cross-reference (Master)** tab from the element editor "
 "PopUP window."
-msgstr "`显示 <Display_>`_ 元素编辑器 PopUP 窗口的 **Cross-Reference (Master)** tab."
+msgstr "在元件编辑器弹出窗口中 `显示 <Display_>`_ **交叉引用（主元件）** 标签页。"
 
 #: ../../source/users/schema/element/references/master_item_bind.rst:27
 #: ../../source/users/schema/element/references/master_item_bind.rst:43
 msgid "Figure: QElectroTech cross reference tab element properties"
-msgstr "图：QElectroTech 交叉引用标签元素属性"
+msgstr "图：QElectroTech 交叉引用标签页中的元件属性"
 
 #: ../../source/users/schema/element/references/master_item_bind.rst:29
 msgid ""
 "Search and select the desired `slave element`_ from the **Available "
 "elements** table."
-msgstr "搜索并从 **可用元素** 表中选择想要的 `奴隶元素 <slave element_>`_。"
+msgstr "在 **可用元件** 表中搜索并选择所需的 `从元件 <slave element_>`_ 。"
 
 #: ../../source/users/schema/element/references/master_item_bind.rst:30
 msgid ""
 "Press **Bind item** |icon_bind| to link the `slave element`_ to the `master "
 "element`_."
 msgstr ""
-"按 **Bind 项** |icon_bind| 将 `奴隶元素 <slave element_>`_ 与 `主元件 <master "
-"element_>`_ 链接。"
+"按 **绑定项** |icon_bind| 将 `从元件 <slave element_>`_ 链接到 `主元件 <master element_>`_"
+" 。"
 
 #: ../../source/users/schema/element/references/master_item_bind.rst:33
 msgid "icon_bind"
-msgstr "图标( B)"
+msgstr "绑定图标"
 
 #: ../../source/users/schema/element/references/master_item_bind.rst:31
 msgid "Press **Apply** to accept and save the changes."
@@ -98,5 +98,5 @@ msgid ""
 "At the available elements table, the `slave element`_ can also be linked by "
 "right click on the `element`_ and selecting the option **Link the item**."
 msgstr ""
-"在现有的元素表中，`slave元素 <slave element_>`_ 也可以通过右键点击 `元件 <element_>`_ 并选择选项 "
-"**链接项目** 而链接。"
+"在可用元件表中，也可以通过右键单击 `元件 <element_>`_ 并选择 **链接项** 选项来链接 `从元件 <slave element_>`_"
+" 。"

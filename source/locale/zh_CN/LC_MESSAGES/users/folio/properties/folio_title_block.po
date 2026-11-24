@@ -30,8 +30,8 @@ msgid ""
 "define the `title block`_ template used at the `folio`_. The folio variables"
 " can also be managed from this section."
 msgstr ""
-"来自 `follio 属性 <folio properties_>`_ 的图框部分是用于定义 `图框 <title block_>`_ 中使用的 `图幅"
-" <folio_>`_ 模板的一节，该folio变量也可以从本节管理。"
+"`图幅属性 <folio properties_>`_ 中的图框部分用于定义该 `图幅 <folio_>`_ 所使用的 `图框 <title "
+"block_>`_ 模板。图幅变量也可以在此部分中管理。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:12
 msgid ""
@@ -41,15 +41,14 @@ msgid ""
 "project properties. For more information about how to pre-define folio "
 "properties, refer to `project properties`_ section."
 msgstr ""
-"为缩短创建时间，QElectroTech 允许为项目中将创建的所有未来立体创建一些预设。folio 可变值和 `folio 图框 <folio "
-"title block_>`_ 在项目属性中可以预先定义 。 有关如何预先定义立体属性的更多信息，请参考 `项目属性 <project "
-"properties_>`_ 部分 。"
+"为缩短创建时间，QElectroTech 允许为将在项目中创建的所有未来图幅预设一些内容。图幅变量值和 `图幅图框 <folio title "
+"block_>`_ 可以在项目属性中预定义。有关如何预定义图幅属性的更多信息，请参阅 `项目属性 <project properties_>`_ 一节。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:17
 msgid ""
 "The title block section is organized on three different areas: title block "
 "selection area, main variable tab and custom variable tab."
-msgstr "图框部分按三个不同领域排列：图框选择区，主变量标签和自定义变量标签。"
+msgstr "图框部分分为三个不同的区域：图框选择区、主变量标签页和自定义变量标签页。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:21
 msgid "Title block selection area"
@@ -59,38 +58,39 @@ msgstr "图框选择区域"
 msgid ""
 "The title block selection area is used to define the `folio title block`_. "
 "The actions that can be managed from this section are:"
-msgstr "图框选择区域用于定义 `folio图框 <folio title block_>`_。可从本节管理的行动有："
+msgstr "图框选择区域用于定义 `图幅图框 <folio title block_>`_ 。可在此部分中执行的操作包括："
 
 #: ../../source/users/folio/properties/folio_title_block.rst:26
 msgid ""
 "Select the `folio title block`_ from the `project title block collection`_."
 msgstr ""
-"选择 `folio 图框 <folio title block_>`_ 从 `项目图框集 <project title block "
-"collection_>`_。"
+"从 `项目图框集合 <project title block collection_>`_ 中选择 `图幅图框 <folio title "
+"block_>`_ 。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:27
 msgid ""
 "Select the position of the title block in the folio, bottom |titleblock-"
 "bottom| or right |titleblock-right| side."
-msgstr "选择图框在folio,底部 |titleblock-bottom| 或右 |titleblock-right| 边的位置 。"
+msgstr "选择图框在图幅中的位置：底部 |titleblock-bottom| 或右侧 |titleblock-right| 一侧。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:40
 msgid "titleblock-bottom"
-msgstr "图框下方"
+msgstr "图框底部"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:41
 msgid "titleblock-right"
-msgstr "图框右"
+msgstr "图框右侧"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:28
 msgid ""
 "Edit the `title block`_ pressing the button |edit-rename| and choosing the "
 "option **Edit this template**."
-msgstr "编辑 `图框 <title block_>`_ 按下按钮 |edit-rename| 并选择选项 **编辑此模板**."
+msgstr ""
+"按下按钮 |edit-rename| 并选择选项 **Edit this template** ，以编辑 `图框 <title block_>`_ 。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:42
 msgid "edit-rename"
-msgstr "编辑-重命名"
+msgstr "编辑并重命名"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:29
 msgid ""
@@ -98,46 +98,46 @@ msgid ""
 "pressing the button |edit-rename| and choosing the option **Duplicate and "
 "edit this template**."
 msgstr ""
-"复制 `图框 <title block_>`_ 中的 `图框 <project title block collection_>`_ 按下按钮 "
-"|edit-rename| 并选择选项 **复制和编辑本模板**."
+"在 `项目图框集合 <project title block collection_>`_ 中按下按钮 |edit-rename| 并选择选项 "
+"**Duplicate and edit this template** ，以复制 `图框 <title block_>`_ 。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:34
 msgid "Figure: Folio title block selection area"
-msgstr "图：Folio 图框选择区"
+msgstr "图：图幅图框选择区域"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:38
 msgid ""
 "For more information about QElectroTech title block, refer to `title block`_"
 " section."
-msgstr "关于QElectroTech图框的更多信息，请参见 `图框 <title block_>`_ 部分。"
+msgstr "有关 QElectroTech 图框的更多信息，请参阅 `图框 <title block_>`_ 部分。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:45
 msgid "Main folio properties tab"
-msgstr "主组合属性标签"
+msgstr "主图幅属性标签页"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:47
 msgid "The **Main** tab provides these default folio variables."
-msgstr "**Main** 标签提供了这些默认的folio变量。"
+msgstr "**Main** 标签页提供以下默认图幅变量。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:52
 msgid "Figure: Folio title block main tab"
-msgstr "图：Folio 图框主标签"
+msgstr "图：图幅图框主标签页"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:54
 msgid "The default folio variables are:"
-msgstr "默认组合变量为："
+msgstr "默认图幅变量包括："
 
 #: ../../source/users/folio/properties/folio_title_block.rst:56
 msgid "**Title**: Title from the folio."
-msgstr "**题**: 题名来自folio."
+msgstr "**Title**: 图幅的标题。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:57
 msgid "**Author**: Author from the folio."
-msgstr "**作者**:来自folio的作者。"
+msgstr "**Author**: 图幅的作者。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:58
 msgid "**Date**: Date of creation of the folio."
-msgstr "**约会**:folio的创建日期。"
+msgstr "**Date**: 图幅的创建日期。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:59
 msgid "**File**:"
@@ -145,51 +145,51 @@ msgstr "**文件**:"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:60
 msgid "**Folio**: Folio information (Label)."
-msgstr "**Folio**: Folio信息 (Label)."
+msgstr "**Folio**: 图幅信息（标签）。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:61
 msgid "**Plant**: Folio variable named Plant."
-msgstr "**Plant**:Folio变量命名为Plant."
+msgstr "**Plant**: 名为 Plant 的图幅变量。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:62
 msgid "**Location**: Folio variable named Location."
-msgstr "**Location**:Folio变量命名为Location."
+msgstr "**Location**: 名为 Location 的图幅变量。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:63
 msgid "**Rev index**: Revision index from the folio."
-msgstr "**Rev index**:从folio修改索引。"
+msgstr "**Rev index**: 图幅的修订索引。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:64
 msgid "**Page Num**: Auto numbering pattern from the folio."
-msgstr "**Page Num**:来自folio的自动编号模式。"
+msgstr "**Page Num**: 图幅的自动编号模式。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:68
 msgid ""
 "For more information about default variables, refer to `variables`_ section."
-msgstr "关于默认变量的更多信息，参见 `可变 <variables_>`_ 节。"
+msgstr "有关默认变量的更多信息，请参阅 `变量 <variables_>`_ 一节。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:71
 msgid "Custom properties folio tab"
-msgstr "自定义属性组合标签"
+msgstr "自定义属性图幅标签页"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:73
 msgid ""
 "The **Custom** tab is the section where custom variables can be defined."
-msgstr "**Custom** 标签是可以定义自定义变量的部分。"
+msgstr "**Custom** 标签页是可定义自定义变量的部分。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:78
 msgid "Figure: Folio title block custom tab"
-msgstr "图：Folio 图框自定义标签"
+msgstr "图：图幅图框自定义标签页"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:80
 msgid "To define a user folio variable:"
-msgstr "要定义一个用户组合变量："
+msgstr "要定义用户图幅变量："
 
 #: ../../source/users/folio/properties/folio_title_block.rst:82
 msgid "Define variable name at the **Name** column from the variables table."
-msgstr "在变量表的 **上定义变量名称Name** 栏。"
+msgstr "在变量表的 **Name** 列中定义变量名称。"
 
 #: ../../source/users/folio/properties/folio_title_block.rst:83
 msgid ""
 "Define variable value at the **Value** column from the variables table."
-msgstr "在变量表中的 **值** 栏中定义变量值。"
+msgstr "在变量表的 **Value** 列中定义变量值。"

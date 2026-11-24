@@ -22,22 +22,22 @@ msgstr ""
 
 #: ../../source/users/conductor/what_is.rst:7
 msgid "What is a conductor?"
-msgstr "什么是导师?"
+msgstr "什么是导体？"
 
 #: ../../source/users/conductor/what_is.rst:9
 msgid ""
 "A `conductor`_ or conduit represents the means of transmission of "
 "information, electrical power, flow power (pressure or flow volume) between "
 "source and target."
-msgstr "A`导体 <conductor_>`_ 或导管代表源与目标之间传递信息，电源，流电(压力或流量)的手段。"
+msgstr "`导体 <conductor_>`_ 或导管表示源与目标之间传递信息、电能、流体动力（压力或流量）的媒介。"
 
 #: ../../source/users/conductor/what_is.rst:15
 msgid "Figure: QElectroTech conductor"
-msgstr "图：QElectroTech导电器"
+msgstr "图：QElectroTech 导体"
 
 #: ../../source/users/conductor/what_is.rst:17
 msgid ""
 "In physical systems, T-crosses are used at fluid lines and terminal blocks "
 "are used to feed different electrical devices from the same source. "
 "QElectroTech also allows multiple connections between source and target."
-msgstr "在物理系统中，T-cross用于流线，终端区块用于从同一来源提供不同的电气设备。QElectroTech还允许源与目标之间有多个连接。"
+msgstr "在物理系统中，T 形接头用于流体管路，端子排用于从同一来源为不同电气设备供电。QElectroTech 也允许源与目标之间存在多个连接。"

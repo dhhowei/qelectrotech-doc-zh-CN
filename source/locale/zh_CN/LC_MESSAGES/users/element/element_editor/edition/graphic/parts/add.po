@@ -22,21 +22,21 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/add.rst:5
 msgid "Add part to element"
-msgstr "向元素添加部分"
+msgstr "向元件添加部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/add.rst:7
 msgid ""
 "Adding parts to the `drawing area`_ from the `element editor`_ can only be "
 "done from `parts toolbar`_."
 msgstr ""
-"从 `绘图区 <drawing area_>`_ 添加部件到 `drawing 区域 <element editor_>`_ 只能从 `部件工具栏 "
-"<parts toolbar_>`_ 完成 。"
+"只能通过 `部件工具栏 <parts toolbar_>`_ 从 `元件编辑器 <element editor_>`_ 向 `绘图区 <drawing "
+"area_>`_ 添加部件。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/add.rst:11
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Parts**."
-msgstr "如果 `工具栏 <toolbar_>`_ 不显示，可以从 **设置 > 显示 > 部件** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 部件** 将其显示出来。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/add.rst:13
 msgid ""
@@ -44,6 +44,6 @@ msgid ""
 "`Rectangle`_, `Ellipse`_, `Arc`_, `Polygon`_, `Terminal`_, `text`_ and "
 "`dynamic text field`_), refer to the `element part`_ section."
 msgstr ""
-"关于如何添加每类部分(`线条 <Line_>`_，`矩形 <Rectangle_>`_，`椭圆 <Ellipse_>`_，`圆弧 "
-"<Arc_>`_，`多边形 <Polygon_>`_，`端子 <Terminal_>`_，`文本 <text_>`_ 和 `动态文本字段 "
-"<dynamic text field_>`_)的更多信息，参见 `元素部分 <element part_>`_。"
+"有关如何添加各类部件（`线条 <Line_>`_、`矩形 <Rectangle_>`_、`椭圆 <Ellipse_>`_、`圆弧 "
+"<Arc_>`_、`多边形 <Polygon_>`_、`端子 <Terminal_>`_、`文本 <text_>`_ 和 `动态文本字段 "
+"<dynamic text field_>`_ ）的更多信息，请参见 `元件部件 <element part_>`_ 一节。"

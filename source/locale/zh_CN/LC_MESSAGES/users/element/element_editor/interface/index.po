@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/interface/index.rst:5
 msgid "Interface element editor"
-msgstr "界面元素编辑器"
+msgstr "元件编辑器界面"

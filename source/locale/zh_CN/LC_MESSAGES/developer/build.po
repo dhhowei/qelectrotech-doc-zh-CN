@@ -22,13 +22,13 @@ msgstr ""
 
 #: ../../source/developer/build.rst:6
 msgid "Building QET from source"
-msgstr "从源头构建QET"
+msgstr "从源代码构建 QET"
 
 #: ../../source/developer/build.rst:8
 msgid ""
 "This section is for users and contributors wanting to build and/or improve "
 "QElectroTech (QET)."
-msgstr "本节为希望建立和(或)改进QElectroTech(QET)的用户和贡献者提供。"
+msgstr "本节面向希望构建和/或改进 QElectroTech（QET）的用户与贡献者。"
 
 #: ../../source/developer/build.rst:10
 msgid ""
@@ -37,19 +37,19 @@ msgid ""
 "For installation instructions, please refer to the `Installing Git`_ "
 "instructions."
 msgstr ""
-"本指南假定您已经预留了源重播，您的系统配置了 Git VCS (Version Control System) 来指向叉。 对于安装指令，请参考 `安装"
-" Git <Installing Git_>`_ 说明。"
+"本指南假定你已派生（fork）源代码仓库，并且系统中配置的 Git 版本控制系统（VCS）已指向该派生仓库。安装说明请参阅 `安装 Git "
+"<Installing Git_>`_。"
 
 #: ../../source/developer/build.rst:14
 msgid "Make sure to add Git to your ``PATH`` during the Windows installation."
-msgstr "在Windows安装过程中确保将 Git 添加到您的 ``PATH`` 中。"
+msgstr "在 Windows 安装过程中，请务必将 Git 添加到 ``PATH``。"
 
 #: ../../source/developer/build.rst:16
 msgid ""
 "If you need help to setup Git or you are unsure about something regarding "
 "pushing code to the repo, please have a look at the :doc:`Contributing "
 "guidelines <contributing>`."
-msgstr "如果你需要帮助设置吉特或者你不确定什么关于推进代码到repo, 请看一下 :doc:`贡献准则<contributing>`."
+msgstr "如果你需要协助配置 Git，或对将代码推送到仓库的流程有疑问，请参阅 :doc:`贡献指南 <contributing>`。"
 
 #: ../../source/developer/build.rst:20
 msgid "Prerequisites"
@@ -57,7 +57,7 @@ msgstr "前置条件"
 
 #: ../../source/developer/build.rst:22
 msgid "Get the sources and initialize the submodules by running this command"
-msgstr "通过运行此命令获取源并初始化子模块"
+msgstr "运行以下命令获取源代码并初始化子模块"
 
 #: ../../source/developer/build.rst:30 ../../source/developer/build.rst:133
 #: ../../source/developer/build.rst:164
@@ -74,8 +74,8 @@ msgid ""
 "packages. These include QT 5 and KDE 5.15.X Dev headers and other utilities "
 "like SQLite DB code utilities."
 msgstr ""
-"对于类似Debian的机器(Ubuntu,Linux Mint等),安装所需的软件包，其中包括QT 5和KDE 5.15.X Dev头和SQLite "
-"DB 代码公用事业等其他公用事业。"
+"对于类 Debian 系统（Ubuntu、Linux Mint 等），请安装所需的软件包，包括 Qt 5 与 KDE 5.15.X 开发头文件，以及 "
+"SQLite 数据库工具等其他实用工具。"
 
 #: ../../source/developer/build.rst:42
 msgid "Containerized"
@@ -88,14 +88,14 @@ msgid ""
 "the box with your choice OS, follow the package install guidelines in the "
 "\"Native\" part of the build docs."
 msgstr ""
-"如果您担心依赖中断的风险，您可以使用像 `Distrobox <Distrobox_>`_ 这样的工具来方便地设置一个包含的环境 。 在使用您选择的 "
-"OS 创建框后，请在 building docs 的“ Native” 部分遵循软件包安装指南 。"
+"如果你担心依赖被破坏的风险，可以使用 `Distrobox <Distrobox_>`_ "
+"等工具轻松搭建隔离环境。使用你所选的操作系统创建容器后，请按照构建文档“原生环境”部分中的软件包安装指南操作。"
 
 #: ../../source/developer/build.rst:47
 msgid ""
 "*Example of Debian box creation. Replace <name> with the one you want to "
 "give to it.*"
-msgstr "*Debian 框创建的示例。将 <name> 替换为您要给它的一个。*"
+msgstr "*创建 Debian 容器的示例。将 <name> 替换为你想要使用的名称。*"
 
 #: ../../source/developer/build.rst:55 ../../source/developer/build.rst:126
 #: ../../source/developer/build.rst:161
@@ -107,55 +107,54 @@ msgid ""
 "Due to the fact that Windows uses its own C compiler (MSVC) and doesn't ship"
 " with a GCC version by default, the Prerequisites Step is a little bit more "
 "involved than on Linux."
-msgstr ""
-"由于Windows使用自己的C编译器(MSVC),并且默认不会携带GCC版本发货，因此Prerequists Step比Linux上的参与度略高。"
+msgstr "由于 Windows 使用自己的 C 编译器（MSVC），且默认不附带 GCC，因此前置条件步骤比 Linux 上稍复杂一些。"
 
 #: ../../source/developer/build.rst:62
 msgid "Install QT"
-msgstr "安装 QT"
+msgstr "安装 Qt"
 
 #: ../../source/developer/build.rst:64
 msgid "Download the `Qt Online Installer`_."
-msgstr "下载 `Qt在线安装器 <Qt Online Installer_>`_。"
+msgstr "下载 `Qt 在线安装器 <Qt Online Installer_>`_。"
 
 #: ../../source/developer/build.rst:65
 msgid "During installation:"
-msgstr "安装期间："
+msgstr "安装过程中："
 
 #: ../../source/developer/build.rst:67
 msgid "Select **Custom Installation**."
-msgstr "选择 **自定义安装** 。"
+msgstr "选择 **自定义安装**。"
 
 #: ../../source/developer/build.rst:68
 msgid "See Qt 5 by checking 'Archive' and clicking 'Filter' button"
-msgstr "通过检查“ Archive” 和点击“ Filter” 按钮查看 Qt 5"
+msgstr "勾选“Archive”并点击“Filter”按钮以显示 Qt 5"
 
 #: ../../source/developer/build.rst:69
 msgid ""
 "Enable **Qt 5.15.2** → **MinGW 8.1.0 64-bit** under the ``Archive`` section."
-msgstr "启用 **Qt 5.15.2** → **MinGW 8.1.0 64-bit** 在 ``Archive`` 节下。"
+msgstr "在 ``Archive`` 部分下启用 **Qt 5.15.2** → **MinGW 8.1.0 64-bit**。"
 
 #: ../../source/developer/build.rst:70
 msgid "Enable **Build Tools** → **MinGW 8.1.0 64-bit**."
-msgstr "启用 **构建工具** – **MinGW 8.1.0 64-bit**."
+msgstr "启用 **构建工具** → **MinGW 8.1.0 64-bit**。"
 
 #: ../../source/developer/build.rst:72
 msgid "After installation:"
-msgstr "安装后："
+msgstr "安装完成后："
 
 #: ../../source/developer/build.rst:74
 msgid "Qt will be installed at: ``C:\\Qt\\5.15.2\\mingw81_64``."
-msgstr "Qt 将安装于：``C:\\Qt\\5.15.2\\mingw81_64``."
+msgstr "Qt 将安装到：``C:\\Qt\\5.15.2\\mingw81_64``。"
 
 #: ../../source/developer/build.rst:75
 msgid "MinGW will be available at: ``C:\\Qt\\Tools\\mingw810_64\\bin``."
-msgstr "MinGW将在 ``C:\\Qt\\Tools\\mingw810_64\\bin`` 提供。"
+msgstr "MinGW 将位于：``C:\\Qt\\Tools\\mingw810_64\\bin``。"
 
 #: ../../source/developer/build.rst:77
 msgid ""
 "After completing the installation, set the two PATH Variables for the KDE "
 "Step."
-msgstr "在完成安装后，设置 KDE 步骤的两个 PATH 变量 。"
+msgstr "完成安装后，为 KDE 步骤设置两个 PATH 变量。"
 
 #: ../../source/developer/build.rst:80
 msgid "Set the QTPATH Variable"
@@ -165,17 +164,17 @@ msgstr "设置 QTPATH 变量"
 msgid ""
 "Set the ``QTPATH`` environment variable to point to your Qt installation "
 "directory. For example:"
-msgstr "设置 ``QTPATH`` 环境变量以指向您的 Qt 安装目录。 例如："
+msgstr "将 ``QTPATH`` 环境变量设置为指向你的 Qt 安装目录。例如："
 
 #: ../../source/developer/build.rst:88
 msgid "Add MinGW to PATH"
-msgstr "将 MinGW 添加到路径"
+msgstr "将 MinGW 添加到 PATH"
 
 #: ../../source/developer/build.rst:90
 msgid ""
 "Add the following directory to your ``PATH`` environment variable: "
 "``C:\\Qt\\Tools\\mingw810_64\\bin``"
-msgstr "在您的 ``PATH`` 环境变量中添加以下目录：``C:\\Qt\\Tools\\mingw810_64\\bin``"
+msgstr "将以下目录添加到 ``PATH`` 环境变量：``C:\\Qt\\Tools\\mingw810_64\\bin``"
 
 #: ../../source/developer/build.rst:93
 msgid "Verify installation:"
@@ -191,7 +190,7 @@ msgstr "下载并安装 `CMake <CMake_>`_。"
 
 #: ../../source/developer/build.rst:103
 msgid "Add CMake to your system ``PATH`` during installation."
-msgstr "在安装时将 CMake 添加到您的系统 ``PATH`` 。"
+msgstr "安装过程中将 CMake 添加到系统 ``PATH``。"
 
 #: ../../source/developer/build.rst:104
 msgid "Verify the installation:"
@@ -199,41 +198,40 @@ msgstr "验证安装："
 
 #: ../../source/developer/build.rst:113
 msgid "Download and Compile KDE Components"
-msgstr "下载和编译 KDE 组件"
+msgstr "下载并编译 KDE 组件"
 
 #: ../../source/developer/build.rst:118
 msgid "Compilation instructions"
-msgstr "汇编指南"
+msgstr "编译说明"
 
 #: ../../source/developer/build.rst:120
 msgid ""
 "After setting your developer environment, you will now learn how to compile "
 "the QET source code from the IDE or the CLI."
-msgstr "在设置您的开发者环境后，您现在将学习如何从 IDE 或 CLI 中编译 QET 源代码 。"
+msgstr "配置好开发环境后，你将学习如何通过 IDE 或命令行编译 QET 源代码。"
 
 #: ../../source/developer/build.rst:123
 msgid "IDE Setup and Compilation"
-msgstr "IDE 设置和汇编"
+msgstr "IDE 配置与编译"
 
 #: ../../source/developer/build.rst:128
 msgid ""
 "To install the QT Creator IDE on Windows, you can choose one of the two "
 "following options:"
-msgstr "要在 Windows 上安装 QT 创建器 IDE, 您可以选择以下两个选项中的一个："
+msgstr "在 Windows 上安装 Qt Creator IDE，可选择以下两种方式之一："
 
 #: ../../source/developer/build.rst:130
 msgid ""
 "Use the `Qt Online Installer`_ previously mentioned, in which case you can "
 "select the QT Creator IDE as a component to install during the Setup."
 msgstr ""
-"使用先前提到的 `Qt 在线安装器 <Qt Online Installer_>`_，在这种情况下，您可以选择 QT 创建器 IDE "
-"作为设置时要安装的组件。"
+"使用前面提到的 `Qt 在线安装器 <Qt Online Installer_>`_，在安装过程中选择将 Qt Creator IDE 作为组件安装。"
 
 #: ../../source/developer/build.rst:135
 msgid ""
 "After installing the dependencies, install the QT Creator IDE. Depending on "
 "your OS type, you have two options:"
-msgstr "在安装依赖后，安装 QT 创建器 IDE。 根据您的OS 类型，您有两个选项："
+msgstr "安装依赖后，再安装 Qt Creator IDE。根据你的操作系统类型，有两种方式："
 
 #: ../../source/developer/build.rst:138
 msgid ""
@@ -241,22 +239,22 @@ msgid ""
 "LTS`_ , chances are that their builds are up to date. Install it by running "
 "the :code:`apt` command:"
 msgstr ""
-"如果您正在使用像 Fedora, Arch 或 `Ubuntu Non LTS <Ubuntu Non LTS_>`_ "
-"这样的出血的边缘底盘，概率是它们的建筑是否更新。 通过运行 :code:`apt` 命令安装它："
+"如果你使用的是 Fedora、Arch 或 `Ubuntu 非 LTS 版本 <Ubuntu Non LTS_>`_ "
+"这类更新较快的发行版，其软件包通常已是最新版本。可通过运行 :code:`apt` 命令安装："
 
 #: ../../source/developer/build.rst:145
 msgid ""
 "If you are using a distro with a slower release cycle like Debian, you'll "
 "need to do two things:"
-msgstr "如果你像Debian那样使用释放周期较慢的Dentro, 你需要做两件事："
+msgstr "如果你使用的是 Debian 这类发布周期较慢的发行版，需要做两件事："
 
 #: ../../source/developer/build.rst:147
 msgid "First setup `Flatpak`_"
-msgstr "第一个设置 `Flatpak <Flatpak_>`_"
+msgstr "首先安装并配置 `Flatpak <Flatpak_>`_"
 
 #: ../../source/developer/build.rst:148
 msgid "Then use Flatpak to install the `QT Creator IDE`_"
-msgstr "然后使用 Flatpak 安装 `QT 创建器 IDE <QT Creator IDE_>`_"
+msgstr "然后使用 Flatpak 安装 `Qt Creator IDE <QT Creator IDE_>`_"
 
 #: ../../source/developer/build.rst:156
 msgid ""
@@ -264,12 +262,12 @@ msgid ""
 "shortcut ``ctrl+O`` to open your OS file dialog. Click the *.pro* file to "
 "open the project and click \"Build\">\"Run\" to run the project."
 msgstr ""
-"安装后，单击\"File\">\"Open File或Project\"或使用快捷键 ``ctrl+O`` 打开您的OS文件对话框。点击 *.pro* "
-"文件打开项目，点击\"Build\">\"Run\"运行项目。"
+"安装完成后，点击“File”→“Open File or Project”，或使用快捷键 ``ctrl+O`` 打开操作系统的文件对话框。点击 "
+"*.pro* 文件打开项目，然后点击“Build”→“Run”运行项目。"
 
 #: ../../source/developer/build.rst:159
 msgid "CLI Compilation"
-msgstr "CLI 汇编"
+msgstr "命令行编译"
 
 #: ../../source/developer/build.rst:166
 msgid ""
@@ -277,12 +275,11 @@ msgid ""
 "(VSCode, Sublime Text, etc...), you can compile the codebase using these "
 "commands:"
 msgstr ""
-"如果您不想使用 QT 创建器 IDE 或正在使用另一个 IDE( VSCode, Sublime Text 等), 您可以使用这些命令编译代码库："
+"如果你不想使用 Qt Creator IDE，或正在使用其他 IDE（VSCode、Sublime Text 等），可以使用以下命令编译代码库："
 
 #: ../../source/developer/build.rst:175
 msgid ""
 "This will instruct :code:`qmake` to prepare the required files in the "
 ":code:`build` directory and launch compilation with the :code:`make` "
 "command."
-msgstr ""
-"这将指示 :code:` qmake ` 在 :code:` 构建 ` 目录中编写所需的文件，并用 :code:` make ` 命令启动汇编 。"
+msgstr "这将指示 :code:`qmake` 在 :code:`build` 目录中准备所需文件，并通过 :code:`make` 命令启动编译。"

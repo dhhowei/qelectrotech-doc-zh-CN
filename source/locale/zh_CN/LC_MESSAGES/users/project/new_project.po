@@ -29,8 +29,8 @@ msgid ""
 "A new `project`_ can be created from `menu bar`_, `toolbar`_ and using the "
 "corresponding keyboard shortcut."
 msgstr ""
-"可以从 `项目 <project_>`_，`菜单栏 <menu bar_>`_ 创建一个新的 `工具栏 "
-"<toolbar_>`_，并使用相应的键盘快捷键。"
+"可以从 `菜单栏 <menu bar_>`_ 、 `工具栏 <toolbar_>`_ 创建新的 `项目 <project_>`_ "
+"，也可以使用相应的键盘快捷键。"
 
 #: ../../source/users/project/new_project.rst:11
 msgid "Create new project from menu bar"
@@ -38,7 +38,7 @@ msgstr "从菜单栏创建新项目"
 
 #: ../../source/users/project/new_project.rst:13
 msgid "Select **File > New** menu item to create a new `project`_."
-msgstr "选择 **文件 > 新建** 菜单项以创建新的 `项目 <project_>`_ 。"
+msgstr "选择 **文件 > 新建** 菜单项以创建一个新的 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/new_project.rst:18
 msgid "Figure: QElectroTech file menu"
@@ -51,17 +51,17 @@ msgstr "从工具栏创建新项目"
 #: ../../source/users/project/new_project.rst:23
 msgid ""
 "Select the icon |project-new| from `toolbar`_ to create a new `project`_."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |project-new| 以创建新的 `项目 <project_>`_。"
+msgstr "在 `工具栏 <toolbar_>`_ 中选择图标 |project-new| 以创建新的 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/new_project.rst:25
 msgid "project-new"
-msgstr "项目-新"
+msgstr "新建项目"
 
 #: ../../source/users/project/new_project.rst:29
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**"
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示"
+msgstr "如果未显示 `工具栏 <toolbar_>`_ ，可以从 **设置 > 显示 > 工具** 中将其显示。"
 
 #: ../../source/users/project/new_project.rst:32
 msgid "Create new project using keyboard shortcut"
@@ -71,14 +71,14 @@ msgstr "使用键盘快捷键创建新项目"
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/project/new_project.rst:36
 msgid "Press ``Ctrl + n`` to create a new `project`_."
-msgstr "按 ``Ctrl + n`` 创建新 `项目 <project_>`_。"
+msgstr "按 ``Ctrl + n`` 创建一个新的 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/new_project.rst:40
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/drawing/lop.rst:7
 msgid "Design Local Control Panel (LOP)"
-msgstr "设计本地控制面板(LOP)"
+msgstr "设计本地控制面板 (LOP)"
 
 #: ../../source/users/drawing/lop.rst:9
 msgid ""
@@ -30,8 +30,8 @@ msgid ""
 "allows also drawing 2D drawings. Electrical boxes, buttons, switches, "
 "screens and any other type of components can be drawn at the `workspace`_."
 msgstr ""
-"QElectroTech不仅是图和图的工具，QEctroTech也允许绘制2D图，电气盒，按钮，开关，屏幕和任何其他类型的组件都可以在 `工作区 "
-"<workspace_>`_ 绘制。"
+"QElectroTech 不仅是用于图和原理图的工具，还允许绘制 2D 图纸。电气箱、按钮、开关、屏幕以及任何其他类型的组件都可以在 `工作区 "
+"<workspace_>`_ 中绘制。"
 
 #: ../../source/users/drawing/lop.rst:13
 msgid ""
@@ -41,25 +41,24 @@ msgid ""
 "`workspace`_. At the category **Graphics** from `QET collection`_ some "
 "common electrical components front views are provided as `elements`_."
 msgstr ""
-"2D来自电气组件的绘图可以在 `元素编辑器 <element editor_>`_ 创建为 `元件 "
-"<elements_>`_。组件绘图创建后，组装面板绘图可以在 `元件 <elements_>`_ 引入 `工作区 <workspace_>`_，在 "
-"`QET 集合 <QET collection_>`_ 中的类别 **Graphics** 中提供一些常见的电气组件前视图作为 `元件 "
-"<elements_>`_。"
+"可以在 `元件编辑器 <element editor_>`_ 中创建电气组件的 2D 图纸，并将其作为 `元件 <elements_>`_ "
+"。创建组件图纸后，可以在 `工作区 <workspace_>`_ 中放入 `元件 <elements_>`_ 来创建组装面板图纸。在 `QET 集合 "
+"<QET collection_>`_ 的 **Graphics** 类别中，提供了一些常见电气组件的正视图作为 `元件 <elements_>`_ 。"
 
 #: ../../source/users/drawing/lop.rst:20
 msgid ""
 "For more information about how to create `elements`_, refer to `Create or "
 "edit element`_ section."
 msgstr ""
-"有关如何创建 `元件 <elements_>`_ 的更多信息，请参见 `创建或编辑元素 <Create or edit element_>`_ 部分。"
+"有关如何创建 `元件 <elements_>`_ 的更多信息，请参阅 `创建或编辑元件 <Create or edit element_>`_ 一节。"
 
 #: ../../source/users/drawing/lop.rst:23
 msgid ""
 "For more information about how to introduce `elements`_ at `workspace`_, "
 "refer to `Working with element`_ section."
 msgstr ""
-"有关如何在 `元件 <elements_>`_ 引入 `工作区 <workspace_>`_ 的更多信息，参见 `与 <Working with "
-"element_>`_ 项有关的工作。"
+"有关如何在 `工作区 <workspace_>`_ 中放入 `元件 <elements_>`_ 的更多信息，请参阅 `使用元件 <Working "
+"with element_>`_ 一节。"
 
 #: ../../source/users/drawing/lop.rst:26
 msgid ""
@@ -70,10 +69,10 @@ msgid ""
 "component at the drawing will reduce the future effort; the effort from the "
 "manufacturing, installation and maintenance phase of the project."
 msgstr ""
-"使用 QElectroTech 绘制控制面板而不是使用不同的 CAD 工具的优点是有可能在 `元件 <elements_>`_ 之间建立联系。`元件 "
-"<elements_>`_ 在 `schema <schema_>`_ 和 `元件 <elements_>`_ "
-"之间建立联系，这些要素在绘图时代表组件，这将减少未来的努力;项目制造、安装和维护阶段的努力。"
+"使用 QElectroTech 而非其他 CAD 工具绘制控制面板的优势在于，可以在 `元件 <elements_>`_ 之间建立链接。将 `原理图 "
+"<schema_>`_ 中代表电气组件的 `元件 <elements_>`_ 与图纸中代表该组件的 `元件 <elements_>`_ "
+"建立链接，可以减少未来的工作量，即项目制造、安装和维护阶段的工作量。"
 
 #: ../../source/users/drawing/lop.rst:35
 msgid "Figure: QElectroTech Local Control Panel example"
-msgstr "图：QElectroTech 本地控制面板实例"
+msgstr "图：QElectroTech 本地控制面板示例"

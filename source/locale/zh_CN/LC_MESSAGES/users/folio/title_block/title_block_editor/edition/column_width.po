@@ -31,23 +31,23 @@ msgid ""
 "corresponding `column`_. The head from the `columns`_ is not displayed in "
 "the `folio`_, it is only displayed at `title block editor`_."
 msgstr ""
-"从 `栏 <column_>`_ 的宽度只能从列头来定义，从 `绘图区 <drawing area_>`_ 的上方单元格给出了相应的 `栏 "
-"<column_>`_ 的宽度值。`栏 <columns_>`_ 的宽度没有在 `图幅 <folio_>`_ 中显示，只在 `图框编辑器 <title "
+"`列 <column_>`_ 的宽度只能通过列头定义，即 `绘图区 <drawing area_>`_ 顶部的单元格，它表示相应 `列 "
+"<column_>`_ 的宽度值。`列 <columns_>`_ 的列头不会显示在 `图幅 <folio_>`_ 中，仅在 `图框编辑器 <title "
 "block editor_>`_ 中显示。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/column_width.rst:11
 msgid "Double click on column head to display the column width PopUp window."
-msgstr "双击列头显示列宽 PopUp 窗口 。"
+msgstr "双击列头可显示列宽弹出窗口。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/column_width.rst:16
 msgid "Figure: QElectroTech Title block column width PopUP window"
-msgstr "图：QElectroTech 图框宽度"
+msgstr "图：QElectroTech 图框列宽弹出窗口"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/column_width.rst:18
 msgid ""
 "Select the click button corresponding to the desired units to define the "
 "column width (Absolute, relative to total, relative to remainding)."
-msgstr "选择与想要的单位相对应的点击按钮，以定义列宽(绝对，相对于总数，相对于保留)."
+msgstr "单击与所需单位相对应的按钮来定义列宽（绝对值、相对于总宽度、相对于剩余宽度）。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/column_width.rst:19
 msgid "Define the width value."
@@ -55,7 +55,7 @@ msgstr "定义宽度值。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/column_width.rst:20
 msgid "Press **OK**."
-msgstr "按 **OK**."
+msgstr "按 **确定** 。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/column_width.rst:24
 #, python-format
@@ -64,7 +64,7 @@ msgid ""
 "for this reason, defining one column width as remanding of 100% is "
 "recommended."
 msgstr ""
-"从 `图框 <title block_>`_ 的全局宽度必须在QEelectroTech中定义，为此，将一个列宽定义为推荐的100% is还原。"
+"`图框 <title block_>`_ 的总宽度必须在 QElectroTech 中定义，因此建议将其中一列的宽度设为 100% 的剩余宽度。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/column_width.rst:30
 msgid "Figure: QElectroTech Title block"
@@ -78,20 +78,20 @@ msgid ""
 "`title block`_ as shown below; part of the title block header will be "
 "displayed in red and the width difference will be displayed."
 msgstr ""
-"如果不想要还原宽度，请确定来自 `图框 <title block_>`_ 的全局宽度与所有列宽的和数相匹配。 如果值不匹配，QElectroTech "
-"将显示下面显示的 `图框 <title block_>`_; 图框头部分将以红色显示，宽度差将显示 。"
+"如果不需要剩余宽度，请确保 `图框 <title block_>`_ 的总宽度与所有列宽之和相等。如果数值不匹配，QElectroTech "
+"将按如下所示显示 `图框 <title block_>`_ ：图框头部的一部分会以红色显示，并显示宽度差值。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/column_width.rst:41
 msgid "Figure: QElectroTech Title block global width error"
-msgstr "图：QElectroTech 图框全局宽度错误"
+msgstr "图：QElectroTech 图框总宽度错误"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/column_width.rst:45
 msgid ""
 "At the case of using **Relative to remainding**, be sure that the value from"
 " the width is 100 %. Otherwise, spare area will appear in the `title "
 "block`_."
-msgstr "在使用 **保留** 时，请确定宽度值为 100% 。 否则，空余区域将出现在 `图框 <title block_>`_ 中 。"
+msgstr "使用 **相对于剩余宽度** 时，请确保宽度值为 100%。否则，`图框 <title block_>`_ 中将出现空白区域。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/column_width.rst:51
 msgid "Figure: QElectroTech Title block column width error"
-msgstr "图：QElectroTech 图框列宽度错误"
+msgstr "图：QElectroTech 图框列宽错误"

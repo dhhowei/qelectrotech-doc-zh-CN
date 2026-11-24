@@ -31,16 +31,16 @@ msgid ""
 "option is useful for avoiding undesired changes such as the `properties from"
 " an element`_."
 msgstr ""
-"要确定任何对象在动作之前被选中，QElectroTech 提供了从 `工作区 <workspace_>`_ 中取消选择所有对象的选项。 "
-"此选项对于避免诸如 `属性从元件 <properties from an element_>`_ 中进行不想要的更改是有用的 。"
+"为确保在执行任何操作前没有选中任何对象，QElectroTech 提供了从 `工作区 <workspace_>`_ "
+"中取消选择所有对象的选项。该选项有助于避免诸如 `元件属性 <properties from an element_>`_ 之类的意外更改。"
 
 #: ../../source/users/schema/select/select_none.rst:11
 msgid "The unselecting of objects can only be done from `menu bar`_."
-msgstr "不选择对象只能从 `菜单栏 <menu bar_>`_ 进行。"
+msgstr "取消选择对象只能通过 `菜单栏 <menu bar_>`_ 进行。"
 
 #: ../../source/users/schema/select/select_none.rst:13
 msgid "Select **Edit > Select none** to unselect all selected object."
-msgstr "选择 **Edit > 选择无** 取消所有选定对象。"
+msgstr "选择 **编辑 > 取消选择** 以取消选中所有已选对象。"
 
 #: ../../source/users/schema/select/select_none.rst:18
 msgid "Figure: QElectroTech edit menu"

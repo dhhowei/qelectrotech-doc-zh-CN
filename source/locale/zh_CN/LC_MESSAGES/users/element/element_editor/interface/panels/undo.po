@@ -22,31 +22,31 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/interface/panels/undo.rst:5
 msgid "Undo panel"
-msgstr "撤消面板"
+msgstr "撤销面板"
 
 #: ../../source/users/element/element_editor/interface/panels/undo.rst:7
 msgid ""
 "The Undo panel lists all actions made by the user inside the `element "
 "editor`_ from last save."
-msgstr "Undo 面板列出用户在 `元素编辑器 <element editor_>`_ 从上次保存中所做的全部动作。"
+msgstr "撤销面板列出用户在 `元件编辑器 <element editor_>`_ 中自上次保存以来执行的全部操作。"
 
 #: ../../source/users/element/element_editor/interface/panels/undo.rst:12
 msgid "Figure: QElectroTech element editor Undo panel"
-msgstr "图：QElectroTech 元素编辑器"
+msgstr "图：QElectroTech 元件编辑器撤销面板"
 
 #: ../../source/users/element/element_editor/interface/panels/undo.rst:14
 msgid "To display the Undo panel:"
-msgstr "要显示撤消面板："
+msgstr "要显示撤销面板："
 
 #: ../../source/users/element/element_editor/interface/panels/undo.rst:16
 msgid ""
 "Select **Settings > Display > Undo** menu item to display the Undo panel."
-msgstr "选择 **设置 > 显示 > 撤销** 菜单项以显示撤消面板。"
+msgstr "选择 **设置 > 显示 > 撤销** 菜单项以显示撤销面板。"
 
 #: ../../source/users/element/element_editor/interface/panels/undo.rst:20
 msgid ""
 "For more information about the actions for which the Undo panel can be "
 "useful, refer to `Undo panel`_ section from `QElectroTech main window`_."
 msgstr ""
-"关于Undo面板可以使用的行动的更多信息，请参见 `Undo面板 <Undo panel_>`_ 从 `QElectroTech主窗口 "
-"<QElectroTech main window_>`_ 的一节。"
+"有关撤销面板在哪些操作中能派上用场的更多信息，请参见 `QElectroTech 主窗口 <QElectroTech main window_>`_ "
+"中的 `撤销面板 <Undo panel_>`_ 一节。"

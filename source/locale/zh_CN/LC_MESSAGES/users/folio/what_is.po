@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/folio/what_is.rst:5
 msgid "What is a folio?"
-msgstr "什么是阴茎?"
+msgstr "什么是图幅？"
 
 #: ../../source/users/folio/what_is.rst:7
 msgid ""
@@ -30,8 +30,8 @@ msgid ""
 "can be the `project index`_, part of the `schema`_, the part list complete "
 "or partly, etc."
 msgstr ""
-"A`图幅 <folio_>`_ 是可视为单位的 `项目 <project_>`_ 的一部分，可以是 `项目指数 <project "
-"index_>`_，`schema <schema_>`_ 的一部分，该部分列表完整或部分等。"
+"`图幅 <folio_>`_ 是 `项目 <project_>`_ 中可视为一个单元的一部分，它可以是 `项目索引 <project index_>`_"
+" 、`原理图 <schema_>`_ 的一部分、完整的或部分的部件列表等。"
 
 #: ../../source/users/folio/what_is.rst:10
 msgid ""
@@ -42,10 +42,10 @@ msgid ""
 "exported to any other format (PNG, JPG, DXF, etc.), each `folio`_ is one "
 "file."
 msgstr ""
-"`图幅 <folio_>`_ 定义了项目信息中可以同时在 `工作区 <workspace_>`_ 中显示的最大部分，一个 `图幅 <folio_>`_ "
-"的 `项目 <project_>`_ 相当于一页书页，当一个 `项目 <project_>`_ 输出到PDF时，每个 `图幅 <folio_>`_ "
-"是文档中的一页，当一个 `项目 <project_>`_ 输出到任何其他格式(PNG,JPG,DXF等)时，每个 `图幅 <folio_>`_ "
-"是一个文件。"
+"`图幅 <folio_>`_ 定义了在 `工作区 <workspace_>`_ 中可同时显示的项目信息的最大范围。`项目 <project_>`_ 中的"
+" `图幅 <folio_>`_ 相当于书中的一页。当 `项目 <project_>`_ 导出为 PDF 时，每个 `图幅 <folio_>`_ "
+"都是文档中的一页；当 `项目 <project_>`_ 导出为其他任意格式（PNG、JPG、DXF 等）时，每个 `图幅 <folio_>`_ "
+"都是一个文件。"
 
 #: ../../source/users/folio/what_is.rst:15
 msgid ""
@@ -53,9 +53,9 @@ msgid ""
 "understanding of the `schema`_, it is important that the user takes care "
 "about the position and information that is included at each `folio`_."
 msgstr ""
-"内置 a `项目 <project_>`_，则 `图幅 <folios_>`_ 应该有一个命令。 `计划 "
-"<schema_>`_，用户必须注意每个用户所包括的位置和信息。 `图幅 <folio_>`_。"
+"在 `项目 <project_>`_ 中，`图幅 <folios_>`_ 应当有先后顺序。为了便于理解 `原理图 <schema_>`_ "
+"，用户应注意每个 `图幅 <folio_>`_ 所处的位置及其中包含的信息。"
 
 #: ../../source/users/folio/what_is.rst:21
 msgid "Figure: QElectroTech folios"
-msgstr "图：QElectroTech光圈"
+msgstr "图：QElectroTech 图幅"

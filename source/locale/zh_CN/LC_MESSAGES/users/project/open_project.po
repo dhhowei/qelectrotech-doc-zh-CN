@@ -30,8 +30,8 @@ msgid ""
 "server can be done from `menu bar`_, `toolbar`_ and using the corresponding "
 "keyboard shortcut."
 msgstr ""
-"打开从计算机硬盘或本地服务器中保存的 `项目 <project_>`_ 可以从 `菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_"
-" 中完成，并使用相应的键盘快捷键。"
+"打开保存在计算机硬盘或本地服务器上某处的 `项目 <project_>`_ ，可以通过 `菜单栏 <menu bar_>`_ 、 `工具栏 "
+"<toolbar_>`_ 以及相应的键盘快捷键来完成。"
 
 #: ../../source/users/project/open_project.rst:10
 msgid ""
@@ -40,8 +40,9 @@ msgid ""
 "QElectroTech allows also working with Extensible Markup Language files, "
 "files with extension ``.xml``."
 msgstr ""
-"A `项目 <project_>`_ 由单一文件与 ``.qet`` 格式匹配。 ``.qet`` 扩展是 QElectroTech 的本地扩展。 "
-"即使如此，QEctroTech 也允许使用可扩展的 Markup 语言文件，扩展的文件 ``.xml`` 。"
+"一个 `项目 <project_>`_ 由单个 ``.qet`` 格式的文件构成。 ``.qet`` 是 QElectroTech "
+"的原生扩展名。不过，QElectroTech 也支持处理可扩展标记语言（Extensible Markup Language）文件，即扩展名为 "
+"``.xml`` 的文件。"
 
 #: ../../source/users/project/open_project.rst:15
 msgid "Open project from menu bar"
@@ -49,7 +50,7 @@ msgstr "从菜单栏打开项目"
 
 #: ../../source/users/project/open_project.rst:17
 msgid "Select **File > Open** menu item to open the search file PopUP window."
-msgstr "选择 **文件 > 打开** 菜单项打开搜索文件 PopUP 窗口 。"
+msgstr "选择 **文件 > 打开** 菜单项以打开搜索文件弹出窗口。"
 
 #: ../../source/users/project/open_project.rst:22
 msgid "Figure: QElectroTech file menu"
@@ -65,7 +66,7 @@ msgstr "在计算机中搜索 `项目 <project_>`_"
 msgid ""
 "Press **Open** button to close the search file PopUP window and open the "
 "`project`_."
-msgstr "按 **打开** 按钮关闭搜索文件 PopUP 窗口并打开 `项目 <project_>`_。"
+msgstr "按 **打开** 按钮关闭搜索文件弹出窗口并打开 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/open_project.rst:28
 msgid "Open project from toolbar"
@@ -75,7 +76,7 @@ msgstr "从工具栏打开项目"
 msgid ""
 "Select the icon |project| from `toolbar`_ to open the search file PopUP "
 "window."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |project| 打开搜索文件 PopUP 窗口。"
+msgstr "在 `工具栏 <toolbar_>`_ 中选择图标 |project| 以打开搜索文件弹出窗口。"
 
 #: ../../source/users/project/open_project.rst:34
 msgid "project"
@@ -90,7 +91,7 @@ msgstr "在计算机上搜索 `项目 <project_>`_"
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**"
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示"
+msgstr "如果未显示 `工具栏 <toolbar_>`_ ，可以从 **设置 > 显示 > 工具** 中将其显示。"
 
 #: ../../source/users/project/open_project.rst:41
 msgid "Open project using keyboard shortcut"
@@ -100,17 +101,17 @@ msgstr "使用键盘快捷键打开项目"
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/project/open_project.rst:45
 msgid "Press ``Ctrl + o`` to open the search file PopUP window."
-msgstr "按 ``Ctrl + o`` 打开搜索文件 PopUP 窗口。"
+msgstr "按 ``Ctrl + o`` 打开搜索文件弹出窗口。"
 
 #: ../../source/users/project/open_project.rst:51
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"
 
 #: ../../source/users/project/open_project.rst:54
 msgid "Files history"
@@ -122,18 +123,18 @@ msgid ""
 "`project`_ created, opened and/or saved previously. **File History** has "
 "been integrated."
 msgstr ""
-"当QElectroTech已经使用时，存在打开一个 `项目 <project_>`_ 的可能性，它以前创建，打开和/或保存。**File "
-"History** 已经集成。"
+"如果之前使用过 QElectroTech，就可以打开此前创建、打开和/或保存过的 `项目 <project_>`_ 。此功能已集成在 **File "
+"History** 中。"
 
 #: ../../source/users/project/open_project.rst:59
 msgid ""
 "Select **File > Latest files** menu item to display the file history from "
 "QElectroTech."
-msgstr "选择 **文件 > 最新文件** 菜单项以显示从 QElectroTech 文件历史 。"
+msgstr "选择 **文件 > 最新文件** 菜单项以显示 QElectroTech 的文件历史。"
 
 #: ../../source/users/project/open_project.rst:60
 msgid "Click on the `project`_ file that should be opened."
-msgstr "点击应当打开的 `项目 <project_>`_ 文件 。"
+msgstr "点击要打开的 `项目 <project_>`_ 文件。"
 
 #: ../../source/users/project/open_project.rst:65
 msgid "Figure: QElectroTech File History"

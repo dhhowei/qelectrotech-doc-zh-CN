@@ -30,7 +30,7 @@ msgstr "创建多边形"
 
 #: ../../source/users/element/element_parts/polygon.rst:10
 msgid "The polygon can only be added to `workspace`_ from `toolbar`_."
-msgstr "多边形只能从 `工作区 <workspace_>`_ 添加到 `工具栏 <toolbar_>`_。"
+msgstr "多边形只能从 `工具栏 <toolbar_>`_ 添加到 `工作区 <workspace_>`_ 。"
 
 #: ../../source/users/element/element_parts/polygon.rst:12
 msgid "Select the icon |icon_polygon| from `toolbar`_ to add a polygon."
@@ -38,27 +38,27 @@ msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |icon_polygon| 以添加多边�
 
 #: ../../source/users/element/element_parts/polygon.rst:17
 msgid "icon_polygon"
-msgstr "图标( P)"
+msgstr "多边形图标"
 
 #: ../../source/users/element/element_parts/polygon.rst:13
 msgid "Click on the initial point from the polygon in the `workspace`_."
-msgstr "点击 `工作区 <workspace_>`_ 多边形的初始点。"
+msgstr "在 `工作区 <workspace_>`_ 中单击多边形的起点。"
 
 #: ../../source/users/element/element_parts/polygon.rst:14
 msgid "Click on the rest of point from the polygon in the `workspace`_."
-msgstr "点击 `工作区 <workspace_>`_ 多边形的其余点。"
+msgstr "在 `工作区 <workspace_>`_ 中依次单击多边形的其余各点。"
 
 #: ../../source/users/element/element_parts/polygon.rst:15
 msgid ""
 "Double click on the end position of the polygon to finish the polygon "
 "edition."
-msgstr "双击多边形的端位置完成多边形版。"
+msgstr "双击多边形的终点位置以完成多边形绘制。"
 
 #: ../../source/users/element/element_parts/polygon.rst:21
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Parts**."
-msgstr "如果 `工具栏 <toolbar_>`_ 不显示，可以从 **设置 > 显示 > 部件** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **Settings > Display > Parts** 中显示。"
 
 #: ../../source/users/element/element_parts/polygon.rst:24
 msgid "Polygon properties"
@@ -68,17 +68,19 @@ msgstr "多边形属性"
 msgid ""
 "Element part properties can be displayed from `information panel`_ when the "
 "part is selected."
-msgstr "元素部分属性可以在选择该部分时从 `信息面板 <information panel_>`_ 显示。"
+msgstr "选中部件后，可以从 `信息面板 <information panel_>`_ 显示元件部件属性。"
 
 #: ../../source/users/element/element_parts/polygon.rst:31
 msgid ""
 "If the `information panel`_ is not displayed, it can be displayed from "
 "**Settings > Display > Information**."
-msgstr "如果 `信息面板 <information panel_>`_ 未显示，可以从 **设置 > 显示 > 信息** 显示。"
+msgstr ""
+"如果 `信息面板 <information panel_>`_ 未显示，可以从 **Settings > Display > Information**"
+" 中显示。"
 
 #: ../../source/users/element/element_parts/polygon.rst:36
 msgid "Figure: QElectroTech polygon part from element"
-msgstr "图：来自元素的QElectroTech多边形部分"
+msgstr "图：元件中的 QElectroTech 多边形部件"
 
 #: ../../source/users/element/element_parts/polygon.rst:38
 msgid "QElectroTech allows customizing different polygon properties:"
@@ -97,7 +99,7 @@ msgid ""
 "The outline and filling color of the part can be defined from a list of pre-"
 "defined colors. At the case of an open polygon part the filling color is "
 "**None**."
-msgstr "部分的轮廓和填充颜色可以从预定义的颜色列表中定义。如果是打开的多边形部分，则填充颜色为 **None**。"
+msgstr "对于开放的多边形部件，填充颜色为 **None** 。"
 
 #: ../../source/users/element/element_parts/polygon.rst
 msgid "Style"
@@ -107,21 +109,21 @@ msgstr "样式"
 msgid ""
 "The outline representation type can be chosen between: Normal (Continuous), "
 "Dashed, Dotted or, Dots and dashes."
-msgstr "大纲表达式类型可以在：正常(持续), Dashed, Dotted 或，Dots 和 dustes 之间选择。"
+msgstr "轮廓表示类型可在以下选项中选择：正常（连续）、虚线、点线或点划线。"
 
 #: ../../source/users/element/element_parts/polygon.rst
 msgid "Thickness"
-msgstr "厚度"
+msgstr "粗细"
 
 #: ../../source/users/element/element_parts/polygon.rst:54
 msgid ""
 "The outline thickness (Weight) can be chosen between: None, Thin, Normal, "
 "Strong or High."
-msgstr "轮廓厚度(重量)可以在：无，细，正常，强或高之间选择。"
+msgstr "轮廓粗细（线宽）可在以下选项中选择：无、细、正常、粗或高。"
 
 #: ../../source/users/element/element_parts/polygon.rst
 msgid "Geometry"
-msgstr "几何"
+msgstr "几何形状"
 
 #: ../../source/users/element/element_parts/polygon.rst
 msgid "Type of polygon"
@@ -132,7 +134,7 @@ msgid ""
 "QElectroTech has two different types of polygons, open polygon which is "
 "assimilated to a group of connected lines and close polygon which is "
 "assimilated to closed geometry as the rectangle."
-msgstr "QElectroTech有两种不同类型的多边形，开放的多边形被同化成一组相连的线条和近多边形，后者被同化成封闭几何作为矩形。"
+msgstr "QElectroTech 有两种不同类型的多边形：开放多边形类似于一组相连的线条，闭合多边形类似于矩形等封闭几何图形。"
 
 #: ../../source/users/element/element_parts/polygon.rst
 msgid "Coordinates"
@@ -141,4 +143,4 @@ msgstr "坐标"
 #: ../../source/users/element/element_parts/polygon.rst:67
 msgid ""
 "The polygon points coordinates (x, y) can be defined and stored in a list."
-msgstr "多边形坐标(x,y)可以定义并存储在列表中。"
+msgstr "可以定义多边形各点的坐标 (x, y)，并将其存储在列表中。"

@@ -29,12 +29,12 @@ msgid ""
 "The active `project`_ can be printed from `menu bar`_, `toolbar`_ and using "
 "the corresponding keyboard shortcut."
 msgstr ""
-"活动 `项目 <project_>`_ 可以从 `菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_ 打印，并使用相应的键盘快捷键。"
+"活动 `项目 <project_>`_ 可通过 `菜单栏 <menu bar_>`_、`工具栏 <toolbar_>`_ 以及相应的键盘快捷键打印。"
 
 #: ../../source/users/export&print/print.rst:12
 msgid ""
 "Check that the active `project`_ is the project that should be printed."
-msgstr "请检查archive `项目 <project_>`_ 是应该打印的项目。"
+msgstr "请检查活动 `项目 <project_>`_ 是否为要打印的项目。"
 
 #: ../../source/users/export&print/print.rst:15
 msgid "Print project from menu bar"
@@ -42,15 +42,15 @@ msgstr "从菜单栏打印项目"
 
 #: ../../source/users/export&print/print.rst:17
 msgid "Select **File > Print** menu item to open the printing PopUp window."
-msgstr "选择 **文件 > 打印** 菜单项打开打印 PopUp 窗口 。"
+msgstr "选择 **文件 > 打印** 菜单项，以打开打印弹出窗口。"
 
 #: ../../source/users/export&print/print.rst:18
 msgid "Click **Print to a physical printer** check button."
-msgstr "点击 **打印到物理打印机** 检查按钮 。"
+msgstr "点击 **打印到物理打印机** 复选按钮。"
 
 #: ../../source/users/export&print/print.rst:19
 msgid "Press **Ok** Button to open the selection printer PopUp window."
-msgstr "按 **Ok** 按钮打开选中的打印机 PopUp 窗口 。"
+msgstr "按下 **Ok** 按钮，以打开选择打印机弹出窗口。"
 
 #: ../../source/users/export&print/print.rst:24
 msgid "Figure: QElectroTech printing PopUp window"
@@ -59,11 +59,11 @@ msgstr "图：QElectroTech 打印弹出窗口"
 #: ../../source/users/export&print/print.rst:27
 msgid ""
 "Select printer and the preview printing PopUp window will be displayed."
-msgstr "选择打印机并显示打印弹出窗口的预览 。"
+msgstr "选择打印机后，将显示打印预览弹出窗口。"
 
 #: ../../source/users/export&print/print.rst:32
 msgid "Figure: QElectroTech printing options PopUp window"
-msgstr "图：QElectroTech 打印选项"
+msgstr "图：QElectroTech 打印选项弹出窗口"
 
 #: ../../source/users/export&print/print.rst:34
 msgid "Select the `folios`_ which should be printed."
@@ -75,31 +75,31 @@ msgstr "选择打印选项。"
 
 #: ../../source/users/export&print/print.rst:36
 msgid "Press **Print** Button."
-msgstr "按 **Print** 按钮。"
+msgstr "按下 **Print** 按钮。"
 
 #: ../../source/users/export&print/print.rst:42
 msgid "Figure: QElectroTech printing preview PopUp window"
-msgstr "图：QElectroTech 打印预览"
+msgstr "图：QElectroTech 打印预览弹出窗口"
 
 #: ../../source/users/export&print/print.rst:48
 msgid ""
 "If the folio list is not displayed, select the icon |icon_folio_list| from "
 "the toolbar."
-msgstr "如果不显示folio列表，请从工具栏中选择图标 |icon_folio_list| 。"
+msgstr "如果图幅列表未显示，请从工具栏中选择图标 |icon_folio_list| 。"
 
 #: ../../source/users/export&print/print.rst:51
 msgid "icon_folio_list"
-msgstr "图标 folio list"
+msgstr "图幅列表图标"
 
 #: ../../source/users/export&print/print.rst:49
 msgid ""
 "If the printing options panel is not displayed, select the icon "
 "|icon_print_options| from the toolbar."
-msgstr "如果不显示打印选项面板，请从工具栏中选择图标 |icon_print_options| 。"
+msgstr "如果打印选项面板未显示，请从工具栏中选择图标 |icon_print_options| 。"
 
 #: ../../source/users/export&print/print.rst:52
 msgid "icon_print_options"
-msgstr "图标打印选项"
+msgstr "打印选项图标"
 
 #: ../../source/users/export&print/print.rst:55
 msgid "Print project from toolbar"
@@ -109,7 +109,7 @@ msgstr "从工具栏打印项目"
 msgid ""
 "Select the icon |document-print| from the `toolbar`_ to open the printing "
 "PopUp window."
-msgstr "从 `工具栏 <toolbar_>`_ 打开打印的 PopUp 窗口 。"
+msgstr "从 `工具栏 <toolbar_>`_ 中选择 |document-print| 图标，以打开打印弹出窗口。"
 
 #: ../../source/users/export&print/print.rst:60
 msgid "document-print"
@@ -119,13 +119,13 @@ msgstr "文档打印"
 #: ../../source/users/export&print/print.rst:72
 msgid ""
 "Follow the steps defined at the ``printing project from menu bar`` section."
-msgstr "遵循 ``printing project from menu bar`` 节确定的步骤。"
+msgstr "请按照 ``printing project from menu bar`` 一节中定义的步骤操作。"
 
 #: ../../source/users/export&print/print.rst:64
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**"
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可从 **设置 > 显示 > 工具** 中将其显示。"
 
 #: ../../source/users/export&print/print.rst:67
 msgid "Print project using keyboard shortcut"
@@ -135,17 +135,17 @@ msgstr "使用键盘快捷键打印项目"
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/export&print/print.rst:71
 msgid "Press ``Ctrl + p`` to open the printing PopUp window."
-msgstr "按 ``Ctrl + p`` 打开打印的 PopUp 窗口 。"
+msgstr "按 ``Ctrl + p`` 打开打印弹出窗口。"
 
 #: ../../source/users/export&print/print.rst:76
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"
 
 #: ../../source/users/export&print/print.rst:80
 msgid ""
@@ -153,5 +153,5 @@ msgid ""
 "configuration effort each time that a `project`_ have to be printed, refer "
 "to `printing settings`_ section for more information."
 msgstr ""
-"QElectroTech允许在每次需要打印一个 `项目 <project_>`_ 时，为减少工作配置努力而预先定义打印设置，参考 `打印设置 "
-"<printing settings_>`_ 节以获取更多信息。"
+"QElectroTech 允许预先定义打印设置，以减少每次打印 `项目 <project_>`_ 时的工作配置量，更多信息请参阅 `打印设置 "
+"<printing settings_>`_ 一节。"

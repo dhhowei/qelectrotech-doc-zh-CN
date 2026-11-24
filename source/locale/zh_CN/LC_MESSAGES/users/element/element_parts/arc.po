@@ -26,60 +26,62 @@ msgstr "圆弧"
 
 #: ../../source/users/element/element_parts/arc.rst:9
 msgid "Create arc"
-msgstr "创建弧"
+msgstr "创建圆弧"
 
 #: ../../source/users/element/element_parts/arc.rst:11
 msgid "The arc can only be added to `workspace`_ from `toolbar`_."
-msgstr "弧只能从 `工作区 <workspace_>`_ 添加到 `工具栏 <toolbar_>`_。"
+msgstr "圆弧只能从 `工具栏 <toolbar_>`_ 添加到 `工作区 <workspace_>`_ 。"
 
 #: ../../source/users/element/element_parts/arc.rst:13
 msgid "Select the icon |icon_arc| from `toolbar`_ to add an arc."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |icon_arc| 添加弧 。"
+msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |icon_arc| 以添加圆弧。"
 
 #: ../../source/users/element/element_parts/arc.rst:17
 msgid "icon_arc"
-msgstr "图标( Arc)"
+msgstr "圆弧图标"
 
 #: ../../source/users/element/element_parts/arc.rst:14
 msgid ""
 "Click at the position from the start point of the arc in the `workspace`_."
-msgstr "在 `工作区 <workspace_>`_ 中从弧的起始点单击位置。"
+msgstr "在 `工作区 <workspace_>`_ 中单击圆弧起点所在位置。"
 
 #: ../../source/users/element/element_parts/arc.rst:15
 msgid ""
 "Click at the position from the end point of the arc in the `workspace`_. The"
 " default arc has always an angle of 90 degrees."
-msgstr "在 `工作区 <workspace_>`_ 弧端点的位置单击。默认弧的角度总是90度。"
+msgstr "在 `工作区 <workspace_>`_ 中单击圆弧终点所在位置。默认圆弧的角度始终为 90 度。"
 
 #: ../../source/users/element/element_parts/arc.rst:21
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Parts**."
-msgstr "如果 `工具栏 <toolbar_>`_ 不显示，可以从 **设置 > 显示 > 部件** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **Settings > Display > Parts** 中显示。"
 
 #: ../../source/users/element/element_parts/arc.rst:24
 msgid "Arc properties"
-msgstr "弧属性"
+msgstr "圆弧属性"
 
 #: ../../source/users/element/element_parts/arc.rst:26
 msgid ""
 "Element part properties can be displayed from `information panel`_ when the "
 "part is selected."
-msgstr "元素部分属性可以在选择该部分时从 `信息面板 <information panel_>`_ 显示。"
+msgstr "选中部件后，可以从 `信息面板 <information panel_>`_ 显示元件部件属性。"
 
 #: ../../source/users/element/element_parts/arc.rst:31
 msgid ""
 "If the `information panel`_ is not displayed, it can be displayed from "
 "**Settings > Display > Information**."
-msgstr "如果 `信息面板 <information panel_>`_ 未显示，可以从 **设置 > 显示 > 信息** 显示。"
+msgstr ""
+"如果 `信息面板 <information panel_>`_ 未显示，可以从 **Settings > Display > Information**"
+" 中显示。"
 
 #: ../../source/users/element/element_parts/arc.rst:36
 msgid "Figure: QElectroTech arc part from element"
-msgstr "图：来自元素的 QElectroTech 弧部分"
+msgstr "图：元件中的 QElectroTech 圆弧部件"
 
 #: ../../source/users/element/element_parts/arc.rst:38
 msgid "QElectroTech allows customizing different arc properties:"
-msgstr "QElectroTech 允许自定义不同的弧属性："
+msgstr "QElectroTech 允许自定义不同的圆弧属性："
 
 #: ../../source/users/element/element_parts/arc.rst
 msgid "Appearance"
@@ -94,7 +96,7 @@ msgid ""
 "The outline color and the filling color of the part can be defined from a "
 "list of pre-defined colors. At the case of the arc part the filling color is"
 " **None**."
-msgstr "部分的轮廓颜色和填充颜色可以从预定义的颜色列表中定义。如果是弧部分，则填充颜色为 **None**。"
+msgstr "部件的轮廓颜色和填充颜色可以从预定义颜色列表中选择。对于圆弧部件，填充颜色为 **None** 。"
 
 #: ../../source/users/element/element_parts/arc.rst
 msgid "Style"
@@ -104,21 +106,21 @@ msgstr "样式"
 msgid ""
 "The type of outline representation can be chosen between: Normal "
 "(Continuous), Dashed, Dotted or, Dots and dashes."
-msgstr "大纲表达式的类型可以在：正常(连续), Dashed, Dotted 或，Dots 和 dustes 之间选择。"
+msgstr "轮廓表示类型可在以下选项中选择：正常（连续）、虚线、点线，或点划线。"
 
 #: ../../source/users/element/element_parts/arc.rst
 msgid "Thickness"
-msgstr "厚度"
+msgstr "粗细"
 
 #: ../../source/users/element/element_parts/arc.rst:54
 msgid ""
 "The outline thickness (Weight) can be chosen between: None, Thin, Normal, "
 "Strong or High."
-msgstr "轮廓厚度(重量)可以在：无，细，正常，强或高之间选择。"
+msgstr "轮廓粗细（线宽）可在以下选项中选择：无、细、正常、粗或高。"
 
 #: ../../source/users/element/element_parts/arc.rst
 msgid "Geometry"
-msgstr "几何"
+msgstr "几何形状"
 
 #: ../../source/users/element/element_parts/arc.rst
 msgid "Coordinates"
@@ -126,7 +128,7 @@ msgstr "坐标"
 
 #: ../../source/users/element/element_parts/arc.rst:61
 msgid "The coordinates (x, y) from the ellipse center point can be defined."
-msgstr "来自椭圆中心点的坐标(x,y)可以被定义。"
+msgstr "可以定义椭圆中心点的坐标 (x, y)。"
 
 #: ../../source/users/element/element_parts/arc.rst
 msgid "Dimensions"
@@ -136,7 +138,7 @@ msgstr "尺寸"
 msgid ""
 "The horizontal and vertical (minimum and maximum or maximum and minimum) "
 "diameters from the ellipse can be defined."
-msgstr "可以定义椭圆的横向和纵向(最小和最大或最大和最小)直径。"
+msgstr "可以定义椭圆的水平和垂直直径（最小值和最大值，或最大值和最小值）。"
 
 #: ../../source/users/element/element_parts/arc.rst
 msgid "Point"
@@ -148,75 +150,75 @@ msgid ""
 "radius between the center and the respective point with the horizontal "
 "diameter. The angle value follows the mathematical rules, anti-clockwise for"
 " positive angles."
-msgstr "初始点和端点的位置被定义为中心与相应点之间具有水平直径的半径角，角度值遵循数学规则，反时针为正角。"
+msgstr "起点和终点的位置由中心到相应点的半径与水平直径之间的夹角定义。角度值遵循数学规则，正角为逆时针方向。"
 
 #: ../../source/users/element/element_parts/arc.rst:72
 msgid "Arc extreme points definition"
-msgstr "弧极点定义"
+msgstr "圆弧端点定义"
 
 #: ../../source/users/element/element_parts/arc.rst:74
 msgid ""
 "QElectroTech allows defining the arc extreme points from `information "
 "panel`_ or `workspace`_."
 msgstr ""
-"QElectroTech允许从 `信息面板 <information panel_>`_ 或 `工作区 <workspace_>`_ 定义弧极点。"
+"QElectroTech 允许从 `信息面板 <information panel_>`_ 或 `工作区 <workspace_>`_ 定义圆弧端点。"
 
 #: ../../source/users/element/element_parts/arc.rst:79
 msgid "Figure: QElectroTech arc extreme point"
-msgstr "图：QElectroTech 弧极点"
+msgstr "图：QElectroTech 圆弧端点"
 
 #: ../../source/users/element/element_parts/arc.rst:82
 msgid "Arc extreme points definition from information panel"
-msgstr "信息面板的弧极点定义"
+msgstr "从信息面板定义圆弧端点"
 
 #: ../../source/users/element/element_parts/arc.rst:84
 msgid ""
 "Select the arc to display the rectangle properties at `information panel`_."
-msgstr "选择在 `信息面板 <information panel_>`_ 显示矩形属性的弧 。"
+msgstr "选择圆弧，以在 `信息面板 <information panel_>`_ 中显示矩形属性。"
 
 #: ../../source/users/element/element_parts/arc.rst:85
 msgid ""
 "Define the start angle, the angle from the diameter of the start point and "
 "the horizontal axes."
-msgstr "定义起始角，起始点直径和水平轴的角度。"
+msgstr "定义起始角，即起点直径与水平轴之间的夹角。"
 
 #: ../../source/users/element/element_parts/arc.rst:86
 msgid "Define the angle from the initial point and the end point of the arc."
-msgstr "从弧的初始点和终点定义角度。"
+msgstr "定义圆弧起点到终点之间的角度。"
 
 #: ../../source/users/element/element_parts/arc.rst:87
 msgid "Press intro."
-msgstr "按进士出身。"
+msgstr "按回车键。"
 
 #: ../../source/users/element/element_parts/arc.rst:88
 #: ../../source/users/element/element_parts/arc.rst:97
 msgid ""
 "**Select none** from **Edit** menu or use ``Ctrl + Shift + a`` keyboard "
 "shortcut."
-msgstr "**从** 选择无 **Edit** 菜单或使用 ``Ctrl + Shift + a`` 键盘快捷键。"
+msgstr "从 **Edit** 菜单选择 **Select none** ，或使用 ``Ctrl + Shift + a`` 键盘快捷键。"
 
 #: ../../source/users/element/element_parts/arc.rst:91
 msgid "Arc extreme points definition from workspace"
-msgstr "工作空间的弧极点定义"
+msgstr "从工作区定义圆弧端点"
 
 #: ../../source/users/element/element_parts/arc.rst:93
 msgid ""
 "Select the arc drawn at the `workspace`_. The arc line changes to red color "
 "and the control of the arc ellipse point to blue."
-msgstr "选择在 `工作区 <workspace_>`_ 绘制的弧。 弧线会改变红色，弧椭圆点的控制会变为蓝色 。"
+msgstr "选择在 `工作区 <workspace_>`_ 中绘制的圆弧。弧线变为红色，圆弧椭圆的控制点变为蓝色。"
 
 #: ../../source/users/element/element_parts/arc.rst:94
 msgid ""
 "Select the arc again. The line continues in red and the points change to "
 "green color."
-msgstr "再次选择弧。 线以红色继续，点改为绿色 。"
+msgstr "再次选择圆弧。线条保持红色，控制点变为绿色。"
 
 #: ../../source/users/element/element_parts/arc.rst:95
 msgid ""
 "Select the arc for third time. The line continues in red and at this time "
 "only one extreme points are, the color is pink."
-msgstr "第三次选择弧。 线以红色继续，目前只有一个极端点，颜色是粉红色 。"
+msgstr "第三次选择圆弧。线条保持红色，此时只显示一个端点，颜色为粉色。"
 
 #: ../../source/users/element/element_parts/arc.rst:96
 msgid "Displace the pink points around the ellipse outline."
-msgstr "将椭圆轮廓周围的粉红色点移位。"
+msgstr "沿椭圆轮廓移动粉色点。"

@@ -30,8 +30,8 @@ msgid ""
 "block editor contains the menus ``File``, ``Edit``, ``Display``, "
 "``Settings``, and ``Help``. Each menu provides many different options."
 msgstr ""
-"菜单栏从图框编辑器窗口置于顶端。 图框编辑器包含菜单 ``File``, ``Edit``, ``Display``, ``Settings`` 和 "
-"``Help`` 。 每个菜单都提供了许多不同的选项 。"
+"菜单栏位于图框编辑器窗口的顶部。图框编辑器包含 ``File`` 、``Edit`` 、``Display`` 、``Settings`` 和 "
+"``Help`` 菜单。每个菜单都提供许多不同的选项。"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:12
 msgid "File menu"
@@ -55,7 +55,7 @@ msgstr "选项"
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:100
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:118
 msgid "Function"
-msgstr "函数"
+msgstr "功能"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:20
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:46
@@ -91,7 +91,7 @@ msgstr "|document-new|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:135
 msgid "document-new"
-msgstr "文档-新"
+msgstr "新建文档"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:24
 msgid "Open"
@@ -99,7 +99,7 @@ msgstr "打开"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:24
 msgid "Opens an existing Title Block from collection"
-msgstr "从收藏中打开现有的图框"
+msgstr "从集合中打开现有的图框"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:24
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:26
@@ -113,11 +113,11 @@ msgstr "|document-open|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:136
 msgid "document-open"
-msgstr "文档打开"
+msgstr "打开文档"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:26
 msgid "Open from a file"
-msgstr "从文件中打开"
+msgstr "从文件打开"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:26
 msgid "Opens an existing Title Block from file"
@@ -129,7 +129,7 @@ msgstr "保存"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:28
 msgid "Saves the current Title Block changes (overwrites)"
-msgstr "保存当前图框更改( 覆盖)"
+msgstr "保存当前图框的更改（覆盖）"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:28
 msgid "``Ctrl + s``"
@@ -141,7 +141,7 @@ msgstr "|document-save|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:137
 msgid "document-save"
-msgstr "文档保存"
+msgstr "保存文档"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:30
 msgid "Save as"
@@ -149,7 +149,7 @@ msgstr "另存为"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:30
 msgid "Saves the Title Block as a new Title Block from a library"
-msgstr "从库中将图框保存为新图框"
+msgstr "将图框作为新图框保存到库中"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:30
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:32
@@ -158,7 +158,7 @@ msgstr "|document-save-as|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:138
 msgid "document-save-as"
-msgstr "文档保存为"
+msgstr "文档另存为"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:32
 msgid "Save to a file"
@@ -166,7 +166,7 @@ msgstr "保存到文件"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:32
 msgid "Saves the Title Block as a different file in disk"
-msgstr "在磁盘中将图框保存为不同的文件"
+msgstr "将图框另存为磁盘上的另一个文件"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:32
 msgid "``Ctrl + Shift + x``"
@@ -190,7 +190,7 @@ msgstr "|application-exit|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:139
 msgid "application-exit"
-msgstr "应用程序退出"
+msgstr "退出程序"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:38
 msgid "Edit menu"
@@ -206,7 +206,7 @@ msgstr "撤销"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:48
 msgid "Undoes the previous action"
-msgstr "撤消上一个动作"
+msgstr "撤销上一步操作"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:48
 msgid "``Ctrl + z``"
@@ -218,7 +218,7 @@ msgstr "|edit-undo|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:140
 msgid "edit-undo"
-msgstr "编辑-取消"
+msgstr "撤销"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:50
 msgid "Redo"
@@ -226,7 +226,7 @@ msgstr "重做"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:50
 msgid "Restores the undone action"
-msgstr "恢复已撤销的动作"
+msgstr "恢复已撤销的操作"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:50
 msgid "``Ctrl + shift + z``"
@@ -238,7 +238,7 @@ msgstr "|edit-redo|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:141
 msgid "edit-redo"
-msgstr "编辑-重写"
+msgstr "重做"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:52
 msgid "Cut"
@@ -246,7 +246,7 @@ msgstr "剪切"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:52
 msgid "Puts selected elements / cells into the clipboard"
-msgstr "将选定的元素/单元格插入剪贴板"
+msgstr "将选定的元件/单元格放入剪贴板"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:52
 msgid "``Ctrl + x``"
@@ -258,7 +258,7 @@ msgstr "|edit-cut|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:142
 msgid "edit-cut"
-msgstr "编辑剪切"
+msgstr "剪切"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:54
 msgid "Copy"
@@ -266,7 +266,7 @@ msgstr "复制"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:54
 msgid "Copies selected elements / cells"
-msgstr "复制选中元素/ 单元格"
+msgstr "复制选定的元件/单元格"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:54
 msgid "``Ctrl + c``"
@@ -278,7 +278,7 @@ msgstr "|edit-copy|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:143
 msgid "edit-copy"
-msgstr "编辑复制"
+msgstr "复制"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:56
 msgid "Paste"
@@ -286,7 +286,7 @@ msgstr "粘贴"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:56
 msgid "Pastes elements from the clipboard into cell"
-msgstr "从剪贴板粘贴元素到单元格"
+msgstr "将剪贴板中的元件粘贴到单元格"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:56
 msgid "``Ctrl + v``"
@@ -298,15 +298,15 @@ msgstr "|edit-paste|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:144
 msgid "edit-paste"
-msgstr "编辑-粘贴"
+msgstr "粘贴"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:58
 msgid "Add a row"
-msgstr "添加一行"
+msgstr "添加行"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:58
 msgid "Adds a row at bottom from title block"
-msgstr "从图框下方添加一行"
+msgstr "在图框底部添加一行"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:58
 msgid "|insert-row|"
@@ -314,15 +314,15 @@ msgstr "|insert-row|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:145
 msgid "insert-row"
-msgstr "插入行进"
+msgstr "插入行"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:60
 msgid "Add a column"
-msgstr "添加一栏"
+msgstr "添加列"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:60
 msgid "Adds column at right side from title block"
-msgstr "从图框右侧添加列"
+msgstr "在图框右侧添加列"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:60
 msgid "|insert-column|"
@@ -330,7 +330,7 @@ msgstr "|insert-column|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:146
 msgid "insert-column"
-msgstr "插入栏"
+msgstr "插入列"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:62
 msgid "Merge cells"
@@ -350,15 +350,15 @@ msgstr "|cell-merge|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:147
 msgid "cell-merge"
-msgstr "单元格组合"
+msgstr "合并单元格"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:64
 msgid "Split cells"
-msgstr "分隔单元格"
+msgstr "拆分单元格"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:64
 msgid "Splits selected cells"
-msgstr "分割选定的单元格"
+msgstr "拆分选定的单元格"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:64
 msgid "``Ctrl + k``"
@@ -370,15 +370,15 @@ msgstr "|cell-split|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:148
 msgid "cell-split"
-msgstr "单元格分割"
+msgstr "拆分单元格"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:66
 msgid "Manage logos"
-msgstr "管理标志"
+msgstr "管理徽标"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:66
 msgid "Manages pictures to embed logos in the title block"
-msgstr "管理图片以嵌入图框中的标志"
+msgstr "管理用于在图框中嵌入徽标的图片"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:66
 msgid "``Ctrl + t``"
@@ -394,11 +394,11 @@ msgstr "插入图像"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:68
 msgid "Edit extra information"
-msgstr "编辑额外信息"
+msgstr "编辑附加信息"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:68
 msgid "Displays field to specify additional information"
-msgstr "显示指定额外信息的字段"
+msgstr "显示用于指定附加信息的字段"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:68
 msgid "``Ctrl + y``"
@@ -410,7 +410,7 @@ msgstr "|preferences-user|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:150
 msgid "preferences-user"
-msgstr "偏好用户"
+msgstr "用户首选项"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:72
 msgid "Display menu"
@@ -422,11 +422,11 @@ msgstr "图：QElectroTech 显示菜单"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:82
 msgid "Zoom In"
-msgstr "缩放"
+msgstr "放大"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:82
 msgid "Expands the workspace"
-msgstr "扩展工作空间"
+msgstr "放大工作区"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:82
 msgid "``Ctrl + +``"
@@ -438,7 +438,7 @@ msgstr "|zoom-in|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:151
 msgid "zoom-in"
-msgstr "缩放"
+msgstr "放大"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:84
 msgid "Zoom Out"
@@ -446,7 +446,7 @@ msgstr "缩小"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:84
 msgid "Shrinks the workspace"
-msgstr "缩小工作空间"
+msgstr "缩小工作区"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:84
 msgid "``Ctrl + -``"
@@ -458,15 +458,15 @@ msgstr "|zoom-out|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:152
 msgid "zoom-out"
-msgstr "缩放"
+msgstr "缩小"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:86
 msgid "Fit in view"
-msgstr "适合视图"
+msgstr "适应视图"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:86
 msgid "Adjusts the zoom on exactly the part of the workspace"
-msgstr "调整工作空间的缩放"
+msgstr "调整缩放以恰好显示整个工作区"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:86
 msgid "``Ctrl + 9``"
@@ -478,7 +478,7 @@ msgstr "|view-fit-window|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:153
 msgid "view-fit-window"
-msgstr "视图适应窗口"
+msgstr "适应窗口"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:88
 msgid "Reset zoom"
@@ -498,7 +498,7 @@ msgstr "|zoom-original|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:154
 msgid "zoom-original"
-msgstr "缩放- 原始"
+msgstr "原始缩放"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:92
 msgid "Settings menu"
@@ -542,11 +542,11 @@ msgstr "|view-fullscreen|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:156
 msgid "view-fullscreen"
-msgstr "视图全屏"
+msgstr "全屏"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:106
 msgid "Configure QElectroTech"
-msgstr "配置 QElectroTech 设备"
+msgstr "配置 QElectroTech"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:106
 msgid "Allows specifying various parameters for QElectroTech"
@@ -570,11 +570,11 @@ msgstr "图：QElectroTech 帮助菜单"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:120
 msgid "What's This?"
-msgstr "这是什么?"
+msgstr "这是什么？"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:120
 msgid "Enquires main menu options"
-msgstr "询问主菜单选项"
+msgstr "查询主菜单中各选项的说明"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:120
 msgid "``Shift + f1``"
@@ -594,7 +594,7 @@ msgstr "|qet-icon|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:158
 msgid "qet-icon"
-msgstr "齐角"
+msgstr "QET 图标"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:124
 msgid "Online manual"
@@ -602,7 +602,7 @@ msgstr "在线手册"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:124
 msgid "Launches the default browser to the online manual of QElectroTech"
-msgstr "启动 QElectroTech 在线手册的默认浏览器"
+msgstr "使用默认浏览器打开 QElectroTech 在线手册"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:124
 msgid "``f1``"
@@ -618,11 +618,11 @@ msgstr "帮助内容"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:126
 msgid "Youtube channel"
-msgstr "Youtube 频道"
+msgstr "YouTube 频道"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:126
 msgid "Launches the default browser on the Youtube channel of QElectroTech"
-msgstr "在 QElectroTech 的 Youtube 频道启动默认浏览器"
+msgstr "使用默认浏览器打开 QElectroTech 的 YouTube 频道"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:126
 msgid "|show-video|"
@@ -634,12 +634,12 @@ msgstr "显示视频"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:128
 msgid "Support the project with a donation"
-msgstr "捐款支持该项目"
+msgstr "通过捐款支持本项目"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:128
 msgid ""
 "Launches the default browser on the QElectroTech donation paypal account"
-msgstr "在 QElectroTech 捐赠付费账户上启动默认浏览器"
+msgstr "使用默认浏览器打开 QElectroTech 的 PayPal 捐款页面"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:128
 msgid "|help-donate|"
@@ -647,7 +647,7 @@ msgstr "|help-donate|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:161
 msgid "help-donate"
-msgstr "帮助捐赠"
+msgstr "捐款"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:130
 msgid "About Qt"
@@ -663,4 +663,4 @@ msgstr "|qt-icon|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:162
 msgid "qt-icon"
-msgstr "qt-icon 缩写"
+msgstr "Qt 图标"

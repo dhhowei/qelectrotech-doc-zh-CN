@@ -28,21 +28,21 @@ msgstr "文本设置"
 msgid ""
 "Before starting to work, QElectroTech allows defining the default appearance"
 " of the different texts."
-msgstr "在开始工作之前，QElectroTech允许定义不同文本的默认外观。"
+msgstr "在开始工作之前，QElectroTech 允许定义不同文本的默认外观。"
 
 #: ../../source/users/preferences/settings_text.rst:10
 msgid "Elements texts"
-msgstr "要点案文"
+msgstr "元件文本"
 
 #: ../../source/users/preferences/settings_text.rst:13
 msgid "Independent texts"
-msgstr "独立案文"
+msgstr "独立文本"
 
 #: ../../source/users/preferences/settings_text.rst:15
 msgid ""
 "QElectroTech allows defining a default orientation and text font from the "
 "text field object."
-msgstr "QElectroTech允许从文本字段对象定义默认方向和文本字体。"
+msgstr "QElectroTech 允许为文本字段对象定义默认方向和文本字体。"
 
 #: ../../source/users/preferences/settings_text.rst:17
 #: ../../source/users/preferences/settings_text.rst:34
@@ -50,7 +50,7 @@ msgstr "QElectroTech允许从文本字段对象定义默认方向和文本字体
 msgid ""
 "Click at the button from the text font to display the `select font PopUp "
 "window`_."
-msgstr "点击文字字体的按钮显示 `选择字体 PopUp 窗口 <select font PopUp window_>`_ 。"
+msgstr "点击文本字体按钮，以显示 `选择字体弹出窗口 <select font PopUp window_>`_ 。"
 
 #: ../../source/users/preferences/settings_text.rst:18
 msgid "Select a default rotation angle for the text."
@@ -60,7 +60,7 @@ msgstr "选择文本的默认旋转角度。"
 msgid ""
 "Opposite to the geometrical angle, QElectroTech use the clock direction to "
 "define angles."
-msgstr "相对于几何角度，QEelectroTech使用时钟方向来定义角度。"
+msgstr "与几何角度不同，QElectroTech 使用顺时针方向来定义角度。"
 
 #: ../../source/users/preferences/settings_text.rst:27
 #: ../../source/users/preferences/settings_text.rst:46
@@ -69,21 +69,21 @@ msgstr "图：QElectroTech 动态文本设置"
 
 #: ../../source/users/preferences/settings_text.rst:30
 msgid "Summary pages"
-msgstr "页次"
+msgstr "汇总表页面"
 
 #: ../../source/users/preferences/settings_text.rst:32
 msgid ""
 "QElectroTech allows defining a default text font from the project summary "
 "table."
-msgstr "QElectroTech允许从项目总表中定义默认文本字体。"
+msgstr "QElectroTech 允许为项目汇总表定义默认文本字体。"
 
 #: ../../source/users/preferences/settings_text.rst:37
 msgid "Other texts"
-msgstr "其他案文"
+msgstr "其他文本"
 
 #: ../../source/users/preferences/settings_text.rst:39
 msgid ""
 "QElectroTech allows defining a default orientation and text font for the "
 "text that is not part from an element, text field object and from the "
 "project summary."
-msgstr "QElectroTech允许定义一个不来自元素，文本字段对象和项目摘要的文本的默认方向和文本字体。"
+msgstr "QElectroTech 允许为不属于元件、文本字段对象和项目汇总表的文本定义默认方向和文本字体。"

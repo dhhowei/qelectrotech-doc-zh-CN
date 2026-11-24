@@ -29,15 +29,15 @@ msgid ""
 "The current `project`_ can be saved from `menu bar`_, `toolbar`_ and using "
 "the corresponding keyboard shortcut."
 msgstr ""
-"当前 `项目 <project_>`_ 可以从 `菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_ "
-"中保存，并使用相应的键盘快捷键。"
+"当前 `项目 <project_>`_ 可以通过 `菜单栏 <menu bar_>`_ 、 `工具栏 <toolbar_>`_ "
+"以及相应的键盘快捷键来保存。"
 
 #: ../../source/users/project/save_project.rst:10
 msgid ""
 "One `project`_ is conformed by a simple file with ``.qet`` format. The "
 "``.qet`` extension is the native extension from QElectroTech."
 msgstr ""
-"1 `项目 <project_>`_ 由一个简单的文件符合 ``.qet`` 格式。 ``.qet`` 扩展是 QElectroTech 的本地扩展 。"
+"一个 `项目 <project_>`_ 由一个简单的 ``.qet`` 格式文件构成。 ``.qet`` 是 QElectroTech 的原生扩展名。"
 
 #: ../../source/users/project/save_project.rst:14
 msgid "Save project from Menu bar"
@@ -45,52 +45,53 @@ msgstr "从菜单栏保存项目"
 
 #: ../../source/users/project/save_project.rst:16
 msgid "Select **File > Save** menu item to save the active `project`_."
-msgstr "选择 **文件 > 保存** 菜单项以保存活动 `项目 <project_>`_ 。"
+msgstr "选择 **文件 > 保存** 菜单项以保存当前活动的 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/save_project.rst:21
 #: ../../source/users/project/save_project.rst:33
 msgid ""
 "At the case that the `project`_ has already been saved and wants to be saved"
 " as a different `project`_, different name and/or directory:"
-msgstr "在 `项目 <project_>`_ 已被保存并想作为不同的 `项目 <project_>`_，不同名称和/或目录保存的情况下："
+msgstr ""
+"如果 `项目 <project_>`_ 已经保存，但希望将其保存为另一个不同的 `项目 <project_>`_ ，即使用不同的名称和/或目录："
 
 #: ../../source/users/project/save_project.rst:24
 msgid ""
 "Select **File > Save as** menu item to save the active `project`_ as a new "
 "`project`_."
-msgstr "选择 **文件 > 另存为** 菜单项以保存活动 `项目 <project_>`_ 作为新 `项目 <project_>`_ 。"
+msgstr "选择 **文件 > 另存为** 菜单项，将当前活动的 `项目 <project_>`_ 保存为新 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/save_project.rst:27
 msgid "Save project from toolbar"
-msgstr "从工具栏中保存项目"
+msgstr "从工具栏保存项目"
 
 #: ../../source/users/project/save_project.rst:29
 msgid ""
 "Select the icon |document-save| from `toolbar`_ to save the active "
 "`project`_."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |document-save| 来保存活动 `项目 <project_>`_。"
+msgstr "在 `工具栏 <toolbar_>`_ 中选择图标 |document-save| 以保存当前活动的 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/save_project.rst:31
 msgid "document-save"
-msgstr "文档保存"
+msgstr "保存文档"
 
 #: ../../source/users/project/save_project.rst:36
 msgid ""
 "Select the icon |document-save-as| from `toolbar`_ to save the active "
 "`project`_ as a new `project`_."
 msgstr ""
-"从 `工具栏 <toolbar_>`_ 选择图标 |document-save-as| ,将活动 `项目 <project_>`_ 保存为新 `项目 "
-"<project_>`_。"
+"在 `工具栏 <toolbar_>`_ 中选择图标 |document-save-as| ，将当前活动的 `项目 <project_>`_ 另存为新 "
+"`项目 <project_>`_ 。"
 
 #: ../../source/users/project/save_project.rst:38
 msgid "document-save-as"
-msgstr "文档保存为"
+msgstr "另存文档"
 
 #: ../../source/users/project/save_project.rst:42
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**"
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示"
+msgstr "如果未显示 `工具栏 <toolbar_>`_ ，可以从 **设置 > 显示 > 工具** 中将其显示。"
 
 #: ../../source/users/project/save_project.rst:45
 msgid "Save project using keyboard shortcut"
@@ -100,17 +101,17 @@ msgstr "使用键盘快捷键保存项目"
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/project/save_project.rst:49
 msgid "Press ``Ctrl + s`` to save the active `project`_."
-msgstr "按 ``Ctrl + s`` 以保存活动 `项目 <project_>`_。"
+msgstr "按 ``Ctrl + s`` 保存当前活动的 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/save_project.rst:53
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"
 
 #: ../../source/users/project/save_project.rst:57
 msgid ""
@@ -118,5 +119,5 @@ msgid ""
 "option should be configured at **Settings > Configure QElectroTech > "
 "Projects**."
 msgstr ""
-"QElectroTech 允许定期从 `项目 <project_>`_ 创建备份。 此选项应配置在 **设置 > 配置 QEectroTech > "
-"Project** 。"
+"QElectroTech 允许定期为 `项目 <project_>`_ 创建备份。此选项应在 **Settings > Configure "
+"QElectroTech > Projects** 中配置。"

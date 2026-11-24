@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/edition/index.rst:5
 msgid "Create or edit elements"
-msgstr "创建或编辑元素"
+msgstr "创建或编辑元件"

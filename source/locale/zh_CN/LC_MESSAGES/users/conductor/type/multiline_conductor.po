@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/conductor/type/multiline_conductor.rst:7
 msgid "Multiline conductor"
-msgstr "多线导线"
+msgstr "多线导体"
 
 #: ../../source/users/conductor/type/multiline_conductor.rst:9
 msgid ""
@@ -31,14 +31,14 @@ msgid ""
 "and three phase power systems. Multiline conductors are used for the "
 "individual representation of all electric and control systems."
 msgstr ""
-"多线导线用于 `多线图 <multiline "
-"diagrams_>`_。多线导线用于从两相和三相动力系统代表每个终端，线和相，多线导线用于所有电控系统的个别代表。"
+"多线导体用于 `多线图 <multiline diagrams_>`_ "
+"。多线导体用于表示两相和三相电力系统中的每个端子、线路和相位。多线导体用于单独表示所有电气和控制系统。"
 
 #: ../../source/users/conductor/type/multiline_conductor.rst:16
 msgid ""
 "At fluid power schemas, a multiline conductor represents each pressure, "
 "return and control line."
-msgstr "在流体动力图中，多线导体代表每个压力，返回和控制线。"
+msgstr "在流体动力原理图中，多线导体表示每条压力线、回油线和控制线。"
 
 #: ../../source/users/conductor/type/multiline_conductor.rst:19
 msgid ""
@@ -46,8 +46,8 @@ msgid ""
 "is the possibility to display text which is linked to the `conductor "
 "properties`_."
 msgstr ""
-"多线与 `单线导体 <single line conductors_>`_ 的主要区别在于有可能显示与 `导体属性相连的文本 <conductor "
-"properties_>`_。"
+"多线导体相对于 `单线导体 <single line conductors_>`_ 的主要区别在于，它可以显示与 `导体属性 <conductor "
+"properties_>`_ 关联的文本。"
 
 #: ../../source/users/conductor/type/multiline_conductor.rst:25
 msgid "Figure: Multiline conductor"
@@ -55,26 +55,26 @@ msgstr "图：多线导体"
 
 #: ../../source/users/conductor/type/multiline_conductor.rst:27
 msgid "The main features of multiline conductors are:"
-msgstr "多线导体的主要特征是："
+msgstr "多线导体的主要特点如下："
 
 #: ../../source/users/conductor/type/multiline_conductor.rst:29
 msgid "Possibility to define properties (Function and voltage/protocol)"
-msgstr "定义属性的可能性(功能和电压/protocol)"
+msgstr "可以定义属性（功能和电压/协议）"
 
 #: ../../source/users/conductor/type/multiline_conductor.rst:30
 msgid ""
 "Text linked to the conductor which can be displayed and its position is "
 "relative to the conductor position."
-msgstr "文本链接到可以显示的导线，其位置与导线位置相对。"
+msgstr "与导体关联的文本可以显示，其位置相对于导体的位置。"
 
 #: ../../source/users/conductor/type/multiline_conductor.rst:31
 msgid ""
 "Possibility of displaying variables values at the conductor text (Auto "
 "numbering, function or voltage/protocol)."
-msgstr "在导体文本(自动编号，函数或电压/protocol)上显示变量值的可能性。"
+msgstr "可以在导体文本中显示变量值（自动编号、功能或电压/协议）。"
 
 #: ../../source/users/conductor/type/multiline_conductor.rst:32
 msgid ""
 "Possibility of using the conductor variables at `element dynamic text`_ "
 "(Function and voltage/protocol)."
-msgstr "使用导变量的可能性 `元素动态文本 <element dynamic text_>`_ (功能和电压/protocol)."
+msgstr "可以在 `元件动态文本 <element dynamic text_>`_ 中使用导体变量（功能和电压/协议）。"

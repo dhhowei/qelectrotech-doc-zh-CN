@@ -30,43 +30,43 @@ msgid ""
 "provides the option to unselect all `parts`_ from the `workspace`_. This "
 "option is useful for avoiding undesired changes."
 msgstr ""
-"为了确定任何 `部件 <part_>`_ 在任何动作之前被选中，QElectroTech 提供了从 `部件 <parts_>`_ 中解选所有 `工作区 "
-"<workspace_>`_ 的选项。 此选项对避免不想要的更改很有用 。"
+"为确保在执行任何操作前没有选中任何 `部件 <part_>`_ ，QElectroTech 提供了取消选择 `工作区 <workspace_>`_ "
+"中所有 `部件 <parts_>`_ 的功能。该功能有助于避免意外更改。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_none.rst:10
 msgid ""
 "Unselecting all `parts`_ can be done from `menu bar`_ or using the "
 "corresponding keyboard shortcut."
-msgstr "取消选择所有 `部件 <parts_>`_ 可以从 `菜单栏 <menu bar_>`_ 完成，也可以使用相应的键盘快捷键。"
+msgstr "可以通过 `菜单栏 <menu bar_>`_ 或相应的快捷键取消选择所有 `部件 <parts_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_none.rst:13
 msgid "Select none from menu bar"
-msgstr "从菜单栏中选择无"
+msgstr "从菜单栏取消选择"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_none.rst:15
 msgid "Select **Edit > Select none** to unselect all selected `parts`_."
-msgstr "选择 **编辑 > 选择无** 取消所有选中的 `部件 <parts_>`_ 。"
+msgstr "选择 **编辑 > 取消选择** 以取消选择所有已选中的 `部件 <parts_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_none.rst:20
 msgid "Figure: QElectroTech element editor Edit menu"
-msgstr "图：QElectroTech 元素编辑器编辑菜单"
+msgstr "图：QElectroTech 元件编辑器“编辑”菜单"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_none.rst:23
 msgid "Select none using keyboard shortcut"
-msgstr "没有使用键盘快捷键选择"
+msgstr "使用快捷键取消选择"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_none.rst:25
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 支持使用快捷键来提高工作效率。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_none.rst:27
 msgid "Press ``Ctrl + Shift + a`` to unselect all selected `parts`_."
-msgstr "按 ``Ctrl + Shift + a`` 取消所有选中 `部件 <parts_>`_ 。"
+msgstr "按 ``Ctrl + Shift + a`` 取消选择所有已选中的 `部件 <parts_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_none.rst:31
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

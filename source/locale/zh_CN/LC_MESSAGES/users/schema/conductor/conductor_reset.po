@@ -22,40 +22,40 @@ msgstr ""
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:5
 msgid "Reset conductors"
-msgstr "重置导线"
+msgstr "重置导体"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:7
 msgid ""
 "QElectroTech provides the possibility to return to the default route of a "
 "modified conductor."
-msgstr "QElectroTech提供了返回被修改导体的默认路径的可能性。"
+msgstr "QElectroTech 可以恢复已修改导体的默认路径。"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:12
 msgid "Figure: QElectroTech reset conductor"
-msgstr "图：QElectroTech重置导电器"
+msgstr "图：QElectroTech 重置导体"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:14
 msgid ""
 "QElectroTech allows resetting the route of a `conductor`_ from `menu bar`_, "
 "`toolbar`_, `workspace`_ or using keyboard shortcut."
 msgstr ""
-"QElectroTech允许从 `导体 <conductor_>`_，`菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_ "
-"或使用键盘快捷键重置一个 `工作区 <workspace_>`_ 的路由。"
+"QElectroTech 允许通过 `菜单栏 <menu bar_>`_ 、`工具栏 <toolbar_>`_ 、`工作区 <workspace_>`_"
+" 或键盘快捷键重置 `导体 <conductor_>`_ 的路径。"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:18
 msgid "Reset conductor from menu bar"
-msgstr "从菜单栏重置导线"
+msgstr "从菜单栏重置导体"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:20
 #: ../../source/users/schema/conductor/conductor_reset.rst:31
 #: ../../source/users/schema/conductor/conductor_reset.rst:56
 msgid "`Select the conductor`_ which route should be reset."
-msgstr "`选择应当重设的导线 <Select the conductor_>`_ 。"
+msgstr "`选择要重置路径的导体 <Select the conductor_>`_ 。"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:21
 msgid ""
 "Select **Edit > Reset conductors** menu item to reset the conductor route."
-msgstr "选择 **Edit > 重置导线** 菜单项来重置导线路由。"
+msgstr "选择 **编辑 > 重置导体** 菜单项以重置导体的路径。"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:26
 msgid "Figure: QElectroTech edit menu"
@@ -63,42 +63,42 @@ msgstr "图：QElectroTech 编辑菜单"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:29
 msgid "Reset conductor from toolbar"
-msgstr "从工具栏重置导线"
+msgstr "从工具栏重置导体"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:32
 msgid ""
 "Select the icon |conductor2| from `toolbar`_ to reset the conductor route."
-msgstr "选择 `工具栏 <toolbar_>`_ 中的图标 |conductor2| 来重设导线路由 。"
+msgstr "从 `工具栏 <toolbar_>`_ 中选择图标 |conductor2| 以重置导体路径。"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:34
 msgid "conductor2"
-msgstr "导线2"
+msgstr "导体2"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:38
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**."
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 工具** 将其显示出来。"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:41
 msgid "Reset conductor from workspace"
-msgstr "从工作空间重置导线"
+msgstr "从工作区重置导体"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:43
 msgid "Right click on the conductor which route should be reset."
-msgstr "右键单击要重设的导线 。"
+msgstr "右键单击要重置路径的导体。"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:44
 msgid "Select the option **Reset conductors** to reset the conductor route."
-msgstr "选择选项 **重置导线** 以重置导线路径。"
+msgstr "选择 **重置导体** 选项以重置导体路径。"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:49
 msgid "Figure: QElectroTech conductor options"
-msgstr "图：QElectroTech导电选项"
+msgstr "图：QElectroTech 导体选项"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:52
 msgid "Reset conductor using keyboard shortcut"
-msgstr "使用键盘快捷键重置导线"
+msgstr "使用键盘快捷键重置导体"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:54
 msgid ""
@@ -108,10 +108,10 @@ msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:57
 msgid "Press ``Ctrl + k`` to reset the conductor route."
-msgstr "按 ``Ctrl + k`` 重置导线路线。"
+msgstr "按 ``Ctrl + k`` 重置导体路径。"
 
 #: ../../source/users/schema/conductor/conductor_reset.rst:61
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

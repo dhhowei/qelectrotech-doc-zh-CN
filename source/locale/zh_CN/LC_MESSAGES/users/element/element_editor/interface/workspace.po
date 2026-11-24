@@ -22,25 +22,25 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/interface/workspace.rst:5
 msgid "Drawing area"
-msgstr "绘图区域"
+msgstr "绘图区"
 
 #: ../../source/users/element/element_editor/interface/workspace.rst:7
 msgid ""
 "The drawing area or workspace, is the area where the graphical "
 "representation of the elements is created."
-msgstr "绘图区域或工作空间，是创建元素图形表达的区域。"
+msgstr "绘图区（或称工作区）是创建元件图形表示的区域。"
 
 #: ../../source/users/element/element_editor/interface/workspace.rst:9
 msgid "The drawing area or workspace looks as follow:"
-msgstr "绘图区域或工作空间如下："
+msgstr "绘图区（或称工作区）如下所示："
 
 #: ../../source/users/element/element_editor/interface/workspace.rst:14
 msgid "Figure: QElectroTech element editor workspace"
-msgstr "图：QElectroTech 元素编辑器工作空间"
+msgstr "图：QElectroTech 元件编辑器工作区"
 
 #: ../../source/users/element/element_editor/interface/workspace.rst:16
 msgid ""
 "The scrollbar are not appearing at first when the element editor is "
 "displayed. Rolling the wheel from the mouse to zoom will make the scrollbar "
 "appear."
-msgstr "显示元素编辑器时，滚动条一开始不会出现。 从鼠标滚动到缩放将使滚动条出现 。"
+msgstr "首次显示元件编辑器时不会出现滚动条。滚动鼠标滚轮进行缩放后，滚动条才会出现。"

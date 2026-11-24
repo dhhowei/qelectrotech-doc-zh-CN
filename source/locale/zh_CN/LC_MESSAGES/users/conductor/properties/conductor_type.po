@@ -26,14 +26,14 @@ msgstr "导体类型"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:10
 msgid "Multiline conductor"
-msgstr "多线导线"
+msgstr "多线导体"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:12
 msgid ""
 "For `multiline conductors`_, QElectroTech allows defining many different "
 "parameters from the conductor. The parameters which can be defined are:"
 msgstr ""
-"对于 `多线导体 <multiline conductors_>`_，QElectroTech允许定义许多与导体不同的参数。可以定义的参数有："
+"对于 `多线导体 <multiline conductors_>`_ ，QElectroTech 允许定义许多不同的导体参数。可定义的参数包括："
 
 #: ../../source/users/conductor/properties/conductor_type.rst:15
 msgid "Display parameters:"
@@ -41,37 +41,38 @@ msgstr "显示参数："
 
 #: ../../source/users/conductor/properties/conductor_type.rst:17
 msgid "**Text size**: Size of the displayed text."
-msgstr "**文本大小**:所显示文本的大小。"
+msgstr "**文本大小** ：所显示文本的大小。"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:18
 msgid ""
 "**Text formula**: To be used if a variable value is desired at the **Text** "
 "field during `conductor creation`_."
-msgstr "**文本公式**: 如果需要变量值，则使用 **文本** 字段间 `导线创建 <conductor creation_>`_。"
+msgstr ""
+"**文本公式** ：如果希望在 `导体创建 <conductor creation_>`_ 过程中在 **文本** 字段使用变量值，则使用此项。"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:19
 msgid "**Text**: Text field content to be displayed at `folio`_."
-msgstr "**Text**:在 `图幅 <folio_>`_ 显示文本字段内容。"
+msgstr "**文本** ：要在 `图幅 <folio_>`_ 上显示的文本字段内容。"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:20
 msgid "**Text color**: Font color to be displayed at `folio`_."
-msgstr "**Text 颜色**: 字体颜色在 `图幅 <folio_>`_ 显示。"
+msgstr "**文本颜色** ：要在 `图幅 <folio_>`_ 上显示的字体颜色。"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:21
 msgid ""
 "Positioning and orientation from the displayed text at `folio`_, vertical "
 "and horizontal `conductors`_."
-msgstr "在 `图幅 <folio_>`_、纵向和横向 `导体 <conductors_>`_ 上从所显示的文本定位和方向。"
+msgstr "`图幅 <folio_>`_ 上纵向和横向 `导体 <conductors_>`_ 中显示文本的定位和方向。"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:23
 msgid "Conductor properties:"
-msgstr "导师属性："
+msgstr "导体属性："
 
 #: ../../source/users/conductor/properties/conductor_type.rst:25
 msgid ""
 "**Function**: Variable from `conductor`_, it is used to define the wire "
 "phase (L1, L2, L3, N, etc.)."
-msgstr "**功能**:来自 `导体 <conductor_>`_ 的变量，用于定义线相(L1,L2,L3,N等)."
+msgstr "**功能** ：来自 `导体 <conductor_>`_ 的变量，用于定义导线相位（L1、L2、L3、N 等）。"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:26
 msgid ""
@@ -79,28 +80,28 @@ msgid ""
 " the wire voltage (0v,230V,400V, 6kV, etc.) or the wires network protocol "
 "(IP)."
 msgstr ""
-"**Voltage / Protocol**:来自 `导体 <conductor_>`_ "
-"的变量，用于定义电线电压(0v,230V,400V,6kV等)或电线网络协议(IP)."
+"**电压/协议** ：来自 `导体 <conductor_>`_ 的变量，用于定义导线电压（0V、230V、400V、6kV "
+"等）或导线网络协议（IP）。"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:27
 msgid ""
 "**Conductor color**: Variable from the `conductor`_, it is used to define "
 "the wire color."
-msgstr "**导体颜色**:来自 `导体 <conductor_>`_ 的变量，用于定义线条颜色。"
+msgstr "**导体颜色** ：来自 `导体 <conductor_>`_ 的变量，用于定义导线颜色。"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:28
 msgid ""
 "**Conductor section**: Variable from the `conductor`_, it is used to define "
 "the wire section."
-msgstr "**导体部分**:来自 `导体 <conductor_>`_，用于定义电线部分。"
+msgstr "**导体截面积** ：来自 `导体 <conductor_>`_ 的变量，用于定义导线截面积。"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:29
 msgid "**Cable**:"
-msgstr "**电缆**:"
+msgstr "**电缆**："
 
 #: ../../source/users/conductor/properties/conductor_type.rst:30
 msgid "**Bus**:"
-msgstr "**Bus**:"
+msgstr "**总线**："
 
 #: ../../source/users/conductor/properties/conductor_type.rst:35
 msgid "Figure: Multiline conductor properties"
@@ -112,8 +113,8 @@ msgid ""
 " an easily manage of the manufacturing, erection, commissioning and "
 "maintenance phase of the product."
 msgstr ""
-"在 `多线图 <conductor TAG (code)_>`_ 中显示 `导体TAG(代码) <multiline diagrams_>`_ "
-"是产品制造、安装、试运行和维护阶段的通常做法。"
+"在 `多线图 <multiline diagrams_>`_ 中显示 `导体 TAG （代码） <conductor TAG (code)_>`_ "
+"是产品制造、安装、调试和维护阶段便于管理的常见做法。"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:42
 msgid ""
@@ -122,12 +123,12 @@ msgid ""
 "have to be defined at `Folio properties`_ before starting the `conductor "
 "creation`_."
 msgstr ""
-"QElectroTech 允许在 **Text 公式** 字段使用变量 ``%autonum`` 对文本进行自动导线编号定义。在开始 `导线创建 "
-"<Folio properties_>`_ 之前，此字段必须在 `Folio 属性 <conductor creation_>`_ 中定义 。"
+"QElectroTech 允许在 **文本公式** 字段中使用变量 ``%autonum`` 为文本自动定义导体编号。开始 `导体创建 "
+"<conductor creation_>`_ 之前，必须在 `图幅属性 <Folio properties_>`_ 中定义此字段。"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:47
 msgid "Single line conductor"
-msgstr "单行导线"
+msgstr "单线导体"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:49
 msgid ""
@@ -135,31 +136,31 @@ msgid ""
 " text information. Only the type of power system should be defined to have "
 "the correct symbol representation."
 msgstr ""
-"对于 `单行导体 <single line conductors_>`_，`导体 <conductors_>`_ "
-"在没有任何文本信息的情况下进行表示，只有动力系统的类型应当被定义为具有正确的符号表示。"
+"对于 `单线导体 <single line conductors_>`_ ，`导体 <conductors_>`_ "
+"的表示不包含任何文本信息。只需定义电力系统的类型，即可获得正确的符号表示。"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:52
 msgid ""
 "QElectroTech allows the following options for `single line conductors`_:"
-msgstr "QElectroTech 允许 `单行导 <single line conductors_>`_ 的下列选项："
+msgstr "QElectroTech 为 `单线导体 <single line conductors_>`_ 提供以下选项："
 
 #: ../../source/users/conductor/properties/conductor_type.rst:54
 msgid "System with or without **Ground**"
-msgstr "有无 **Ground** 的系统"
+msgstr "系统带或不带 **接地**"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:55
 msgid "System with or without **Neutral**"
-msgstr "有无 **Neutral** 的系统"
+msgstr "系统带或不带 **中性线**"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:56
 msgid ""
 "**PEN** system, system where **Neutral** and **Ground** are the same wire."
-msgstr "**PEN** 系统，其中 **Neutral** 和 **Ground** 为同一线的系统。"
+msgstr "**PEN** 系统，即 **中性线** 和 **接地** 为同一根导线的系统。"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:57
 msgid "Systems with one, two or three phases"
-msgstr "具有一个、两个或三个阶段的系统"
+msgstr "具有一相、两相或三相的系统"
 
 #: ../../source/users/conductor/properties/conductor_type.rst:62
 msgid "Figure: Single line conductor properties"
-msgstr "图：单行导体属性"
+msgstr "图：单线导体属性"

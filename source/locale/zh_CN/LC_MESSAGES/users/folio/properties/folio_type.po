@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/folio/properties/folio_type.rst:5
 msgid "Folio conductor type"
-msgstr "Folio 导体类型"
+msgstr "图幅导体类型"
 
 #: ../../source/users/folio/properties/folio_type.rst:7
 msgid ""
@@ -32,23 +32,21 @@ msgid ""
 "individually the conductor type and the common properties for each conductor"
 " created in the folio."
 msgstr ""
-"从 folio 属性 PopUP 窗口中的 **Type** 选项卡允许预先定义在 folio 中绘制的 `型导体 <type of "
-"conductor_>`_ 。 `导体属性 <conductor properties_>`_ 也可以预先定义。此动作避免了单个定义导体类型和 "
-"folio 中创建的每个导体的共同属性 。"
+"图幅属性弹出窗口中的 **Type** 标签页允许预先定义稍后将在图幅中绘制的 `导体类型 <type of conductor_>`_ 。`导体属性 "
+"<conductor properties_>`_ 也可以预先定义。此操作可避免为图幅中创建的每个导体逐一设置导体类型和公共属性。"
 
 #: ../../source/users/folio/properties/folio_type.rst:14
 msgid ""
 "For more information about conductor properties, refer to `conductor type`_ "
 "section."
-msgstr "关于导体属性的更多信息，参见 `导体类型 <conductor type_>`_ 节。"
+msgstr "有关导体属性的更多信息，请参阅 `导体类型 <conductor type_>`_ 一节。"
 
 #: ../../source/users/folio/properties/folio_type.rst:19
 msgid "Figure: QElectroTech folio type properties tab"
-msgstr "图：QElectroTech folio 类型属性标签"
+msgstr "图：QElectroTech 图幅类型属性标签页"
 
 #: ../../source/users/folio/properties/folio_type.rst:23
 msgid ""
 "For more information about how to display folio properties, refer to "
 "`display folio properties`_ section."
-msgstr ""
-"关于如何显示folio属性的更多信息，请参见 `display folio属性 <display folio properties_>`_ 一节。"
+msgstr "有关如何显示图幅属性的更多信息，请参阅 `显示图幅属性 <display folio properties_>`_ 一节。"

@@ -30,18 +30,18 @@ msgid ""
 " the activated `folio`_, at the same time. All objects can be selected from "
 "`menu bar`_, `workspace`_ or using the corresponding keyboard shortcut."
 msgstr ""
-"QElectroTech 允许同时从 `工作区 <workspace_>`_ 中选择所有对象，从激活的 `图幅 <folio_>`_ "
-"中选择所有对象，所有对象都可以从 `菜单栏 <menu bar_>`_，`工作区 <workspace_>`_ 或使用相应的键盘快捷键。"
+"QElectroTech 允许同时选择 `工作区 <workspace_>`_ 中的所有对象，以及已激活 `图幅 <folio_>`_ "
+"中的所有对象。所有对象都可以通过 `菜单栏 <menu bar_>`_ 、`工作区 <workspace_>`_ 或相应的键盘快捷键来选择。"
 
 #: ../../source/users/schema/select/select_all.rst:12
 msgid "Select all objects from menu bar"
-msgstr "从菜单栏中选择全部对象"
+msgstr "从菜单栏选择所有对象"
 
 #: ../../source/users/schema/select/select_all.rst:14
 msgid ""
 "Select **Edit > Select All** to select all objects from the activated "
 "`folio`_."
-msgstr "选择 **编辑 > 选择全部** 从激活的 `图幅 <folio_>`_ 中选择所有对象 。"
+msgstr "选择 **编辑 > 选择全部** ，即可选择已激活 `图幅 <folio_>`_ 中的所有对象。"
 
 #: ../../source/users/schema/select/select_all.rst:19
 msgid "Figure: QElectroTech Edit menu"
@@ -49,23 +49,23 @@ msgstr "图：QElectroTech 编辑菜单"
 
 #: ../../source/users/schema/select/select_all.rst:22
 msgid "Select all objects from workspace"
-msgstr "选择工作空间中的所有对象"
+msgstr "从工作区选择所有对象"
 
 #: ../../source/users/schema/select/select_all.rst:24
 msgid ""
 "As many other CAD tools, QElectroTech allows selecting all elements from the"
 " `workspace`_, graphical area, using the mouse."
-msgstr "同许多其他CAD工具一样，QElectroTech允许从 `工作区 <workspace_>`_，图形区域中选择所有元素，使用鼠标。"
+msgstr "与许多其他 CAD 工具一样，QElectroTech 允许使用鼠标从 `工作区 <workspace_>`_ 的图形区域中选择所有元件。"
 
 #: ../../source/users/schema/select/select_all.rst:27
 msgid ""
 "Left click on the initial point from the rectangular area to be selected and"
 " displace the mouse without releasing up to the end point."
-msgstr "左键单击从矩形区域选择的初始点，并替换鼠标而不释放至终点 。"
+msgstr "在待选矩形区域的起点处单击左键，按住鼠标拖动至终点，途中不要松开。"
 
 #: ../../source/users/schema/select/select_all.rst:32
 msgid "Figure: QElectroTech selecting on workspace"
-msgstr "图：工作空间上的QElectroTech选择"
+msgstr "图：在 QElectroTech 工作区中选择"
 
 #: ../../source/users/schema/select/select_all.rst:35
 msgid "Select all objects using keyboard shortcut"
@@ -79,10 +79,10 @@ msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/schema/select/select_all.rst:39
 msgid "Press ``Ctrl + a`` to select all objects from the activated `folio`_."
-msgstr "按 ``Ctrl + a`` 从激活的 `图幅 <folio_>`_ 中选择所有对象。"
+msgstr "按 ``Ctrl + a`` 可选择已激活 `图幅 <folio_>`_ 中的所有对象。"
 
 #: ../../source/users/schema/select/select_all.rst:43
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

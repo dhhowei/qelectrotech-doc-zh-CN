@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/element/type/element_slave.rst:5
 msgid "Slave element"
-msgstr "奴隶元素"
+msgstr "从元件"
 
 #: ../../source/users/element/type/element_slave.rst:7
 msgid ""
@@ -30,27 +30,25 @@ msgid ""
 "contacts from a power contactor. The slave elements also represent the "
 "auxiliary contacts. Even if an auxiliary contactor is part of the command "
 "circuit, its activation is forced by another element."
-msgstr ""
-"奴隶元件代表电源电路设备，如来自电源接触器的主要接触器。奴隶元件也代表辅助接触器，即使辅助接触器是指令电路的一部分，它的激活也由另一个元素强制。"
+msgstr "从元件表示动力电路中的设备，例如动力接触器的主触点。从元件也用于表示辅助触点。即使辅助接触器属于控制电路，其动作也由另一个元件强制驱动。"
 
 #: ../../source/users/element/type/element_slave.rst:15
 msgid "Figure: QElectroTech slave element"
-msgstr "图：QElectroTech奴隶元素"
+msgstr "图：QElectroTech 从元件"
 
 #: ../../source/users/element/type/element_slave.rst:17
 msgid ""
 "For slave element exist two type of variables, the general variables that "
 "are common for all type of elements and managed internally by QElectroTech, "
 "and the specific variables for this type of element."
-msgstr "对于奴隶元素，存在两种类型的变量，即所有类型元素通用并由QEelectroTech内部管理的一般变量，以及这类元素的具体变量。"
+msgstr "从元件有两种类型的变量：所有类型元件通用且由 QElectroTech 内部管理的一般变量，以及此类元件专用的特定变量。"
 
 #: ../../source/users/element/type/element_slave.rst:21
 msgid ""
 "QElectroTech does not allow defining variable values for slave element. "
 "QElectroTech does also not allows defining new variables. QElectroTech "
 "allows only displaying the specific variables at dynamic texts."
-msgstr ""
-"QElectroTech不允许定义奴隶元素的变量值。QEctroTech也不允许定义新的变量。QEctroTech只允许在动态文本中显示特定的变量。"
+msgstr "QElectroTech 不允许为从元件定义变量值，也不允许定义新变量。QElectroTech 仅允许在动态文本中显示特定变量。"
 
 #: ../../source/users/element/type/element_slave.rst:25
 msgid "General variables"
@@ -58,37 +56,37 @@ msgstr "一般变量"
 
 #: ../../source/users/element/type/element_slave.rst:27
 msgid "**% {F}**: Label from the folio where the element can be found"
-msgstr "**% {F}**:从可找到元素的圆柱处划出标签"
+msgstr "**% {F}**: 元件所在图幅的标签"
 
 #: ../../source/users/element/type/element_slave.rst:28
 msgid "**% {f}**: Number from the folio where the element can be found"
-msgstr "**% {f}**:可以找到元素的光圈中的数字"
+msgstr "**% {f}**: 元件所在图幅的编号"
 
 #: ../../source/users/element/type/element_slave.rst:29
 msgid ""
 "**% {M}**: Plant variable from the folio where the element can be found"
-msgstr "**% {M}**:可以找到元素的圆柱形的植物变量"
+msgstr "**% {M}**: 元件所在图幅的设备变量"
 
 #: ../../source/users/element/type/element_slave.rst:30
 msgid ""
 "**% {LM}**: Location variable of the folio where the element can be found"
-msgstr "**% {LM}**:可以找到元素的光圈位置变量"
+msgstr "**% {LM}**: 元件所在图幅的位置变量"
 
 #: ../../source/users/element/type/element_slave.rst:31
 msgid ""
 "**% {l}**: Folio line number from the workspace where the element can be "
 "found"
-msgstr "**% {l}**:可以找到元素的工作空间的Folio行号"
+msgstr "**% {l}**: 元件所在工作区中图幅的行号"
 
 #: ../../source/users/element/type/element_slave.rst:32
 msgid ""
 "**% {c}**: Folio column number from the workspace where the element can be "
 "found"
-msgstr "**% {c}**:可以找到元素的工作空间的Folio列号"
+msgstr "**% {c}**: 元件所在工作区中图幅的列号"
 
 #: ../../source/users/element/type/element_slave.rst:33
 msgid "**% {id}**: Folio position in the project (Schema number)"
-msgstr "**% {id}**:项目中的Folio位置(计划编号)"
+msgstr "**% {id}**: 图幅在项目中的位置（原理图编号）"
 
 #: ../../source/users/element/type/element_slave.rst:35
 msgid "Specific variables"
@@ -101,14 +99,17 @@ msgid ""
 "automatically displayed under dynamic texts of the element. The default "
 "formula from the variable is ``(%id-%l%c)``, variables took from master "
 "element."
-msgstr "**方案主元件**:在元素动态文本下自动显示的内部预定义变量。变量的默认公式是 ``(%id-%l%c)``,变量取自主元件。"
+msgstr ""
+"**Position master element**: 内部预定义变量，会自动显示在元件的动态文本下方。该变量的默认公式为 "
+"``(%id-%l%c)`` ，其中变量取自于主元件。"
 
 #: ../../source/users/element/type/element_slave.rst:41
 msgid ""
 "The default formula from the **Position master element** and the position "
 "where it should be displayed can be defined at cross references tab from "
 "**New project** preferences."
-msgstr "从 **投影母元素的默认公式** 和显示它的位置可以在 **新项目** 首选项的交叉引用标签中定义 。"
+msgstr ""
+"**Position master element** 的默认公式及其显示位置，可以在 **New project** 首选项的交叉引用标签页中定义。"
 
 #: ../../source/users/element/type/element_slave.rst:46
 msgid ""
@@ -116,4 +117,5 @@ msgid ""
 "element <../../element/type/elementmaster.html>`_ at the dynamic text "
 "fields."
 msgstr ""
-"QElectroTech 允许从 `主元件 <../../element/type/elementmaster.html>`_ 在动态文本字段中。"
+"QElectroTech 还允许在动态文本字段中显示来自 `主元件 <../../element/type/elementmaster.html>`_ "
+"的特定变量。"

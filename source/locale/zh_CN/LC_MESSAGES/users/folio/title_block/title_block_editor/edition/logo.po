@@ -22,15 +22,15 @@ msgstr ""
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/logo.rst:5
 msgid "Introduce a logo on the title block"
-msgstr "在图框上引入标识"
+msgstr "在图框中添加徽标"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/logo.rst:7
 msgid "Select the `cell`_ where the logo should be introduced."
-msgstr "选择要引入标志的 `单元格 <cell_>`_ 。"
+msgstr "选择要添加徽标的 `单元格 <cell_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/logo.rst:8
 msgid "Go to properties and choose **Logo** at **Cell type** Combo Box."
-msgstr "转到属性并选择 **Logo** 在 **Cell类型** Combo Box."
+msgstr "转到属性，在 **单元格类型** 组合框中选择 **徽标** 。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/logo.rst:13
 msgid "Figure: QElectroTech Title block cell properties"
@@ -38,28 +38,28 @@ msgstr "图：QElectroTech 图框单元格属性"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/logo.rst:15
 msgid "Define the name of the `cell`_, if it is desired."
-msgstr "如果需要，请定义 `单元格 <cell_>`_ 的名称。"
+msgstr "如果需要，可定义 `单元格 <cell_>`_ 的名称。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/logo.rst:16
 msgid ""
 "Press the **Manage logo** button to display the logo manager PopUP window."
-msgstr "按 **管理徽标** 按钮显示徽标管理器 PopUP 窗口。"
+msgstr "按 **管理徽标** 按钮以显示徽标管理器弹出窗口。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/logo.rst:21
 msgid "Figure: QElectroTech Title block logo manager PopUP window"
-msgstr "图：QElectroTech 图框标识管理器 PopUP 窗口"
+msgstr "图：QElectroTech 图框徽标管理器弹出窗口"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/logo.rst:23
 msgid ""
 "Press the button **Add a logo** to display the file explorer PopUP window."
-msgstr "按下按钮 **添加一个标志** 以显示文件探索器 PopUP 窗口。"
+msgstr "单击 **添加徽标** 按钮以显示文件浏览器弹出窗口。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/logo.rst:24
 msgid ""
 "Choose the SVG or Bitmap file with the desired logo and close the logo "
 "manager."
-msgstr "选择带有所希望的标志的 SVG 或 Bitmap 文件并关闭标志管理器 。"
+msgstr "选择包含所需徽标的 SVG 或位图文件，然后关闭徽标管理器。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/logo.rst:25
 msgid "Choose the logo added previously at **Logo** Combo Box."
-msgstr "选择先前在 **Logo** Combo Box 上添加的标志 。"
+msgstr "在 **徽标** 组合框中选择之前添加的徽标。"

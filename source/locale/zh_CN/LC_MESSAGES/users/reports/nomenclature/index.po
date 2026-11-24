@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/reports/nomenclature/index.rst:5
 msgid "Nomenclature"
-msgstr "名称"
+msgstr "物料清单"

@@ -22,18 +22,18 @@ msgstr ""
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/workspace.rst:5
 msgid "Drawing area"
-msgstr "绘图区域"
+msgstr "绘图区"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/workspace.rst:7
 msgid ""
 "The drawing area or graphical editor, is the area where the title block "
 "`columns`_, `rows`_ and `cells`_ are managed."
 msgstr ""
-"绘图区域或图形编辑器，是图框 `栏 <columns_>`_，`rows <rows_>`_ 和 `单元格 <cells_>`_ 被管理的区域。"
+"绘图区又称图形编辑器，是管理图框中 `列 <columns_>`_ 、`行 <rows_>`_ 和 `单元格 <cells_>`_ 的区域。"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/workspace.rst:10
 msgid "How looks the drawing area from `title block editor`_ is shown below."
-msgstr "绘制区域从何看 `图框编辑器 <title block editor_>`_ 如下所示。"
+msgstr "下方展示了 `图框编辑器 <title block editor_>`_ 中绘图区的外观。"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/workspace.rst:15
 msgid "Figure: QElectroTech title block graphical editor"

@@ -22,26 +22,26 @@ msgstr ""
 
 #: ../../source/users/interface/panels/undo_panel.rst:7
 msgid "Undo panel"
-msgstr "撤消面板"
+msgstr "撤销面板"
 
 #: ../../source/users/interface/panels/undo_panel.rst:9
 msgid ""
 "The Undo panel displays the history since the last time that the document "
 "was saved. Once the `project`_ is saved, undo panel is automatically "
 "cleared."
-msgstr "撤消面板显示自文档上次保存以来的历史。 一旦保存了 `项目 <project_>`_，撤消面板将自动清除 。"
+msgstr "撤销面板显示自上次保存文档以来的历史记录。保存 `项目 <project_>`_ 后，撤销面板会自动清空。"
 
 #: ../../source/users/interface/panels/undo_panel.rst:15
 msgid "Figure: QElectroTech Undo panel"
-msgstr "图：QElectroTech Undo 面板"
+msgstr "图：QElectroTech 撤销面板"
 
 #: ../../source/users/interface/panels/undo_panel.rst:17
 msgid "To display or hidden the undo panel:"
-msgstr "要显示或隐藏撤消面板："
+msgstr "要显示或隐藏撤销面板："
 
 #: ../../source/users/interface/panels/undo_panel.rst:19
 msgid "Select **Settings > Display > Undo** menu item."
-msgstr "选择 **设置 > 显示 > 撤消** 菜单项。"
+msgstr "选择 **设置 > 显示 > 撤销** 菜单项。"
 
 #: ../../source/users/interface/panels/undo_panel.rst:21
 msgid ""
@@ -51,8 +51,8 @@ msgid ""
 "chosen at the panel. While the `project`_ is not saved again, the user can "
 "go to the different status as many times he wants."
 msgstr ""
-"撤销面板用于在上次保存后完成动作后返回 `项目 <project_>`_ 状态。 通过点击撤消面板上列出的动作之一，`项目 <project_>`_ "
-"将返回在面板上选择的动作后状态。 虽然 `项目 <project_>`_ 不再保存，但用户可以按他想要的多次返回不同的状态 。"
+"撤销面板用于将 `项目 <project_>`_ 恢复到上次保存后某个操作之后的状态。单击撤销面板中列出的任一操作，`项目 <project_>`_ "
+"就会返回到在面板中选择该操作后的状态。在 `项目 <project_>`_ 再次保存之前，用户可以随时切换到不同的状态，次数不限。"
 
 #: ../../source/users/interface/panels/undo_panel.rst:28
 msgid ""
@@ -61,16 +61,16 @@ msgid ""
 " like `delete folio`_. Once the `project`_ is saved or an irreversible "
 "action is made, the history is cleared."
 msgstr ""
-"如果您玩过面板，请确定您在继续工作前处于正确的历史状态，保存 `项目 <project_>`_ 或任何不可逆动作，如 `delete folio "
-"<delete folio_>`_ 。 一旦保存 `项目 <project_>`_ 或采取不可逆的行动，历史就会被清除 。"
+"如果在面板中来回切换，请确保在继续工作、保存 `项目 <project_>`_ 或执行 `删除图幅 <delete folio_>`_ "
+"等不可逆操作之前，处于正确的历史状态。一旦保存了 `项目 <project_>`_ 或执行了不可逆操作，历史记录就会被清除。"
 
 #: ../../source/users/interface/panels/undo_panel.rst:32
 msgid "Using the undo panel allow you to:"
-msgstr "使用撤消面板允许您："
+msgstr "使用撤销面板可以："
 
 #: ../../source/users/interface/panels/undo_panel.rst:34
 msgid "Come back to previous steps with a click."
-msgstr "点击后回到前几个步骤。"
+msgstr "单击即可回到之前的步骤。"
 
 #: ../../source/users/interface/panels/undo_panel.rst:35
 msgid ""
@@ -78,13 +78,13 @@ msgid ""
 "going one step back before the deletion, `copying the object`_  and `pasting"
 " the object`_ when on the latest version."
 msgstr ""
-"恢复之前已删除的天体。该天体可以在删除前退一步恢复， `复制对象 <copying the object_>`_  和 `粘贴对象 <pasting "
-"the object_>`_ 当在最新版本。"
+"恢复之前删除的对象。可以先退回到删除之前的步骤，再在最新版本中 `复制对象 <copying the object_>`_ 并 `粘贴对象 "
+"<pasting the object_>`_ ，即可恢复该对象。"
 
 #: ../../source/users/interface/panels/undo_panel.rst:36
 msgid "Checking the `project`_ status between versions."
-msgstr "检查版本之间的 `项目 <project_>`_ 状态。"
+msgstr "检查不同版本之间的 `项目 <project_>`_ 状态。"
 
 #: ../../source/users/interface/panels/undo_panel.rst:37
 msgid "Etc."
-msgstr "Etc (英语)."
+msgstr "等等。"

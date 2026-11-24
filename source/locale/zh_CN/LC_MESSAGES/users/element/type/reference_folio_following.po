@@ -22,19 +22,19 @@ msgstr ""
 
 #: ../../source/users/element/type/reference_folio_following.rst:5
 msgid "Reference folio following"
-msgstr "以下参考框"
+msgstr "后一个参考图幅"
 
 #: ../../source/users/element/type/reference_folio_following.rst:7
 msgid ""
 "Element which link the end of a `conductor`_ with the beginning of the "
 "`conductor`_ represented at previous, following or the same `folio`_."
 msgstr ""
-"将 `导体 <conductor_>`_ 的末端与以前代表的 `导体 <conductor_>`_ 的开头，跟随或相同 `图幅 <folio_>`_ "
-"的元素。"
+"将一段 `导体 <conductor_>`_ 的终点，与位于前一个、后一个或同一 `图幅 <folio_>`_ 上的 `导体 "
+"<conductor_>`_ 起点相连的元件。"
 
 #: ../../source/users/element/type/reference_folio_following.rst:13
 msgid "Figure: QElectroTech reference folio following"
-msgstr "图：QElectroTech 参考文件如下："
+msgstr "图：QElectroTech 后一个参考图幅"
 
 #: ../../source/users/element/type/reference_folio_following.rst:15
 msgid ""
@@ -42,8 +42,8 @@ msgid ""
 "general variables that are common for all type of `elements`_ and the "
 "specific variables for this type of `element`_."
 msgstr ""
-"对于元素后面的参考folio,存在两类变量，即所有类型 `元件 <elements_>`_ 通用的一般变量和该类型 `元件 <element_>`_ "
-"的特定变量。"
+"后一个参考图幅元件有两种类型的变量：所有类型 `元件 <elements_>`_ 通用的一般变量，以及此类 `元件 <element_>`_ "
+"专用的特定变量。"
 
 #: ../../source/users/element/type/reference_folio_following.rst:18
 msgid ""
@@ -52,8 +52,8 @@ msgid ""
 "QElectroTech allows only displaying the specific variables at `dynamic "
 "texts`_."
 msgstr ""
-"QElectroTech不允许定义该类型 `元件 <element_>`_ "
-"的变量值。QEctroTech也不允许定义新的变量。QEctroTech只允许在 `动态文本 <dynamic texts_>`_ 上显示特定的变量。"
+"QElectroTech 不允许定义此类 `元件 <element_>`_ 的变量值，也不允许定义新变量。QElectroTech 仅允许在 `动态文本"
+" <dynamic texts_>`_ 中显示特定变量。"
 
 #: ../../source/users/element/type/reference_folio_following.rst:22
 msgid "General variables"
@@ -61,39 +61,39 @@ msgstr "一般变量"
 
 #: ../../source/users/element/type/reference_folio_following.rst:24
 msgid "**% {F}**: Label from the `folio`_ where the `element`_ can be found."
-msgstr "**% {F} (韩语)** 标签 `图幅 <folio_>`_ 地点 `元件 <element_>`_ 可见。"
+msgstr "**% {F}**: `元件 <element_>`_ 所在 `图幅 <folio_>`_ 的标签"
 
 #: ../../source/users/element/type/reference_folio_following.rst:25
 msgid "**% {f}**: Number from the `folio`_ where the `element`_ can be found."
-msgstr "**% {f} (韩语)** 编号： `图幅 <folio_>`_ 地点 `元件 <element_>`_ 可见。"
+msgstr "**% {f}**: `元件 <element_>`_ 所在 `图幅 <folio_>`_ 的编号"
 
 #: ../../source/users/element/type/reference_folio_following.rst:26
 msgid ""
 "**% {M}**: Plant variable from the `folio`_ where the `element`_ can be "
 "found."
-msgstr "**% {M}**:可以找到 `图幅 <folio_>`_ 的 `元件 <element_>`_ 的植物变量。"
+msgstr "**% {M}**: `元件 <element_>`_ 所在 `图幅 <folio_>`_ 的设备变量"
 
 #: ../../source/users/element/type/reference_folio_following.rst:27
 msgid ""
 "**% {LM}**: Location variable of the `folio`_ where the `element`_ can be "
 "found."
-msgstr "**% {LM}**:可以找到 `图幅 <folio_>`_ 的 `元件 <element_>`_ 的位置变量。"
+msgstr "**% {LM}**: `元件 <element_>`_ 所在 `图幅 <folio_>`_ 的位置变量"
 
 #: ../../source/users/element/type/reference_folio_following.rst:28
 msgid ""
 "**% {l}**: Folio line number from the `workspace`_ where the `element`_ can "
 "be found."
-msgstr "**% {l}**:可以找到 `工作区 <workspace_>`_ 的 `元件 <element_>`_。"
+msgstr "**% {l}**: `元件 <element_>`_ 所在 `工作区 <workspace_>`_ 中图幅的行号"
 
 #: ../../source/users/element/type/reference_folio_following.rst:29
 msgid ""
 "**% {c}**: Folio column number from the `workspace`_ where the `element`_ "
 "can be found."
-msgstr "**% {c}**:可以找到 `工作区 <workspace_>`_ 的 `元件 <element_>`_ 的Folio列号。"
+msgstr "**% {c}**: `元件 <element_>`_ 所在 `工作区 <workspace_>`_ 中图幅的列号"
 
 #: ../../source/users/element/type/reference_folio_following.rst:30
 msgid "**% {id}**: Folio position in the `project`_ (Schema number)."
-msgstr "**% {id}**: `项目 <project_>`_ 中的Folio位置(计划编号)."
+msgstr "**% {id}**: 图幅在 `项目 <project_>`_ 中的位置（原理图编号）"
 
 #: ../../source/users/element/type/reference_folio_following.rst:32
 msgid "Specific variables"
@@ -103,21 +103,23 @@ msgstr "具体变量"
 msgid ""
 "**Function**: Function property from the `conductor`_ connected to the "
 "`element terminal`_."
-msgstr "**函数**: 来自 `导体 <conductor_>`_ 连接到 `元素终端 <element terminal_>`_。"
+msgstr ""
+"**Function**: 连接到 `元件端子 <element terminal_>`_ 的 `导体 <conductor_>`_ 的功能属性"
 
 #: ../../source/users/element/type/reference_folio_following.rst:35
 msgid ""
 "**Label**: Internal variable which defines the position of the linked "
 "`previous reference folio`_ element."
-msgstr "**标签**:定义链接 `先前的参考框 <previous reference folio_>`_ 元素位置的内部变量。"
+msgstr ""
+"**Label**: 内部变量，用于定义所链接的 `前一个参考图幅 <previous reference folio_>`_ 元件的位置。"
 
 #: ../../source/users/element/type/reference_folio_following.rst:36
 msgid ""
 "**Voltage/Protocol**: Voltage/Protocol property from the `conductor`_ "
 "connected to the `element terminal`_."
 msgstr ""
-"**Voltage/Protocol**:电压/Protocol属性来自 `导体 <conductor_>`_ 连接 `元素终端 <element "
-"terminal_>`_。"
+"**Voltage/Protocol**: 连接到 `元件端子 <element terminal_>`_ 的 `导体 <conductor_>`_ "
+"的电压/协议属性"
 
 #: ../../source/users/element/type/reference_folio_following.rst:40
 #, python-format
@@ -127,14 +129,14 @@ msgid ""
 "``%id-%l%c``, variables took from `previous reference folio`_ linked "
 "element."
 msgstr ""
-"**标签** 属性可以定义为用户在 `New folio <New folio_>`_ 节中从 `project 属性 <project "
-"properties_>`_ 的公式。默认的公式是 ``%id-%l%c``,变量取自 `先前的参考 <previous reference "
-"folio_>`_ 链接元素 。"
+"用户可以在 `项目属性 <project properties_>`_ 的 `新建图幅 <New folio_>`_ 区域将 **Label** "
+"属性定义为公式。默认公式为 ``%id-%l%c`` ，其中变量取自所链接的 `前一个参考图幅 <previous reference "
+"folio_>`_ 元件。"
 
 #: ../../source/users/element/type/reference_folio_following.rst:44
 msgid ""
 "For more information about how to define the **Label** formula, please "
 "refers to `folio referencing project properties`_."
 msgstr ""
-"关于如何定义 **Label** 公式的更多信息，请参考 `folio参考项目属性 <folio referencing project "
-"properties_>`_。"
+"有关如何定义 **Label** 公式的更多信息，请参阅 `图幅引用项目属性 <folio referencing project "
+"properties_>`_ 。"

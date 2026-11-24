@@ -31,33 +31,33 @@ msgid ""
 "general, these buttons have its counterpart at one of the menus from the "
 "`menu bar`_."
 msgstr ""
-"除了不同的菜单之外，QElectroTech 也提供了工具栏。 工具栏是带有图标的按钮组，启动动作。 一般来说，这些按钮在 `菜单栏 <menu "
-"bar_>`_ 中有一个对应的按钮 。"
+"除了各种菜单外，QElectroTech 还提供工具栏。工具栏是带图标、用于触发操作的一组按钮。一般来说，这些按钮在 `菜单栏 <menu "
+"bar_>`_ 的某个菜单中都有对应的菜单项。"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:11
 msgid ""
 "The different toolbars can be hidden or placed in one or more rows below the"
 " `menu bar`_. The toolbars can also be placed on column at the left or right"
 " side from the main window."
-msgstr "不同的工具栏可以隐藏或放置在 `菜单栏 <menu bar_>`_ 下的一个或多个行中，工具栏也可以从主窗口左侧或右侧放置在列上。"
+msgstr "各种工具栏可以隐藏，也可以放置在 `菜单栏 <menu bar_>`_ 下方的一行或多行中。工具栏还可以纵向放置在主窗口的左侧或右侧。"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:16
 msgid ""
 "To help the user, a tooltip is displayed when the arrow is placed on each "
 "button."
-msgstr "为了帮助用户，当箭头放在每个按钮上时会显示工具提示。"
+msgstr "为方便用户，将鼠标指针移到每个按钮上时会显示工具提示。"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:19
 msgid "Toolbar Tools"
-msgstr "工具栏工具"
+msgstr "“工具”工具栏"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:24
 msgid "Figure: QElectroTech title block toolbar Tools"
-msgstr "图：QElectroTech 图框工具栏"
+msgstr "图：QElectroTech 图框“工具”工具栏"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:26
 msgid "The different buttons from toolbar **Tools** are:"
-msgstr "工具栏 **Tools** 的不同按钮是："
+msgstr "**工具** 工具栏中的各个按钮如下："
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:29
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:55
@@ -68,7 +68,7 @@ msgstr "选项"
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:55
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:81
 msgid "Function"
-msgstr "函数"
+msgstr "功能"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:29
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:55
@@ -100,7 +100,7 @@ msgstr "|document-new|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:99
 msgid "document-new"
-msgstr "文档-新"
+msgstr "新建文档"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:33
 msgid "Open"
@@ -108,7 +108,7 @@ msgstr "打开"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:33
 msgid "Opens an existing Title Block from collection"
-msgstr "从收藏中打开现有的图框"
+msgstr "从集合中打开现有的图框"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:33
 msgid "``Ctrl + o``"
@@ -120,7 +120,7 @@ msgstr "|document-open|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:100
 msgid "document-open"
-msgstr "文档打开"
+msgstr "打开文档"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:35
 msgid "Save"
@@ -128,7 +128,7 @@ msgstr "保存"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:35
 msgid "Saves the current Title Block changes (overwrites)"
-msgstr "保存当前图框更改( 覆盖)"
+msgstr "保存当前图框的更改（覆盖）"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:35
 msgid "``Ctrl + s``"
@@ -140,7 +140,7 @@ msgstr "|document-save|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:101
 msgid "document-save"
-msgstr "文档保存"
+msgstr "保存文档"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:37
 msgid "Save as"
@@ -148,7 +148,7 @@ msgstr "另存为"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:37
 msgid "Saves the Title Block as a new Title Block from a library"
-msgstr "从库中将图框保存为新图框"
+msgstr "将图框作为新图框保存到库中"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:37
 msgid "|document-save-as|"
@@ -156,25 +156,25 @@ msgstr "|document-save-as|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:102
 msgid "document-save-as"
-msgstr "文档保存为"
+msgstr "文档另存为"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:42
 msgid ""
 "Select **Settings > display > Tools** menu item to display or hidden the "
 "toolbar Tools."
-msgstr "选择 **设置 > 显示 > 工具** 菜单项以显示或隐藏工具栏工具。"
+msgstr "选择 **设置 > 显示 > 工具** 菜单项以显示或隐藏“工具”工具栏。"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:45
 msgid "Toolbar Edit"
-msgstr "工具栏编辑"
+msgstr "“编辑”工具栏"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:50
 msgid "Figure: QElectroTech title block toolbar Element"
-msgstr "图：QElectroTech 图框工具栏元素"
+msgstr "图：QElectroTech 图框“元件”工具栏"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:52
 msgid "The different buttons from toolbar **Edit** are:"
-msgstr "工具栏中不同的按钮 **Edit** 是："
+msgstr "**编辑** 工具栏中的各个按钮如下："
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:57
 msgid "Undo"
@@ -182,7 +182,7 @@ msgstr "撤销"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:57
 msgid "Undoes the previous action"
-msgstr "撤消上一个动作"
+msgstr "撤销上一步操作"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:57
 msgid "``Ctrl + z``"
@@ -194,7 +194,7 @@ msgstr "|edit-undo|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:103
 msgid "edit-undo"
-msgstr "编辑-取消"
+msgstr "撤销"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:59
 msgid "Redo"
@@ -202,7 +202,7 @@ msgstr "重做"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:59
 msgid "Restores the undone action"
-msgstr "恢复已撤销的动作"
+msgstr "恢复已撤销的操作"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:59
 msgid "``Ctrl + shift + z``"
@@ -214,7 +214,7 @@ msgstr "|edit-redo|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:104
 msgid "edit-redo"
-msgstr "编辑-重写"
+msgstr "重做"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:61
 msgid "Merge cells"
@@ -234,15 +234,15 @@ msgstr "|cell-merge|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:105
 msgid "cell-merge"
-msgstr "单元格组合"
+msgstr "合并单元格"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:63
 msgid "Split cells"
-msgstr "分隔单元格"
+msgstr "拆分单元格"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:63
 msgid "Splits selected cells"
-msgstr "分割选定的单元格"
+msgstr "拆分选定的单元格"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:63
 msgid "``Ctrl + k``"
@@ -254,25 +254,25 @@ msgstr "|cell-split|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:106
 msgid "cell-split"
-msgstr "单元格分割"
+msgstr "拆分单元格"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:68
 msgid ""
 "Select **Settings > display > Edit** menu item to display or hidden the "
 "toolbar Edit."
-msgstr "选择 **设置 > 显示 > 编辑** 要显示或隐藏工具栏编辑的菜单项。"
+msgstr "选择 **设置 > 显示 > 编辑** 菜单项以显示或隐藏“编辑”工具栏。"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:71
 msgid "Toolbar Display"
-msgstr "工具栏显示"
+msgstr "“显示”工具栏"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:76
 msgid "Figure: QElectroTech title block toolbar Display"
-msgstr "图：QElectroTech 图框工具栏显示"
+msgstr "图：QElectroTech 图框“显示”工具栏"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:78
 msgid "The different buttons from toolbar **Display** are:"
-msgstr "工具栏中不同的按钮 **Display** 是："
+msgstr "**显示** 工具栏中的各个按钮如下："
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:81
 msgid "Tool"
@@ -280,11 +280,11 @@ msgstr "工具"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:83
 msgid "Zoom in"
-msgstr "缩放"
+msgstr "放大"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:83
 msgid "Zoom in at drawing area"
-msgstr "在绘图区域缩放"
+msgstr "放大绘图区"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:83
 msgid "``Ctrl + +``"
@@ -296,7 +296,7 @@ msgstr "|zoom-in|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:107
 msgid "zoom-in"
-msgstr "缩放"
+msgstr "放大"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:85
 msgid "Zoom out"
@@ -304,7 +304,7 @@ msgstr "缩小"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:85
 msgid "Zoom out at drawing area"
-msgstr "在绘图区域缩小"
+msgstr "缩小绘图区"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:85
 msgid "``Ctrl + -``"
@@ -316,15 +316,15 @@ msgstr "|zoom-out|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:108
 msgid "zoom-out"
-msgstr "缩放"
+msgstr "缩小"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:87
 msgid "Fit in view"
-msgstr "适合视图"
+msgstr "适应视图"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:87
 msgid "Adjusts the zoom on exactly the part of the workspace"
-msgstr "调整工作空间的缩放"
+msgstr "调整缩放以恰好显示整个工作区"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:87
 msgid "``Ctrl + 9``"
@@ -336,7 +336,7 @@ msgstr "|view-fit-window|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:109
 msgid "view-fit-window"
-msgstr "视图适应窗口"
+msgstr "适应窗口"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:89
 msgid "Reset zoom"
@@ -356,10 +356,10 @@ msgstr "|zoom-original|"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:110
 msgid "zoom-original"
-msgstr "缩放- 原始"
+msgstr "原始缩放"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:95
 msgid ""
 "Select **Settings > display > Display** menu item to display or hidden the "
 "toolbar Display."
-msgstr "选择 **设置 > 显示 > 显示** 要显示或隐藏工具栏显示的菜单项。"
+msgstr "选择 **设置 > 显示 > 显示** 菜单项以显示或隐藏“显示”工具栏。"

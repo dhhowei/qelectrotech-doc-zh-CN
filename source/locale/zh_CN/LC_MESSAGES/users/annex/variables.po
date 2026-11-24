@@ -29,7 +29,7 @@ msgid ""
 "To systematize title block templates and allow auto numbering of elements, "
 "conductors and folios; QElectroTech provides the possibility to work with "
 "variables."
-msgstr "将图框模板系统化，并允许对元素，导体和光圈进行自动编号;QEelectroTech提供了与变量工作的可能性。"
+msgstr "为使图框模板系统化，并允许对元件、导体和图幅进行自动编号，QElectroTech 提供了使用变量的功能。"
 
 #: ../../source/users/annex/variables.rst:12
 msgid ""
@@ -37,19 +37,17 @@ msgid ""
 "from elements, folios and conductors. Depending on the conditions during the"
 " creation of the object (folio, element, conductor, etc,) The variable of "
 "the text or property field is replaced by a different value."
-msgstr ""
-"变量用于定义文本字段的内容和属性，来自元素，folios和导体。取决于对象创建期间的条件(folio, 元素，导体等) "
-"文本或属性字段的变量被不同的值所取代。"
+msgstr "变量用于定义元件、图幅和导体的文本字段内容及属性。根据创建对象（图幅、元件、导体等）时的条件，文本或属性字段中的变量会被替换为不同的值。"
 
 #: ../../source/users/annex/variables.rst:16
 msgid ""
 "A property is identified as a string which starts with the symbol **%**. The"
 " default variables provided by ElectroTech can be found at this section."
-msgstr "属性被确定为从符号 **%** 开始的字符串。 ElectroTech 提供的默认变量可在此部分找到 。"
+msgstr "属性是指以符号 **%** 开头的字符串。QElectroTech 提供的默认变量可在本节中找到。"
 
 #: ../../source/users/annex/variables.rst:20
 msgid "General project variables"
-msgstr "一般项目变量"
+msgstr "通用项目变量"
 
 #: ../../source/users/annex/variables.rst:22
 msgid ""
@@ -59,15 +57,15 @@ msgstr "以下变量是全局变量，可用于创建图框模板。"
 
 #: ../../source/users/annex/variables.rst:24
 msgid "**% {projecttitle}**: Project title"
-msgstr "**% {projecttitle}**:项目标题"
+msgstr "**% {projecttitle}**: 项目标题"
 
 #: ../../source/users/annex/variables.rst:25
 msgid "**% {projectpath}**: Project path"
-msgstr "**% {projectpath}**:项目路径"
+msgstr "**% {projectpath}**: 项目路径"
 
 #: ../../source/users/annex/variables.rst:26
 msgid "**% {projectfilename}**: Project file name"
-msgstr "**% {projectfilename}**:项目文件名称"
+msgstr "**% {projectfilename}**: 项目文件名"
 
 #: ../../source/users/annex/variables.rst:27
 msgid "**% {saveddate}**: File saving date"
@@ -75,159 +73,159 @@ msgstr "**% {saveddate}**: 文件保存日期"
 
 #: ../../source/users/annex/variables.rst:28
 msgid "**% {filename}**: Project file name"
-msgstr "**% {filename}**:项目文件名称"
+msgstr "**% {filename}**: 项目文件名"
 
 #: ../../source/users/annex/variables.rst:29
 msgid "**% {savedfilename}**: Registered file name"
-msgstr "**% {savedfilename}**:已注册的文件名"
+msgstr "**% {savedfilename}**: 已保存的文件名"
 
 #: ../../source/users/annex/variables.rst:30
 msgid "**% {savedfilepath}**: Saved file path"
-msgstr "**% {savedfilepath}**:已保存的文件路径"
+msgstr "**% {savedfilepath}**: 已保存的文件路径"
 
 #: ../../source/users/annex/variables.rst:31
 msgid "**% {savedtime}**: File saving time"
-msgstr "**% {savedtime}**:文件保存时间"
+msgstr "**% {savedtime}**: 文件保存时间"
 
 #: ../../source/users/annex/variables.rst:32
 msgid "**% {folio-total}**: Total number of folios in the project"
-msgstr "**% {folio-total}**:项目组合总数"
+msgstr "**% {folio-total}**: 项目中的图幅总数"
 
 #: ../../source/users/annex/variables.rst:33
 msgid "**% {version}**: Software version"
-msgstr "**% {version}**:软件版本"
+msgstr "**% {version}**: 软件版本"
 
 #: ../../source/users/annex/variables.rst:34
 msgid "**% {machine}**: Project functional group name"
-msgstr "**% {machine}**:项目功能组名称"
+msgstr "**% {machine}**: 项目功能组名称"
 
 #: ../../source/users/annex/variables.rst:37
 msgid "Variables related to folio"
-msgstr "与光圈有关的变量"
+msgstr "与图幅相关的变量"
 
 #: ../../source/users/annex/variables.rst:39
 msgid ""
 "The following variables are specific variables for each folio. They can be "
 "used to create title block templates."
-msgstr "以下变量是每个软体的特定变量，可用于创建图框模板。"
+msgstr "以下变量是每个图幅特有的变量，可用于创建图框模板。"
 
 #: ../../source/users/annex/variables.rst:42
 msgid "**% {folio-id}**: Folio position in the project"
-msgstr "**% {folio-id}**:项目中的Folio位置"
+msgstr "**% {folio-id}**: 图幅在项目中的位置"
 
 #: ../../source/users/annex/variables.rst:43
 msgid "**% {title}**: Folio title"
-msgstr "**% {title}**: Folio 标题"
+msgstr "**% {title}**: 图幅标题"
 
 #: ../../source/users/annex/variables.rst:44
 msgid "**% {author}**: Folio author"
-msgstr "**% {author}**: Folio 作者"
+msgstr "**% {author}**: 图幅作者"
 
 #: ../../source/users/annex/variables.rst:45
 msgid "**% {date}**: Folio date"
-msgstr "**% {date}**:日期"
+msgstr "**% {date}**: 图幅日期"
 
 #: ../../source/users/annex/variables.rst:46
 msgid "**% {folio}**: Folio information (Label)"
-msgstr "**% {folio}**: Folio信息(标签)"
+msgstr "**% {folio}**: 图幅信息（标签）"
 
 #: ../../source/users/annex/variables.rst:47
 msgid "**% {indexrev}**: Folio revision index"
-msgstr "**% {indexrev}**:福利奥修订指数"
+msgstr "**% {indexrev}**: 图幅修订索引"
 
 #: ../../source/users/annex/variables.rst:48
 msgid "**% {locmach}**: Name of the location in the project functional group"
-msgstr "**% {locmach}**:项目功能组中位置的名称"
+msgstr "**% {locmach}**: 项目功能组中位置的名称"
 
 #: ../../source/users/annex/variables.rst:49
 msgid "**% {previous-folio-num}**: Number previous folio"
-msgstr "**% {previous-folio-num}**:上一个数字"
+msgstr "**% {previous-folio-num}**: 上一图幅的编号"
 
 #: ../../source/users/annex/variables.rst:50
 msgid "**% {next-folio-num}**: Number next folio"
-msgstr "**% {next-folio-num}**:下一个数字"
+msgstr "**% {next-folio-num}**: 下一图幅的编号"
 
 #: ../../source/users/annex/variables.rst:53
 msgid "Variables related to element"
-msgstr "与元素有关的变量"
+msgstr "与元件相关的变量"
 
 #: ../../source/users/annex/variables.rst:55
 msgid ""
 "The following variables are specific variables for each element. They can be"
 " used to create auto numbering patterns."
-msgstr "以下变量是每个元素的特定变量，可用于创建自动编号模式。"
+msgstr "以下变量是每个元件特有的变量，可用于创建自动编号模式。"
 
 #: ../../source/users/annex/variables.rst:58
 msgid "**% {F}**: Label from the folio where the element can be found"
-msgstr "**% {F}**:从可找到元素的圆柱处划出标签"
+msgstr "**% {F}**: 元件所在图幅的标签"
 
 #: ../../source/users/annex/variables.rst:59
 msgid "**% {f}**: Number from the folio where the element can be found"
-msgstr "**% {f}**:可以找到元素的光圈中的数字"
+msgstr "**% {f}**: 元件所在图幅的编号"
 
 #: ../../source/users/annex/variables.rst:60
 msgid ""
 "**% {M}**: Plant variable from the folio where the element can be found"
-msgstr "**% {M}**:可以找到元素的圆柱形的植物变量"
+msgstr "**% {M}**: 元件所在图幅的装置变量"
 
 #: ../../source/users/annex/variables.rst:61
 msgid ""
 "**% {LM}**: Location variable of the folio where the element can be found"
-msgstr "**% {LM}**:可以找到元素的光圈位置变量"
+msgstr "**% {LM}**: 元件所在图幅的位置变量"
 
 #: ../../source/users/annex/variables.rst:62
 msgid ""
 "**% {l}**: Folio line number from the workspace where the element can be "
 "found"
-msgstr "**% {l}**:可以找到元素的工作空间的Folio行号"
+msgstr "**% {l}**: 元件所在工作区图幅的行号"
 
 #: ../../source/users/annex/variables.rst:63
 msgid ""
 "**% {c}**: Folio column number from the workspace where the element can be "
 "found"
-msgstr "**% {c}**:可以找到元素的工作空间的Folio列号"
+msgstr "**% {c}**: 元件所在工作区图幅的列号"
 
 #: ../../source/users/annex/variables.rst:64
 #: ../../source/users/annex/variables.rst:78
 msgid "**% {id}**: Folio position in the project (Schema number)"
-msgstr "**% {id}**:项目中的Folio位置(计划编号)"
+msgstr "**% {id}**: 图幅在项目中的位置（原理图编号）"
 
 #: ../../source/users/annex/variables.rst:67
 msgid "Variables related to conductor"
-msgstr "与导线相关的变量"
+msgstr "与导体相关的变量"
 
 #: ../../source/users/annex/variables.rst:69
 msgid ""
 "The following variables are specific variables for each conductor. They can "
 "be used to create auto numbering patterns."
-msgstr "以下变量是每个导体的特定变量，可用于创建自动编号模式。"
+msgstr "以下变量是每个导体特有的变量，可用于创建自动编号模式。"
 
 #: ../../source/users/annex/variables.rst:72
 msgid "**% {F}**: Label from the folio where the conductor can be found"
-msgstr "**% {F}**:可以找到导体的光圈上的标签"
+msgstr "**% {F}**: 导体所在图幅的标签"
 
 #: ../../source/users/annex/variables.rst:73
 msgid "**% {f}**: Number from the folio where the conductor can be found"
-msgstr "**% {f}**:可以找到导体的光圈数字"
+msgstr "**% {f}**: 导体所在图幅的编号"
 
 #: ../../source/users/annex/variables.rst:74
 msgid ""
 "**% {M}**: Plant variable from the folio where the conductor can be found"
-msgstr "**% {M}**:可以找到导体的球体的植物变量"
+msgstr "**% {M}**: 导体所在图幅的装置变量"
 
 #: ../../source/users/annex/variables.rst:75
 msgid ""
 "**% {LM}**: Location variable of the folio where the conductor can be found"
-msgstr "**% {LM}**:可以找到导体的光圈位置变量"
+msgstr "**% {LM}**: 导体所在图幅的位置变量"
 
 #: ../../source/users/annex/variables.rst:76
 msgid ""
 "**% {l}**: Folio line number from the workspace where the conductor can be "
 "found"
-msgstr "**% {l}**:可以找到导体的工作空间的Folio行号"
+msgstr "**% {l}**: 导体所在工作区图幅的行号"
 
 #: ../../source/users/annex/variables.rst:77
 msgid ""
 "**% {c}**: Folio column number from the workspace where the conductor can be"
 " found"
-msgstr "**% {c}**:可以找到导体的工作空间的Folio列号"
+msgstr "**% {c}**: 导体所在工作区图幅的列号"

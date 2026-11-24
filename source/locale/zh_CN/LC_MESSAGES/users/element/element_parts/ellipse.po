@@ -30,31 +30,31 @@ msgstr "创建椭圆"
 
 #: ../../source/users/element/element_parts/ellipse.rst:10
 msgid "The ellipse can only be added to `workspace`_ from `toolbar`_."
-msgstr "椭圆只能从 `工作区 <workspace_>`_ 添加到 `工具栏 <toolbar_>`_。"
+msgstr "椭圆只能从 `工具栏 <toolbar_>`_ 添加到 `工作区 <workspace_>`_ 。"
 
 #: ../../source/users/element/element_parts/ellipse.rst:12
 msgid "Select the icon |icon_ellipse| from `toolbar`_ to add an ellipse."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |icon_ellipse| 以添加椭圆 。"
+msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |icon_ellipse| 以添加椭圆。"
 
 #: ../../source/users/element/element_parts/ellipse.rst:16
 msgid "icon_ellipse"
-msgstr "图标( L)"
+msgstr "椭圆图标"
 
 #: ../../source/users/element/element_parts/ellipse.rst:13
 msgid "Click the position from the ellipse center point in the `workspace`_."
-msgstr "单击 `工作区 <workspace_>`_ 中椭圆中心点的位置。"
+msgstr "在 `工作区 <workspace_>`_ 中单击椭圆中心点所在位置。"
 
 #: ../../source/users/element/element_parts/ellipse.rst:14
 msgid ""
 "Click the position from the control point of the ellipse in the "
 "`workspace`_."
-msgstr "单击 `工作区 <workspace_>`_ 中椭圆控制点的位置。"
+msgstr "在 `工作区 <workspace_>`_ 中单击椭圆控制点所在位置。"
 
 #: ../../source/users/element/element_parts/ellipse.rst:20
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Parts**."
-msgstr "如果 `工具栏 <toolbar_>`_ 不显示，可以从 **设置 > 显示 > 部件** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **Settings > Display > Parts** 中显示。"
 
 #: ../../source/users/element/element_parts/ellipse.rst:23
 msgid "Ellipse properties"
@@ -64,17 +64,19 @@ msgstr "椭圆属性"
 msgid ""
 "Element part properties can be displayed from `information panel`_ when the "
 "part is selected."
-msgstr "元素部分属性可以在选择该部分时从 `信息面板 <information panel_>`_ 显示。"
+msgstr "选中部件后，可以从 `信息面板 <information panel_>`_ 显示元件部件属性。"
 
 #: ../../source/users/element/element_parts/ellipse.rst:30
 msgid ""
 "If the `information panel`_ is not displayed, it can be displayed from "
 "**Settings > Display > Information**."
-msgstr "如果 `信息面板 <information panel_>`_ 未显示，可以从 **设置 > 显示 > 信息** 显示。"
+msgstr ""
+"如果 `信息面板 <information panel_>`_ 未显示，可以从 **Settings > Display > Information**"
+" 中显示。"
 
 #: ../../source/users/element/element_parts/ellipse.rst:35
 msgid "Figure: QElectroTech ellipse part from element"
-msgstr "图：元素的QElectroTech椭圆部分"
+msgstr "图：元件中的 QElectroTech 椭圆部件"
 
 #: ../../source/users/element/element_parts/ellipse.rst:37
 msgid "QElectroTech allows customizing different ellipse properties:"
@@ -92,7 +94,7 @@ msgstr "颜色"
 msgid ""
 "The outline and filling color of the part can be defined from a list of pre-"
 "defined colors."
-msgstr "部分的轮廓和填充颜色可以从预定义的颜色列表中定义。"
+msgstr "部件的轮廓颜色和填充颜色可以从预定义颜色列表中选择。"
 
 #: ../../source/users/element/element_parts/ellipse.rst
 msgid "Style"
@@ -102,21 +104,21 @@ msgstr "样式"
 msgid ""
 "The outline representation type can be chosen between: Normal (Continuous), "
 "Dashed, Dotted or, Dots and dashes."
-msgstr "大纲表达式类型可以在：正常(持续), Dashed, Dotted 或，Dots 和 dustes 之间选择。"
+msgstr "轮廓表示类型可在以下选项中选择：正常（连续）、虚线、点线或点划线。"
 
 #: ../../source/users/element/element_parts/ellipse.rst
 msgid "Thickness"
-msgstr "厚度"
+msgstr "粗细"
 
 #: ../../source/users/element/element_parts/ellipse.rst:53
 msgid ""
 "The outline thickness (Weight) can be chosen between: None, Thin, Normal, "
 "Strong or High."
-msgstr "轮廓厚度(重量)可以在：无，细，正常，强或高之间选择。"
+msgstr "轮廓粗细（线宽）可在以下选项中选择：无、细、正常、粗或高。"
 
 #: ../../source/users/element/element_parts/ellipse.rst
 msgid "Geometry"
-msgstr "几何"
+msgstr "几何形状"
 
 #: ../../source/users/element/element_parts/ellipse.rst
 msgid "Coordinates"
@@ -124,7 +126,7 @@ msgstr "坐标"
 
 #: ../../source/users/element/element_parts/ellipse.rst:60
 msgid "The ellipse center point coordinates (x, y) can be defined."
-msgstr "椭圆中心点坐标(x,y)可以定义。"
+msgstr "可以定义椭圆中心点的坐标 (x, y)。"
 
 #: ../../source/users/element/element_parts/ellipse.rst
 msgid "Dimensions"
@@ -134,4 +136,4 @@ msgstr "尺寸"
 msgid ""
 "The horizontal and vertical (minimum and maximum or maximum and minimum) "
 "diameters from the ellipse can be defined."
-msgstr "可以定义椭圆的横向和纵向(最小和最大或最大和最小)直径。"
+msgstr "可以定义椭圆的水平和垂直直径（最小值和最大值，或最大值和最小值）。"

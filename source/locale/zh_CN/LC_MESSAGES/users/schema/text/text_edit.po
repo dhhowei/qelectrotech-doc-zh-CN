@@ -39,7 +39,7 @@ msgid ""
 "Select **Edit > Edit the selected object** menu item to display the `text "
 "editor PopUP window`_."
 msgstr ""
-"选择 **Edit > 编辑选中的对象** 菜单项以显示 `文本编辑器 PopUP 窗口 <text editor PopUP window_>`_ 。"
+"选择 **编辑 > 编辑选中的对象** 菜单项，以显示 `文本编辑器弹出窗口 <text editor PopUP window_>`_ 。"
 
 #: ../../source/users/schema/text/text_edit.rst:16
 msgid "Figure: QElectroTech edit menu"
@@ -57,7 +57,7 @@ msgstr "右键点击应当编辑的 `文本字段 <text field_>`_ 。"
 msgid ""
 "Select the option **Edit the text field** to display the `text editor PopUP "
 "window`_."
-msgstr "选择选项 **编辑文本字段** 以显示 `文本编辑器 PopUP 窗口 <text editor PopUP window_>`_ 。"
+msgstr "选择 **编辑文本字段** 选项，以显示 `文本编辑器弹出窗口 <text editor PopUP window_>`_。"
 
 #: ../../source/users/schema/text/text_edit.rst:27
 msgid "Figure: QElectroTech text field options"
@@ -72,7 +72,7 @@ msgid ""
 "Click on **Advanced Editor** button from `selection properties panel`_ to "
 "display the `text editor PopUP window`_."
 msgstr ""
-"点击 **高级编辑器** 按钮从 `选择属性面板 <selection properties panel_>`_ 显示 `文本编辑器 PopUP 窗口 "
+"点击 `选择属性面板 <selection properties panel_>`_ 中的 **高级编辑器** 按钮，以显示 `文本编辑器弹出窗口 "
 "<text editor PopUP window_>`_。"
 
 #: ../../source/users/schema/text/text_edit.rst:38
@@ -84,7 +84,8 @@ msgid ""
 "If the `selection properties panel`_ is not displayed, it can be displayed "
 "from **Settings > Display > Selection properties**"
 msgstr ""
-"如果不显示 `选择属性面板 <selection properties panel_>`_，可以从 **设置 > 显示 > 选择属性** 显示"
+"如果 `选择属性面板 <selection properties panel_>`_ 未显示，可通过 **设置 > 显示 > 选择属性** "
+"将其显示出来。"
 
 #: ../../source/users/schema/text/text_edit.rst:45
 msgid "Edit text field using keyboard shortcut"
@@ -98,10 +99,10 @@ msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/schema/text/text_edit.rst:50
 msgid "Press ``Ctrl + e`` to display the `text editor PopUP window`_."
-msgstr "按 ``Ctrl + e`` 显示 `文本编辑器 PopUP 窗口 <text editor PopUP window_>`_。"
+msgstr "按 ``Ctrl + e`` 显示 `文本编辑器弹出窗口 <text editor PopUP window_>`_。"
 
 #: ../../source/users/schema/text/text_edit.rst:54
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

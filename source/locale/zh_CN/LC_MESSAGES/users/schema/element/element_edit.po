@@ -22,39 +22,40 @@ msgstr ""
 
 #: ../../source/users/schema/element/element_edit.rst:5
 msgid "Edit element"
-msgstr "编辑元素"
+msgstr "编辑元件"
 
 #: ../../source/users/schema/element/element_edit.rst:7
 msgid "To edit an `element`_:"
-msgstr "要编辑 `元件 <element_>`_:"
+msgstr "要编辑 `元件 <element_>`_ ："
 
 #: ../../source/users/schema/element/element_edit.rst:9
 msgid "`Display element properties`_ at `selection properties panel`_."
 msgstr ""
-"` 在 `选择属性面板 <Display element properties_>`_ 上显示元素属性 <Display element "
-"properties_>`_。"
+"在 `选择属性面板 <selection properties panel_>`_ 中 `显示元件属性 <Display element "
+"properties_>`_ 。"
 
 #: ../../source/users/schema/element/element_edit.rst:10
 msgid ""
 "Go to `general properties`_ tab and click on the button **Edit element** to "
 "display `element editor`_."
 msgstr ""
-"到 `一般属性 <general properties_>`_ 标签并单击按钮 **Edit元素** 显示 `元素编辑器 <element "
+"转到 `常规属性 <general properties_>`_ 标签页，单击 **编辑元件** 按钮以打开 `元件编辑器 <element "
 "editor_>`_ 。"
 
 #: ../../source/users/schema/element/element_edit.rst:15
 msgid "Figure: QElectroTech general element properties"
-msgstr "图：QElectroTech 一般元素属性"
+msgstr "图：QElectroTech 常规元件属性"
 
 #: ../../source/users/schema/element/element_edit.rst:19
 msgid ""
 "If the `selection properties panel`_ is not displayed, it can be displayed "
 "from **Settings > display > Selection properties**."
 msgstr ""
-"如果 `选择属性面板 <selection properties panel_>`_ 没有显示，可以从 **设置 > 显示 > 选择属性** 显示。"
+"如果 `选择属性面板 <selection properties panel_>`_ 未显示，可通过 **设置 > 显示 > 选择属性** "
+"将其显示出来。"
 
 #: ../../source/users/schema/element/element_edit.rst:24
 msgid ""
 "For more information about how to edit elements, refer to `element editor`_ "
 "section."
-msgstr "有关如何编辑元素的更多信息，参见 `element编辑器 <element editor_>`_ 部分。"
+msgstr "有关如何编辑元件的更多信息，请参见 `元件编辑器 <element editor_>`_ 一节。"

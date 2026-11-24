@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:5
 msgid "Element editor toolbars"
-msgstr "元素编辑器工具栏"
+msgstr "元件编辑器工具栏"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:7
 msgid ""
@@ -31,33 +31,33 @@ msgid ""
 "general, these buttons have its counterpart at one of the menus from the "
 "`menu bar`_."
 msgstr ""
-"除了不同的菜单之外，QElectroTech 也提供了工具栏。 工具栏是带有图标的按钮组，启动动作。 一般来说，这些按钮在 `菜单栏 <menu "
-"bar_>`_ 中有一个对应的按钮 。"
+"除了各种菜单之外，QElectroTech 还提供工具栏。工具栏是带图标的按钮组，用于启动某个操作。通常，这些按钮在 `菜单栏 <menu "
+"bar_>`_ 的某个菜单中都有对应的菜单项。"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:11
 msgid ""
 "The different toolbars can be hidden or placed in one or more rows below the"
 " `menu bar`_. The toolbars can also be placed on column at the left or right"
 " side from the main window."
-msgstr "不同的工具栏可以隐藏或放置在 `菜单栏 <menu bar_>`_ 下的一个或多个行中，工具栏也可以从主窗口左侧或右侧放置在列上。"
+msgstr "各个工具栏可以隐藏，也可以放在 `菜单栏 <menu bar_>`_ 下方的一行或多行中。工具栏还可以放在主窗口左侧或右侧的一列中。"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:16
 msgid ""
 "To help the user, a tooltip is displayed when the arrow is placed on each "
 "button."
-msgstr "为了帮助用户，当箭头放在每个按钮上时会显示工具提示。"
+msgstr "为方便用户，将鼠标指针悬停在每个按钮上时会显示工具提示。"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:19
 msgid "Toolbar Tools"
-msgstr "工具栏工具"
+msgstr "“工具”工具栏"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:24
 msgid "Figure: QElectroTech element editor toolbar Tools"
-msgstr "图：QElectroTech 元素编辑器工具栏"
+msgstr "图：QElectroTech 元件编辑器“工具”工具栏"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:26
 msgid "The different buttons from toolbar **Tools** are:"
-msgstr "工具栏 **Tools** 的不同按钮是："
+msgstr "**Tools** 工具栏中的各个按钮如下："
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:29
 #: ../../source/users/element/element_editor/interface/toolbars.rst:64
@@ -73,7 +73,7 @@ msgstr "工具"
 #: ../../source/users/element/element_editor/interface/toolbars.rst:108
 #: ../../source/users/element/element_editor/interface/toolbars.rst:142
 msgid "Function"
-msgstr "函数"
+msgstr "功能"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:29
 #: ../../source/users/element/element_editor/interface/toolbars.rst:64
@@ -97,7 +97,7 @@ msgstr "新建"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:31
 msgid "Creates a new element"
-msgstr "创建新元素"
+msgstr "创建新元件"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:31
 msgid "``Ctrl + n``"
@@ -109,7 +109,7 @@ msgstr "|document-new|"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:159
 msgid "document-new"
-msgstr "文档-新"
+msgstr "新建文档"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:33
 msgid "Open"
@@ -117,7 +117,7 @@ msgstr "打开"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:33
 msgid "Opens an existing element from collection"
-msgstr "从收藏中打开已有元素"
+msgstr "从集合中打开已有元件"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:33
 msgid "``Ctrl + o``"
@@ -129,7 +129,7 @@ msgstr "|folder-open|"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:160
 msgid "folder-open"
-msgstr "文件夹打开"
+msgstr "打开文件夹"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:35
 msgid "Save"
@@ -137,7 +137,7 @@ msgstr "保存"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:35
 msgid "Saves the current element changes (overwrites)"
-msgstr "保存当前元素更改( 覆盖)"
+msgstr "保存当前元件的更改（覆盖）"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:35
 msgid "``Ctrl + s``"
@@ -157,7 +157,7 @@ msgstr "另存为"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:37
 msgid "Saves the element as a new element from a library"
-msgstr "从库中将元素保存为新元素"
+msgstr "将元件作为新元件保存到库中"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:37
 msgid "|document-save-as|"
@@ -169,11 +169,11 @@ msgstr "文档保存为"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:39
 msgid "Reload"
-msgstr "重新装入"
+msgstr "重新加载"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:39
 msgid "Reloads the opened element (all changes which are not saved are lost)"
-msgstr "重新装入打开的元素( 未保存的所有更改都丢失)"
+msgstr "重新加载当前打开的元件（所有未保存的更改都会丢失）"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:39
 msgid "``Ctrl + p``"
@@ -185,7 +185,7 @@ msgstr "|view-refresh|"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:163
 msgid "view-refresh"
-msgstr "重新视图"
+msgstr "刷新视图"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:41
 msgid "Undo"
@@ -193,7 +193,7 @@ msgstr "撤销"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:41
 msgid "Undoes the previous action"
-msgstr "撤消上一个动作"
+msgstr "撤销上一步操作"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:41
 msgid "``Ctrl + z``"
@@ -205,7 +205,7 @@ msgstr "|edit-undo|"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:164
 msgid "edit-undo"
-msgstr "编辑-取消"
+msgstr "撤销编辑"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:43
 msgid "Redo"
@@ -213,7 +213,7 @@ msgstr "重做"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:43
 msgid "Restores the undone action"
-msgstr "恢复已撤销的动作"
+msgstr "恢复已撤销的操作"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:43
 msgid "``Ctrl + y``"
@@ -225,7 +225,7 @@ msgstr "|edit-redo|"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:165
 msgid "edit-redo"
-msgstr "编辑-重写"
+msgstr "重做编辑"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:45
 msgid "Delete"
@@ -233,7 +233,7 @@ msgstr "删除"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:45
 msgid "Removes selected elements from the folio"
-msgstr "从框中删除选中的元素"
+msgstr "从图幅中删除选中的元件"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:45
 msgid "``Del``"
@@ -251,27 +251,27 @@ msgstr "编辑-删除"
 msgid ""
 "Select **Settings > Display > Tools** menu item to display or hidden the "
 "toolbar **Tools**."
-msgstr "选择 **设置 > 显示 > 工具** 菜单项以显示或隐藏工具栏 **Tools**."
+msgstr "选择 **设置 > 显示 > 工具** 菜单项可显示或隐藏 **Tools** 工具栏。"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:54
 msgid "Toolbar Display"
-msgstr "工具栏显示"
+msgstr "“显示”工具栏"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:59
 msgid "Figure: QElectroTech element editor toolbar Display"
-msgstr "图：QElectroTech 元素编辑器工具栏显示"
+msgstr "图：QElectroTech 元件编辑器“显示”工具栏"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:61
 msgid "The different buttons from toolbar **Display** are:"
-msgstr "工具栏中不同的按钮 **Display** 是："
+msgstr "**Display** 工具栏中的各个按钮如下："
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:66
 msgid "Fit in view"
-msgstr "适合视图"
+msgstr "适应窗口"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:66
 msgid "Adjusts the zoom on exactly the part of the workspace"
-msgstr "调整工作空间的缩放"
+msgstr "调整缩放，使工作区恰好完整显示"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:66
 msgid "``Ctrl + 9``"
@@ -283,7 +283,7 @@ msgstr "|view-fit-window|"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:167
 msgid "view-fit-window"
-msgstr "视图适应窗口"
+msgstr "适应窗口"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:68
 msgid "Reset zoom"
@@ -303,33 +303,33 @@ msgstr "|zoom-original|"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:168
 msgid "zoom-original"
-msgstr "缩放- 原始"
+msgstr "原始缩放"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:73
 msgid ""
 "Select **Settings > Display > Display** menu item to display or hidden the "
 "toolbar **Display**."
-msgstr "选择 **设置 > 显示 > 显示** 要显示或隐藏工具栏的菜单项 **Display**."
+msgstr "选择 **设置 > 显示 > 显示** 菜单项可显示或隐藏 **Display** 工具栏。"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:76
 msgid "Toolbar Element"
-msgstr "工具栏元素"
+msgstr "“元件”工具栏"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:81
 msgid "Figure: QElectroTech element editor toolbar Element"
-msgstr "图：QElectroTech 元素编辑器工具栏元素"
+msgstr "图：QElectroTech 元件编辑器“元件”工具栏"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:83
 msgid "The different buttons from toolbar **Element** are:"
-msgstr "工具栏 **Element** 的不同按钮是："
+msgstr "**Element** 工具栏中的各个按钮如下："
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:88
 msgid "Information"
-msgstr "资料"
+msgstr "信息"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:88
 msgid "Edit name and information of the element"
-msgstr "编辑元素的名称和信息"
+msgstr "编辑元件的名称和信息"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:88
 msgid "``Ctrl + e``"
@@ -349,7 +349,7 @@ msgstr "属性"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:90
 msgid "Edit element properties"
-msgstr "编辑元素属性"
+msgstr "编辑元件属性"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:90
 msgid "|element-edit|"
@@ -357,25 +357,25 @@ msgstr "|element-edit|"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:170
 msgid "element-edit"
-msgstr "元素编辑器"
+msgstr "编辑元件"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:95
 msgid ""
 "Select **Settings > Display > Diagrams** menu item to display or hidden the "
 "toolbar **Element**."
-msgstr "选择 **设置 > 显示 > 图表** 菜单项以显示或隐藏工具栏 **Element**."
+msgstr "选择 **设置 > 显示 > 图表** 菜单项可显示或隐藏 **Element** 工具栏。"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:98
 msgid "Toolbar Parts"
-msgstr "工具栏部件"
+msgstr "“部件”工具栏"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:103
 msgid "Figure: QElectroTech element editor toolbar Parts"
-msgstr "图：QElectroTech 元素编辑器工具栏部件"
+msgstr "图：QElectroTech 元件编辑器“部件”工具栏"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:105
 msgid "The different buttons from toolbar **Parts** are:"
-msgstr "工具栏中不同的按钮 **部分** 是："
+msgstr "**Parts** 工具栏中的各个按钮如下："
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:110
 msgid "Line"
@@ -383,7 +383,7 @@ msgstr "线条"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:110
 msgid "Add line to the workspace"
-msgstr "添加行到工作空间"
+msgstr "向工作区添加线条"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:110
 msgid "|line|"
@@ -399,7 +399,7 @@ msgstr "矩形"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:112
 msgid "Add rectangle to the workspace"
-msgstr "添加矩形到工作空间"
+msgstr "向工作区添加矩形"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:112
 msgid "|rectangle|"
@@ -415,7 +415,7 @@ msgstr "椭圆"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:114
 msgid "Add ellipse to the workspace"
-msgstr "添加椭圆到工作空间"
+msgstr "向工作区添加椭圆"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:114
 msgid "|ellipse|"
@@ -431,7 +431,7 @@ msgstr "多边形"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:116
 msgid "Add polygon to the workspace"
-msgstr "添加多边形到工作空间"
+msgstr "向工作区添加多边形"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:116
 msgid "|polygon|"
@@ -447,7 +447,7 @@ msgstr "文本"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:118
 msgid "Add text field to the workspace"
-msgstr "添加文本字段到工作空间"
+msgstr "向工作区添加文本字段"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:118
 msgid "|text|"
@@ -463,7 +463,7 @@ msgstr "圆弧"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:120
 msgid "Add arc to the workspace"
-msgstr "在工作空间中添加弧"
+msgstr "向工作区添加圆弧"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:120
 msgid "|arc|"
@@ -471,7 +471,7 @@ msgstr "|arc|"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:176
 msgid "arc"
-msgstr "弧形"
+msgstr "圆弧"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:122
 msgid "Terminal"
@@ -479,7 +479,7 @@ msgstr "端子"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:122
 msgid "Add terminal to the workspace"
-msgstr "添加终端到工作空间"
+msgstr "向工作区添加端子"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:122
 msgid "|terminal|"
@@ -487,7 +487,7 @@ msgstr "|terminal|"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:177
 msgid "terminal"
-msgstr "终端"
+msgstr "端子"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:124
 msgid "Text field"
@@ -495,7 +495,7 @@ msgstr "文本字段"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:124
 msgid "Add dynamic text field to the workspace"
-msgstr "向工作空间添加动态文本字段"
+msgstr "向工作区添加动态文本字段"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:124
 msgid "|textfield|"
@@ -509,27 +509,27 @@ msgstr "文本字段"
 msgid ""
 "Select **Settings > Display > Diagrams** menu item to display or hidden the "
 "toolbar **Parts**."
-msgstr "选择 **设置 > 显示 > 图表** 菜单项以显示或隐藏工具栏 **部分** 。"
+msgstr "选择 **设置 > 显示 > 图表** 菜单项可显示或隐藏 **Parts** 工具栏。"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:132
 msgid "Toolbar Depth"
-msgstr "工具栏深度"
+msgstr "“深度”工具栏"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:137
 msgid "Figure: QElectroTech element editor toolbar Depth"
-msgstr "图：QElectroTech 元素编辑器工具栏深度"
+msgstr "图：QElectroTech 元件编辑器“深度”工具栏"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:139
 msgid "The different buttons from toolbar **Depth** are:"
-msgstr "工具栏的不同按钮 **深度** 是："
+msgstr "**Depth** 工具栏中的各个按钮如下："
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:144
 msgid "Bring forward"
-msgstr "前进"
+msgstr "置于顶层"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:144
 msgid "Brings the selection (s) to front"
-msgstr "将选择带到前面"
+msgstr "将选中对象置于顶层"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:144
 msgid "``Ctrl + shift + Home``"
@@ -541,15 +541,15 @@ msgstr "|bring_forward|"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:179
 msgid "bring_forward"
-msgstr "带入"
+msgstr "置于顶层"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:146
 msgid "Raise"
-msgstr "提升"
+msgstr "上移一层"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:146
 msgid "Moves the selection over other objects (s)"
-msgstr "将选定区域移到其他对象(s)上"
+msgstr "将选中对象移到其他对象之上"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:146
 msgid "``Ctrl + shift + Up``"
@@ -561,15 +561,15 @@ msgstr "|raise|"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:180
 msgid "raise"
-msgstr "提高"
+msgstr "上移一层"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:148
 msgid "Lower"
-msgstr "下调"
+msgstr "下移一层"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:148
 msgid "Moves the selection under other objects (s)"
-msgstr "将选择移至其他对象(s)"
+msgstr "将选中对象移到其他对象之下"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:148
 msgid "``Ctrl + shift + Down``"
@@ -581,15 +581,15 @@ msgstr "|lower|"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:181
 msgid "lower"
-msgstr "下调"
+msgstr "下移一层"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:150
 msgid "Send backwards"
-msgstr "向后发送"
+msgstr "置于底层"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:150
 msgid "Sends in the backwards the selection (s)"
-msgstr "向后发送选择"
+msgstr "将选中对象置于底层"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:150
 msgid "``Ctrl + shift + End``"
@@ -601,10 +601,10 @@ msgstr "|send_backward|"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:182
 msgid "send_backward"
-msgstr "向后发送( B)"
+msgstr "置于底层"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:155
 msgid ""
 "Select **Settings > Display > Diagrams** menu item to display or hidden the "
 "toolbar **Depth**."
-msgstr "选择 **设置 > 显示 > 图表** 菜单项以显示或隐藏工具栏 **深度** 。"
+msgstr "选择 **设置 > 显示 > 图表** 菜单项可显示或隐藏 **Depth** 工具栏。"

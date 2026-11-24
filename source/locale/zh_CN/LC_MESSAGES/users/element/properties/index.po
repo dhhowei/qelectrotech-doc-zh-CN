@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/element/properties/index.rst:5
 msgid "Element properties"
-msgstr "元素属性"
+msgstr "元件属性"

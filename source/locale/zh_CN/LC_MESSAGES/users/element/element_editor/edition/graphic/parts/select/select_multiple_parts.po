@@ -30,9 +30,10 @@ msgid ""
 " `Polygon`_, `Terminal`_, `text`_ and `dynamic text field`_) from "
 "`workspace`_ can be selected at the same time."
 msgstr ""
-"和很多 CAD 工具一样多 `部件 <parts_>`_ (`线条 <Line_>`_，`矩形 <Rectangle_>`_，`椭圆 "
-"<Ellipse_>`_，`圆弧 <Arc_>`_，`多边形 <Polygon_>`_，`端子 <Terminal_>`_，`文本 <text_>`_ "
-"和 `动态文本字段 <dynamic text field_>`_ 从。 `工作区 <workspace_>`_ 可同时选择。"
+"与许多 CAD 工具一样，可以同时选择 `工作区 <workspace_>`_ 中的多个 `部件 <parts_>`_ （`线条 "
+"<Line_>`_、`矩形 <Rectangle_>`_、`椭圆 <Ellipse_>`_、`圆弧 <Arc_>`_、`多边形 "
+"<Polygon_>`_、`端子 <Terminal_>`_、`文本 <text_>`_ 和 `动态文本字段 <dynamic text "
+"field_>`_ ）。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_multiple_parts.rst:12
 msgid "Select multiple objects using keyboard and mouse"
@@ -42,40 +43,40 @@ msgstr "使用键盘和鼠标选择多个对象"
 msgid ""
 "QElectroTech allows selecting multiple `parts`_ from the `workspace`_ "
 "combining the use of the keyboard and mouse."
-msgstr "QElectroTech允许从 `部件 <parts_>`_ 中选择多个 `工作区 <workspace_>`_，结合使用键盘和鼠标。"
+msgstr "QElectroTech 允许结合使用键盘和鼠标，从 `工作区 <workspace_>`_ 中选择多个 `部件 <parts_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_multiple_parts.rst:16
 msgid "`Select`_ the first `part`_."
-msgstr "`选择 <Select_>`_ 第一 `部件 <part_>`_。"
+msgstr "`选择 <Select_>`_ 第一个 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_multiple_parts.rst:17
 msgid "Press ``Ctrl``."
-msgstr "按 ``Ctrl`` (中文(简体) )."
+msgstr "按住 ``Ctrl`` 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_multiple_parts.rst:18
 msgid "`Select`_ the rest of `parts`_ without releasing ``Ctrl``."
-msgstr "`选择 <Select_>`_ 其余 `部件 <parts_>`_ 而不释放 ``Ctrl``."
+msgstr "保持按住 ``Ctrl`` ，再 `选择 <Select_>`_ 其余的 `部件 <parts_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_multiple_parts.rst:23
 msgid "Figure: QElectroTech schema"
-msgstr "图：QElectroTech计划"
+msgstr "图：QElectroTech 原理图"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_multiple_parts.rst:26
 msgid "Select multiple objects by selecting area"
-msgstr "通过选择区域选择多个对象"
+msgstr "通过框选区域选择多个对象"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_multiple_parts.rst:28
 msgid ""
 "QElectroTech allows selecting all `parts`_ from a defined area using the "
 "mouse."
-msgstr "QElectroTech允许使用鼠标从定义的区域中选择所有 `部件 <parts_>`_ 。"
+msgstr "QElectroTech 允许使用鼠标选择指定区域内的所有 `部件 <parts_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_multiple_parts.rst:30
 msgid ""
 "Left click on the initial point from the rectangular area to be selected and"
 " displace the mouse without releasing the button."
-msgstr "左键单击从矩形区域选择的初始点，并替换鼠标而不释放按钮 。"
+msgstr "在要选择的矩形区域的起点点击左键，然后按住左键拖动鼠标。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_multiple_parts.rst:35
 msgid "Figure: QElectroTech selecting on workspace"
-msgstr "图：工作空间上的QElectroTech选择"
+msgstr "图：QElectroTech 在工作区中选择"

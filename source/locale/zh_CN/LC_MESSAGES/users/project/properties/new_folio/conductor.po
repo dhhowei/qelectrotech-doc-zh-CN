@@ -31,9 +31,9 @@ msgid ""
 "`conductor type`_ is normally common for a complete `project`_ or for a "
 "group of `folios`_."
 msgstr ""
-"某些 `导体特性 <conductor properties_>`_ 完全或大部分 `导体 <conductors_>`_ 可以从全部或大部分 `图幅 "
-"<folios_>`_ 中常见，例如，`导体型 <conductor type_>`_ 通常常见于一个完整的 `项目 <project_>`_ 或一组 "
-"`图幅 <folios_>`_。"
+"某些 `导体属性 <conductor properties_>`_ 可能适用于全部或大部分 `图幅 <folios_>`_ 中的全部或大部分 `导体 "
+"<conductors_>`_ 。例如， `导体类型 <conductor type_>`_ 通常对一整个 `项目 <project_>`_ 或一组 "
+"`图幅 <folios_>`_ 都是通用的。"
 
 #: ../../source/users/project/properties/new_folio/conductor.rst:10
 msgid ""
@@ -43,9 +43,9 @@ msgid ""
 "properties`_ each time that the user `creates new conductor`_ inside the "
 "`project`_."
 msgstr ""
-"为了提高工作效率，QElectroTech提供了在项目中存储数据的一些选择。 `项目属性 <project properties_>`_ "
-"。此特性允许用户避免定义许多 `导体属性 <conductor properties_>`_ 用户每次 `创建新导线 <creates new "
-"conductor_>`_ 内部 `项目 <project_>`_。"
+"为了提高工作效率，QElectroTech 提供了将用户预定义的一些 `项目属性 <project properties_>`_ "
+"存储到项目数据中的选项。此功能让用户在 `项目 <project_>`_ 中每次 `创建新导体 <creates new conductor_>`_ "
+"时，无需重复定义大量 `导体属性 <conductor properties_>`_ 。"
 
 #: ../../source/users/project/properties/new_folio/conductor.rst:16
 msgid ""
@@ -54,26 +54,25 @@ msgid ""
 "`conductor properties`_ from `project`_ to `project`_, please refers to the "
 "`QElectroTech conductor settings`_ section."
 msgstr ""
-"QElectroTech 允许自动定义 `导体属性 <conductor properties_>`_ 期间 `项目创建 <project "
-"creation_>`_。关于如何使某些标准标准化的更多信息 `导体属性 <conductor properties_>`_ 从 `项目 "
-"<project_>`_ 改为 `项目 <project_>`_，请参考 `QElectroTech 导电器设置 <QElectroTech "
-"conductor settings_>`_ 节。"
+"QElectroTech 允许在 `项目创建 <project creation_>`_ 期间自动定义 `导体属性 <conductor "
+"properties_>`_ 。有关如何让某些 `导体属性 <conductor properties_>`_ 从一个 `项目 <project_>`_"
+" 到另一个 `项目 <project_>`_ 保持统一的更多信息，请参阅 `QElectroTech 导体设置 <QElectroTech "
+"conductor settings_>`_ 一节。"
 
 #: ../../source/users/project/properties/new_folio/conductor.rst:20
 msgid ""
 "The **Conductor** tab from **New folio** settings section allows pre-"
 "defining some `conductor properties`_:"
-msgstr ""
-"**生成器** 选项卡来自 **新的folio** 设置部分允许预先定义一些 `导体属性 <conductor properties_>`_ :"
+msgstr "**新建图幅** 设置部分中的 **导体** 标签页允许预先定义一些 `导体属性 <conductor properties_>`_ ："
 
 #: ../../source/users/project/properties/new_folio/conductor.rst:22
 msgid "`Conductor type`_ (`Multiline`_ or `Single line`_)."
 msgstr ""
-"`导体类型 <Conductor type_>`_ (`多线 <Multiline_>`_ 或 `单行 <Single line_>`_)."
+"`导体类型 <Conductor type_>`_ （ `多线 <Multiline_>`_ 或 `单线 <Single line_>`_ ）。"
 
 #: ../../source/users/project/properties/new_folio/conductor.rst:23
 msgid "`Conductor appearance`_."
-msgstr "`制片人外观 <Conductor appearance_>`_。"
+msgstr "`导体外观 <Conductor appearance_>`_。"
 
 #: ../../source/users/project/properties/new_folio/conductor.rst:28
 msgid "Figure: Project conductor properties window"
@@ -81,34 +80,34 @@ msgstr "图：项目导体属性窗口"
 
 #: ../../source/users/project/properties/new_folio/conductor.rst:30
 msgid "To define conductor settings:"
-msgstr "要定义导师设置："
+msgstr "要定义导体设置："
 
 #: ../../source/users/project/properties/new_folio/conductor.rst:32
 msgid "`Display`_ project properties PopUP window."
-msgstr "`显示 <Display_>`_ 项目属性 PopUP 窗口。"
+msgstr "`显示 <Display_>`_ 项目属性弹出窗口。"
 
 #: ../../source/users/project/properties/new_folio/conductor.rst:33
 msgid "Go to **New folio** section."
-msgstr "转到 **新folio** 部分。"
+msgstr "转到 **新建图幅** 部分。"
 
 #: ../../source/users/project/properties/new_folio/conductor.rst:34
 msgid "Go to **Conductor** tab."
-msgstr "转到 **制片人** 标签 。"
+msgstr "转到 **导体** 标签页。"
 
 #: ../../source/users/project/properties/new_folio/conductor.rst:35
 msgid "Define the desired parameters for each field."
-msgstr "定义每个字段的理想参数。"
+msgstr "为每个字段设置所需的参数。"
 
 #: ../../source/users/project/properties/new_folio/conductor.rst:36
 msgid ""
 "Press **OK** button to save the configuration changes and close project "
 "properties PopUP window."
-msgstr "按 **OK** 按钮保存配置更改和关闭项目属性 PopUP 窗口。"
+msgstr "按 **OK** 按钮保存配置更改并关闭项目属性弹出窗口。"
 
 #: ../../source/users/project/properties/new_folio/conductor.rst:40
 msgid ""
 "All pre-defined `conductor properties`_ at `project properties`_ will be "
 "automatically defined during `folio creation`_ at `folio properties`_."
 msgstr ""
-"在 `项目属性 <conductor properties_>`_ 上所有预定义的 `导体属性 <project properties_>`_ 将在 "
-"`follio创建 <folio creation_>`_ 在 `follio属性 <folio properties_>`_ 中自动定义。"
+"在 `项目属性 <project properties_>`_ 中预定义的所有 `导体属性 <conductor properties_>`_ ，都会在"
+" `图幅创建 <folio creation_>`_ 时自动填入 `图幅属性 <folio properties_>`_ 。"

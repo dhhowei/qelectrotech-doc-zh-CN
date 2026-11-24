@@ -22,43 +22,43 @@ msgstr ""
 
 #: ../../source/users/schema/conductor/conductor_text.rst:5
 msgid "Define text at conductor"
-msgstr "在导线上定义文本"
+msgstr "在导体上定义文本"
 
 #: ../../source/users/schema/conductor/conductor_text.rst:7
 msgid ""
 "QElectroTech allows defining and displaying information text at each "
 "`conductor`_."
-msgstr "QElectroTech允许在每个 `导体 <conductor_>`_ 上定义和显示信息文本。"
+msgstr "QElectroTech 允许在每个 `导体 <conductor_>`_ 上定义并显示信息文本。"
 
 #: ../../source/users/schema/conductor/conductor_text.rst:11
 msgid "Only `multiline conductors`_ allow text definition."
-msgstr "只有 `多线导 <multiline conductors_>`_ 允许文本定义。"
+msgstr "只有 `多线导体 <multiline conductors_>`_ 允许定义文本。"
 
 #: ../../source/users/schema/conductor/conductor_text.rst:13
 msgid "To define the conductor text:"
-msgstr "定义导线文本："
+msgstr "要定义导体文本："
 
 #: ../../source/users/schema/conductor/conductor_text.rst:15
 msgid "`Select the conductor`_ which should be edited."
-msgstr "`选择应当编辑的导体 <Select the conductor_>`_。"
+msgstr "`选择要编辑的导体 <Select the conductor_>`_ 。"
 
 #: ../../source/users/schema/conductor/conductor_text.rst:16
 msgid "`Display conductor properties`_ PopUp window."
-msgstr "`播放导体属性 <Display conductor properties_>`_ 弹出窗口。"
+msgstr "在 `显示导体属性 <Display conductor properties_>`_ 弹出窗口中进行设置。"
 
 #: ../../source/users/schema/conductor/conductor_text.rst:17
 msgid "Go to multiline section from **Type** tab."
-msgstr "从 **Type** 标签转到多行区域 。"
+msgstr "在 **Type** 标签页中转到多行区域。"
 
 #: ../../source/users/schema/conductor/conductor_text.rst:22
 msgid "Figure: QElectroTech multiline conductor text section"
-msgstr "图：QElectroTech 多线导文本部分"
+msgstr "图：QElectroTech 多线导体文本区域"
 
 #: ../../source/users/schema/conductor/conductor_text.rst:24
 msgid ""
 "Choose the desired parameters for text positioning, text content or formula,"
 " text size, etc."
-msgstr "选择想要的文本定位，文本内容或公式，文本大小等参数。"
+msgstr "选择所需的文本位置、文本内容或公式、文本大小等参数。"
 
 #: ../../source/users/schema/conductor/conductor_text.rst:25
 msgid ""
@@ -66,22 +66,21 @@ msgid ""
 "potential** if the changes should be applied for all `conductor`_ with "
 "common initial or end `terminal`_."
 msgstr ""
-"单击检查按钮 **将属性应用到此潜力的所有导师** 如果修改应适用于所有人 `导体 <conductor_>`_ 带有共同初始或结束 `端子 "
-"<terminal_>`_。"
+"如果更改应应用于具有相同起点或终点 `端子 <terminal_>`_ 的所有 `导体 <conductor_>`_ ，请单击 "
+"**将属性应用到此电位的所有导体** 复选框。"
 
 #: ../../source/users/schema/conductor/conductor_text.rst:26
 msgid "Press **OK** button to save and apply the property changes."
-msgstr "按 **OK** 按钮保存并应用属性更改 。"
+msgstr "单击 **OK** 按钮以保存并应用属性更改。"
 
 #: ../../source/users/schema/conductor/conductor_text.rst:30
 msgid ""
 "For more information about multiline properties, refer to `conductor type "
 "properties`_ section."
-msgstr "关于多线属性的更多信息，参见 `导体类型属性 <conductor type properties_>`_ 节。"
+msgstr "有关多线属性的更多信息，请参见 `导体类型属性 <conductor type properties_>`_ 一节。"
 
 #: ../../source/users/schema/conductor/conductor_text.rst:33
 msgid ""
 "For more information about automatic text definition during conductor "
 "creation, refer to `project folio properties`_ section."
-msgstr ""
-"关于导电器创建期间自动文本定义的更多信息，参见 `project folio属性 <project folio properties_>`_ 节。"
+msgstr "有关创建导体期间自动定义文本的更多信息，请参见 `项目图幅属性 <project folio properties_>`_ 一节。"

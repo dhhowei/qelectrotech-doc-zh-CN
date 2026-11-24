@@ -22,27 +22,27 @@ msgstr ""
 
 #: ../../source/users/folio/properties/folio_size.rst:5
 msgid "Folio size"
-msgstr "组合大小"
+msgstr "图幅尺寸"
 
 #: ../../source/users/folio/properties/folio_size.rst:7
 msgid ""
 "The working area from the `workspace`_ is defined as a grid of columns and "
 "rows. All columns have the same width and all rows have the same height."
-msgstr "`工作区 <workspace_>`_ 的工作区域被定义为列和行的网格。所有列的宽度相同，所有行的高度相同。"
+msgstr "`工作区 <workspace_>`_ 的工作区域定义为由列和行构成的网格。所有列的宽度相同，所有行的高度相同。"
 
 #: ../../source/users/folio/properties/folio_size.rst:14
 msgid ""
 "Figure: QElectroTech folio with 17 columns (0 to 16) and 8 rows (A to H) is "
 "shown"
-msgstr "图：带17栏(0至16栏)和8行(A至H栏)的QElectroTech光圈显示"
+msgstr "图：显示了一个 QElectroTech 图幅，包含 17 列（0 至 16）和 8 行（A 至 H）"
 
 #: ../../source/users/folio/properties/folio_size.rst:16
 msgid ""
 "The parameters that can be customized from **Dimensions of folio** section "
 "from the `folio properties PopUp window`_ are:"
 msgstr ""
-"可以从 **字形的Dimensions** 段从 `follio 属性 PopUp 窗口 <folio properties PopUp "
-"window_>`_ 定制的参数是："
+"`图幅属性弹出窗口 <folio properties PopUp window_>`_ 中 **Dimensions of folio** "
+"区域可自定义的参数包括："
 
 #: ../../source/users/folio/properties/folio_size.rst:19
 msgid "Number of columns."
@@ -50,11 +50,11 @@ msgstr "列数。"
 
 #: ../../source/users/folio/properties/folio_size.rst:20
 msgid "Width from columns."
-msgstr "宽从柱。"
+msgstr "列宽。"
 
 #: ../../source/users/folio/properties/folio_size.rst:21
 msgid "Column headers display or hidden."
-msgstr "列头显示或隐藏 。"
+msgstr "列标题显示或隐藏。"
 
 #: ../../source/users/folio/properties/folio_size.rst:22
 msgid "Number of rows."
@@ -62,26 +62,26 @@ msgstr "行数。"
 
 #: ../../source/users/folio/properties/folio_size.rst:23
 msgid "Height from rows."
-msgstr "从行高。"
+msgstr "行高。"
 
 #: ../../source/users/folio/properties/folio_size.rst:24
 msgid "Row headers display or hidden."
-msgstr "行头显示或隐藏 。"
+msgstr "行标题显示或隐藏。"
 
 #: ../../source/users/folio/properties/folio_size.rst:29
 msgid "Figure: QElectroTech dimensions of folios section"
-msgstr "图：离子段的QElectroTech维度"
+msgstr "图：QElectroTech 图幅尺寸部分"
 
 #: ../../source/users/folio/properties/folio_size.rst:31
 msgid ""
 "The version 0.7 from QElectroTech works with pixels and there is no pre-"
 "defined folio sizes. The pixels dimensions according `ISO 216`_ are:"
 msgstr ""
-"来自 QElectroTech 的 0.7 版本使用像素工作，并且没有预定义的像素大小。 `ISO 216 <ISO 216_>`_ 中的像素尺寸是："
+"QElectroTech 0.7 版本以像素为单位工作，没有预定义的图幅尺寸。根据 `ISO 216 <ISO 216_>`_ 的像素尺寸如下："
 
 #: ../../source/users/folio/properties/folio_size.rst:38
 msgid "ISO 216"
-msgstr "ISO 216 标准"
+msgstr "ISO 216"
 
 #: ../../source/users/folio/properties/folio_size.rst:38
 msgid "A-"
@@ -231,5 +231,4 @@ msgstr "98 x 140"
 msgid ""
 "For more information about how to display folio properties, refer to "
 "`display folio properties`_ section."
-msgstr ""
-"关于如何显示folio属性的更多信息，请参见 `display folio属性 <display folio properties_>`_ 一节。"
+msgstr "有关如何显示图幅属性的更多信息，请参阅 `显示图幅属性 <display folio properties_>`_ 一节。"

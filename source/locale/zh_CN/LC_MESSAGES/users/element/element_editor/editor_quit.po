@@ -22,15 +22,15 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/editor_quit.rst:5
 msgid "Quit element editor"
-msgstr "退出元素编辑器"
+msgstr "退出元件编辑器"
 
 #: ../../source/users/element/element_editor/editor_quit.rst:7
 msgid ""
 "The user can close `QElectroTech element editor`_ at any time. The user does"
 " not need to `save`_ the changes on the `element`_ before closing it."
 msgstr ""
-"用户可以关闭 `QElectroTech 元素编辑器 <QElectroTech element editor_>`_ 用户不需要随时 `保存 "
-"<save_>`_ 变动 `元件 <element_>`_ 在关闭之前。"
+"用户可以随时关闭 `QElectroTech 元件编辑器 <QElectroTech element editor_>`_ 。在关闭之前，用户无需 "
+"`保存 <save_>`_ 对 `元件 <element_>`_ 所做的更改。"
 
 #: ../../source/users/element/element_editor/editor_quit.rst:10
 msgid ""
@@ -38,41 +38,41 @@ msgid ""
 "refer to `save`_ section. Even so, QElectroTech display an automatic message"
 " to `save`_ the current job if any modification has been created."
 msgstr ""
-"如果当前作品要在关闭 `元素编辑器 <element editor_>`_ 之前保存，请参考 `保存 <save_>`_ 部分。 "
-"即使如此，QEelectroTech 如果创建了任何修改，则会向 `保存 <save_>`_ 显示当前任务 。"
+"如果希望在关闭 `元件编辑器 <element editor_>`_ 之前保存当前工作，请参见 `保存 <save_>`_ "
+"一节。即便如此，只要有修改，QElectroTech 仍会自动提示 `保存 <save_>`_ 当前工作。"
 
 #: ../../source/users/element/element_editor/editor_quit.rst:17
 msgid "Figure: QElectroTech element editor save message"
-msgstr "图：QElectroTech 元素编辑器保存消息"
+msgstr "图：QElectroTech 元件编辑器保存消息"
 
 #: ../../source/users/element/element_editor/editor_quit.rst:21
 msgid "Exit QElectroTech element editor from menu bar"
-msgstr "从菜单栏退出 QElectroTech 元素编辑器"
+msgstr "从菜单栏退出 QElectroTech 元件编辑器"
 
 #: ../../source/users/element/element_editor/editor_quit.rst:23
 msgid "Select **File > Quit** menu item to quit QElectroTech element editor."
-msgstr "选择 **文件 > 退出** 菜单项退出 QElectroTech 元素编辑器 。"
+msgstr "选择 **文件 > 退出** 菜单项即可退出 QElectroTech 元件编辑器。"
 
 #: ../../source/users/element/element_editor/editor_quit.rst:28
 msgid "Figure: QElectroTech element editor file menu"
-msgstr "图：QElectroTech 元素编辑器文件菜单"
+msgstr "图：QElectroTech 元件编辑器文件菜单"
 
 #: ../../source/users/element/element_editor/editor_quit.rst:31
 msgid "Exit QElectroTech element editor using keyboard shortcut"
-msgstr "使用键盘快捷键退出 QElectroTech 元素编辑器"
+msgstr "使用键盘快捷键退出 QElectroTech 元件编辑器"
 
 #: ../../source/users/element/element_editor/editor_quit.rst:33
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/element/element_editor/editor_quit.rst:35
 msgid "Press ``Ctrl + q`` to quit QElectroTech element editor."
-msgstr "按 ``Ctrl + q`` 退出QElectroTech 元素编辑器。"
+msgstr "按 ``Ctrl + q`` 退出 QElectroTech 元件编辑器。"
 
 #: ../../source/users/element/element_editor/editor_quit.rst:39
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

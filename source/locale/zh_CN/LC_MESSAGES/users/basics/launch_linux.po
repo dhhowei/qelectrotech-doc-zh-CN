@@ -22,21 +22,21 @@ msgstr ""
 
 #: ../../source/users/basics/launch_linux.rst:6
 msgid "Launch QElectroTech on Linux"
-msgstr "在 Linux 上发射 QElectroTech"
+msgstr "在 Linux 上启动 QElectroTech"
 
 #: ../../source/users/basics/launch_linux.rst:8
 msgid ""
 "After installation, Linux allows the user launching applications from many "
 "different ways. Below, the most common ways are explained."
-msgstr "在安装后，Linux 允许用户从许多不同的方式启动应用程序。下面，最常用的方法被解释。"
+msgstr "安装完成后，Linux 允许用户通过多种不同方式启动应用程序。下面介绍最常用的方式。"
 
 #: ../../source/users/basics/launch_linux.rst:11
 msgid "Launch QElectroTech from terminal"
-msgstr "从终端发射 QElectroTech"
+msgstr "从终端启动 QElectroTech"
 
 #: ../../source/users/basics/launch_linux.rst:13
 msgid "To launch QElectroTech using the terminal, the command to be used is:"
-msgstr "要使用终端发射QElectroTech,需要使用的命令是："
+msgstr "要使用终端启动 QElectroTech，需使用以下命令："
 
 #: ../../source/users/basics/launch_linux.rst
 msgid "``$ qelectrotech``"
@@ -47,7 +47,7 @@ msgid ""
 "The command mentioned above blocks the terminal for other processes. If the "
 "terminal should be available for other processes, the command to launch "
 "QElectroTech is:"
-msgstr "上述命令屏蔽了其他进程的终端。如果终端应可供其他进程使用，则发射QElectroTech的命令是："
+msgstr "上述命令会使终端无法用于其他进程。如果希望终端仍可供其他进程使用，启动 QElectroTech 的命令为："
 
 #: ../../source/users/basics/launch_linux.rst
 msgid "``$ qelectrotech &``"
@@ -57,7 +57,7 @@ msgstr "``$ qelectrotech &``"
 msgid ""
 "If the command is not working, list the applications installed and check the"
 " name with which QElectroTech has been installed."
-msgstr "如果命令无效，请列出已安装的应用程序，并检查已安装QEelectroTech的名称。"
+msgstr "如果命令无效，请列出已安装的应用程序，并检查 QElectroTech 安装时使用的名称。"
 
 #: ../../source/users/basics/launch_linux.rst:25
 msgid "Ubuntu command: ``$ apt list --installed``"
@@ -65,11 +65,11 @@ msgstr "Ubuntu 命令：``$ apt list --installed``"
 
 #: ../../source/users/basics/launch_linux.rst:31
 msgid "Figure: Splash screen"
-msgstr "图：溅射屏幕"
+msgstr "图：启动画面"
 
 #: ../../source/users/basics/launch_linux.rst:34
 msgid "Launch QElectroTech from applications menu"
-msgstr "从应用程序菜单中启动 QElectroTech"
+msgstr "从应用程序菜单启动 QElectroTech"
 
 #: ../../source/users/basics/launch_linux.rst:36
 msgid ""
@@ -77,33 +77,33 @@ msgid ""
 "from menus and icons. Where to go depends on the theme and distribution "
 "used. Below, some possibilities according some configurations are mentioned."
 msgstr ""
-"作为 Windows, Linux 操作系统允许用户从菜单和图标中启动应用程序。 去哪里取决于所使用的主题和发行量。 下面提到了一些配置可能 。"
+"与 Windows 一样，Linux 操作系统允许用户从菜单和图标启动应用程序。具体位置取决于所使用的主题和发行版。下面列举一些配置下可能的位置。"
 
 #: ../../source/users/basics/launch_linux.rst:38
 msgid "Unity theme: The icon appears at the launcher bar."
-msgstr "团结主题：图标出现在发射器栏。"
+msgstr "Unity 主题：图标出现在启动器栏中。"
 
 #: ../../source/users/basics/launch_linux.rst:39
 msgid ""
 "Gnome shell: The icon appears at **[Menu]**, with the rest of applications."
-msgstr "Gnome shell:图标出现在 **[梅努]**,其余应用。"
+msgstr "Gnome shell：图标与其他应用程序一起出现在 **[菜单]** 中。"
 
 #: ../../source/users/basics/launch_linux.rst:40
 msgid ""
 "Gnome Classic: QElectroTech can be started from **Applications > Graphics > "
 "QElectroTech**."
-msgstr "Gnome Classic: QElectroTech可以从 **应用程序 > Graphics > QEctroTech** 开始。"
+msgstr "Gnome Classic：可从 **应用程序 > 图形 > QElectroTech** 启动 QElectroTech。"
 
 #: ../../source/users/basics/launch_linux.rst:41
 msgid ""
 "KDE: QElectroTech can be started from **[Menu]** at **Graphics > "
 "QElectroTech**."
-msgstr "KDE: QElectroTech可以从 **[Menu]** 在 **Graphics > QEctroTech** 开始。"
+msgstr "KDE：可从 **[菜单]** 中的 **图形 > QElectroTech** 启动 QElectroTech。"
 
 #: ../../source/users/basics/launch_linux.rst:43
 msgid "Once QElectroTech has been launched, the main window looks as follow:"
-msgstr "QElectroTech推出后，主窗口看起来如下："
+msgstr "QElectroTech 启动后，主窗口如下所示："
 
 #: ../../source/users/basics/launch_linux.rst:49
 msgid "Figure: Main window QElectroTech"
-msgstr "图：主窗口 QElectroTech"
+msgstr "图：QElectroTech 主窗口"

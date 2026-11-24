@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:5
 msgid "Folio settings"
-msgstr "组合设置"
+msgstr "图幅设置"
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:7
 msgid ""
@@ -31,43 +31,43 @@ msgid ""
 " user avoiding to define many `project properties`_ each time that the user "
 "`creates new projects`_."
 msgstr ""
-"QElectroTech 从应用程序中提供了从数据中存储一些 `项目属性 <project properties_>`_ "
-"由用户预先定义的选项。该特性允许用户每次在用户 `创建新项目 <project properties_>`_ 时避免定义许多 `项目属性 "
-"<creates new projects_>`_ 。"
+"QElectroTech 提供了将用户预定义的一些 `项目属性 <project properties_>`_ "
+"存储到应用程序数据中的选项。此功能让用户每次 `创建新项目 <creates new projects_>`_ 时，无需重复定义大量 `项目属性 "
+"<project properties_>`_ 。"
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:11
 msgid ""
 "The **Folio** tab from **New project** settings section allows pre-defining "
 "some `folio properties`_:"
-msgstr "**Folio** 选项卡来自 **新项目** 设置部分允许预先定义一些 `组合属性 <folio properties_>`_ :"
+msgstr "**新项目** 设置部分中的 **图幅** 标签页允许预先定义一些 `图幅属性 <folio properties_>`_ ："
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:13
 msgid "`Folio size`_."
-msgstr "`Folio大小 <Folio size_>`_。"
+msgstr "`图幅尺寸 <Folio size_>`_。"
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:14
 msgid "`Folio title block`_."
-msgstr "`Folio 图框 <Folio title block_>`_。"
+msgstr "`图幅图框 <Folio title block_>`_。"
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:15
 msgid "`Folio default variables values`_."
-msgstr "`Folio 默认变量值 <Folio default variables values_>`_。"
+msgstr "`图幅默认变量值 <Folio default variables values_>`_。"
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:16
 msgid "`Folio user variables`_."
-msgstr "`Folio 用户变量 <Folio user variables_>`_。"
+msgstr "`图幅用户变量 <Folio user variables_>`_。"
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:21
 msgid "Figure: QElectroTech New project folio settings"
-msgstr "图：QElectroTech 新的项目组合设置"
+msgstr "图：QElectroTech 新建项目图幅设置"
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:23
 msgid "To define folio settings:"
-msgstr "要定义组合设置："
+msgstr "要定义图幅设置："
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:25
 msgid "`Display`_ QElectroTech settings PopUP window."
-msgstr "`显示 <Display_>`_ QElectroTech设置 PopUP 窗口。"
+msgstr "`显示 <Display_>`_ QElectroTech 设置弹出窗口。"
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:26
 msgid "Go to **New project** section."
@@ -75,17 +75,17 @@ msgstr "转到 **新项目** 部分。"
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:27
 msgid "Go to **Folio** tab."
-msgstr "转到 **Folio** 标签 。"
+msgstr "转到 **图幅** 标签页。"
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:28
 msgid "Define the desired parameters for each field."
-msgstr "定义每个字段的理想参数。"
+msgstr "为每个字段设置所需的参数。"
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:29
 msgid ""
 "Press **OK** button to save the configuration changes and close settings "
 "PopUP window."
-msgstr "按 **OK** 按钮保存配置更改和关闭设置 PopUP 窗口。"
+msgstr "按 **OK** 按钮保存配置更改并关闭设置弹出窗口。"
 
 #: ../../source/users/preferences/new_project/folio_settings.rst:33
 msgid ""
@@ -94,6 +94,6 @@ msgid ""
 "properties`_. The `folio properties`_ can be found at `Folio tab`_ from  "
 "`New folio`_ section."
 msgstr ""
-"所有预定义 `folio 属性 <folio properties_>`_ 在 QElectroTech 设置中定义的 PopUP 窗口将在 `项目创建"
-" <project creation_>`_ 时间 `项目属性 <project properties_>`_ 编辑 `folio 属性 <folio "
-"properties_>`_ 可见于 `组合标签 <Folio tab_>`_ 从  `新组合 <New folio_>`_ 节。"
+"在 QElectroTech 设置弹出窗口中预定义的所有 `图幅属性 <folio properties_>`_ ，都会在 `项目创建 <project"
+" creation_>`_ 时自动填入 `项目属性 <project properties_>`_ 。 `图幅属性 <folio "
+"properties_>`_ 可在 `新建图幅 <New folio_>`_ 部分的 `图幅标签页 <Folio tab_>`_ 中找到。"

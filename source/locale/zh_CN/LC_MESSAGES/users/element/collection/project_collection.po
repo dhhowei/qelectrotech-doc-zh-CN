@@ -22,18 +22,18 @@ msgstr ""
 
 #: ../../source/users/element/collection/project_collection.rst:5
 msgid "Project collection"
-msgstr "项目收集"
+msgstr "项目集合"
 
 #: ../../source/users/element/collection/project_collection.rst:7
 msgid ""
 "The project collection is the only collection which is not part from the "
 "software structure. A project collection is an element collection that is "
 "part of the project file, each `project`_ has its own element collection."
-msgstr "元件集合是软件结构之外的唯一收藏，元件集合是属于项目文件的元素收藏，每个 `项目 <project_>`_ 都有自己的元素收藏。"
+msgstr "项目集合是唯一不属于软件结构的集合。项目集合是项目文件的一部分，每个 `项目 <project_>`_ 都有各自的元件集合。"
 
 #: ../../source/users/element/collection/project_collection.rst:14
 msgid "Figure: QElectroTech project collection"
-msgstr "图：QElectroTech项目收集"
+msgstr "图：QElectroTech 项目集合"
 
 #: ../../source/users/element/collection/project_collection.rst:16
 msgid ""
@@ -42,8 +42,8 @@ msgid ""
 "read the category or sub-category properties and use the collection to "
 "access to the `elements`_ of the `project`_ to edit them."
 msgstr ""
-"QElectroTech不允许在此集合中工作，用户不能手动添加或删除任何元素，类别或子类别，用户只能读取该类或子类别属性，并使用该集合访问 `元件 "
-"<elements_>`_ 中的 `项目 <project_>`_ 进行编辑。"
+"QElectroTech 不允许在该集合中进行操作，用户无法手动添加或删除任何元件、类别或子类别。用户只能读取类别或子类别的属性，并通过该集合访问 "
+"`项目 <project_>`_ 的 `元件 <elements_>`_ 以进行编辑。"
 
 #: ../../source/users/element/collection/project_collection.rst:20
 msgid ""
@@ -52,9 +52,9 @@ msgid ""
 "the `project`_. If the `element`_ has already been used previously, "
 "QElectroTech does not add the `element`_ to the project collection again."
 msgstr ""
-"当用户在 `项目 <QET_>`_ 的一个 `folio <User_>`_ 上引入一个新的 `元件 <element_>`_ 时，这些元素会自动从 "
-"`图幅 <folio_>`_ 或 `项目 <project_>`_ 集合中复制出来。如果 `元件 <element_>`_ "
-"以前已经使用过，则QelectroTech不会在项目集合中再次添加 `元件 <element_>`_。"
+"当用户在 `项目 <project_>`_ 的某个 `图幅 <folio_>`_ 中插入新 `元件 <element_>`_ "
+"时，QElectroTech 会自动从 `QET 集合 <QET_>`_ 或 `用户集合 <User_>`_ 中复制这些元件。如果该 `元件 "
+"<element_>`_ 此前已经使用过，QElectroTech 不会再次将 `元件 <element_>`_ 添加到项目集合中。"
 
 #: ../../source/users/element/collection/project_collection.rst:24
 msgid ""
@@ -64,6 +64,6 @@ msgid ""
 "from the project collection that are not used inside the project and reduces"
 " the size of the project file."
 msgstr ""
-"如果从 `元件 <element_>`_ 中删除一个 `项目 <project_>`_，QElectroTech不自动删除元件集合中的 `元件 "
-"<element_>`_，则用红色标注 `元件 <element_>`_。`清理项目 <Cleaning the project_>`_ "
-"删除元件集合中未在项目内使用的所有元素，并缩小项目文件的大小。"
+"如果从 `项目 <project_>`_ 中删除某个 `元件 <element_>`_，QElectroTech 不会自动从项目集合中删除该 `元件 "
+"<element_>`_，而是将该 `元件 <element_>`_ 标记为红色。`清理项目 <Cleaning the project_>`_ "
+"会删除项目集合中未在项目内使用的所有元件，并减小项目文件的大小。"

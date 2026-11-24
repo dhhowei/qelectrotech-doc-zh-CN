@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/element/properties/element_texts.rst:5
 msgid "Texts from element"
-msgstr "来自元素的文本"
+msgstr "来自元件的文本"
 
 #: ../../source/users/element/properties/element_texts.rst:7
 msgid ""
@@ -30,8 +30,8 @@ msgid ""
 "field`_ and `dynamic text`_ integrated in the `element`_. The text "
 "properties available are:"
 msgstr ""
-"元素文本一节提供 `文本字段 <text field_>`_ 和 `动态文本 <dynamic text_>`_ 中并入 `元件 "
-"<element_>`_ 的所有文本属性。"
+"元件文本部分提供 `元件 <element_>`_ 中集成的 `文本字段 <text field_>`_ 和 `动态文本 <dynamic "
+"text_>`_ 的所有文本属性。可用的文本属性包括："
 
 #: ../../source/users/element/properties/element_texts.rst:9
 msgid "Text"
@@ -55,7 +55,7 @@ msgstr "颜色"
 
 #: ../../source/users/element/properties/element_texts.rst:14
 msgid "Frame"
-msgstr "框架"
+msgstr "边框"
 
 #: ../../source/users/element/properties/element_texts.rst:15
 msgid "Width"
@@ -63,7 +63,7 @@ msgstr "宽度"
 
 #: ../../source/users/element/properties/element_texts.rst:16
 msgid "Position"
-msgstr "立场"
+msgstr "位置"
 
 #: ../../source/users/element/properties/element_texts.rst:17
 msgid "Rotation"
@@ -75,4 +75,4 @@ msgstr "对齐"
 
 #: ../../source/users/element/properties/element_texts.rst:23
 msgid "Figure: QElectroTech text element properties"
-msgstr "图：QElectroTech 文本元素属性"
+msgstr "图：QElectroTech 元件文本属性"

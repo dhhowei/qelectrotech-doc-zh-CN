@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/row_height.rst:5
 msgid "Row height definition"
-msgstr "行高度定义"
+msgstr "行高定义"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/row_height.rst:7
 msgid ""
@@ -31,8 +31,8 @@ msgid ""
 "from the `row`_ is not displayed at `folio`_, it is only displayed at `title"
 " block editor`_."
 msgstr ""
-"从 `row <row_>`_ 的高度只能从行头来定义，从相应的 `row <row_>`_ 得到高度值的左单元格。 `row <row_>`_ "
-"的高度不显示在 `图幅 <folio_>`_ 上，它只显示在 `图框编辑器 <title block editor_>`_ 上。"
+"`行 <row_>`_ 的高度只能通过行头定义，即左侧的单元格，它表示相应 `行 <row_>`_ 的高度值。`行 <row_>`_ 的行头不会显示在 "
+"`图幅 <folio_>`_ 中，仅在 `图框编辑器 <title block editor_>`_ 中显示。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/row_height.rst:14
 msgid "Figure: QElectroTech Title block"
@@ -40,16 +40,16 @@ msgstr "图：QElectroTech 图框"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/row_height.rst:17
 msgid "Double click on row head to display the row height PopUp window."
-msgstr "双击行头显示行高度弹出窗口 。"
+msgstr "双击行头可显示行高弹出窗口。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/row_height.rst:22
 msgid "Figure: QElectroTech Title block row height PopUP window"
-msgstr "图：QElectroTech 标题行块高度 PopUP 窗口"
+msgstr "图：QElectroTech 图框行高弹出窗口"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/row_height.rst:25
 msgid "Define the height value in pixels."
-msgstr "以像素定义高度值。"
+msgstr "以像素为单位定义高度值。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/row_height.rst:27
 msgid "Press **OK**."
-msgstr "按 **OK**."
+msgstr "按 **确定** 。"

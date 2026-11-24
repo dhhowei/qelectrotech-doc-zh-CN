@@ -22,20 +22,20 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/what_is.rst:5
 msgid "What is the element editor?"
-msgstr "元素编辑器是什么?"
+msgstr "元件编辑器是什么？"
 
 #: ../../source/users/element/element_editor/what_is.rst:7
 msgid ""
 "The element editor is the editor provided by QElectroTech to modify existing"
 " element from the user collection and create new elements to the collection."
-msgstr "元素编辑器是QElectroTech提供的编辑器，用于修改用户收藏中的现有元素，并创建新元素到收藏中。"
+msgstr "元件编辑器是 QElectroTech 提供的编辑器，用于修改用户集合中的现有元件，并向集合中添加新元件。"
 
 #: ../../source/users/element/element_editor/what_is.rst:10
 msgid ""
 "The element editor is displayed as a PopUp window and looks like the figure "
 "below."
-msgstr "元素编辑器作为弹出窗口显示，外观类似下图。"
+msgstr "元件编辑器作为弹出窗口显示，外观类似下图。"
 
 #: ../../source/users/element/element_editor/what_is.rst:15
 msgid "Figure: QElectroTech element editor"
-msgstr "图：QElectroTech 元素编辑器"
+msgstr "图：QElectroTech 元件编辑器"

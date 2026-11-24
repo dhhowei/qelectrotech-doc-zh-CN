@@ -22,25 +22,25 @@ msgstr ""
 
 #: ../../source/users/folio/delete_folio.rst:5
 msgid "Delete Folio"
-msgstr "删除组合"
+msgstr "删除图幅"
 
 #: ../../source/users/folio/delete_folio.rst:7
 msgid ""
 "QElectroTech allows deleting `folios`_ from a `project`_ from `menu bar`_ "
 "and `projects panel`_."
 msgstr ""
-"QElectroTech允许从 `图幅 <folios_>`_ 从 `项目 <project_>`_ 和 `菜单栏 <menu bar_>`_ 中删除 "
-"`组合 <projects panel_>`_ 。"
+"QElectroTech 允许从 `菜单栏 <menu bar_>`_ 和 `项目面板 <projects panel_>`_ 删除 `项目 "
+"<project_>`_ 中的 `图幅 <folios_>`_ 。"
 
 #: ../../source/users/folio/delete_folio.rst:10
 msgid "Delete folio from menu bar"
-msgstr "从菜单栏中删除 folio"
+msgstr "从菜单栏删除图幅"
 
 #: ../../source/users/folio/delete_folio.rst:12
 msgid ""
 "Select **Project > Delete this folio** menu item to delete the active "
 "`folio`_."
-msgstr "选择 **项目 > 删除此 folio** 菜单项以删除活动 `图幅 <folio_>`_ 。"
+msgstr "选择 **Project > Delete this folio** 菜单项以删除当前 `图幅 <folio_>`_ 。"
 
 #: ../../source/users/folio/delete_folio.rst:17
 msgid "Figure: QElectroTech Project menu"
@@ -48,23 +48,24 @@ msgstr "图：QElectroTech 项目菜单"
 
 #: ../../source/users/folio/delete_folio.rst:20
 msgid "Delete folio from projects panel"
-msgstr "从项目面板中删除 folio"
+msgstr "从项目面板删除图幅"
 
 #: ../../source/users/folio/delete_folio.rst:22
 msgid "Right click on the `folio`_ which should be deleted."
-msgstr "右键点击 `图幅 <folio_>`_，应当删除。"
+msgstr "右键单击要删除的 `图幅 <folio_>`_ 。"
 
 #: ../../source/users/folio/delete_folio.rst:23
 msgid ""
 "Click the option **Delete this folio** to delete the selected `folio`_."
-msgstr "单击选项 **删除此框** 删除选中的 `图幅 <folio_>`_ 。"
+msgstr "单击选项 **Delete this folio** 以删除选中的 `图幅 <folio_>`_ 。"
 
 #: ../../source/users/folio/delete_folio.rst:28
 msgid "Figure: QElectroTech Project panel"
-msgstr "图：QElectroTech项目面板"
+msgstr "图：QElectroTech 项目面板"
 
 #: ../../source/users/folio/delete_folio.rst:32
 msgid ""
 "If the `projects panel`_ is not displayed, it can be displayed from "
 "**Settings > Display > Projects**"
-msgstr "如果 `项目面板 <projects panel_>`_ 没有显示，可以从 **设置 > 显示 > 项目** 显示"
+msgstr ""
+"如果 `项目面板 <projects panel_>`_ 未显示，可从 **Settings > Display > Projects** 中将其显示。"

@@ -22,20 +22,20 @@ msgstr ""
 
 #: ../../source/users/element/collection/edit_element.rst:5
 msgid "Edit element"
-msgstr "编辑元素"
+msgstr "编辑元件"
 
 #: ../../source/users/element/collection/edit_element.rst:7
 msgid ""
 "Working with collections can only be done from the collections panel. Before"
 " starting to work with collections, the collections panel has to be "
 "displayed."
-msgstr "合作收藏只能从收藏面板上完成，在开始合作收藏之前，必须展示收藏面板。"
+msgstr "集合的相关操作只能在集合面板中进行。在开始使用集合之前，必须先显示集合面板。"
 
 #: ../../source/users/element/collection/edit_element.rst:12
 msgid ""
 "Select **Settings > Display > Collections** menu item to display the "
 "Collections panel."
-msgstr "选择 **设置 > 显示 > 收藏** 菜单项以显示收藏面板。"
+msgstr "选择 **设置 > 显示 > 集合** 菜单项以显示集合面板。"
 
 #: ../../source/users/element/collection/edit_element.rst:14
 msgid ""
@@ -43,29 +43,29 @@ msgid ""
 "has only read rights at QET element collection, the user can edit already "
 "existing element from all collections except QET collection element."
 msgstr ""
-"QElectroTech 允许编辑一些收藏中已有的元素。用户仅在 QET 元素收藏中拥有读取权限，用户可以从除 QET "
-"收藏元素外的所有收藏中编辑已经存在的元素。"
+"QElectroTech 允许编辑某个集合中已有的元件。用户对 QET 元件集合只有读取权限，因此除了 QET "
+"集合中的元件之外，用户可以编辑其他所有集合中已有的元件。"
 
 #: ../../source/users/element/collection/edit_element.rst:18
 msgid "Right click on the element which should be edited."
-msgstr "右键单击应编辑的元素。"
+msgstr "右键单击要编辑的元件。"
 
 #: ../../source/users/element/collection/edit_element.rst:23
 msgid "Figure: Options at element"
-msgstr "图：元素的选项"
+msgstr "图：元件上的选项"
 
 #: ../../source/users/element/collection/edit_element.rst:25
 msgid ""
 "Click the option **Edit element** to open the element at the element editor."
-msgstr "单击选项 **Edit 元素** 在元素编辑器上打开元素。"
+msgstr "单击 **编辑元件** 选项，在元件编辑器中打开该元件。"
 
 #: ../../source/users/element/collection/edit_element.rst:26
 msgid "Make the changes desired and save them."
-msgstr "做出所期望的改变并保存它们。"
+msgstr "进行所需的修改并保存。"
 
 #: ../../source/users/element/collection/edit_element.rst:30
 msgid ""
 "For more information about the element editor, refer to `element editor "
 "<../..//element/elementeditor/index.html>`_ section."
 msgstr ""
-"关于元素编辑器的更多信息，请参见： `元素编辑器 <../..//element/elementeditor/index.html>`_ 节。"
+"有关元件编辑器的更多信息，请参阅 `元件编辑器 <../..//element/elementeditor/index.html>`_ 一节。"

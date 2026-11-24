@@ -30,8 +30,8 @@ msgid ""
 "created starting from an other. If no template is selected, the default "
 "title block from `QET collection`_ is the base to create a new title block."
 msgstr ""
-"不允许从 cero 创建新的图框，一个模板只能从另一个开始创建。 如果没有选择模板，来自 `QET collection <QET "
-"collection_>`_ 的默认图框是创建新图框的基础 。"
+"不允许从零创建新图框，一个模板只能基于另一个模板创建。如果未选择任何模板，则以 `QET 集合 <QET collection_>`_ "
+"中的默认图框作为创建新图框的基础。"
 
 #: ../../source/users/folio/title_block/title_block_new.rst:14
 msgid "Figure: QElectroTech default title block"
@@ -46,47 +46,47 @@ msgid ""
 "Select **Project > Project properties > New folio** menu item to display "
 "`default folio properties`_ from `project`_."
 msgstr ""
-"选择 **项目 > 项目属性 > 新建 folio** 菜单项以显示 `默认 volio 属性 <default folio "
-"properties_>`_ from `项目 <project_>`_。"
+"选择 **Project > Project properties > New folio** 菜单项，以从 `项目 <project_>`_ 显示 "
+"`默认图幅属性 <default folio properties_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_new.rst:20
 #: ../../source/users/folio/title_block/title_block_new.rst:39
 msgid ""
 "Go to `title block information`_ and select the base title block that should"
 " be used to create the new one."
-msgstr "转到 `图框信息 <title block information_>`_ 并选择用于创建新标题的基础图框 。"
+msgstr "转到 `图框信息 <title block information_>`_ 并选择作为创建新图框基础的基础图框。"
 
 #: ../../source/users/folio/title_block/title_block_new.rst:21
 #: ../../source/users/folio/title_block/title_block_new.rst:40
 msgid "Select the option **Duplicate and edit this template**."
-msgstr "选择选项 **复制并编辑本模板** 。"
+msgstr "选择选项 **Duplicate and edit this template** 。"
 
 #: ../../source/users/folio/title_block/title_block_new.rst:26
 #: ../../source/users/folio/title_block/title_block_new.rst:45
 msgid "Figure: QElectroTech New folio properties PopUP window"
-msgstr "图：QElectroTech 新立体属性 PopUP 窗口"
+msgstr "图：QElectroTech 新建图幅属性弹出窗口"
 
 #: ../../source/users/folio/title_block/title_block_new.rst:28
 msgid ""
 "Choose the name for the new title block template and press **OK** to create "
 "it."
-msgstr "选择新图框模板的名称并按 **OK** 创建它 。"
+msgstr "为新图框模板选择名称，然后按 **OK** 创建。"
 
 #: ../../source/users/folio/title_block/title_block_new.rst:33
 #: ../../source/users/folio/title_block/title_block_new.rst:53
 msgid "Figure: QElectroTech New folio save PopUP window"
-msgstr "图：QElectroTech New Folio 保存 PopUP 窗口"
+msgstr "图：QElectroTech 新建图幅保存弹出窗口"
 
 #: ../../source/users/folio/title_block/title_block_new.rst:36
 msgid "Create title block from folio properties"
-msgstr "从 folio 属性创建图框"
+msgstr "从图幅属性创建图框"
 
 #: ../../source/users/folio/title_block/title_block_new.rst:38
 msgid ""
 "`Display folio properties`_ from one of the `folios`_ of the `project`_."
 msgstr ""
-"`Display follio属性 <Display folio properties_>`_，来自 `图幅 <folios_>`_ 中的 `项目 "
-"<project_>`_ 之一。"
+"从 `项目 <project_>`_ 的某个 `图幅 <folios_>`_ 中 `显示图幅属性 <Display folio "
+"properties_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_new.rst:47
 msgid "Edit the template and save it."
@@ -96,7 +96,7 @@ msgstr "编辑模板并保存。"
 msgid ""
 "Choose the parent collection and the name from the new title block template,"
 " then press **OK** to create it."
-msgstr "从新图框模板中选择父收藏和名称，然后按 **OK** 创建它 。"
+msgstr "为新图框模板选择父集合和名称，然后按 **OK** 创建。"
 
 #: ../../source/users/folio/title_block/title_block_new.rst:56
 msgid "Create title block from project panel"
@@ -106,20 +106,21 @@ msgstr "从项目面板创建图框"
 msgid ""
 "Right click on the `user title blocks collection`_ from `project panel`_."
 msgstr ""
-"右键点击 `用户图框集 <user title blocks collection_>`_ 从 `项目面板 <project panel_>`_ 。"
+"在 `项目面板 <project panel_>`_ 中右键单击 `用户图框集合 <user title blocks collection_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_new.rst:59
 msgid ""
 "Click the option **New template** to add a new title block with the default "
 "template from `QET collection`_ as base."
-msgstr "点击选项 **新模板** 添加一个新的图框，其中以 `QET收藏 <QET collection_>`_ 的默认模板作为基础。"
+msgstr "单击选项 **New template** ，以 `QET 集合 <QET collection_>`_ 中的默认模板为基础添加新图框。"
 
 #: ../../source/users/folio/title_block/title_block_new.rst:64
 msgid "Figure: QElectroTech Project panel"
-msgstr "图：QElectroTech项目面板"
+msgstr "图：QElectroTech 项目面板"
 
 #: ../../source/users/folio/title_block/title_block_new.rst:68
 msgid ""
 "If the `project panel`_ is not displayed, it can be displayed from "
 "**Settings > Display > Projects**."
-msgstr "如果 `项目面板 <project panel_>`_ 没有显示，可以从 **设置 > 显示 > 项目** 显示。"
+msgstr ""
+"如果 `项目面板 <project panel_>`_ 未显示，可从 **Settings > Display > Projects** 中将其显示。"

@@ -28,51 +28,51 @@ msgstr "文本编辑器"
 msgid ""
 "The text editor from QElectroTech allows two different philosophy to "
 "introduce text in the `workspace`_:"
-msgstr "来自QElectroTech的文本编辑器允许两个不同的哲学在 `工作区 <workspace_>`_ 中引入文本："
+msgstr "QElectroTech 的文本编辑器提供两种不同的理念来在 `工作区 <workspace_>`_ 中输入文本："
 
 #: ../../source/users/schema/text/text_editor.rst:9
 msgid "What You See Is What You Get (WYSIWYG)"
-msgstr "你看到的是你得到的(WYSIWYG)"
+msgstr "所见即所得（WYSIWYG）"
 
 #: ../../source/users/schema/text/text_editor.rst:10
 msgid "HTML code to create content and define format."
-msgstr "HTML代码创建内容并定义格式。"
+msgstr "使用 HTML 代码创建内容并定义格式。"
 
 #: ../../source/users/schema/text/text_editor.rst:13
 msgid "Rich text tab"
-msgstr "丰富文本标签"
+msgstr "富文本标签页"
 
 #: ../../source/users/schema/text/text_editor.rst:15
 msgid ""
 "The Rich text tab is used when the WYSIWYG philosophy is applied. The "
 "different options from the rich text are:"
-msgstr "在应用WYSIWYG哲学时使用富文本标签。与富文本不同的选项是："
+msgstr "应用 WYSIWYG 理念时使用富文本标签页。富文本提供的不同选项如下："
 
 #: ../../source/users/schema/text/text_editor.rst:17
 msgid "Definition of content."
-msgstr "内容的定义。"
+msgstr "定义内容。"
 
 #: ../../source/users/schema/text/text_editor.rst:18
 msgid "Definition of font color."
-msgstr "字体颜色的定义 。"
+msgstr "定义字体颜色。"
 
 #: ../../source/users/schema/text/text_editor.rst:19
 msgid "Definition of font size."
-msgstr "字体大小的定义 。"
+msgstr "定义字体大小。"
 
 #: ../../source/users/schema/text/text_editor.rst:20
 msgid ""
 "Definition of additional font options (underlined, bold and italic style, "
 "superscript, subscript)"
-msgstr "定义其他字体选项(下划线、粗体和斜体样式、上标、下标)"
+msgstr "定义其他字体选项（下划线、粗体和斜体样式、上标、下标）"
 
 #: ../../source/users/schema/text/text_editor.rst:25
 msgid "Figure: QElectroTech Text editor rich text tab"
-msgstr "图：QElectroTech 文本编辑器丰富文本标签"
+msgstr "图：QElectroTech 文本编辑器富文本标签页"
 
 #: ../../source/users/schema/text/text_editor.rst:28
 msgid "Source tab"
-msgstr "源选项卡"
+msgstr "源标签页"
 
 #: ../../source/users/schema/text/text_editor.rst:30
 msgid ""
@@ -80,9 +80,9 @@ msgid ""
 " HTML code. QElectroTech processes internally the HTML code and compiles the"
 " result to be shown. The formatting limits are at HTML code."
 msgstr ""
-"使用 HTML 代码定义文本内容和格式时使用源标签。QElectroTech 内部处理 HTML 代码，并编译要显示的结果。格式化限制在 HTML "
-"代码中。"
+"当使用 HTML 代码定义文本内容和格式时，使用源标签页。QElectroTech 会在内部处理 HTML 代码，并编译要显示的结果。格式的限制取决于 "
+"HTML 代码。"
 
 #: ../../source/users/schema/text/text_editor.rst:37
 msgid "Figure: QElectroTech Text editor source tab"
-msgstr "图：QElectroTech 文本编辑器源选项卡"
+msgstr "图：QElectroTech 文本编辑器源标签页"

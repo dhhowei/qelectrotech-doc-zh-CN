@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:5
 msgid "Create nomenclature"
-msgstr "创建名称"
+msgstr "创建物料清单"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:7
 msgid ""
@@ -32,22 +32,23 @@ msgid ""
 "`elements`_ / components. QElectroTech allows creating the nomenclature "
 "automatically."
 msgstr ""
-"A`项目 <project_>`_ 是 `元件 <elements_>`_/组件的组合/组装，QElectroTech提供了创建名称的功能，又称Bill"
-" Of Materials(BOM),它显示了不同 `元件 <elements_>`_/组件的信息。QEctroTech允许自动创建名称。"
+"`项目 <project_>`_ 是 `元件 <elements_>`_ / 部件的组合/装配，QElectroTech 提供了创建物料清单（也称为 "
+"BOM，即 Bill Of Materials）的功能，可显示不同 `元件 <elements_>`_ / 部件的信息。QElectroTech "
+"允许自动创建物料清单。"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:18
 msgid "To create a project nomenclature:"
-msgstr "要创建项目名称："
+msgstr "创建项目物料清单："
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:20
 msgid "Activate the folio where the nomenclature table has to be created."
-msgstr "激活必须创建名称表的框。"
+msgstr "激活要在其中创建物料清单表的图幅。"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:21
 msgid ""
 "Select **Project > Add a nomenclature** to display the configuration PopUp "
 "window of the nomenclature creator."
-msgstr "选择 **项目 > 添加一个名称** 以显示名称创建者的配置弹出窗口 。"
+msgstr "选择 **项目 > 添加物料清单**，以显示物料清单创建器的配置弹出窗口。"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:26
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:36
@@ -57,21 +58,21 @@ msgstr "图：QElectroTech 项目菜单"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:29
 msgid "Go to **Display** tab to define display table properties."
-msgstr "转到 **Display** 标签，以定义显示表属性 。"
+msgstr "转到 **Display** 标签页，以定义显示表属性。"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:30
 msgid "Define the **Table name** which will identify the table."
-msgstr "定义将标明表格的 **表名称**。"
+msgstr "定义用于标识该表格的 **表名称**。"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:31
 msgid ""
 "Configure the display table settings (header and table cells properties, "
 "auto adjustment of table size, etc.)."
-msgstr "配置显示表设置(标题和表格单元格属性，表格大小的自动调整等)."
+msgstr "配置显示表设置（表头和表格单元格属性、表格大小的自动调整等）。"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:39
 msgid "Go to **Content** tab to define table columns."
-msgstr "转到 **Content** 标签来定义表格列 。"
+msgstr "转到 **Content** 标签页以定义表格列。"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:40
 msgid ""
@@ -85,7 +86,7 @@ msgstr "图标"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:43
 msgid "Action"
-msgstr "行动"
+msgstr "操作"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:43
 msgid "Keyboard shortcut"
@@ -97,7 +98,7 @@ msgstr "|go_up|"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:74
 msgid "go_up"
-msgstr "上调"
+msgstr "向上"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:45
 msgid "Move up this field"
@@ -108,7 +109,7 @@ msgstr "向上移动此字段"
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:49
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:51
 msgid "Double-click on element"
-msgstr "双击元素"
+msgstr "双击元件"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:47
 msgid "|list_add|"
@@ -116,11 +117,11 @@ msgstr "|list_add|"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:75
 msgid "list_add"
-msgstr "列表添加"
+msgstr "添加"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:47
 msgid "Add field to display list"
-msgstr "添加字段到显示列表"
+msgstr "向显示列表添加字段"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:49
 msgid "|list_remove|"
@@ -128,7 +129,7 @@ msgstr "|list_remove|"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:76
 msgid "list_remove"
-msgstr "列表( R)"
+msgstr "移除"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:49
 msgid "Remove field from display list"
@@ -140,7 +141,7 @@ msgstr "|go_down|"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:73
 msgid "go_down"
-msgstr "下行( L)"
+msgstr "向下"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:51
 msgid "Move down this field"
@@ -150,26 +151,26 @@ msgstr "下移这个字段"
 msgid ""
 "The content request configuration can be saved and chosen from "
 "**Configuration** section to increase working efficiency."
-msgstr "内容请求配置可以从 **配置** 部分保存和选择，以提高工作效率。"
+msgstr "内容请求配置可从 **配置** 部分保存和选择，以提高工作效率。"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:64
 msgid ""
 "QElectroTech is working with SQLite database, nomenclature table content can"
 " also be defined by SQL query."
-msgstr "QElectroTech正与SQLite数据库合作，术语表内容也可以通过SQL查询来定义。"
+msgstr "QElectroTech 使用 SQLite 数据库，物料清单表内容也可以通过 SQL 查询来定义。"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:66
 msgid ""
 "Define the filtering parameters (**Filter by** and type of `elements`_)."
-msgstr "定义过滤参数( E)**过滤器由** 类型 `元件 <elements_>`_)."
+msgstr "定义过滤参数（**Filter by** 和 `元件 <elements_>`_ 的类型）。"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:67
 msgid ""
 "Once the desired configuration is defined, press **OK** to create "
 "nomenclature tables."
-msgstr "一旦定义了所需的配置，请按 **OK** 创建术语表。"
+msgstr "定义所需配置后，按 **OK** 创建物料清单表。"
 
 #: ../../source/users/reports/nomenclature/create_nomenclature.rst:71
 msgid ""
 "The project nomenclature can be created, modified and updated at any time."
-msgstr "项目名称可随时创建、修改和更新。"
+msgstr "项目物料清单可随时创建、修改和更新。"

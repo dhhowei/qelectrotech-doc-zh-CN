@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/interface/panels/index.rst:5
 msgid "Element editor panels"
-msgstr "元素编辑器面板"
+msgstr "元件编辑器面板"

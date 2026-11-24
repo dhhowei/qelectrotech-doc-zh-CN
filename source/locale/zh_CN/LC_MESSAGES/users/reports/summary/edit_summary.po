@@ -22,59 +22,59 @@ msgstr ""
 
 #: ../../source/users/reports/summary/edit_summary.rst:5
 msgid "Edit summary"
-msgstr "编辑摘要"
+msgstr "编辑汇总表"
 
 #: ../../source/users/reports/summary/edit_summary.rst:7
 msgid ""
 "The summary properties can only be displayed from `selection properties "
 "panel`_ once the summary table has been selected at `workspace`_."
 msgstr ""
-"摘要属性只能从 `选择属性面板 <selection properties panel_>`_ 在 `工作区 <workspace_>`_ "
-"选中摘要表后显示。"
+"只有在 `工作区 <workspace_>`_ 中选中汇总表后，才能从 `选择属性面板 <selection properties panel_>`_ "
+"显示汇总表属性。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:13
 msgid "Figure: QElectroTech summary properties panel, display tab"
-msgstr "图：QElectroTech 摘要属性面板，显示标签"
+msgstr "图：QElectroTech 汇总表属性面板，显示标签页"
 
 #: ../../source/users/reports/summary/edit_summary.rst:17
 msgid ""
 "If the `selection properties panel`_ is not displayed, it can be displayed "
 "from **Settings > Display > Selection properties**."
 msgstr ""
-"如果不显示 `选择属性面板 <selection properties panel_>`_，可以从 **设置 > 显示 > 选择属性** 显示。"
+"如果 `选择属性面板 <selection properties panel_>`_ 未显示，可从 **设置 > 显示 > 选择属性** 中将其显示。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:20
 msgid "Summary geometry and line"
-msgstr "简略几何和线条"
+msgstr "汇总表几何与线条"
 
 #: ../../source/users/reports/summary/edit_summary.rst:25
 msgid "Figure: QElectroTech summary geometry and lines properties"
-msgstr "图：QElectroTech摘要几何和线条属性"
+msgstr "图：QElectroTech 汇总表几何与线条属性"
 
 #: ../../source/users/reports/summary/edit_summary.rst:27
 msgid ""
 "The **Geometry and lines** section from the summary properties allows "
 "defining:"
-msgstr "**图形和线条** 部分从摘要属性中可以定义："
+msgstr "可从汇总表属性的 **几何与线条** 部分定义："
 
 #: ../../source/users/reports/summary/edit_summary.rst:29
 msgid "Summary table position (coordinates **X** and **Y**) in the `folio`_."
-msgstr "简表位置(坐标 **X** 和 **Y**)在 `图幅 <folio_>`_。"
+msgstr "`图幅 <folio_>`_ 中汇总表的位置（坐标 **X** 和 **Y**）。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:30
 msgid "Maximum number of table rows."
-msgstr "最大表行数 。"
+msgstr "表格的最大行数。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:31
 msgid ""
 "Adjust the size of the table to the `folio`_, automatic margin definition."
-msgstr "将表格的大小调整到 `图幅 <folio_>`_，自动比值定义。"
+msgstr "将表格大小调整为适合 `图幅 <folio_>`_，并自动定义边距。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:32
 msgid ""
 "Define previous summary table, property to be used if the number of "
 "`folios`_ is higher than the maximum number of rows defined."
-msgstr "定义上一个简表，如果 `图幅 <folios_>`_ 的编号高于定义的最大行数，则使用属性。"
+msgstr "定义上一个汇总表；当 `图幅 <folios_>`_ 的数量超过定义的最大行数时使用该属性。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:36
 msgid ""
@@ -82,61 +82,61 @@ msgid ""
 "defined, each summary table has to have a **Table name** defined. Without "
 "**Table name**, the link between tables cannot be defined."
 msgstr ""
-"如果 `图幅 <folios_>`_ 的数字高于定义的最大行数，则每个总表必须有一个 **表名称** 的定义。没有 "
-"**表名称**,表格之间的链接无法定义。"
+"如果 `图幅 <folios_>`_ 的数量超过定义的最大行数，则每个汇总表都必须定义 **表名称**。如果没有 "
+"**表名称**，就无法定义表之间的链接。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:41
 msgid "Header"
-msgstr "页眉"
+msgstr "表头"
 
 #: ../../source/users/reports/summary/edit_summary.rst:46
 msgid "Figure: QElectroTech summary header properties"
-msgstr "图：QElectroTech 摘要标题属性"
+msgstr "图：QElectroTech 汇总表表头属性"
 
 #: ../../source/users/reports/summary/edit_summary.rst:48
 msgid "The **Header** section from the summary properties allows defining:"
-msgstr "**头** 部分来自摘要属性，允许定义："
+msgstr "可从汇总表属性的 **表头** 部分定义："
 
 #: ../../source/users/reports/summary/edit_summary.rst:50
 msgid "Top, bottom, left and right margin in the header cells."
-msgstr "头部单元格的上，下，左右边距。"
+msgstr "表头单元格的上、下、左、右边距。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:51
 msgid "Text alignment in the header cells."
-msgstr "标题单元格中的文本对齐。"
+msgstr "表头单元格中的文本对齐方式。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:52
 msgid "Text font of the table header."
-msgstr "表格头的文字字体。"
+msgstr "表头的文本字体。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:57
 #: ../../source/users/reports/summary/edit_summary.rst:76
 msgid "Figure: QElectroTech summary table text font"
-msgstr "图：QElectroTech简表文字字体"
+msgstr "图：QElectroTech 汇总表文本字体"
 
 #: ../../source/users/reports/summary/edit_summary.rst:60
 msgid "Table"
-msgstr "图表"
+msgstr "表格"
 
 #: ../../source/users/reports/summary/edit_summary.rst:65
 msgid "Figure: QElectroTech summary table properties panel"
-msgstr "图：QElectroTech简表属性面板"
+msgstr "图：QElectroTech 汇总表属性面板"
 
 #: ../../source/users/reports/summary/edit_summary.rst:67
 msgid "The **Table** section from the summary properties allows defining:"
-msgstr "汇总属性中的 **表** 部分允许定义："
+msgstr "可从汇总表属性的 **表格** 部分定义："
 
 #: ../../source/users/reports/summary/edit_summary.rst:69
 msgid "Top, bottom, left and right margin in the table cells."
-msgstr "表格单元格的上，下，左右边距。"
+msgstr "表格单元格的上、下、左、右边距。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:70
 msgid "Text alignment in the table cells."
-msgstr "表格单元格中的文本对齐。"
+msgstr "表格单元格中的文本对齐方式。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:71
 msgid "Text font of the table."
-msgstr "表格的文字字体。"
+msgstr "表格的文本字体。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:79
 msgid "Content request"
@@ -146,31 +146,32 @@ msgstr "内容请求"
 msgid ""
 "The `folio properties`_ to be displayed at the summary tables, the columns "
 "information, can be modified and re-organized at any time."
-msgstr "`组合属性 <folio properties_>`_ 要显示在简表，列信息，可以随时修改和重新组织。"
+msgstr "可在汇总表中显示的 `图幅属性 <folio properties_>`_ （列信息）可随时修改和重新排列。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:84
 msgid "To modify the content request form the summary:"
-msgstr "修改内容请求构成摘要："
+msgstr "修改汇总表的内容请求："
 
 #: ../../source/users/reports/summary/edit_summary.rst:86
 msgid ""
 "`Select`_ one of the tables from the summary to display the summary "
 "properties at `selection properties panel`_."
 msgstr ""
-"`从摘要中选择 <Select_>`_，在 `选择属性面板上显示摘要属性 <selection properties panel_>`_ 。"
+"在汇总表中 `选择 <Select_>`_ 一个表，以在 `选择属性面板 <selection properties panel_>`_ "
+"中显示汇总表属性。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:87
 msgid "Go to **Content** tab."
-msgstr "转到 **Content** 标签 。"
+msgstr "转到 **Content** 标签页。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:92
 msgid "Figure: QElectroTech summary properties panel, content tab"
-msgstr "图：QElectroTech 摘要属性面板，内容标签"
+msgstr "图：QElectroTech 汇总表属性面板，内容标签页"
 
 #: ../../source/users/reports/summary/edit_summary.rst:94
 msgid ""
 "Click **Request** button to display the content configuration PopUp window."
-msgstr "点击 **请求** 按钮显示内容配置 PopUp 窗口 。"
+msgstr "点击 **请求** 按钮，以显示内容配置弹出窗口。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:95
 msgid "Modify the table content using the following commands:"
@@ -182,7 +183,7 @@ msgstr "图标"
 
 #: ../../source/users/reports/summary/edit_summary.rst:98
 msgid "Action"
-msgstr "行动"
+msgstr "操作"
 
 #: ../../source/users/reports/summary/edit_summary.rst:98
 msgid "Keyboard shortcut"
@@ -194,7 +195,7 @@ msgstr "|go-up|"
 
 #: ../../source/users/reports/summary/edit_summary.rst:120
 msgid "go-up"
-msgstr "继续"
+msgstr "向上"
 
 #: ../../source/users/reports/summary/edit_summary.rst:100
 msgid "Move up this field"
@@ -206,15 +207,15 @@ msgstr "|list-add|"
 
 #: ../../source/users/reports/summary/edit_summary.rst:121
 msgid "list-add"
-msgstr "列表添加"
+msgstr "添加"
 
 #: ../../source/users/reports/summary/edit_summary.rst:101
 msgid "Add field to display list"
-msgstr "添加字段到显示列表"
+msgstr "向显示列表添加字段"
 
 #: ../../source/users/reports/summary/edit_summary.rst:101
 msgid "Double click on field at available list"
-msgstr "在可用的列表中双击字段"
+msgstr "双击可用列表中的字段"
 
 #: ../../source/users/reports/summary/edit_summary.rst:102
 msgid "|list-remove|"
@@ -222,7 +223,7 @@ msgstr "|list-remove|"
 
 #: ../../source/users/reports/summary/edit_summary.rst:122
 msgid "list-remove"
-msgstr "移动列表"
+msgstr "移除"
 
 #: ../../source/users/reports/summary/edit_summary.rst:102
 msgid "Remove field from display list"
@@ -230,7 +231,7 @@ msgstr "从显示列表中删除字段"
 
 #: ../../source/users/reports/summary/edit_summary.rst:102
 msgid "Double click on field at display list"
-msgstr "在显示列表中双击字段"
+msgstr "双击显示列表中的字段"
 
 #: ../../source/users/reports/summary/edit_summary.rst:103
 msgid "|go-down|"
@@ -238,7 +239,7 @@ msgstr "|go-down|"
 
 #: ../../source/users/reports/summary/edit_summary.rst:119
 msgid "go-down"
-msgstr "继续下去"
+msgstr "向下"
 
 #: ../../source/users/reports/summary/edit_summary.rst:103
 msgid "Move down this field"
@@ -246,21 +247,21 @@ msgstr "下移这个字段"
 
 #: ../../source/users/reports/summary/edit_summary.rst:109
 msgid "Figure: QElectroTech summary properties content request PopUp window"
-msgstr "图片：QElectroTech 摘要属性内容请求 PopUp 窗口"
+msgstr "图：QElectroTech 汇总表属性内容请求弹出窗口"
 
 #: ../../source/users/reports/summary/edit_summary.rst:113
 msgid ""
 "The content request configuration can be saved and chosen from "
 "**Configuration** section to increase working efficiency."
-msgstr "内容请求配置可以从 **配置** 部分保存和选择，以提高工作效率。"
+msgstr "内容请求配置可从 **配置** 部分保存和选择，以提高工作效率。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:115
 msgid ""
 "QElectroTech is working with SQLite database, summary table content can also"
 " be defined by SQL query."
-msgstr "QElectroTech正与SQLite数据库合作，总表内容也可以通过SQL查询来定义。"
+msgstr "QElectroTech 使用 SQLite 数据库，汇总表内容也可以通过 SQL 查询来定义。"
 
 #: ../../source/users/reports/summary/edit_summary.rst:117
 msgid ""
 "Once the desired configuration is defined, press **OK** to apply changes."
-msgstr "一旦定义了想要的配置，按 **OK** 应用更改。"
+msgstr "定义所需配置后，按 **OK** 应用更改。"

@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/reports/index.rst:5
 msgid "Reports"
-msgstr "报告"
+msgstr "报表"

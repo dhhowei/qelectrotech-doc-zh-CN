@@ -38,7 +38,7 @@ msgstr "欢迎使用 QET 文档"
 
 #: ../../source/index.rst:13
 msgid "Image showing the QET app icon"
-msgstr "显示 QET 应用程序图标的图像"
+msgstr "显示 QET 应用图标的图片"
 
 #: ../../source/index.rst:13
 msgid "User Docs"
@@ -46,7 +46,7 @@ msgstr "用户文档"
 
 #: ../../source/index.rst:19
 msgid "Image showing QET's interface wizard"
-msgstr "显示 QET 界面向导的图像"
+msgstr "显示 QET 界面向导的图片"
 
 #: ../../source/index.rst:19
 msgid "Developer Docs"
@@ -54,7 +54,7 @@ msgstr "开发者文档"
 
 #: ../../source/index.rst:25
 msgid "Image showing QET's preferences icon"
-msgstr "显示 QET 首选项图标的图像"
+msgstr "显示 QET 首选项图标的图片"
 
 #: ../../source/index.rst:25
 msgid "FAQ"
@@ -62,7 +62,7 @@ msgstr "常见问题"
 
 #: ../../source/index.rst:31
 msgid "Image showing a QET Project folder icon"
-msgstr "显示 QET 项目文件夹图标的图像"
+msgstr "显示 QET 项目文件夹图标的图片"
 
 #: ../../source/index.rst:31
 msgid "Documentation Changelog"

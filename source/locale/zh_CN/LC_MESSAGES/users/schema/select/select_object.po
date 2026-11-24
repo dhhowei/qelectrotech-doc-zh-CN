@@ -30,9 +30,10 @@ msgid ""
 "`picture`_) from the `workspace`_ can be selected by a simple left click on "
 "the object."
 msgstr ""
-"`元件 <element_>`_，`导体 <conductor_>`_，`文本字段 <text field_>`_，`基本对象 <basic "
-"object_>`_ 和 `图片 <picture_>`_ 从 `工作区 <workspace_>`_ 通过简单的左键点击对象即可选择一个对象。"
+"在 `工作区 <workspace_>`_ 中，只需用左键单击某个对象，即可选中该对象（`元件 <element_>`_ 、`导体 "
+"<conductor_>`_ 、`文本字段 <text field_>`_ 、`基本对象 <basic object_>`_ 和 `图片 "
+"<picture_>`_ ）。"
 
 #: ../../source/users/schema/select/select_object.rst:13
 msgid "Figure: QElectroTech schema"
-msgstr "图：QElectroTech计划"
+msgstr "图：QElectroTech 原理图"

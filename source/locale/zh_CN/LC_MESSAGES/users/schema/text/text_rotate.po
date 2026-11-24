@@ -22,19 +22,19 @@ msgstr ""
 
 #: ../../source/users/schema/text/text_rotate.rst:5
 msgid "Rotate text"
-msgstr "旋转文字"
+msgstr "旋转文本"
 
 #: ../../source/users/schema/text/text_rotate.rst:7
 msgid "The content from a `text field`_ can be rotated in two different ways:"
-msgstr "`文本字段 <text field_>`_ 的内容可以两种不同的方式旋转："
+msgstr "`文本字段 <text field_>`_ 的内容可以通过两种不同方式旋转："
 
 #: ../../source/users/schema/text/text_rotate.rst:9
 msgid "Rotating the `text field`_ as an object."
-msgstr "旋转 `文本字段 <text field_>`_ 作为对象。"
+msgstr "将 `文本字段 <text field_>`_ 作为对象旋转。"
 
 #: ../../source/users/schema/text/text_rotate.rst:10
 msgid "Defining the text orientation inside the `text field`_."
-msgstr "定义 `文本字段 <text field_>`_ 中的文本方向。"
+msgstr "定义 `文本字段 <text field_>`_ 内部的文本方向。"
 
 #: ../../source/users/schema/text/text_rotate.rst:13
 msgid "Rotate text field"
@@ -46,8 +46,8 @@ msgid ""
 "placed and rotated as `elements`_ and `pictures`_. It can be rotated *90*, "
 "*180* or *270* degrees."
 msgstr ""
-"文字字段被QElectroTech视为对象，可以选择，放置和旋转为 `元件 <elements_>`_ 和 `图片 <pictures_>`_，可以旋转"
-" *90*,*180* 或 *270* 度。"
+"QElectroTech 将文本字段视为对象，可以像 `元件 <elements_>`_ 和 `图片 <pictures_>`_ "
+"一样选择、放置和旋转。它可以旋转 *90* 、*180* 或 *270* 度。"
 
 #: ../../source/users/schema/text/text_rotate.rst:18
 msgid "Right click on the `text field`_ which should be rotated."
@@ -62,14 +62,14 @@ msgstr "图：QElectroTech 文本字段选项"
 msgid ""
 "Select the option **Rotate** to rotate the `text field`_ *90* degrees on the"
 " clock direction."
-msgstr "选择 **旋转** 在时钟方向旋转 `文本字段 <text field_>`_ *90* 度 。"
+msgstr "选择 **旋转** 选项，将 `文本字段 <text field_>`_ 沿顺时针方向旋转 *90* 度。"
 
 #: ../../source/users/schema/text/text_rotate.rst:29
 msgid ""
 "For more information about rotating objects at the `workspace`_, refer to "
 "`rotate object section`_."
 msgstr ""
-"关于在 `工作区 <workspace_>`_ 旋转物体的更多信息，参见 `旋转物体部分 <rotate object section_>`_。"
+"有关在 `工作区 <workspace_>`_ 中旋转对象的更多信息，请参见 `旋转对象 <rotate object section_>`_ 一节。"
 
 #: ../../source/users/schema/text/text_rotate.rst:32
 msgid "Define text orientation"
@@ -81,30 +81,29 @@ msgid ""
 "field`_. The advantage of choosing the text orientation is the possibility "
 "to choose any angle between *-360* and *360* degrees."
 msgstr ""
-"定义文本方向只旋转 `文本字段 <text field_>`_ 的内容。选择文本方向的好处是在 *-360* 和 *360* "
-"度之间选择任意角度的可能性。"
+"定义文本方向只会旋转 `文本字段 <text field_>`_ 的内容。选择文本方向的好处是可以选择 *-360* 到 *360* 度之间的任意角度。"
 
 #: ../../source/users/schema/text/text_rotate.rst:39
 msgid "Define text orientation from workspace"
-msgstr "从工作空间定义文本方向"
+msgstr "从工作区定义文本方向"
 
 #: ../../source/users/schema/text/text_rotate.rst:41
 msgid "Right click on the `text field`_ which should be oriented."
-msgstr "右键单击应当面向的 `文本字段 <text field_>`_ 。"
+msgstr "右键单击要调整方向的 `文本字段 <text field_>`_ 。"
 
 #: ../../source/users/schema/text/text_rotate.rst:48
 msgid ""
 "Select the option **Choose text orientation** to display the text "
 "orientation PopUP window."
-msgstr "选择选项 **选择文本方向** 以显示文本方向 PopUP 窗口。"
+msgstr "选择 **选择文本方向** 选项以显示文本方向弹出窗口。"
 
 #: ../../source/users/schema/text/text_rotate.rst:53
 msgid "Figure: QElectroTech choose orientation PopUP window"
-msgstr "图：QElectroTech 选择方向 PopUP 窗口"
+msgstr "图：QElectroTech 选择方向弹出窗口"
 
 #: ../../source/users/schema/text/text_rotate.rst:55
 msgid "Define the orientation angle of the text."
-msgstr "定义文本的方向角度。"
+msgstr "定义文本的旋转角度。"
 
 #: ../../source/users/schema/text/text_rotate.rst:56
 msgid "Press **OK** to save the changes."
@@ -116,13 +115,13 @@ msgstr "从选择属性面板定义文本方向"
 
 #: ../../source/users/schema/text/text_rotate.rst:61
 msgid "Select the `text field`_ which should be oriented."
-msgstr "选择应当面向的 `文本字段 <text field_>`_。"
+msgstr "选择要调整方向的 `文本字段 <text field_>`_ 。"
 
 #: ../../source/users/schema/text/text_rotate.rst:62
 msgid ""
 "Define the orientation angle of the text at **Angle** field from `selection "
 "properties panel`_."
-msgstr "从 `选择属性面板 <selection properties panel_>`_ 定义文本在 **Angle** 字段的方向角。"
+msgstr "在 `选择属性面板 <selection properties panel_>`_ 的 **Angle** 字段中定义文本的旋转角度。"
 
 #: ../../source/users/schema/text/text_rotate.rst:67
 msgid "Figure: QElectroTech text field selection properties panel"
@@ -133,4 +132,5 @@ msgid ""
 "If the `selection properties panel`_ is not displayed, it can be displayed "
 "from **Settings > Display > Selection properties**"
 msgstr ""
-"如果不显示 `选择属性面板 <selection properties panel_>`_，可以从 **设置 > 显示 > 选择属性** 显示"
+"如果 `选择属性面板 <selection properties panel_>`_ 未显示，可通过 **设置 > 显示 > 选择属性** "
+"将其显示出来。"

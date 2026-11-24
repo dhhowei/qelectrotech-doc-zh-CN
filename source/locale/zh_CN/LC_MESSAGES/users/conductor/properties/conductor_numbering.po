@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:7
 msgid "Conductor numbering"
-msgstr "导师编号"
+msgstr "导体编号"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:9
 msgid ""
@@ -30,8 +30,8 @@ msgid ""
 " is very useful for the creation of `reports`_, `conductor list`_, and for "
 "the identification of `conductors`_ at the physical systems and `schemas`_."
 msgstr ""
-"QElectroTech允许自动编译 `导体 <conductors_>`_。这个特性对于创建 `报告 <reports_>`_，`导体列表 "
-"<conductor list_>`_，以及在物理系统中识别 `导体 <conductors_>`_ 和 `schemas <schemas_>`_ "
+"QElectroTech 允许对 `导体 <conductors_>`_ 进行自动编码。此功能对于创建 `报表 <reports_>`_ 、`导体列表 "
+"<conductor list_>`_ ，以及在物理系统和 `原理图 <schemas_>`_ 中识别 `导体 <conductors_>`_ "
 "非常有用。"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:13
@@ -39,11 +39,11 @@ msgid ""
 "QElectroTech allows the definition of multiples auto numbering patterns. It "
 "also provides many flexibility on the creation of auto numbering patterns "
 "using text, variables and sequential numbers."
-msgstr "QElectroTech允许定义多元的汽车编号模式，也为使用文本，变量和顺序数字创建汽车编号模式提供了许多灵活性。"
+msgstr "QElectroTech 允许定义多种自动编号模式。它还提供了很大的灵活性，可使用文本、变量和序号来创建自动编号模式。"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:19
 msgid "Figure: QElectroTech conductor auto numbering"
-msgstr "图：QElectroTech导电器自动编号"
+msgstr "图：QElectroTech 导体自动编号"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:21
 msgid "Example"
@@ -51,7 +51,7 @@ msgstr "示例"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:23
 msgid "Taking the content from the image above:"
-msgstr "取自以上图像的内容："
+msgstr "根据上图的内容："
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst
 #: ../../source/users/conductor/properties/conductor_numbering.rst:26
@@ -66,12 +66,12 @@ msgstr "X"
 #: ../../source/users/conductor/properties/conductor_numbering.rst
 #: ../../source/users/conductor/properties/conductor_numbering.rst:26
 msgid "XX"
-msgstr "二十"
+msgstr "XX"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst
 #: ../../source/users/conductor/properties/conductor_numbering.rst:26
 msgid "XXX"
-msgstr "三十届"
+msgstr "XXX"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst
 #: ../../source/users/conductor/properties/conductor_numbering.rst:26
@@ -84,61 +84,61 @@ msgstr "由 `IEC 81346 <IEC 81346_>`_ 规范定义的代码。"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:32
 msgid "**W**: Guiding or transporting from one place to another."
-msgstr "**W**:指导或从一个地方运送到另一个地方。"
+msgstr "**W** ：从一个地方引导或输送到另一个地方。"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:34
 msgid "Alphanumeric code corresponding to the following coding:"
-msgstr "下列编码对应的字母编码："
+msgstr "下列编码对应的字母数字代码："
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:36
 msgid "H: High voltage"
-msgstr "H: 高压"
+msgstr "H：高压"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:37
 msgid "B: 400 V AC"
-msgstr "B:400 V AC"
+msgstr "B：400 V AC"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:38
 msgid "C: 230 V AC"
-msgstr "C: 230 V AC"
+msgstr "C：230 V AC"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:39
 msgid "D: Digital signal"
-msgstr "D:数字信号"
+msgstr "D：数字信号"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:40
 msgid "A: Analog signal"
-msgstr "A: 模拟信号"
+msgstr "A：模拟信号"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:41
 msgid "@: Network"
-msgstr "@:网络"
+msgstr "@：网络"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:44
 msgid ""
 "Installation or functional unit to which the cable belongs (`schema`_ where "
 "the cable can be found)."
-msgstr "电缆所属的安装或功能单元(`schema <schema_>`_),其中可以找到电缆。"
+msgstr "电缆所属的安装单元或功能单元（即可以找到该电缆的 `原理图 <schema_>`_ ）。"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:46
 msgid "001: Incoming plant"
-msgstr "001: 进厂"
+msgstr "001：进线装置"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:47
 msgid "002: Global auxiliary power"
-msgstr "002:全球辅助电源"
+msgstr "002：全局辅助电源"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:48
 msgid "003: Distribution Network"
-msgstr "003: 发行网。"
+msgstr "003：配电网络"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:49
 msgid "004: installation 1"
-msgstr "004:安装1"
+msgstr "004：安装 1"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:50
 msgid "005: installation 2"
-msgstr "005:安装2"
+msgstr "005：安装 2"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:51
 msgid "..."
@@ -146,15 +146,15 @@ msgstr "..."
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:52
 msgid "999: ..."
-msgstr "999: ..."
+msgstr "999：……"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:56
 msgid "Folio where the cable is represented."
-msgstr "电缆代表的Folio。"
+msgstr "表示电缆的图幅。"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:59
 msgid "Cable number."
-msgstr "电话号码"
+msgstr "电缆编号。"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:63
 msgid ""
@@ -167,4 +167,4 @@ msgstr ""
 msgid ""
 "For more information about how to manage the codification of conductors, "
 "refer to `create conductor`_ section."
-msgstr "有关如何管理导体编纂的更多信息，请参见 `创建导 <create conductor_>`_ 节。"
+msgstr "有关如何管理导体编码的更多信息，请参阅 `创建导体 <create conductor_>`_ 一节。"

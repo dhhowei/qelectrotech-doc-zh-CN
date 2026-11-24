@@ -22,15 +22,15 @@ msgstr ""
 
 #: ../../source/users/preferences/settings_element.rst:5
 msgid "Element settings"
-msgstr "元素设置"
+msgstr "元件设置"
 
 #: ../../source/users/preferences/settings_element.rst:10
 msgid "Figure: QElectroTech elements settings"
-msgstr "图：QElectroTech 元素设置"
+msgstr "图：QElectroTech 元件设置"
 
 #: ../../source/users/preferences/settings_element.rst:13
 msgid "Collection settings"
-msgstr "收藏设置"
+msgstr "集合设置"
 
 #: ../../source/users/preferences/settings_element.rst:15
 msgid ""
@@ -39,15 +39,14 @@ msgid ""
 " chosen. The collections directory can be at the local Hard Disk, common "
 "users, or at local servers, common for companies."
 msgstr ""
-"QElectroTech 允许从 `QET (Common) <QET (Common)_>`_ 和 `User <User_>`_ "
-"元素收藏中选择路径。 也可以从 `User Title Block <User Title Block_>`_ 收藏中选择路径。 "
-"收藏目录可以在本地的硬盘，普通用户，或本地服务器中选择，对于公司来说是常见的 。"
+"QElectroTech 允许选择 `QET（通用） <QET (Common)_>`_ 和 `用户 <User_>`_ 元件集合的路径。也可以选择 "
+"`用户图框 <User Title Block_>`_ 集合的路径。集合目录可以位于本地硬盘、共享用户目录或本地服务器上（常用于公司环境）。"
 
 #: ../../source/users/preferences/settings_element.rst:19
 msgid ""
 "The default element collection paths depend on the installation settings "
 "chosen during the installation process."
-msgstr "默认元件集合路径取决于安装过程中选择的安装设置。"
+msgstr "默认的元件集合路径取决于安装过程中所选的安装设置。"
 
 #: ../../source/users/preferences/settings_element.rst:22
 msgid "Example"
@@ -55,7 +54,7 @@ msgstr "示例"
 
 #: ../../source/users/preferences/settings_element.rst
 msgid "QET collection"
-msgstr "QET 收藏"
+msgstr "QET 集合"
 
 #: ../../source/users/preferences/settings_element.rst
 msgid "Windows"
@@ -75,11 +74,11 @@ msgstr "``/usr/share/qelectrotech/elements``"
 
 #: ../../source/users/preferences/settings_element.rst
 msgid "Mac"
-msgstr "麦克"
+msgstr "Mac"
 
 #: ../../source/users/preferences/settings_element.rst
 msgid "User collection"
-msgstr "用户收藏"
+msgstr "用户集合"
 
 #: ../../source/users/preferences/settings_element.rst:33
 msgid "``C/users/user_name/Application Data/qet/elements``"
@@ -91,40 +90,40 @@ msgstr "``/Home/user_name/QElectroTech/collections/elements``"
 
 #: ../../source/users/preferences/settings_element.rst:38
 msgid "For changing the element collection paths of QElectroTech:"
-msgstr "用于修改 QElectroTech 的元件集合路径："
+msgstr "要更改 QElectroTech 的元件集合路径："
 
 #: ../../source/users/preferences/settings_element.rst:40
 #: ../../source/users/preferences/settings_element.rst:57
 msgid "`Display`_ QElectroTech settings PopUP window."
-msgstr "`显示 <Display_>`_ QElectroTech设置 PopUP 窗口。"
+msgstr "`显示 <Display_>`_ QElectroTech 设置弹出窗口。"
 
 #: ../../source/users/preferences/settings_element.rst:41
 #: ../../source/users/preferences/settings_element.rst:58
 msgid "Go to **Elements** section."
-msgstr "转到 **元素** 部分。"
+msgstr "转到 **元件** 部分。"
 
 #: ../../source/users/preferences/settings_element.rst:42
 msgid ""
 "Search and choose the folder directory from the `QET (Common)`_ and `User`_ "
 "element collection at the **Collection of elements** section."
 msgstr ""
-"搜索并选择 `QET(Common) <QET (Common)_>`_ 和 `User <User_>`_ 元素收藏中 **元件集合** "
-"部分的文件夹目录。"
+"在 **元件集合** 部分中，搜索并选择 `QET（通用） <QET (Common)_>`_ 和 `用户 <User_>`_ "
+"元件集合所在的文件夹目录。"
 
 #: ../../source/users/preferences/settings_element.rst:43
 #: ../../source/users/preferences/settings_element.rst:60
 msgid ""
 "Press **OK** button to save the configuration changes and close settings "
 "PopUP window."
-msgstr "按 **OK** 按钮保存配置更改和关闭设置 PopUP 窗口。"
+msgstr "按 **OK** 按钮保存配置更改并关闭设置弹出窗口。"
 
 #: ../../source/users/preferences/settings_element.rst:47
 msgid "QElectroTech has to be restarted to implement the changes."
-msgstr "QElectroTech必须重新启动以实施更改。"
+msgstr "必须重新启动 QElectroTech，更改才会生效。"
 
 #: ../../source/users/preferences/settings_element.rst:50
 msgid "Element management settings"
-msgstr "元素管理设置"
+msgstr "元件管理设置"
 
 #: ../../source/users/preferences/settings_element.rst:52
 msgid ""
@@ -132,15 +131,15 @@ msgid ""
 " this way; when a new `element`_ is created, QElectroTech defines "
 "automatically this `element property`_."
 msgstr ""
-"QElectroTech 提供了预先定义 `元素作者 <element author_>`_ 的可能性，通过这种方式;当创建新的 `元件 "
-"<element_>`_ 时，QElectroTech 自动定义此 `元素属性 <element property_>`_。"
+"QElectroTech 提供了预先定义 `元件作者 <element author_>`_ 的功能。这样，当创建新的 `元件 <element_>`_"
+" 时，QElectroTech 会自动定义该 `元件属性 <element property_>`_ 。"
 
 #: ../../source/users/preferences/settings_element.rst:55
 msgid "For pre-defining the `element author`_ information:"
-msgstr "对于预定义 `元素作者 <element author_>`_ 信息："
+msgstr "要预定义 `元件作者 <element author_>`_ 信息："
 
 #: ../../source/users/preferences/settings_element.rst:59
 msgid ""
 "Defines the element author and license information at the text box from "
 "**Elements management** section."
-msgstr "定义 **Elements 管理** 部分文本框中的元素作者和许可信息。"
+msgstr "在 **元件管理** 部分的文本框中定义元件作者和许可信息。"

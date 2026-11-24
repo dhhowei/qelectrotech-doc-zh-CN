@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/project/properties/new_folio/folio_referencing.rst:5
 msgid "Folio referencing properties"
-msgstr "Folio 引用属性"
+msgstr "图幅引用属性"
 
 #: ../../source/users/project/properties/new_folio/folio_referencing.rst:7
 msgid ""
@@ -31,9 +31,9 @@ msgid ""
 "`conductor`_ can be at one `folio`_ and the continuation at a different "
 "`folio`_."
 msgstr ""
-"QElectroTech 允许创建多功能的策略 `图幅 <folios_>`_ 中，仅包含 `计划 <schema_>`_ 代表每个 `图幅 "
-"<folio_>`_。这意味着： `导体 <conductor_>`_ 可能是一个 `图幅 <folio_>`_ 和以不同方式继续 `图幅 "
-"<folio_>`_。"
+"QElectroTech 允许创建包含多个 `图幅 <folios_>`_ 的原理图，每个 `图幅 <folio_>`_ 只呈现 `原理图 "
+"<schema_>`_ 的一部分。这意味着 `导体 <conductor_>`_ 的一部分可以位于一个 `图幅 <folio_>`_ 中，而在另一个 "
+"`图幅 <folio_>`_ 中延续。"
 
 #: ../../source/users/project/properties/new_folio/folio_referencing.rst:11
 msgid ""
@@ -44,45 +44,45 @@ msgid ""
 " defined by the user at **Folio referencing** tab from **New Folio** section"
 " of the `project properties`_."
 msgstr ""
-"QElectroTech 提供了folio 参考元素，以说明从何处 `导体 <conductor_>`_ 这些东西会飞到哪里 `元件 "
-"<elements_>`_ 可以在 `工作区 <workspace_>`_ 从 `图幅 <folio_>`_ "
-"关于链接的folio引用元素的一些信息。应当显示的信息可由用户定义。 **Folio 参考** 选项卡 **新组合** 报告 `项目属性 "
-"<project properties_>`_。"
+"QElectroTech 提供了图幅引用元件，用于指示 `导体 <conductor_>`_ 来自何处或去向何方。这些 `元件 "
+"<elements_>`_ 可以在 `工作区 <workspace_>`_ 的 `图幅 <folio_>`_ "
+"中显示有关所链接图幅引用元件的一些信息。应显示哪些信息，可由用户在 `项目属性 <project properties_>`_ 的 **新建图幅** "
+"部分的 **图幅引用** 标签页中定义。"
 
 #: ../../source/users/project/properties/new_folio/folio_referencing.rst:18
 msgid ""
 "For more information about folio referencing, refer to `Reference folio "
 "following`_ and `Previous reference folio`_."
 msgstr ""
-"有关folio参考物的更多信息，请参见 `后面的参考物 <Reference folio following_>`_ 和 `之前的参考物 "
-"<Previous reference folio_>`_。"
+"有关图幅引用的更多信息，请参阅 `后一参考图幅 <Reference folio following_>`_ 和 `前一参考图幅 <Previous "
+"reference folio_>`_ 。"
 
 #: ../../source/users/project/properties/new_folio/folio_referencing.rst:24
 msgid "Figure: Project folio referencing properties window"
-msgstr "图：Folio 项目属性引用窗口"
+msgstr "图：项目图幅引用属性窗口"
 
 #: ../../source/users/project/properties/new_folio/folio_referencing.rst:26
 msgid "To define folio referencing Label:"
-msgstr "要定义标注符的缩写："
+msgstr "要定义图幅引用标签："
 
 #: ../../source/users/project/properties/new_folio/folio_referencing.rst:28
 msgid "`Display`_ project properties PopUP window."
-msgstr "`显示 <Display_>`_ 项目属性 PopUP 窗口。"
+msgstr "`显示 <Display_>`_ 项目属性弹出窗口。"
 
 #: ../../source/users/project/properties/new_folio/folio_referencing.rst:29
 msgid "Go to **New folio** section."
-msgstr "转到 **新folio** 部分。"
+msgstr "转到 **新建图幅** 部分。"
 
 #: ../../source/users/project/properties/new_folio/folio_referencing.rst:30
 msgid "Go to **Folio referencing** tab."
-msgstr "转到 **Folio 引用** 标签 。"
+msgstr "转到 **图幅引用** 标签页。"
 
 #: ../../source/users/project/properties/new_folio/folio_referencing.rst:31
 msgid "Define the desired parameters for each field."
-msgstr "定义每个字段的理想参数。"
+msgstr "为每个字段设置所需的参数。"
 
 #: ../../source/users/project/properties/new_folio/folio_referencing.rst:32
 msgid ""
 "Press **OK** button to save the configuration changes and close project "
 "properties PopUP window."
-msgstr "按 **OK** 按钮保存配置更改和关闭项目属性 PopUP 窗口。"
+msgstr "按 **OK** 按钮保存配置更改并关闭项目属性弹出窗口。"

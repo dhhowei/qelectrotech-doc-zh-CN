@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/schema/picture.rst:5
 msgid "Working with pictures"
-msgstr "图片工作"
+msgstr "使用图片"
 
 #: ../../source/users/schema/picture.rst:7
 msgid ""
@@ -30,12 +30,12 @@ msgid ""
 "format from the picture should be **PNG**, **JPG**, **JPEG**, **SVG** or "
 "**Bitmap**."
 msgstr ""
-"QElectroTech 允许在 `图幅 <folios_>`_ 上添加和工作图片，图片的格式应为 **PNG**, **JPG**, "
-"**JPEG**, **SVG** 或 **Bitmap**."
+"QElectroTech 允许在 `图幅 <folios_>`_ 中添加和使用图片。图片格式应为 "
+"**PNG**、**JPG**、**JPEG**、**SVG** 或 **Bitmap**。"
 
 #: ../../source/users/schema/picture.rst:13
 msgid "Figure: Cover Arduino project"
-msgstr "图：覆盖Arduino项目"
+msgstr "图：Arduino 项目封面"
 
 #: ../../source/users/schema/picture.rst:16
 msgid "Add picture"
@@ -45,46 +45,46 @@ msgstr "添加图片"
 msgid ""
 "Select the icon |insert-image| from `toolbar`_ to open the search file PopUP"
 " window."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |insert-image| 打开搜索文件 PopUP 窗口。"
+msgstr "从 `工具栏 <toolbar_>`_ 中选择 |insert-image| 图标，以打开文件选择弹出窗口。"
 
 #: ../../source/users/schema/picture.rst:23
 msgid "insert-image"
-msgstr "插入图像"
+msgstr "插入图片图标"
 
 #: ../../source/users/schema/picture.rst:19
 msgid "Select the picture at the corresponding directory."
-msgstr "在相应的目录中选择图片。"
+msgstr "在相应目录中选择图片。"
 
 #: ../../source/users/schema/picture.rst:20
 msgid "Press **Open** button to add the picture."
-msgstr "按 **打开** 按钮添加图片 。"
+msgstr "按 **打开** 按钮添加图片。"
 
 #: ../../source/users/schema/picture.rst:21
 msgid ""
 "Left click on the `workspace`_ area where the picture should be placed."
-msgstr "左键点击 `工作区 <workspace_>`_ 区域，将图片放置在其中 。"
+msgstr "在要放置图片的 `工作区 <workspace_>`_ 区域单击。"
 
 #: ../../source/users/schema/picture.rst:27
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Add**."
-msgstr "如果 `工具栏 <toolbar_>`_ 不显示，可以从 **设置 > 显示 > Add** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 添加** 将其显示出来。"
 
 #: ../../source/users/schema/picture.rst:30
 msgid "Resize picture"
-msgstr "更改图片大小"
+msgstr "调整图片大小"
 
 #: ../../source/users/schema/picture.rst:32
 msgid "Right click on the picture."
-msgstr "右键点击图片 。"
+msgstr "右键单击图片。"
 
 #: ../../source/users/schema/picture.rst:33
 msgid "Select the option **Edit the image** to display the picture editor."
-msgstr "选择选项 **编辑图像** 以显示图片编辑器 。"
+msgstr "选择 **编辑图像** 选项，以显示图片编辑器。"
 
 #: ../../source/users/schema/picture.rst:34
 msgid "Choose the size scale desired."
-msgstr "选择想要的大小尺度 。"
+msgstr "选择所需的大小比例。"
 
 #: ../../source/users/schema/picture.rst:35
 msgid "Press **Apply** button to change the picture size."
@@ -98,7 +98,7 @@ msgstr "图：QElectroTech 图片编辑器"
 msgid ""
 "The picture editor can also be displayed with double click on the picture "
 "using ``Ctrl + e`` shortcut keyboard."
-msgstr "图片编辑器也可以使用 ``Ctrl + e`` 快捷键盘双击显示图片。"
+msgstr "也可以双击图片或使用 ``Ctrl + e`` 快捷键来显示图片编辑器。"
 
 #: ../../source/users/schema/picture.rst:47
 msgid "Move picture"
@@ -106,14 +106,14 @@ msgstr "移动图片"
 
 #: ../../source/users/schema/picture.rst:49
 msgid "Left click on the picture."
-msgstr "左键点击图片 。"
+msgstr "左键单击图片。"
 
 #: ../../source/users/schema/picture.rst:50
 msgid "Move the picture without releasing the button."
-msgstr "移动图片而不释放按钮 。"
+msgstr "按住鼠标按键移动图片。"
 
 #: ../../source/users/schema/picture.rst:54
 msgid ""
 "The position from the picture can be locked to prevent involuntary "
 "movements, go to picture editor and check the **Lock Position** button."
-msgstr "图片中的位置可以被锁定以防止非自愿移动，去图片编辑器并检查 **洛克位置** 按钮。"
+msgstr "可以锁定图片的位置以避免意外移动；请转到图片编辑器，勾选 **锁定位置** 按钮。"

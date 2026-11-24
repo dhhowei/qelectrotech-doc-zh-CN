@@ -32,53 +32,53 @@ msgid ""
 " can be the complete `text field`_ content or part of the `text field`_ "
 "content."
 msgstr ""
-"QElectroTech 提供了搜索和自动替换 `文本字段 <text field_>`_ 内容的特性。此选项允许替换包含字符串搜索的 `文本字段 "
-"<text field_>`_ 的全部内容。字符串搜索可以是完整的 `文本字段 <text field_>`_ 内容或 `文本字段 <text "
-"field_>`_ 内容的一部分。"
+"QElectroTech 提供自动搜索并替换 `文本字段 <text field_>`_ 内容的功能。此选项可替换包含所搜索字符串的 `文本字段 "
+"<text field_>`_ 的全部内容。所搜索的字符串可以是 `文本字段 <text field_>`_ 的全部内容，也可以是 `文本字段 "
+"<text field_>`_ 内容的一部分。"
 
 #: ../../source/users/schema/replace/text_field_replace.rst:14
 msgid ""
 "If the `search menu`_ is not displayed, it can be displayed from **Edit > "
 "Search / Replace** menu item."
-msgstr "如果不显示 `搜索菜单 <search menu_>`_，可以从 **编辑 > 搜索/替换** 菜单项中显示。"
+msgstr "如果 `搜索菜单 <search menu_>`_ 未显示，可通过 **编辑 > 搜索/替换** 菜单项将其显示出来。"
 
 #: ../../source/users/schema/replace/text_field_replace.rst:17
 msgid "To replace `text field`_ content over a `project`_:"
-msgstr "将 `文本字段 <text field_>`_ 内容替换为 `项目 <project_>`_ :"
+msgstr "要在 `项目 <project_>`_ 中替换 `文本字段 <text field_>`_ 内容："
 
 #: ../../source/users/schema/replace/text_field_replace.rst:19
 msgid "`Search`_ the string which should be replaced (Ex.: Folio)."
-msgstr "`搜索 <Search_>`_ 应该替换的字符串(ex: Folio)."
+msgstr "`搜索 <Search_>`_ 要替换的字符串（例如：Folio）。"
 
 #: ../../source/users/schema/replace/text_field_replace.rst:24
 #: ../../source/users/schema/replace/text_field_replace.rst:31
 msgid "Figure: QElectroTech search menu"
-msgstr "图：QElectroTech搜索菜单"
+msgstr "图：QElectroTech 搜索菜单"
 
 #: ../../source/users/schema/replace/text_field_replace.rst:26
 msgid ""
 "Define the new text content at the replace text box (Ex.: Sheet reserve)."
-msgstr "在替换文本框(Ex: Sheet reserve)中定义新的文本内容。"
+msgstr "在替换文本框中定义新的文本内容（例如：Sheet reserve）。"
 
 #: ../../source/users/schema/replace/text_field_replace.rst:33
 msgid ""
 "Select at the objects tree the `text fields`_ which content should be "
 "replaced."
-msgstr "在对象树上选择应当替换的 `文本字段 <text fields_>`_ 。"
+msgstr "在对象树中选择需要替换内容的 `文本字段 <text fields_>`_ 。"
 
 #: ../../source/users/schema/replace/text_field_replace.rst:34
 msgid ""
 "Press **Replace all** button to replace the content from the selected `text "
 "fields`_."
-msgstr "按 **替换全部** 按钮以替换所选 `文本字段 <text fields_>`_ 的内容。"
+msgstr "按 **替换全部** 按钮替换所选 `文本字段 <text fields_>`_ 的内容。"
 
 #: ../../source/users/schema/replace/text_field_replace.rst:35
 msgid "Press actualize |view-refresh| button to refresh the search."
-msgstr "按下实际 |view-refresh| 按钮刷新搜索。"
+msgstr "按刷新 |view-refresh| 按钮以刷新搜索。"
 
 #: ../../source/users/schema/replace/text_field_replace.rst:50
 msgid "view-refresh"
-msgstr "重新视图"
+msgstr "刷新视图"
 
 #: ../../source/users/schema/replace/text_field_replace.rst:39
 msgid ""
@@ -87,21 +87,21 @@ msgid ""
 "`workspace`_. The buttons |go-top| and |go-bottom| can be used to display "
 "the previous and next `text field`_ from the search result."
 msgstr ""
-"替换动作也可以被对象应用。 按钮 **替换** 将只在 `工作区 <workspace_>`_ 上将动作应用到显示的对象。 按钮 |go-top| 和 "
-"|go-bottom| 可用于显示搜索结果中上下 `文本字段 <text field_>`_ 。"
+"替换操作也可以逐个对象应用。**替换** 按钮仅将操作应用到 `工作区 <workspace_>`_ 中显示的对象。|go-top| 和 |go-"
+"bottom| 按钮可用于显示搜索结果中的上一个和下一个 `文本字段 <text field_>`_ 。"
 
 #: ../../source/users/schema/replace/text_field_replace.rst:49
 msgid "go-top"
-msgstr "上进"
+msgstr "上一项"
 
 #: ../../source/users/schema/replace/text_field_replace.rst:48
 msgid "go-bottom"
-msgstr "向下移动"
+msgstr "下一项"
 
 #: ../../source/users/schema/replace/text_field_replace.rst:45
 msgid ""
 "The replacing feature from QElectroTech replaces the `text field`_ content "
 "completely. Changing the `text field`_ content partly cannot be done."
 msgstr ""
-"QElectroTech 的替换功能将完全替换 `文本字段 <text field_>`_ 内容。 部分无法修改 `文本字段 <text "
-"field_>`_ 内容 。"
+"QElectroTech 的替换功能会完整替换 `文本字段 <text field_>`_ 的内容，无法只更改 `文本字段 <text "
+"field_>`_ 内容的一部分。"

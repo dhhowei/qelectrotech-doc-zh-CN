@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/preferences/new_project/folio_referencings_settings.rst:5
 msgid "Folio referencing settings"
-msgstr "Folio 引用设置"
+msgstr "图幅引用设置"
 
 #: ../../source/users/preferences/new_project/folio_referencings_settings.rst:7
 msgid ""
@@ -31,9 +31,9 @@ msgid ""
 " user avoiding to define many `project properties`_ each time that the user "
 "`creates new projects`_."
 msgstr ""
-"QElectroTech 从应用程序中提供了从数据中存储一些 `项目属性 <project properties_>`_ "
-"由用户预先定义的选项。该特性允许用户每次在用户 `创建新项目 <project properties_>`_ 时避免定义许多 `项目属性 "
-"<creates new projects_>`_ 。"
+"QElectroTech 提供了将用户预定义的一些 `项目属性 <project properties_>`_ "
+"存储到应用程序数据中的选项。此功能让用户每次 `创建新项目 <creates new projects_>`_ 时，无需重复定义大量 `项目属性 "
+"<project properties_>`_ 。"
 
 #: ../../source/users/preferences/new_project/folio_referencings_settings.rst:11
 msgid ""
@@ -41,20 +41,20 @@ msgid ""
 "pre-defining the formula which should define the label variable from "
 "`Reference folio following`_ and `Previous reference folio`_."
 msgstr ""
-"那个 **Folio 参考** 选项卡 **新项目** 设置部分允许预先定义公式，该公式应当定义标签变量。 `以下参考框 <Reference "
-"folio following_>`_ 和 `上一个参考文件 <Previous reference folio_>`_。"
+"**新项目** 设置部分中的 **图幅引用** 标签页允许预先定义用于指定 `后一参考图幅 <Reference folio following_>`_"
+" 和 `前一参考图幅 <Previous reference folio_>`_ 标签变量的公式。"
 
 #: ../../source/users/preferences/new_project/folio_referencings_settings.rst:17
 msgid "Figure: QElectroTech New project folio referencing settings"
-msgstr "图：QElectroTech 新建项目 folio 引用设置"
+msgstr "图：QElectroTech 新建项目图幅引用设置"
 
 #: ../../source/users/preferences/new_project/folio_referencings_settings.rst:19
 msgid "To define folio referencing settings:"
-msgstr "定义folio 引用设置："
+msgstr "要定义图幅引用设置："
 
 #: ../../source/users/preferences/new_project/folio_referencings_settings.rst:21
 msgid "`Display`_ QElectroTech settings PopUP window."
-msgstr "`显示 <Display_>`_ QElectroTech设置 PopUP 窗口。"
+msgstr "`显示 <Display_>`_ QElectroTech 设置弹出窗口。"
 
 #: ../../source/users/preferences/new_project/folio_referencings_settings.rst:22
 msgid "Go to **New project** section."
@@ -62,17 +62,17 @@ msgstr "转到 **新项目** 部分。"
 
 #: ../../source/users/preferences/new_project/folio_referencings_settings.rst:23
 msgid "Go to **Folio referencing** tab."
-msgstr "转到 **Folio 引用** 标签 。"
+msgstr "转到 **图幅引用** 标签页。"
 
 #: ../../source/users/preferences/new_project/folio_referencings_settings.rst:24
 msgid "Define the desired parameters for each field."
-msgstr "定义每个字段的理想参数。"
+msgstr "为每个字段设置所需的参数。"
 
 #: ../../source/users/preferences/new_project/folio_referencings_settings.rst:25
 msgid ""
 "Press **OK** button to save the configuration changes and close settings "
 "PopUP window."
-msgstr "按 **OK** 按钮保存配置更改和关闭设置 PopUP 窗口。"
+msgstr "按 **OK** 按钮保存配置更改并关闭设置弹出窗口。"
 
 #: ../../source/users/preferences/new_project/folio_referencings_settings.rst:29
 msgid ""
@@ -81,6 +81,6 @@ msgid ""
 "creation`_ at `project properties`_. The folio referencing properties can be"
 " found at `Folio referencing tab`_ from `New folio`_ section."
 msgstr ""
-"在 QElectroTech 设置中定义的所有预定义的 folio 引用属性将在 PopuUP 窗口中自动定义 `项目创建 <project "
-"creation_>`_ 时间 `项目属性 <project properties_>`_。在 `Folio 引用标签 <Folio "
-"referencing tab_>`_ 从 `新组合 <New folio_>`_ 节。"
+"在 QElectroTech 设置弹出窗口中预定义的所有图幅引用属性，都会在 `项目创建 <project creation_>`_ 时自动填入 "
+"`项目属性 <project properties_>`_ 。图幅引用属性可在 `新建图幅 <New folio_>`_ 部分的 `图幅引用标签页 "
+"<Folio referencing tab_>`_ 中找到。"

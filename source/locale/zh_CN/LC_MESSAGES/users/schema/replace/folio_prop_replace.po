@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:5
 msgid "Replace folio property"
-msgstr "替换财产"
+msgstr "替换图幅属性"
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:7
 msgid ""
@@ -30,52 +30,52 @@ msgid ""
 "an specific property for replacing `folio properties`_ without the need of "
 "opening the folio properties PopUp window."
 msgstr ""
-"QElectroTech 提供了自动搜索 `图幅 <folios_>`_ 的特性，带有用于替换 `folio属性 <folio "
-"properties_>`_ 的特定属性，而不需要打开folio属性波普窗口。"
+"QElectroTech 提供自动搜索具有特定属性的 `图幅 <folios_>`_ 的功能，以便替换 `图幅属性 <folio "
+"properties_>`_ ，无需打开图幅属性弹出窗口。"
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:12
 msgid ""
 "If the `search menu`_ is not displayed, it can be displayed from **Edit > "
 "Search / Replace** menu item."
-msgstr "如果不显示 `搜索菜单 <search menu_>`_，可以从 **编辑 > 搜索/替换** 菜单项中显示。"
+msgstr "如果 `搜索菜单 <search menu_>`_ 未显示，可通过 **编辑 > 搜索/替换** 菜单项将其显示出来。"
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:15
 msgid "To replace some `folio properties`_:"
-msgstr "替换一些 `组合属性 <folio properties_>`_ :"
+msgstr "要替换某些 `图幅属性 <folio properties_>`_ ："
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:17
 msgid ""
 "`Search`_ the content which should identify the `folio`_ from which a "
 "property has to be changed."
-msgstr "`搜索 <Search_>`_ 应标明必须改变财产的 `图幅 <folio_>`_ 的内容。"
+msgstr "`搜索 <Search_>`_ 用于标识 `图幅 <folio_>`_ 的内容，该图幅的某个属性需要更改。"
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:22
 msgid "Figure: QElectroTech search menu"
-msgstr "图：QElectroTech搜索菜单"
+msgstr "图：QElectroTech 搜索菜单"
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:24
 msgid ""
 "Press the **Folio** button to display the folio properties PopUp window."
-msgstr "按 **Folio** 按钮显示 folio 属性 PopUp 窗口 。"
+msgstr "按 **图幅** 按钮显示图幅属性弹出窗口。"
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:29
 msgid "Figure: QElectroTech folio properties replace PopUp windows"
-msgstr "图：QElectroTech folio 属性替换弹出窗口"
+msgstr "图：QElectroTech 图幅属性替换弹出窗口"
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:31
 msgid ""
 "Fill the text line box from the `folio properties`_ which should be changed."
-msgstr "从应当更改的 `组合属性 <folio properties_>`_ 中填充文本行框。"
+msgstr "填写 `图幅属性 <folio properties_>`_ 中需要更改的文本行框。"
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:35
 msgid ""
 "QElectroTech also allows deleting and making empty a filled property. Click "
 "the checkbox button located right from the text which should be deleted."
-msgstr "QElectroTech 还允许删除并空置一个已填充的属性。单击位于文本右侧的复选框按钮，该按钮应当删除 。"
+msgstr "QElectroTech 还允许删除已填写的属性并将其清空。单击要删除文本右侧的复选框按钮。"
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:38
 msgid "Press **Accept**."
-msgstr "按 **接受**."
+msgstr "按 **接受** 。"
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:39
 msgid ""
@@ -83,14 +83,14 @@ msgid ""
 "the replace action have to be applied. The selection can be made at the "
 "object tree from the `search menu`_."
 msgstr ""
-"从搜索过程中发现的 `图幅 <folios_>`_ 中，选择必须应用替换动作的 `图幅 <folios_>`_ 。选择可以在 `搜索菜单 <search"
-" menu_>`_ 的对象树上进行。"
+"在搜索过程中找到的 `图幅 <folios_>`_ 中，选择需要应用替换操作的 `图幅 <folios_>`_ 。可在 `搜索菜单 <search "
+"menu_>`_ 的对象树中进行选择。"
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:40
 msgid ""
 "Press **Replace all** button to apply the replace action to all selected "
 "`folios`_."
-msgstr "按 **替换所有** 按钮，将替换动作应用到所有选中 `图幅 <folios_>`_ 。"
+msgstr "按 **替换全部** 按钮，将替换操作应用到所有选中的 `图幅 <folios_>`_ 。"
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:44
 msgid ""
@@ -99,14 +99,14 @@ msgid ""
 "`workspace`_. The buttons |go-top| and |go-bottom| can be used to display "
 "the previous and next `folio`_ from the search result."
 msgstr ""
-"替换动作也可以由 `图幅 <folio_>`_ 应用 `图幅 <folio_>`_。按钮 **替换** 只将动作应用到在 `图幅 <folio_>`_ "
-"显示的 `工作区 <workspace_>`_，按钮 |go-top| 和 |go-bottom| 可以用来显示搜索结果中上一个和下一个 `图幅 "
-"<folio_>`_ 。"
+"替换操作也可以逐个 `图幅 <folio_>`_ 应用（一次处理一个 `图幅 <folio_>`_ ）。**替换** 按钮仅将操作应用到 `工作区 "
+"<workspace_>`_ 中显示的 `图幅 <folio_>`_ 。|go-top| 和 |go-bottom| "
+"按钮可用于显示搜索结果中的上一个和下一个 `图幅 <folio_>`_ 。"
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:49
 msgid "go-top"
-msgstr "上进"
+msgstr "上一项"
 
 #: ../../source/users/schema/replace/folio_prop_replace.rst:48
 msgid "go-bottom"
-msgstr "向下移动"
+msgstr "下一项"

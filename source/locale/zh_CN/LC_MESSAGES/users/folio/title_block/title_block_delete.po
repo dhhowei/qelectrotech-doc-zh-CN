@@ -28,13 +28,14 @@ msgstr "删除图框"
 msgid ""
 "The title blocks templates can only be deleted from `project panel`_. "
 "QElectroTech does not allow deleting templates from any menu item."
-msgstr "图框模板只能从 `项目面板 <project panel_>`_ 中删除。QElectroTech不允许从任何菜单项中删除模板。"
+msgstr "图框模板只能从 `项目面板 <project panel_>`_ 中删除。QElectroTech 不允许从任何菜单项中删除模板。"
 
 #: ../../source/users/folio/title_block/title_block_delete.rst:12
 msgid ""
 "If the `project panel`_ is not displayed, it can be displayed from "
 "**Settings > Display > Projects**."
-msgstr "如果 `项目面板 <project panel_>`_ 没有显示，可以从 **设置 > 显示 > 项目** 显示。"
+msgstr ""
+"如果 `项目面板 <project panel_>`_ 未显示，可从 **Settings > Display > Projects** 中将其显示。"
 
 #: ../../source/users/folio/title_block/title_block_delete.rst:14
 msgid ""
@@ -46,10 +47,10 @@ msgid ""
 "information from QElectroTech \"database\" and in the computer file system, "
 "the information deleted in these \"databases\" can never be recovered."
 msgstr ""
-"重要的是区分 `项目嵌入式收藏 <project embedded collection_>`_ 和 `QET <QET_>`_ 或 `用户 "
-"<User_>`_。`项目嵌入式收藏 <project embedded collection_>`_ "
-"在项目\"数据库\"中，删除项目中的信息不会改变QElectroTech或计算机文件系统中的信息。删除来自 `QET <QET_>`_ 或 `用户 "
-"<User_>`_ 收集的信息会删除QElectroTech\"数据库\"中的信息，在计算机文件系统中，这些\"数据库\"中删除的信息永远无法恢复。"
+"务必区分 `项目内嵌集合 <project embedded collection_>`_ 与 `QET <QET_>`_ 或 `用户 "
+"<User_>`_ 集合。`项目内嵌集合 <project embedded collection_>`_ "
+"位于项目的“数据库”中，删除项目中的信息不会改变 QElectroTech 或计算机文件系统中的任何内容。删除 `QET <QET_>`_ 或 `用户 "
+"<User_>`_ 集合中的信息会删除 QElectroTech“数据库”以及计算机文件系统中的信息，这些“数据库”中被删除的信息将永远无法恢复。"
 
 #: ../../source/users/folio/title_block/title_block_delete.rst:21
 msgid "Delete title block from project"
@@ -59,46 +60,46 @@ msgstr "从项目中删除图框"
 msgid ""
 "Right click on one title block template from `project embedded collection`_ "
 "which should be deleted."
-msgstr "从 `项目嵌入式收藏 <project embedded collection_>`_ 右键点击一个图框模板，应当删除。"
+msgstr "右键单击 `项目内嵌集合 <project embedded collection_>`_ 中要删除的图框模板。"
 
 #: ../../source/users/folio/title_block/title_block_delete.rst:24
 msgid ""
 "Click the option **Delete this template** to delete the template form "
 "project \"database\"."
-msgstr "单击选项 **删除此模板** 删除模板格式项目\"数据库\"."
+msgstr "单击选项 **Delete this template** ，从项目“数据库”中删除该模板。"
 
 #: ../../source/users/folio/title_block/title_block_delete.rst:29
 #: ../../source/users/folio/title_block/title_block_delete.rst:40
 msgid "Figure: QElectroTech Project panel"
-msgstr "图：QElectroTech项目面板"
+msgstr "图：QElectroTech 项目面板"
 
 #: ../../source/users/folio/title_block/title_block_delete.rst:32
 msgid "Delete title block from collection"
-msgstr "从收藏中删除图框"
+msgstr "从集合中删除图框"
 
 #: ../../source/users/folio/title_block/title_block_delete.rst:34
 msgid ""
 "Right click on the title block template from `QET`_ or `User`_ collections "
 "which should be deleted."
-msgstr "从 `QET <QET_>`_ 或 `User <User_>`_ 收藏中右键点击图框模板，应当删除。"
+msgstr "右键单击 `QET <QET_>`_ 或 `用户 <User_>`_ 集合中要删除的图框模板。"
 
 #: ../../source/users/folio/title_block/title_block_delete.rst:35
 msgid ""
 "Click the option **Delete this template** to delete the template form "
 "QElectroTech and from the file system."
-msgstr "单击选项 **删除此模板**,删除模板格式QElectroTech以及文件系统。"
+msgstr "单击选项 **Delete this template** ，以从 QElectroTech 和文件系统中删除该模板。"
 
 #: ../../source/users/folio/title_block/title_block_delete.rst:42
 msgid "Press **YES** to confirm the action."
-msgstr "按 **YES** 确认动作。"
+msgstr "按 **YES** 确认该操作。"
 
 #: ../../source/users/folio/title_block/title_block_delete.rst:47
 msgid "Figure: QElectroTech delete title block confirmation PopUP window"
-msgstr "图：QElectroTech 删除图框确认 PopUP 窗口"
+msgstr "图：QElectroTech 删除图框确认弹出窗口"
 
 #: ../../source/users/folio/title_block/title_block_delete.rst:51
 msgid ""
 "The template deleted from one collection cannot be recovered, it will be "
 "deleted from the QElectroTech \"database\" and from the computer file "
 "system. Be sure about the operation."
-msgstr "从一个收藏中删除的模板无法回收，将从 QElectroTech \"数据库\" 和计算机文件系统中删除。 请确定操作情况 。"
+msgstr "从一个集合中删除的模板将无法恢复，它会从 QElectroTech“数据库”以及计算机文件系统中删除。请确认此操作。"

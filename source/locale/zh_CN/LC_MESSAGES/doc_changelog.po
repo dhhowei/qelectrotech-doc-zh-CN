@@ -26,17 +26,17 @@ msgstr "文档更新日志"
 
 #: ../../source/doc_changelog.rst:8
 msgid "QET Documentation Changelog 0.9 (2025-12-18)"
-msgstr "QET 文档更改log 0.9 (2025-12-18)"
+msgstr "QET 文档更新日志 0.9（2025-12-18）"
 
 #: ../../source/doc_changelog.rst:10
 msgid ""
 "Adding Windows build instructions (Huge Thanks to  `ssweber`_` for the "
 "original Gist)"
-msgstr "添加 Windows 构建指令 (Huge 感谢 `ssweber <ssweber_>`_` 原始 Gist)"
+msgstr "新增 Windows 构建说明（非常感谢 `ssweber`_` 提供的原始 Gist）"
 
 #: ../../source/doc_changelog.rst:13 ../../source/doc_changelog.rst:48
 msgid "Doc"
-msgstr "医生"
+msgstr "文档"
 
 #: ../../source/doc_changelog.rst:14
 msgid ""
@@ -44,73 +44,74 @@ msgid ""
 "the former isn't updated anymore. The later is updated, is used for the "
 "python + pip doc and has built-in support for dark theme.)"
 msgstr ""
-"切换自使用 pirtap4 主题到 furo sphinx 主题 。 (Reason 表示前者不再更新，后面更新，用于 python + pip doc"
-" 并有内置支持黑暗主题 。 )"
+"从 bootstrap4 主题切换到 furo sphinx 主题。（原因：前者已不再更新；后者仍在维护，被用于 Python 与 pip "
+"文档，并内置深色主题支持。）"
 
 #: ../../source/doc_changelog.rst:15
 msgid "Use sphinx-design extension to simplify appearance of welcome page."
-msgstr "使用狮身人面像设计扩展来简化欢迎页的外观。"
+msgstr "使用 sphinx-design 扩展来简化欢迎页的外观。"
 
 #: ../../source/doc_changelog.rst:18 ../../source/doc_changelog.rst:56
 msgid "Feature"
-msgstr "特性"
+msgstr "功能"
 
 #: ../../source/doc_changelog.rst:20
 msgid "Added Dev docs on how to build the app"
-msgstr "添加关于如何构建应用程序的 Dev 文件"
+msgstr "新增关于如何构建应用程序的开发者文档"
 
 #: ../../source/doc_changelog.rst:21
 msgid ""
 "Added GitHub CI to automatically build, publish and licence files on "
 "push/merge/ pull request to branch. Using Sphinx-note's page action"
-msgstr "添加 GitHub CI 以自动构建、 发布和许可证文件 。 使用 Sphinx- Note 的页面动作"
+msgstr ""
+"新增 GitHub CI，在向分支推送、合并或发起拉取请求时自动构建、发布并生成许可证文件，使用 Sphinx-note 的 page action。"
 
 #: ../../source/doc_changelog.rst:22
 msgid ""
 "Added app changelog in developer/app_changelog.rst + Documentation changelog"
-msgstr "在开发者文档的 app_changelog.rst 和文档更新日志中添加应用更新日志"
+msgstr "在 developer/app_changelog.rst 中加入应用更新日志，并新增文档更新日志"
 
 #: ../../source/doc_changelog.rst:23
 msgid "Created doc hub on homepage instead of going directly in user doc"
-msgstr "在主页上创建了 Doc 中枢，而不是直接在用户 doc 中运行"
+msgstr "在首页创建文档中心，而不再直接进入用户文档"
 
 #: ../../source/doc_changelog.rst:24
 msgid "Added automatic Doxygen doc support"
-msgstr "添加自动 Doxygen doc 支持"
+msgstr "新增自动 Doxygen 文档支持"
 
 #: ../../source/doc_changelog.rst:25
 msgid "Add spellchecking system on deploy"
-msgstr "部署时添加拼写检查系统"
+msgstr "部署时增加拼写检查"
 
 #: ../../source/doc_changelog.rst:29 ../../source/doc_changelog.rst:41
 msgid "Bugfix"
-msgstr "错误修正"
+msgstr "缺陷修复"
 
 #: ../../source/doc_changelog.rst:31
 msgid "Update User docs"
-msgstr "更新用户文件"
+msgstr "更新用户文档"
 
 #: ../../source/doc_changelog.rst:32
 msgid "Update low-res icons/images"
-msgstr "更新低级图标/图像"
+msgstr "更新低分辨率图标/图片"
 
 #: ../../source/doc_changelog.rst:33
 msgid ""
 "Create a (proprer) directory structure to switch from a messy structure to "
 "an organized one (especially for images)"
-msgstr "创建一个( proprer) 目录结构，从乱七八糟的结构切换为有条理的结构( 特别是图像)"
+msgstr "创建（规范的）目录结构，将杂乱的结构改为有条理的结构（尤其是图片）"
 
 #: ../../source/doc_changelog.rst:38
 msgid "QET Documentation Changelog 0.8 (2020-03-22)"
-msgstr "QET 文档更改log 0.8 (2020-03-22)"
+msgstr "QET 文档更新日志 0.8（2020-03-22）"
 
 #: ../../source/doc_changelog.rst:43
 msgid "Documentation re-structured to minimize the size using common figures."
-msgstr "文档重新编排，以便使用共同数字将大小最小化。"
+msgstr "重新组织文档结构，通过复用公共插图来减小体积。"
 
 #: ../../source/doc_changelog.rst:44
 msgid "Some grammatical corrections."
-msgstr "一些语法更正。"
+msgstr "修正了一些语法错误。"
 
 #: ../../source/doc_changelog.rst:50
 msgid ""
@@ -119,12 +120,12 @@ msgid ""
 "\"{path}{language}/{basename}{ext}\"``) for the automatic selection of "
 "figures depending on the language."
 msgstr ""
-"为国际化准备的文档，文件结构和新的文件名定义(``figure_languge_filename = "
-"\"{path}{language}/{basename}{ext}\"``),用于根据语言自动选择数字。"
+"文档已支持国际化：采用新的文件结构和文件名定义（``figure_languge_filename = "
+"\"{path}{language}/{basename}{ext}\"``），以便根据语言自动选择图片。"
 
 #: ../../source/doc_changelog.rst:51
 msgid "Official icons added in the images."
-msgstr "图像中增加了官方图标。"
+msgstr "在图片中加入了官方图标。"
 
 #: ../../source/doc_changelog.rst:52
 msgid "test"
@@ -132,19 +133,19 @@ msgstr "测试"
 
 #: ../../source/doc_changelog.rst:58
 msgid "Forum and Home page links added to the documentation menu."
-msgstr "论坛和主页链接添加到文档菜单中。"
+msgstr "在文档菜单中添加了论坛和主页链接。"
 
 #: ../../source/doc_changelog.rst:59
 msgid "New theme used (sphinxbootstrap4theme)."
-msgstr "使用的新主题( sphinxbootstrap4主题) 。"
+msgstr "改用新主题（sphinxbootstrap4theme）。"
 
 #: ../../source/doc_changelog.rst:60
 msgid "Some new information added"
-msgstr "增加了一些新资料"
+msgstr "新增了一些信息"
 
 #: ../../source/doc_changelog.rst:61
 msgid "pdf version created and download link added to index page."
-msgstr "pdf版本创建并下载链接添加到索引页面。"
+msgstr "创建了 PDF 版本，并在索引页添加了下载链接。"
 
 #: ../../source/doc_changelog.rst:66
 msgid "https://github.com/ssweber"

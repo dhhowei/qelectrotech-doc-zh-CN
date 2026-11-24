@@ -31,12 +31,12 @@ msgid ""
 "QElectroTech display an automatic message to `save project`_ if any "
 "modification has been created on it."
 msgstr ""
-"用户可以随时关闭一个 `项目 <project_>`_ 。 如果当前项目在关闭项目前想要保存，请参考 `保存 <save_>`_ 节。 "
-"即使如此，QElectroTech 也会显示一个自动消息给 `save project <save project_>`_，如果已经创建任何修改 。"
+"用户可以随时关闭 `项目 <project_>`_ 。如果希望在关闭项目前保存当前工作，请参阅 `保存 <save_>`_ "
+"一节。即便如此，只要对项目做了任何修改，QElectroTech 都会自动显示一条提示，询问是否要 `保存项目 <save project_>`_ 。"
 
 #: ../../source/users/project/close_project.rst:14
 msgid "Figure: QElectroTech Save message"
-msgstr "图：QElectroTech 保存信件"
+msgstr "图：QElectroTech 保存消息"
 
 #: ../../source/users/project/close_project.rst:16
 msgid ""
@@ -44,15 +44,15 @@ msgid ""
 "`projects panel`_, `projects tab bar`_ and using the corresponding keyboard "
 "shortcut."
 msgstr ""
-"关闭当前项目可以从 `菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_，`项目面板 <projects "
-"panel_>`_，`项目标签栏 <projects tab bar_>`_ 并使用相应的键盘快捷键。"
+"关闭当前项目可以通过 `菜单栏 <menu bar_>`_ 、 `工具栏 <toolbar_>`_ 、 `项目面板 <projects "
+"panel_>`_ 、 `项目标签栏 <projects tab bar_>`_ 以及相应的键盘快捷键来完成。"
 
 #: ../../source/users/project/close_project.rst:19
 msgid ""
 "At the case that more than one `project`_ are opened, the active `project`_ "
 "will be the `project`_ which will be closed."
 msgstr ""
-"如果打开了超过一个 `项目 <project_>`_，则正在运行的 `项目 <project_>`_ 将是将关闭的 `项目 <project_>`_。"
+"如果打开了多个 `项目 <project_>`_ ，则被关闭的 `项目 <project_>`_ 就是当前活动的 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/close_project.rst:23
 msgid "Close project from menu bar"
@@ -60,7 +60,7 @@ msgstr "从菜单栏关闭项目"
 
 #: ../../source/users/project/close_project.rst:25
 msgid "Select **File > Close** menu item to close the active `project`_."
-msgstr "选择 **文件 > 关闭** 菜单项关闭活动 `项目 <project_>`_ 。"
+msgstr "选择 **文件 > 关闭** 菜单项以关闭当前活动的 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/close_project.rst:30
 msgid "Figure: QElectroTech File menu"
@@ -74,17 +74,17 @@ msgstr "从工具栏关闭项目"
 msgid ""
 "Select the icon |project-close| from `toolbar`_ to close the active "
 "`project`_."
-msgstr "选择图标 |project-close| 从 `工具栏 <toolbar_>`_ 关闭活动 `项目 <project_>`_。"
+msgstr "在 `工具栏 <toolbar_>`_ 中选择图标 |project-close| 以关闭当前活动的 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/close_project.rst:37
 msgid "project-close"
-msgstr "项目关闭"
+msgstr "关闭项目"
 
 #: ../../source/users/project/close_project.rst:41
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**."
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示。"
+msgstr "如果未显示 `工具栏 <toolbar_>`_ ，可以从 **设置 > 显示 > 工具** 中将其显示。"
 
 #: ../../source/users/project/close_project.rst:44
 msgid "Close project from projects panel"
@@ -96,28 +96,28 @@ msgid ""
 "possibility to close `projects`_ which are opened and are not the active "
 "`project`_."
 msgstr ""
-"从 `项目 <projects_>`_ 中关闭 `项目 <projects panel_>`_ 的优点是有可能关闭已开通的 `项目 "
-"<projects_>`_，而这些项目不是活动的 `项目 <project_>`_。"
+"从 `项目面板 <projects panel_>`_ 关闭 `项目 <projects_>`_ 的优点是，可以关闭那些已打开但并非当前活动 `项目 "
+"<project_>`_ 的 `项目 <projects_>`_ 。"
 
 #: ../../source/users/project/close_project.rst:49
 msgid ""
 "Right click on the opened `project`_ from the `projects panel`_ tree which "
 "should be closed."
-msgstr "右键点击应当关闭的 `项目 <project_>`_ 树打开的 `项目 <projects panel_>`_ 。"
+msgstr "在 `项目面板 <projects panel_>`_ 树中右键点击需要关闭的已打开 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/close_project.rst:50
 msgid "Select **Close this project** to close the selected `project`_."
-msgstr "选择 **关闭此项目** 关闭选中的 `项目 <project_>`_。"
+msgstr "选择 **关闭此项目** 以关闭选中的 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/close_project.rst:55
 msgid "Figure: QElectroTech projects panel"
-msgstr "图：QElectroTech项目小组"
+msgstr "图：QElectroTech 项目面板"
 
 #: ../../source/users/project/close_project.rst:59
 msgid ""
 "If the `projects panel`_ is not displayed, it can be displayed from "
 "**Settings > Display > Projects**."
-msgstr "如果 `项目面板 <projects panel_>`_ 不显示，可以从 **设置 > 显示 > 项目** 显示。"
+msgstr "如果未显示 `项目面板 <projects panel_>`_ ，可以从 **设置 > 显示 > 项目** 中将其显示。"
 
 #: ../../source/users/project/close_project.rst:62
 msgid "Close project from the tab bar"
@@ -130,13 +130,13 @@ msgid ""
 "`projects`_, regardless of whether the project is active, with a click on "
 "the close tab |project_tab_close_tab| from the project tab."
 msgstr ""
-"所有打开的 `项目 <projects_>`_ 都可以在显示在 `工作空间 <projects tab bar_>`_ 顶端的 `工作区 "
-"<workspace_>`_ 中可见。用户可以关闭一个打开的 `项目 <projects_>`_，无论项目是否在活动，从项目标签栏点击一个关闭标签 "
-"|project_tab_close_tab| 。"
+"所有已打开的 `项目 <projects_>`_ 都会显示在 `工作区 <workspace_>`_ 顶部的 `项目标签栏 <projects tab "
+"bar_>`_ 中。用户可以关闭任一已打开的 `项目 <projects_>`_ ，无论它是否为当前活动项目，只需在项目标签上点击关闭标签 "
+"|project_tab_close_tab| 即可。"
 
 #: ../../source/users/project/close_project.rst:88
 msgid "project_tab_close_tab"
-msgstr "项目  tab  close tab"
+msgstr "项目标签关闭按钮"
 
 #: ../../source/users/project/close_project.rst:68
 msgid ""
@@ -144,18 +144,19 @@ msgid ""
 " closed with a click on the close tab |project_window_close_tab| which is "
 "placed at the top right corner."
 msgstr ""
-"在 `项目 <projects_>`_ 显示为PopUP窗口的情况下，可以点击右上角的关闭标签 |project_window_close_tab| "
-"关闭。"
+"如果 `项目 <projects_>`_ 以弹出窗口形式显示，则可以点击位于右上角的关闭标签 |project_window_close_tab| "
+"将其关闭。"
 
 #: ../../source/users/project/close_project.rst:89
 msgid "project_window_close_tab"
-msgstr "项目窗口关闭  tab"
+msgstr "项目窗口关闭按钮"
 
 #: ../../source/users/project/close_project.rst:73
 msgid ""
 "Displaying the `projects`_ using a tab bar or using PopUP windows can be "
 "chosen at **Display > Display projects**."
-msgstr "使用标签栏或使用 PopUP 窗口显示 `项目 <projects_>`_ 可以选择在 **Display > 显示项目** 。"
+msgstr ""
+"使用标签栏还是弹出窗口显示 `项目 <projects_>`_ ，可在 **Display > Display projects** 中选择。"
 
 #: ../../source/users/project/close_project.rst:77
 msgid "Close project using keyboard shortcut"
@@ -165,14 +166,14 @@ msgstr "使用键盘快捷键关闭项目"
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/project/close_project.rst:81
 msgid "Press ``Ctrl + f4`` to close the active `project`_."
-msgstr "按 ``Ctrl + f4`` 关闭活动 `项目 <project_>`_。"
+msgstr "按 ``Ctrl + f4`` 关闭当前活动的 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/close_project.rst:85
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

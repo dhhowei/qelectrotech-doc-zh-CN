@@ -31,30 +31,30 @@ msgid ""
 "object that can be add to the folios (`element`_, `conductor`_, `text "
 "field`_, `basic object`_  and `picture`_)."
 msgstr ""
-"从一开始选择正确的 `元件 <element_>`_，`导体 <conductor_>`_，`文本字段 <text field_>`_ "
-"等总是不错的，即使如此，QEelectroTech允许删除可以添加到光圈的所有类型的物体(`元件 <element_>`_，`导体 "
-"<conductor_>`_，`文本字段 <text field_>`_，`基本对象 <basic object_>`_ 和 `图片 "
-"<picture_>`_)."
+"从一开始就选择正确的 `元件 <element_>`_ 、`导体 <conductor_>`_ 、`文本字段 <text field_>`_ "
+"等总是好的；即便如此，QElectroTech 仍允许删除可添加到图幅中的所有类型的对象（`元件 <element_>`_ 、`导体 "
+"<conductor_>`_ 、`文本字段 <text field_>`_ 、`基本对象 <basic object_>`_ 和 `图片 "
+"<picture_>`_ ）。"
 
 #: ../../source/users/schema/delete.rst:13
 msgid ""
 "Multiples objects can be deleted at the same time `selecting multiples "
 "object`_."
-msgstr "多个对象可以同时删除 `选择多个对象 <selecting multiples object_>`_。"
+msgstr "可以 `选择多个对象 <selecting multiples object_>`_ 来同时删除多个对象。"
 
 #: ../../source/users/schema/delete.rst:15
 msgid ""
 "Deleting objects can be done from `menu bar`_, `toolbar`_, by right click on"
 " the object and using the corresponding keyboard shortcut."
-msgstr "删除对象可以从 `菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_ 中通过右键点击对象并使用相应的键盘快捷键完成。"
+msgstr "删除对象可以通过 `菜单栏 <menu bar_>`_ 、`工具栏 <toolbar_>`_ 、右键单击对象以及相应的键盘快捷键完成。"
 
 #: ../../source/users/schema/delete.rst:19
 msgid "Delete object from menu bar"
-msgstr "从菜单栏中删除对象"
+msgstr "从菜单栏删除对象"
 
 #: ../../source/users/schema/delete.rst:21
 msgid "`Select the object/s`_ which should be delete."
-msgstr "`选择应当删除的对象/s <Select the object/s_>`_。"
+msgstr "`Select the object/s`_ （选择要删除的对象）。"
 
 #: ../../source/users/schema/delete.rst:22
 msgid "Select **Edit > Delete** menu item to delete the object."
@@ -66,42 +66,42 @@ msgstr "图：QElectroTech 编辑菜单"
 
 #: ../../source/users/schema/delete.rst:30
 msgid "Delete object from toolbar"
-msgstr "从工具栏中删除对象"
+msgstr "从工具栏删除对象"
 
 #: ../../source/users/schema/delete.rst:32
 #: ../../source/users/schema/delete.rst:57
 msgid "`Select the object/s`_ which should be deleted."
-msgstr "`选择应当删除的对象/s <Select the object/s_>`_。"
+msgstr "`Select the object/s`_ （选择要删除的对象）。"
 
 #: ../../source/users/schema/delete.rst:33
 msgid "Select the icon |edit-delete| from `toolbar`_ to delete the object."
-msgstr "从 `工具栏 <toolbar_>`_ 中选择图标 |edit-delete| 删除对象。"
+msgstr "从 `工具栏 <toolbar_>`_ 中选择 |edit-delete| 图标以删除对象。"
 
 #: ../../source/users/schema/delete.rst:35
 msgid "edit-delete"
-msgstr "编辑-删除"
+msgstr "删除图标"
 
 #: ../../source/users/schema/delete.rst:39
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**."
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 工具** 将其显示出来。"
 
 #: ../../source/users/schema/delete.rst:42
 msgid "Delete object by right click"
-msgstr "右键删除对象"
+msgstr "通过右键单击删除对象"
 
 #: ../../source/users/schema/delete.rst:44
 msgid "Right click on the object which should be deleted."
-msgstr "右键单击应删除的对象。"
+msgstr "右键单击要删除的对象。"
 
 #: ../../source/users/schema/delete.rst:45
 msgid "Select the option **Delete** to delete the object."
-msgstr "选择选项 **删除** 删除对象。"
+msgstr "选择 **删除** 选项以删除对象。"
 
 #: ../../source/users/schema/delete.rst:50
 msgid "Figure: QElectroTech right click PopUP window"
-msgstr "图：右键点击 PopUP 窗口的QElectroTech"
+msgstr "图：QElectroTech 右键单击弹出窗口"
 
 #: ../../source/users/schema/delete.rst:53
 msgid "Delete object using keyboard shortcut"
@@ -111,14 +111,14 @@ msgstr "使用键盘快捷键删除对象"
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/schema/delete.rst:58
 msgid "Press ``delete`` to delete the object."
-msgstr "按 ``delete`` 删除对象。"
+msgstr "按 ``delete`` 键删除对象。"
 
 #: ../../source/users/schema/delete.rst:62
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "关于 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

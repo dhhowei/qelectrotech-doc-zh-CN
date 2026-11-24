@@ -28,40 +28,40 @@ msgstr "网格设置"
 msgid ""
 "QElectroTech displays a grid in the `workspace`_ which makes the drawing "
 "work easier."
-msgstr "QElectroTech在 `工作区 <workspace_>`_，这使得绘图工作更容易。"
+msgstr "QElectroTech 会在 `工作区 <workspace_>`_ 中显示网格，使绘图工作更轻松。"
 
 #: ../../source/users/preferences/settings_grid.rst:9
 msgid "To configure the grid displayed:"
-msgstr "要配置显示的网格："
+msgstr "要配置所显示的网格："
 
 #: ../../source/users/preferences/settings_grid.rst:11
 msgid "`Display`_ QElectroTech settings PopUP window."
-msgstr "`显示 <Display_>`_ QElectroTech设置 PopUP 窗口。"
+msgstr "`显示 <Display_>`_ QElectroTech 设置弹出窗口。"
 
 #: ../../source/users/preferences/settings_grid.rst:12
 msgid "Go to **General** section."
-msgstr "至 **总** 节。"
+msgstr "转到 **常规** 部分。"
 
 #: ../../source/users/preferences/settings_grid.rst:13
 msgid "Go to **Grid + Keyboard** tab."
-msgstr "转到 **Grid + 键盘** 标签 。"
+msgstr "转到 **网格 + 键盘** 标签页。"
 
 #: ../../source/users/preferences/settings_grid.rst:14
 msgid ""
 "Define the X and Y pixels of the grid cell. The cell size can be between 1 "
 "and 30 pixels."
-msgstr "定义网格单元格的 X 和 Y 像素。单元格大小可以在 1 到 30 像素之间。"
+msgstr "定义网格单元格的 X 和 Y 像素值。单元格大小可在 1 到 30 像素之间。"
 
 #: ../../source/users/preferences/settings_grid.rst:16
 msgid ""
 "The number of grid cells displacement using the keyboard or the scroll bar "
 "can also be defined at the same section where the grid characteristics are "
 "defined. Standard and accurate scroll (with **ALT** key) can be defined."
-msgstr "使用键盘或滚动条的网格单元格移位数也可以在定义网格特性的同一部分定义。标准与准确的滚动(带有 **ALT** 键)可以定义。"
+msgstr "使用键盘或滚动条时网格单元格的移动格数，也可以在同一部分中定义。可分别定义标准滚动和精确滚动（配合 **ALT** 键）。"
 
 #: ../../source/users/preferences/settings_grid.rst:20
 msgid "To display the grid at the `workspace`_, refer to `toolbars`_ section."
-msgstr "要在 `工作区 <workspace_>`_ 显示网格，请参考 `工具栏 <toolbars_>`_ 部分。"
+msgstr "要在 `工作区 <workspace_>`_ 中显示网格，请参阅 `工具栏 <toolbars_>`_ 部分。"
 
 #: ../../source/users/preferences/settings_grid.rst:25
 msgid "Figure: QElectroTech grid settings"

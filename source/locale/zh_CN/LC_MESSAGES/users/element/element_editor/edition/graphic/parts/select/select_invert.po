@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_invert.rst:5
 msgid "Invert the selection"
-msgstr "反转选择"
+msgstr "反向选择"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_invert.rst:7
 msgid ""
@@ -31,50 +31,50 @@ msgid ""
 "selected. For this reason, QElectroTech provides the option to invert the "
 "selection."
 msgstr ""
-"有时候比较容易选择 `部件 <parts_>`_ 从 `工作区 <workspace_>`_ 对预期行动不感兴趣的国家 `部件 <parts_>`_ "
-"因此，QElectroTech 提供了选择反转的选择。"
+"有时，选择 `工作区 <workspace_>`_ 中不希望执行目标操作的 `部件 <parts_>`_ 比选择应选中的 `部件 <parts_>`_ "
+"更容易。因此，QElectroTech 提供了反向选择功能。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_invert.rst:11
 msgid ""
 "Inverting the selection can be done from `Menu bar`_ or using the "
 "corresponding keyboard shortcut."
-msgstr "反转选择可以从 `菜单栏 <Menu bar_>`_ 中完成，也可以使用相应的键盘快捷键。"
+msgstr "可以通过 `菜单栏 <Menu bar_>`_ 或相应的快捷键反向选择。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_invert.rst:14
 msgid "Invert selection from menu bar"
-msgstr "从菜单栏中反向选择"
+msgstr "从菜单栏反向选择"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_invert.rst:16
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_invert.rst:29
 msgid ""
 "`Select the part/s`_ from the opened `element`_ which are not interested for"
 " the desired action."
-msgstr "`选择部分 <Select the part/s_>`_ 从打开的 `元件 <element_>`_ 他们对想要采取的行动不感兴趣。"
+msgstr "在已打开 `元件 <element_>`_ 中 `Select the part/s`_ ，选中不希望执行目标操作的部件。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_invert.rst:17
 msgid "Select **Edit > Invert selection** to invert the selection."
-msgstr "选择 **编辑 > 反向选择** 以反转选择 。"
+msgstr "选择 **编辑 > 反向选择** 以反向选择。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_invert.rst:22
 msgid "Figure: QElectroTech Edit menu"
-msgstr "图：QElectroTech 编辑菜单"
+msgstr "图：QElectroTech“编辑”菜单"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_invert.rst:25
 msgid "Invert selection using keyboard shortcut"
-msgstr "使用键盘快捷键反转选择"
+msgstr "使用快捷键反向选择"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_invert.rst:27
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 支持使用快捷键来提高工作效率。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_invert.rst:30
 msgid "Press ``Ctrl + i`` to invert the selection."
-msgstr "按 ``Ctrl + i`` 颠倒选择。"
+msgstr "按 ``Ctrl + i`` 反向选择。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_invert.rst:34
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

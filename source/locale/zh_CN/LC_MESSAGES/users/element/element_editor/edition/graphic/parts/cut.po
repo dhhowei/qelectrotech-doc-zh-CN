@@ -22,77 +22,77 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:5
 msgid "Cut part"
-msgstr "剪切部分"
+msgstr "剪切部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:7
 msgid ""
 "QElectroTech element editor allows cutting the different possible type of "
 "`parts`_ to paste them later on at different place from the element editor "
 "workspace."
-msgstr "QElectroTech元素编辑器允许剪切不同可能的 `部件 <parts_>`_ 类型，在稍后与元素编辑器工作空间不同的地方粘贴。"
+msgstr "QElectroTech 元件编辑器允许剪切各种类型的 `部件 <parts_>`_ ，以便稍后粘贴到元件编辑器工作区中的其他位置。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:12
 msgid ""
 "Multiples `parts`_ can be cut at the same time, pressing ``Ctrl`` is "
 "necessary to select more than one `part`_."
-msgstr "多 `部件 <parts_>`_ 可以同时切，按 ``Ctrl`` 需要选择一个以上的 `部件 <part_>`_。"
+msgstr "可以同时剪切多个 `部件 <parts_>`_ ；要选择多个 `部件 <part_>`_ ，需要按住 ``Ctrl`` 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:16
 msgid ""
 "Cutting `parts`_ can be done from `menu bar`_, by right click on the `part`_"
 " and from the corresponding keyboard shortcut."
 msgstr ""
-"剪切 `部件 <parts_>`_ 可以从 `菜单栏 <menu bar_>`_ 中通过右键点击 `部件 <part_>`_ 和相应的键盘快捷键完成。"
+"可以通过 `菜单栏 <menu bar_>`_、右键点击 `部件 <part_>`_ 或相应的快捷键来剪切 `部件 <parts_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:20
 msgid "Cut part from menu bar"
-msgstr "从菜单栏切除部分"
+msgstr "从菜单栏剪切部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:22
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:46
 msgid "Select the `part`_ which should be cut."
-msgstr "选择应该剪切的 `部件 <part_>`_ 。"
+msgstr "选择要剪切的 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:23
 msgid "Select **Edit > Cut** menu item to cut the `part`_."
-msgstr "选择 **Edit > Cut** 菜单项切 `部件 <part_>`_。"
+msgstr "选择 **编辑 > 剪切** 菜单项以剪切 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:28
 msgid "Figure: QElectroTech Edit menu"
-msgstr "图：QElectroTech 编辑菜单"
+msgstr "图：QElectroTech“编辑”菜单"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:31
 msgid "Cut part by right click"
-msgstr "右键剪切部分"
+msgstr "通过右键剪切部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:33
 msgid "Right click on the `part`_ which should be cut."
-msgstr "右键点击应剪切的 `部件 <part_>`_ 。"
+msgstr "右键点击要剪切的 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:34
 msgid "Select the option **Cut** to cut the `part`_."
-msgstr "选择 **Cut** 选项来剪切 `部件 <part_>`_ 。"
+msgstr "选择 **剪切** 选项以剪切 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:39
 msgid "Figure: QElectroTech right click PopUp window"
-msgstr "图：右键点击弹出窗口的QElectroTech"
+msgstr "图：QElectroTech 右键弹出窗口"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:42
 msgid "Cut part using keyboard shortcut"
-msgstr "使用键盘快捷键剪切部分"
+msgstr "使用快捷键剪切部件"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:44
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 支持使用快捷键来提高工作效率。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:47
 msgid "Press ``Ctrl + x`` to cut the `part`_."
-msgstr "按 ``Ctrl + x`` 切 `部件 <part_>`_。"
+msgstr "按 ``Ctrl + x`` 剪切 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/cut.rst:51
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

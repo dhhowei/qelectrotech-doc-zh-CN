@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/schema/conductor/index.rst:5
 msgid "Working with conductors"
-msgstr "与导师合作"
+msgstr "使用导体"

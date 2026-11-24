@@ -30,12 +30,12 @@ msgid ""
 " easier the searching of information. All those tools can be found at "
 "**Help** menu from `menu bar`_."
 msgstr ""
-"QElectroTech 已经设计了一些工具来帮助用户并方便搜索信息。 所有这些工具都可以在 **帮助** 菜单中找到 `菜单栏 <menu "
-"bar_>`_ 。"
+"QElectroTech 内置了一些帮助用户、方便查找信息的工具。所有这些工具都可以在 `菜单栏 <menu bar_>`_ 的 **帮助** "
+"菜单中找到。"
 
 #: ../../source/users/basics/help.rst:13
 msgid "Figure: Help menu QElectroTech"
-msgstr "图：帮助菜单QElectroTech"
+msgstr "图：QElectroTech 的帮助菜单"
 
 #: ../../source/users/basics/help.rst:16
 msgid "Tooltips"
@@ -47,7 +47,7 @@ msgid ""
 "on an icon from the `toolbars`_. A tooltip is a short message which defines "
 "the action corresponding to the icon."
 msgstr ""
-"为了支持用户，当鼠标箭头被放置在 `工具栏 <toolbars_>`_ 的图标上时，会显示工具提示。工具提示是定义与图标相对应的动作的短信息。"
+"为了帮助用户，当鼠标箭头停留在 `工具栏 <toolbars_>`_ 的图标上时会显示工具提示。工具提示是一条简短的说明，指出图标对应的操作。"
 
 #: ../../source/users/basics/help.rst:20
 msgid ""
@@ -56,30 +56,30 @@ msgid ""
 "panels are not displayed automatically with the placement of the mouse arrow"
 " on the object or area."
 msgstr ""
-"QElectroTech 也允许从工具提示，或短描述面板从主窗口的许多不同区域和对象上显示，这些面板不会随鼠标箭头的位置自动显示在对象或区域上。"
+"QElectroTech 还可以在主窗口的许多不同区域和对象上显示工具提示或简短说明面板。这些面板不会随着鼠标箭头移到对象或区域上而自动显示。"
 
 #: ../../source/users/basics/help.rst:22
 msgid "Select **Help > What's this?** menu item."
-msgstr "选择 **帮助 > 这是什么?** 菜单项 。"
+msgstr "选择 **帮助 > 这是什么？** 菜单项。"
 
 #: ../../source/users/basics/help.rst:23 ../../source/users/basics/help.rst:33
 msgid "Press on the object or area to display the description."
-msgstr "按对象或区域显示描述。"
+msgstr "单击对象或区域以显示说明。"
 
 #: ../../source/users/basics/help.rst:28
 msgid "Figure: Message which appears when hovering an element"
-msgstr "图：在一个元素徘徊时出现的消息"
+msgstr "图：将鼠标悬停在元件上时出现的消息"
 
 #: ../../source/users/basics/help.rst:30
 msgid ""
 "To increase the working efficiency, the description panel can also be "
 "displayed using keyboard shortcut. The user does not need to resort to the "
 "**Help** menu."
-msgstr "要提高工作效率，也可以使用键盘快捷键显示描述面板。用户不需要使用 **帮助** 菜单 。"
+msgstr "为提高工作效率，也可以使用键盘快捷键显示说明面板。用户无需使用 **帮助** 菜单。"
 
 #: ../../source/users/basics/help.rst:32
 msgid "Press ``shift + f1``."
-msgstr "按 ``shift + f1`` (中文(简体) )."
+msgstr "按 ``shift + f1``。"
 
 #: ../../source/users/basics/help.rst:37
 msgid ""
@@ -88,8 +88,8 @@ msgid ""
 "blocks`_ and `elements`_), the `workspace`_, `project`_ area and a few "
 "objects and areas more."
 msgstr ""
-"工具 **这是什么?** 没有从所有事物中给出描述，它只给出了不同类型集合的描述(`图框 <title blocks_>`_ 和 `元件 "
-"<elements_>`_),`工作区 <workspace_>`_，`项目 <project_>`_ 区域以及更多几个对象和区域。"
+"工具 **这是什么？** 并不能提供所有内容的说明，只提供不同类型集合（`图框 <title blocks_>`_ 和 `元件 "
+"<elements_>`_ ）、`工作区 <workspace_>`_ 、`项目 <project_>`_ 区域以及少数其他对象和区域的说明。"
 
 #: ../../source/users/basics/help.rst:40
 msgid "About QElectroTech"
@@ -102,13 +102,14 @@ msgid ""
 " the license text, version of the application launched, developers and "
 "collaborators."
 msgstr ""
-"许多与QEelectroTech相关的信息可以在应用程序中找到，而无需在互联网上搜索。每一个启动应用程序的人都可以找到许可证文本，推出的应用程序版本，开发者和合作者。"
+"无需在互联网上搜索，就能在应用程序中找到许多与 QElectroTech "
+"相关的信息。每个启动该应用程序的人都可以查看许可证文本、所启动应用程序的版本、开发者及协作者。"
 
 #: ../../source/users/basics/help.rst:44
 msgid ""
 "Select **Help > About QElectroTech** menu item to display the PopUp window "
 "with the basic information from QElectroTech project."
-msgstr "选择 **帮助 > About QElectroTech** 菜单项，以 QEctroTech 项目的基本信息显示 PopUp 窗口 。"
+msgstr "选择 **帮助 > 关于 QElectroTech** 菜单项，即可显示包含 QElectroTech 项目基本信息的弹出窗口。"
 
 #: ../../source/users/basics/help.rst:47
 msgid "Online Manual"
@@ -117,29 +118,29 @@ msgstr "在线手册"
 #: ../../source/users/basics/help.rst:49
 msgid ""
 "**Help** menu can address the user to the official online documentation."
-msgstr "**帮助** 菜单可以向用户发送官方在线文档。"
+msgstr "**帮助** 菜单可以将用户引导至官方在线文档。"
 
 #: ../../source/users/basics/help.rst:51
 msgid ""
 "Select **Help > Online Manual** menu item to open the official QElectroTech"
 "  online documentation at default browser."
-msgstr "选择 **帮助 > Online Manuary** 菜单项在默认浏览器中打开正式的QEelectroTech在线文档。"
+msgstr "选择 **帮助 > 在线手册** 菜单项，可在默认浏览器中打开 QElectroTech 官方在线文档。"
 
 #: ../../source/users/basics/help.rst:53
 msgid ""
 "When the application is active on the computer, the user can also open the "
 "online manual at default browser using keyboard shortcut."
-msgstr "当应用程序在计算机上活动时，用户也可以使用键盘快捷键在默认浏览器上打开在线手册。"
+msgstr "当应用程序在计算机上处于活动状态时，用户还可以使用键盘快捷键在默认浏览器中打开在线手册。"
 
 #: ../../source/users/basics/help.rst:55
 msgid "Press ``f1`` to open the official online manual on the browser."
-msgstr "按 ``f1`` 打开浏览器的官方在线手册。"
+msgstr "按 ``f1`` 可在浏览器中打开官方在线手册。"
 
 #: ../../source/users/basics/help.rst:59
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "关于 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"
 
 #: ../../source/users/basics/help.rst:63
 msgid "Youtube Channel"
@@ -151,15 +152,15 @@ msgid ""
 "**Help** menu can address the user to the official `Youtube`_ channel of the"
 " project."
 msgstr ""
-"关于QElectroTech的许多不同的视频教程可以在互联网上找到。**帮助** 菜单可以向项目的官方 `Youtube <Youtube_>`_ "
-"频道向用户发送地址。"
+"关于 QElectroTech 的许多不同视频教程可以在互联网上找到。**帮助** 菜单可以将用户引导至项目的官方 `Youtube "
+"<Youtube_>`_ 频道。"
 
 #: ../../source/users/basics/help.rst:67
 msgid ""
 "Select **Help > Youtube Channel** menu item to open the QElectroTech "
 "`Youtube`_ channel at default browser."
 msgstr ""
-"选择 **帮助 > Youtube Channel** 菜单项在默认浏览器中打开 QElectroTech `Youtube <Youtube_>`_ "
+"选择 **帮助 > Youtube 频道** 菜单项，可在默认浏览器中打开 QElectroTech 的 `Youtube <Youtube_>`_ "
 "频道。"
 
 #: ../../source/users/basics/help.rst:70
@@ -173,7 +174,7 @@ msgid ""
 "donation, **Help** menu can address the user to the official `PayPal`_ "
 "account of the project."
 msgstr ""
-"如果用户对QEelectroTech开发团队已经做的工作感到满意，并希望通过经济捐助帮助项目，**帮助** 菜单可以将用户地址给项目的官方 "
+"如果用户对 QElectroTech 开发团队已完成的工作感到满意，并希望通过经济捐助来支持项目，**帮助** 菜单可以将用户引导至项目的官方 "
 "`PayPal <PayPal_>`_ 账户。"
 
 #: ../../source/users/basics/help.rst:74
@@ -181,7 +182,7 @@ msgid ""
 "Select **Help > Support the project with a donation** menu item to open the "
 "official `PayPal`_ account from QElectroTech at default browser."
 msgstr ""
-"选择 **help > 支持项目使用一个捐赠** 菜单项在默认浏览器中打开QElectroTech的官方 `PayPal <PayPal_>`_ 账户。"
+"选择 **帮助 > 通过捐赠支持项目** 菜单项，可在默认浏览器中打开 QElectroTech 的官方 `PayPal <PayPal_>`_ 账户。"
 
 #: ../../source/users/basics/help.rst:77
 msgid "About Qt"
@@ -193,11 +194,11 @@ msgid ""
 "**Help** menu allows going to the official web from `Qt`_ project without "
 "the need of searching on Internet."
 msgstr ""
-"QElectroTech的设计使用了 `Qt <Qt_>`_ 框架和部件工具包。**帮助** 菜单允许从 `Qt <Qt_>`_ "
-"项目进入官方网络，而无需在互联网上搜索。"
+"QElectroTech 使用 `Qt <Qt_>`_ 框架和控件工具包设计。**帮助** 菜单可让用户直接访问 `Qt <Qt_>`_ "
+"项目的官方网站，无需在互联网上搜索。"
 
 #: ../../source/users/basics/help.rst:81
 msgid ""
 "Select **Help > About Qt** menu item to open the official `Qt`_ website from"
 "  in the default browser."
-msgstr "选择 **help > About Qt** 菜单项打开默认浏览器中的官方 `Qt <Qt_>`_ 网站。"
+msgstr "选择 **帮助 > 关于 Qt** 菜单项，可在默认浏览器中打开 `Qt <Qt_>`_ 的官方网站。"

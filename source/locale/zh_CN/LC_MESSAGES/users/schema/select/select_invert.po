@@ -31,31 +31,29 @@ msgid ""
 "selected. For this reason, QElectroTech provides the option to invert the "
 "selection."
 msgstr ""
-"有时从 `工作区 <workspace_>`_ 中选择对想要的动作不感兴趣的对象比选择的对象容易。为此原因，QEelectroTech "
-"提供了对选择进行反转的选项 。"
+"有时，从 `工作区 <workspace_>`_ 中选择与所需操作无关的对象，比直接选择应当选中的对象更容易。为此，QElectroTech "
+"提供了反转选择的功能。"
 
 #: ../../source/users/schema/select/select_invert.rst:11
 msgid ""
 "Inverting the selection can be done from `menu bar`_ or using the "
 "corresponding keyboard shortcut."
-msgstr "反转选择可以从 `菜单栏 <menu bar_>`_ 中完成，也可以使用相应的键盘快捷键。"
+msgstr "反转选择既可以通过 `菜单栏 <menu bar_>`_ 完成，也可以使用相应的键盘快捷键。"
 
 #: ../../source/users/schema/select/select_invert.rst:14
 msgid "Invert selection from menu bar"
-msgstr "从菜单栏中反向选择"
+msgstr "从菜单栏反转选择"
 
 #: ../../source/users/schema/select/select_invert.rst:16
 #: ../../source/users/schema/select/select_invert.rst:29
 msgid ""
 "`Select the object/s`_ from the activated `folio`_ which are not interested "
 "for the desired action."
-msgstr ""
-"` 从已激活的 `组 <Select the object/s_>`_ 中选择对想要的行动不感兴趣的对象/s <Select the "
-"object/s_>`_。"
+msgstr "从已激活的 `图幅 <folio_>`_ 中选择 `Select the object/s`_ ，也就是与所需操作无关的对象。"
 
 #: ../../source/users/schema/select/select_invert.rst:17
 msgid "Select **Edit > Invert selection** to invert the selection."
-msgstr "选择 **编辑 > 反向选择** 以反转选择 。"
+msgstr "选择 **编辑 > 反转选择** 以反转选择。"
 
 #: ../../source/users/schema/select/select_invert.rst:22
 msgid "Figure: QElectroTech edit menu"
@@ -73,10 +71,10 @@ msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/schema/select/select_invert.rst:30
 msgid "Press ``Ctrl + i`` to invert the selection."
-msgstr "按 ``Ctrl + i`` 颠倒选择。"
+msgstr "按 ``Ctrl + i`` 反转选择。"
 
 #: ../../source/users/schema/select/select_invert.rst:34
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

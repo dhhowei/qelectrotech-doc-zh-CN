@@ -22,8 +22,8 @@ msgstr ""
 
 #: ../../source/users/reports/io_list.rst:5
 msgid "I/O list"
-msgstr "I/O列表"
+msgstr "I/O 列表"
 
 #: ../../source/users/reports/io_list.rst:7
 msgid "Feature still not available in QElectroTech 0.8"
-msgstr "在 QElectroTech 中仍不具备特性 0.8"
+msgstr "QElectroTech 0.8 中仍不具备此功能"

@@ -30,34 +30,34 @@ msgid ""
 "with an specific property for replacing `conductor properties`_ without the "
 "need of searching the `conductor`_ manually around the project."
 msgstr ""
-"QElectroTech提供了 `导体 <conductor_>`_ 的自动搜索特性，具有替换 `导体属性 <conductor "
-"properties_>`_ 的特定属性，而无需在项目周围人工搜索 `导体 <conductor_>`_。"
+"QElectroTech 提供自动搜索具有特定属性的 `导体 <conductor_>`_ 的功能，以便替换 `导体属性 <conductor "
+"properties_>`_ ，无需在项目中手动查找 `导体 <conductor_>`_ 。"
 
 #: ../../source/users/schema/replace/conductor_prop_replace.rst:13
 msgid ""
 "If the `search menu`_ is not displayed, it can be displayed from **Edit > "
 "Search / Replace** menu item."
-msgstr "如果不显示 `搜索菜单 <search menu_>`_，可以从 **编辑 > 搜索/替换** 菜单项中显示。"
+msgstr "如果 `搜索菜单 <search menu_>`_ 未显示，可通过 **编辑 > 搜索/替换** 菜单项将其显示出来。"
 
 #: ../../source/users/schema/replace/conductor_prop_replace.rst:16
 msgid "To replace some `conductor properties`_:"
-msgstr "替换一些 `导体特性 <conductor properties_>`_:"
+msgstr "要替换某些 `导体属性 <conductor properties_>`_ ："
 
 #: ../../source/users/schema/replace/conductor_prop_replace.rst:18
 msgid ""
 "`Search`_ the property (Manufacturer, Label, etc.) which identifies the "
 "`conductor`_ from which a property has to be changed."
-msgstr "`搜索 <Search_>`_ 能够识别以下特征的财产(制造商、标签等)。 `导体 <conductor_>`_ 必须改变财产。"
+msgstr "`搜索 <Search_>`_ 用于标识 `导体 <conductor_>`_ 的属性（制造商、标签等），该导体的某个属性需要更改。"
 
 #: ../../source/users/schema/replace/conductor_prop_replace.rst:23
 msgid "Figure: QElectroTech search menu"
-msgstr "图：QElectroTech搜索菜单"
+msgstr "图：QElectroTech 搜索菜单"
 
 #: ../../source/users/schema/replace/conductor_prop_replace.rst:25
 msgid ""
 "Press the **Conductor** button to display the conductor properties PopUp "
 "window."
-msgstr "按 **出纳器** 按钮显示导师属性 PopUp 窗口 。"
+msgstr "按 **导体** 按钮显示导体属性弹出窗口。"
 
 #: ../../source/users/schema/replace/conductor_prop_replace.rst:30
 msgid "Figure: QElectroTech conductor properties replace PopUp windows"
@@ -67,17 +67,17 @@ msgstr "图：QElectroTech 导体属性替换弹出窗口"
 msgid ""
 "Fill the text line box from the `conductor properties`_ which should be "
 "changed."
-msgstr "从 `导体属性 <conductor properties_>`_ 中填充文本行框，该属性应当修改。"
+msgstr "填写 `导体属性 <conductor properties_>`_ 中需要更改的文本行框。"
 
 #: ../../source/users/schema/replace/conductor_prop_replace.rst:36
 msgid ""
 "QElectroTech also allows deleting and making empty a filled property. Click "
 "the checkbox button located right from the text which should be deleted."
-msgstr "QElectroTech 还允许删除并空置一个已填充的属性。单击位于文本右侧的复选框按钮，该按钮应当删除 。"
+msgstr "QElectroTech 还允许删除已填写的属性并将其清空。单击要删除文本右侧的复选框按钮。"
 
 #: ../../source/users/schema/replace/conductor_prop_replace.rst:39
 msgid "Press **Accept**."
-msgstr "按 **接受**."
+msgstr "按 **接受** 。"
 
 #: ../../source/users/schema/replace/conductor_prop_replace.rst:40
 msgid ""
@@ -85,14 +85,14 @@ msgid ""
 " where the replace action have to be applied. The selection can be made at "
 "the object tree from the `search menu`_."
 msgstr ""
-"从搜索过程中发现的 `导体 <conductors_>`_，选择必须应用替换动作的 `导体 <conductors_>`_。选择可以在 `搜索菜单 "
-"<search menu_>`_ 中的对象树上进行。"
+"在搜索过程中找到的 `导体 <conductors_>`_ 中，选择需要应用替换操作的 `导体 <conductors_>`_ 。可在 `搜索菜单 "
+"<search menu_>`_ 的对象树中进行选择。"
 
 #: ../../source/users/schema/replace/conductor_prop_replace.rst:41
 msgid ""
 "Press **Replace all** button to apply the replace action to all selected "
 "`conductors`_."
-msgstr "按 **替换所有** 按钮，将替换动作应用到所有选定的 `导体 <conductors_>`_ 。"
+msgstr "按 **替换全部** 按钮，将替换操作应用到所有选中的 `导体 <conductors_>`_ 。"
 
 #: ../../source/users/schema/replace/conductor_prop_replace.rst:45
 msgid ""
@@ -101,14 +101,14 @@ msgid ""
 "at the `workspace`_. The buttons |go-top| and |go-bottom| can be used to "
 "display the previous and next `conductor`_ from the search result."
 msgstr ""
-"替换动作也可以由 `导体 <conductor_>`_ 应用 `导体 <conductor_>`_。按钮 **替换** 只将动作应用到在 `导体 "
-"<conductor_>`_ 显示的 `工作区 <workspace_>`_，按钮 |go-top| 和 |go-bottom| "
-"可以用来显示搜索结果中上一个和下一个 `导体 <conductor_>`_。"
+"替换操作也可以逐个 `导体 <conductor_>`_ 应用（一次处理一个 `导体 <conductor_>`_ ）。**替换** 按钮仅将操作应用到"
+" `工作区 <workspace_>`_ 中显示的 `导体 <conductor_>`_ 。|go-top| 和 |go-bottom| "
+"按钮可用于显示搜索结果中的上一个和下一个 `导体 <conductor_>`_ 。"
 
 #: ../../source/users/schema/replace/conductor_prop_replace.rst:50
 msgid "go-top"
-msgstr "上进"
+msgstr "上一项"
 
 #: ../../source/users/schema/replace/conductor_prop_replace.rst:49
 msgid "go-bottom"
-msgstr "向下移动"
+msgstr "下一项"

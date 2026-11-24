@@ -28,23 +28,23 @@ msgstr "组织工具栏"
 msgid ""
 "The QElectroTech GUI allows having many different `toolbars`_ switched on to"
 " make more friendly the application."
-msgstr "QElectroTech GUI允许拥有许多不同的 `toolbars <toolbars_>`_ 开关，使应用程序更加友好。"
+msgstr "QElectroTech 的图形界面允许同时启用许多不同的 `工具栏 <toolbars_>`_ ，使应用程序使用起来更加友好。"
 
 #: ../../source/users/interface/customize/organize_toolbars.rst:11
 msgid "To display or hide `toolbars`_:"
-msgstr "显示或隐藏 `工具栏 <toolbars_>`_ :"
+msgstr "显示或隐藏 `工具栏 <toolbars_>`_ ："
 
 #: ../../source/users/interface/customize/organize_toolbars.rst:13
 msgid ""
 "Select **Settings > Display** menu item to display the `panels`_ and "
 "`toolbars`_ list."
-msgstr "选择 **设置 > 显示** 菜单项以显示 `panels <panels_>`_ 和 `工具栏 <toolbars_>`_ 列表 。"
+msgstr "选择 **设置 > 显示** 菜单项，以显示 `面板 <panels_>`_ 和 `工具栏 <toolbars_>`_ 列表。"
 
 #: ../../source/users/interface/customize/organize_toolbars.rst:14
 msgid ""
 "Click on the different `toolbars`_ (Tools, Display, Diagram, Add and Depth) "
 "which should be displayed or hidden."
-msgstr "单击应当显示或隐藏的不同 `工具栏 <toolbars_>`_ (工具、显示、图表、添加和深度)。"
+msgstr "点击需要显示或隐藏的各个 `工具栏 <toolbars_>`_ （工具、显示、图表、添加和深度）。"
 
 #: ../../source/users/interface/customize/organize_toolbars.rst:19
 msgid "Figure: QElectroTech Settings > Display menu"
@@ -57,30 +57,31 @@ msgid ""
 "in rows, columns at the left or right side from the `workspace`_ or as "
 "floating toolbar."
 msgstr ""
-"所有 `工具栏 <toolbars_>`_ 默认都放在 `菜单栏 <menu bar_>`_ 下，排成一行。 用户可以自由重组 `工具栏 "
-"<toolbars_>`_ 。 `工具栏 <toolbars_>`_ 可以从 `工作区 <workspace_>`_ 或作为浮动工具栏 。"
+"所有 `工具栏 <toolbars_>`_ 默认放置在 `菜单栏 <menu bar_>`_ 下方，排成一行。用户可以自由重新组织 `工具栏 "
+"<toolbars_>`_ ：`工具栏 <toolbars_>`_ 可以按行、按列排列在 `工作区 <workspace_>`_ "
+"的左侧或右侧，也可以作为浮动工具栏。"
 
 #: ../../source/users/interface/customize/organize_toolbars.rst:28
 msgid "Figure: QElectroTech user interface"
-msgstr "图：QElectroTech用户界面"
+msgstr "图：QElectroTech 用户界面"
 
 #: ../../source/users/interface/customize/organize_toolbars.rst:30
 msgid "To change the organization of `toolbars`_:"
-msgstr "更改 `工具栏 <toolbars_>`_ 的组织："
+msgstr "要更改 `工具栏 <toolbars_>`_ 的组织方式："
 
 #: ../../source/users/interface/customize/organize_toolbars.rst:32
 msgid "Left click at the left side from the `toolbar`_."
-msgstr "从 `工具栏 <toolbar_>`_。"
+msgstr "在 `工具栏 <toolbar_>`_ 的左侧单击左键。"
 
 #: ../../source/users/interface/customize/organize_toolbars.rst:33
 msgid ""
 "Without releasing the `toolbar`_, move the mouse to the final position."
-msgstr "在不释放 `工具栏 <toolbar_>`_ 的情况下，将鼠标移动到最后位置。"
+msgstr "在不松开 `工具栏 <toolbar_>`_ 的情况下，将鼠标移动到最终位置。"
 
 #: ../../source/users/interface/customize/organize_toolbars.rst:34
 msgid "Release the `toolbar`_."
-msgstr "释放 `工具栏 <toolbar_>`_。"
+msgstr "松开 `工具栏 <toolbar_>`_ 。"
 
 #: ../../source/users/interface/customize/organize_toolbars.rst:39
 msgid "Figure: QElectroTech toolbars placement"
-msgstr "图：QElectroTech 工具栏设置"
+msgstr "图：QElectroTech 工具栏布局"

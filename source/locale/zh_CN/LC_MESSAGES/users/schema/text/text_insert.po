@@ -28,8 +28,7 @@ msgstr "插入文本字段"
 msgid ""
 "To draw more easily, the folio grid can be displayed from **Display > "
 "Display the grid** or from `toolbar`_ icon |grid|."
-msgstr ""
-"为了更方便地绘制，folio网格可以从 **Display > 显示网格** 或 `工具栏 <toolbar_>`_ 图标 |grid| 显示。"
+msgstr "为了更方便地绘制，可通过 **显示 > 显示网格** 或 `工具栏 <toolbar_>`_ 中的 |grid| 图标显示图幅网格。"
 
 #: ../../source/users/schema/text/text_insert.rst:19
 msgid "grid"
@@ -37,11 +36,11 @@ msgstr "网格"
 
 #: ../../source/users/schema/text/text_insert.rst:12
 msgid "The text field can only be added to the `workspace`_ by `toolbar`_."
-msgstr "文本字段只能由 `工作区 <workspace_>`_ 添加到 `工具栏 <toolbar_>`_。"
+msgstr "只能通过 `工具栏 <toolbar_>`_ 将文本字段添加到 `工作区 <workspace_>`_ 。"
 
 #: ../../source/users/schema/text/text_insert.rst:14
 msgid "Select the icon |textfield| from `toolbar`_."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |textfield|。"
+msgstr "从 `工具栏 <toolbar_>`_ 中选择 |textfield| 图标。"
 
 #: ../../source/users/schema/text/text_insert.rst:20
 msgid "textfield"
@@ -51,20 +50,20 @@ msgstr "文本字段"
 msgid ""
 "Click on the `workspace`_ place point where the `text field`_ should be "
 "placed."
-msgstr "点击 `工作区 <workspace_>`_ 放置 `文本字段 <text field_>`_ 的位置。"
+msgstr "在 `工作区 <workspace_>`_ 中要放置 `文本字段 <text field_>`_ 的位置单击。"
 
 #: ../../source/users/schema/text/text_insert.rst:16
 msgid "Write the desired text."
-msgstr "写想要的文字。"
+msgstr "输入所需的文本。"
 
 #: ../../source/users/schema/text/text_insert.rst:17
 msgid ""
 "Click anywhere from the `workspace`_ to top the edition process and save the"
 " text content."
-msgstr "点击 `工作区 <workspace_>`_ 的任意位置，以在版本进程上方并保存文本内容 。"
+msgstr "单击 `工作区 <workspace_>`_ 的任意位置以结束编辑并保存文本内容。"
 
 #: ../../source/users/schema/text/text_insert.rst:24
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Add**."
-msgstr "如果 `工具栏 <toolbar_>`_ 不显示，可以从 **设置 > 显示 > Add** 显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 添加** 将其显示出来。"

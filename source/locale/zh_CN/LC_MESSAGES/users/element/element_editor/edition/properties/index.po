@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/edition/properties/index.rst:5
 msgid "Element properties definition"
-msgstr "元素属性定义"
+msgstr "元件属性定义"

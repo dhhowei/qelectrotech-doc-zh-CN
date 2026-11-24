@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/folio/title_block/elements/column.rst:5
 msgid "Column"
-msgstr "栏"
+msgstr "列"
 
 #: ../../source/users/folio/title_block/elements/column.rst:8
 msgid "Definition"
@@ -33,7 +33,7 @@ msgid ""
 "A column of `cells`_ from the `title block`_ is a group of `cells`_ that are"
 " placed one over the other."
 msgstr ""
-"`图框 <cells_>`_ 的 `图框 <title block_>`_ 的一列，是一组 `个电池 <cells_>`_，放在另一组之上。"
+"`图框 <title block_>`_ 中由 `单元格 <cells_>`_ 组成的一列，是一组上下叠放的 `单元格 <cells_>`_ 。"
 
 #: ../../source/users/folio/title_block/elements/column.rst:13
 msgid "Properties"
@@ -44,7 +44,7 @@ msgid ""
 "At QElectroTech, a column from the `title block`_ has only one property, the"
 " width of the `cells`_ that are part of the columns."
 msgstr ""
-"在QEelectroTech中，`图框 <title block_>`_ 的一列只有一个属性，即属于各列的 `单元格 <cells_>`_ 的宽度。"
+"在 QElectroTech 中，`图框 <title block_>`_ 的一列只有一个属性，即属于该列的 `单元格 <cells_>`_ 宽度。"
 
 #: ../../source/users/folio/title_block/elements/column.rst:18
 msgid "To display the column width:"
@@ -52,16 +52,16 @@ msgstr "显示列宽："
 
 #: ../../source/users/folio/title_block/elements/column.rst:20
 msgid "Double click on the column head."
-msgstr "双击列头。"
+msgstr "双击列标题。"
 
 #: ../../source/users/folio/title_block/elements/column.rst:25
 msgid "Figure: QElectroTech title block column width property"
-msgstr "图：QElectroTech 图框列宽度属性"
+msgstr "图：QElectroTech 图框列宽属性"
 
 #: ../../source/users/folio/title_block/elements/column.rst:27
 msgid ""
 "QElectroTech works with pixels, the width is defined according pixel unit."
-msgstr "QElectroTech用像素工作，宽度按照像素单位定义。"
+msgstr "QElectroTech 以像素为单位工作，宽度按像素单位定义。"
 
 #: ../../source/users/folio/title_block/elements/column.rst:29
 msgid "Unlike rows, the width of a column can be defined as:"
@@ -69,15 +69,15 @@ msgstr "与行不同，一列的宽度可以定义为："
 
 #: ../../source/users/folio/title_block/elements/column.rst:31
 msgid "Absolute value, pixel units."
-msgstr "绝对值，像素单位 。"
+msgstr "绝对值，以像素为单位。"
 
 #: ../../source/users/folio/title_block/elements/column.rst:32
 msgid ""
 "Relative value to total, percent of the total width of the `title block`_."
-msgstr "相对于总值，占 `图框 <title block_>`_ 总宽度的百分比。"
+msgstr "相对于总值的相对值，即占 `图框 <title block_>`_ 总宽度的百分比。"
 
 #: ../../source/users/folio/title_block/elements/column.rst:33
 msgid ""
 "Relative value to remaining, percent of the remaining width of the `title "
 "block`_."
-msgstr "剩余值的相对值，占 `图框 <title block_>`_ 剩余宽度的%."
+msgstr "相对于剩余值的相对值，即占 `图框 <title block_>`_ 剩余宽度的百分比。"

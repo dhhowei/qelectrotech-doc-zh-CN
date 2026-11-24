@@ -30,9 +30,9 @@ msgid ""
 " `basic objects`_ and `pictures`_) from `workspace`_ can be selected in "
 "QElectroTech at the same time."
 msgstr ""
-"与许多 CAD 工具一样，许多对象(`元件 <elements_>`_，`导体 <conductors_>`_，`文本字段 <text "
-"fields_>`_，`基本对象 <basic objects_>`_ 和 `图片 <pictures_>`_ 从。 `工作区 "
-"<workspace_>`_ 可以同时在QElectroTech中选择。"
+"与许多 CAD 工具一样，在 QElectroTech 中可以同时选择 `工作区 <workspace_>`_ 中的多个对象（`元件 "
+"<elements_>`_ 、`导体 <conductors_>`_ 、`文本字段 <text fields_>`_ 、`基本对象 <basic "
+"objects_>`_ 和 `图片 <pictures_>`_ ）。"
 
 #: ../../source/users/schema/select/select_multiple_objects.rst:11
 msgid "Select multiple objects using keyboard and mouse"
@@ -42,7 +42,7 @@ msgstr "使用键盘和鼠标选择多个对象"
 msgid ""
 "QElectroTech allows selecting multiple objects from the `workspace`_, "
 "combining the use of keyboard and mouse."
-msgstr "QElectroTech允许从 `工作区 <workspace_>`_ 中选择多个对象，结合使用键盘和鼠标。"
+msgstr "QElectroTech 允许结合使用键盘和鼠标，从 `工作区 <workspace_>`_ 中选择多个对象。"
 
 #: ../../source/users/schema/select/select_multiple_objects.rst:16
 msgid "`Select`_ the first object."
@@ -50,32 +50,32 @@ msgstr "`选择 <Select_>`_ 第一个对象。"
 
 #: ../../source/users/schema/select/select_multiple_objects.rst:17
 msgid "Press ``Ctrl``."
-msgstr "按 ``Ctrl`` (中文(简体) )."
+msgstr "按 ``Ctrl`` 。"
 
 #: ../../source/users/schema/select/select_multiple_objects.rst:18
 msgid "`Select`_ the rest of objects without releasing ``Ctrl``."
-msgstr "`选择 <Select_>`_ 其他对象而不释放 ``Ctrl``."
+msgstr "`选择 <Select_>`_ 其余对象，期间不要松开 ``Ctrl`` 。"
 
 #: ../../source/users/schema/select/select_multiple_objects.rst:23
 msgid "Figure: QElectroTech schema"
-msgstr "图：QElectroTech计划"
+msgstr "图：QElectroTech 原理图"
 
 #: ../../source/users/schema/select/select_multiple_objects.rst:26
 msgid "Select multiple objects by selecting area"
-msgstr "通过选择区域选择多个对象"
+msgstr "通过框选区域选择多个对象"
 
 #: ../../source/users/schema/select/select_multiple_objects.rst:28
 msgid ""
 "QElectroTech allows selecting all objects from an area using the mouse to "
 "select the desired area."
-msgstr "QElectroTech允许使用鼠标从一个区域中选择所有对象来选择想要的区域。"
+msgstr "QElectroTech 允许使用鼠标框选所需区域，从而选择该区域内的所有对象。"
 
 #: ../../source/users/schema/select/select_multiple_objects.rst:30
 msgid ""
 "Left click on the initial point from the rectangular area to be selected and"
 " displace the mouse without releasing up to the end point."
-msgstr "左键单击从矩形区域选择的初始点，并替换鼠标而不释放至终点 。"
+msgstr "在待选矩形区域的起点处单击左键，按住鼠标拖动至终点，途中不要松开。"
 
 #: ../../source/users/schema/select/select_multiple_objects.rst:35
 msgid "Figure: QElectroTech selecting on workspace"
-msgstr "图：工作空间上的QElectroTech选择"
+msgstr "图：在 QElectroTech 工作区中选择"

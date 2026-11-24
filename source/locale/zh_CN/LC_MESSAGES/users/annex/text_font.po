@@ -26,23 +26,23 @@ msgstr "QElectroTech 文本字体"
 
 #: ../../source/users/annex/text_font.rst:9
 msgid "To define the text font at the **Select font** PopUp window:"
-msgstr "在 **选择字体** 弹出窗口时定义文本字体："
+msgstr "在 **选择字体** 弹出窗口中定义文本字体的方法："
 
 #: ../../source/users/annex/text_font.rst:11
 msgid ""
 "Search for the font using the searching box or using the scrollbar from "
 "right side."
-msgstr "使用搜索框或从右侧使用滚动条搜索字体。"
+msgstr "使用搜索框或右侧的滚动条搜索字体。"
 
 #: ../../source/users/annex/text_font.rst:12
 msgid "Click on the text font in the list box."
-msgstr "单击列表框中的文字字体。"
+msgstr "在列表框中单击所需的文本字体。"
 
 #: ../../source/users/annex/text_font.rst:13
 msgid ""
 "Define font size by horizontal scrollbar, defining the size in the text box "
 "or using +/- buttons."
-msgstr "通过水平滚动栏定义字体大小，定义文本框中的大小或使用+/-按钮。"
+msgstr "通过水平滚动条定义字体大小，在文本框中输入大小，或使用 +/- 按钮。"
 
 #: ../../source/users/annex/text_font.rst:18
 msgid "Figure: QElectroTech select font PopUp window"

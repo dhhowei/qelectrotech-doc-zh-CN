@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/export&print/export_wires.rst:4
 msgid "Export wires"
-msgstr "导出电线"
+msgstr "导出导线"
 
 #: ../../source/users/export&print/export_wires.rst:6
 msgid ""
@@ -30,32 +30,32 @@ msgid ""
 "`conductors`_ / wires from the `project`_. The CSV file can be opened and "
 "edited with tools as `LibreOffice Calc`_."
 msgstr ""
-"QElectroTech 允许创建 CSV 文件，其中包含一个来自 `导体 <conductors_>`_ 的全部 `项目 <project_>`_ /"
-" 线条的列表。CSV 文件可以使用工具打开和编辑为 `LibreOffice Calc <LibreOffice Calc_>`_。"
+"QElectroTech 允许创建 CSV 文件，其中包含 `项目 <project_>`_ 中所有 `导体 <conductors_>`_ / "
+"导线的列表。可以使用 `LibreOffice Calc <LibreOffice Calc_>`_ 等工具打开和编辑 CSV 文件。"
 
 #: ../../source/users/export&print/export_wires.rst:9
 msgid ""
 "The different field properties are listed by columns and the `conductors`_ /"
 " wires are ordered by `folio`_."
-msgstr "不同字段属性按列列出，`导体 <conductors_>`_/线由 `图幅 <folio_>`_ 订购。"
+msgstr "不同字段属性按列列出，`导体 <conductors_>`_ / 导线按 `图幅 <folio_>`_ 排序。"
 
 #: ../../source/users/export&print/export_wires.rst:11
 msgid "To export the `conductors`_ / wires list to CSV file:"
-msgstr "要将 `导体 <conductors_>`_ / 电线列表导出到 CSV 文件："
+msgstr "要将 `导体 <conductors_>`_ / 导线列表导出为 CSV 文件："
 
 #: ../../source/users/export&print/export_wires.rst:13
 msgid ""
 "Select **Project > Export the list of names of wires** menu item to open the"
 " exporting PopUp window."
-msgstr "选择 **项目 > 导出线条名称列表** 菜单项打开导出弹出窗口 。"
+msgstr "选择 **项目 > 导出导线名称列表** 菜单项，以打开导出弹出窗口。"
 
 #: ../../source/users/export&print/export_wires.rst:14
 msgid "Choose target directory and file name."
-msgstr "选择目标目录和文件名称 。"
+msgstr "选择目标目录和文件名。"
 
 #: ../../source/users/export&print/export_wires.rst:15
 msgid "Press **Save** button to create the file with extension ``.csv``."
-msgstr "按 **保存** 按钮创建带有扩展名的文件 ``.csv``."
+msgstr "按下 **保存** 按钮，创建扩展名为 ``.csv`` 的文件。"
 
 #: ../../source/users/export&print/export_wires.rst:20
 msgid "Figure: QElectroTech project menu"

@@ -22,13 +22,13 @@ msgstr ""
 
 #: ../../source/users/folio/title_block/collection/what_is.rst:5
 msgid "What is a collection?"
-msgstr "什么是收藏品吗?"
+msgstr "什么是集合？"
 
 #: ../../source/users/folio/title_block/collection/what_is.rst:7
 msgid ""
 "A title block collection is a database where all title block files are "
 "stored and classified."
-msgstr "图框集合是一个数据库，所有图框文件都在这里存储和分类。"
+msgstr "图框集合是一个数据库，用于存储和分类所有图框文件。"
 
 #: ../../source/users/folio/title_block/collection/what_is.rst:10
 msgid ""
@@ -36,12 +36,12 @@ msgid ""
 "collection`_ and `User collection`_. The title block collections can be "
 "found at `projects panel`_."
 msgstr ""
-"QElectroTech有两个不同的图框集集集集，`QET集 <QET collection_>`_ 和 `用户集 <User "
-"collection_>`_。图框集可以在 `项目面板 <projects panel_>`_ 找到。"
+"QElectroTech 集成了两种不同的图框集合：`QET 集合 <QET collection_>`_ 和 `用户集合 <User "
+"collection_>`_ 。图框集合可以在 `项目面板 <projects panel_>`_ 中找到。"
 
 #: ../../source/users/folio/title_block/collection/what_is.rst:16
 msgid "Figure: QElectroTech projects panel"
-msgstr "图：QElectroTech项目小组"
+msgstr "图：QElectroTech 项目面板"
 
 #: ../../source/users/folio/title_block/collection/what_is.rst:18
 msgid ""
@@ -50,5 +50,5 @@ msgid ""
 "structure and it is managed automatically by QElectroTech during the folio "
 "title block definition."
 msgstr ""
-"QElectroTech 当一个 `项目 <project_>`_ 打开时， `项目收集 <project "
-"collection_>`_。此收藏不是软件结构的一部分，而是在folio图框定义期间由 QElectroTech 自动管理。"
+"当打开 `项目 <project_>`_ 时，QElectroTech 还会显示第三个集合，即 `项目集合 <project "
+"collection_>`_ 。该集合不属于软件结构的一部分，而是在图幅图框定义期间由 QElectroTech 自动管理。"

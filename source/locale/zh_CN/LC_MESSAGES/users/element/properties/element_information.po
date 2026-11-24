@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/element/properties/element_information.rst:5
 msgid "Element information"
-msgstr "元素信息"
+msgstr "元件信息"
 
 #: ../../source/users/element/properties/element_information.rst:7
 msgid ""
@@ -30,41 +30,41 @@ msgid ""
 " which can be exported to the `Bill of Materials (BOM)`_. At this section "
 "the available information is:"
 msgstr ""
-"要素信息部分提供 `元件 <element_>`_ 的所有信息，这些信息可以出口到 `材料清单 <Bill of Materials "
-"(BOM)_>`_。"
+"元件信息部分提供 `元件 <element_>`_ 的所有信息，这些信息可导出到 `物料清单（BOM） <Bill of Materials "
+"(BOM)_>`_。本节中可用的信息包括："
 
 #: ../../source/users/element/properties/element_information.rst:9
 msgid "Element label"
-msgstr "元素标签"
+msgstr "元件标签"
 
 #: ../../source/users/element/properties/element_information.rst:10
 msgid "Element location in the system"
-msgstr "系统中的要素位置"
+msgstr "元件在系统中的位置"
 
 #: ../../source/users/element/properties/element_information.rst:11
 msgid "Element article number"
-msgstr "元素条号"
+msgstr "元件货号"
 
 #: ../../source/users/element/properties/element_information.rst:12
 msgid "Element manufacturer"
-msgstr "元素制造商"
+msgstr "元件制造商"
 
 #: ../../source/users/element/properties/element_information.rst:13
 msgid "Element supplier"
-msgstr "元素供应商"
+msgstr "元件供应商"
 
 #: ../../source/users/element/properties/element_information.rst:14
 msgid "Etc."
-msgstr "Etc (英语)."
+msgstr "等等。"
 
 #: ../../source/users/element/properties/element_information.rst:18
 msgid ""
 "The element information section is only available for `simple`_, `master`_ "
 "or `terminal block`_ `elements`_."
 msgstr ""
-"元素信息部分仅供 `简单 <simple_>`_，`师傅 <master_>`_ 或 `端子排 <terminal block_>`_ `元件 "
+"元件信息部分仅适用于 `简单 <simple_>`_、`主 <master_>`_ 或 `端子排 <terminal block_>`_ `元件 "
 "<elements_>`_。"
 
 #: ../../source/users/element/properties/element_information.rst:23
 msgid "Figure: QElectroTech information element properties"
-msgstr "图：QElectroTech信息元素属性"
+msgstr "图：QElectroTech 元件信息属性"

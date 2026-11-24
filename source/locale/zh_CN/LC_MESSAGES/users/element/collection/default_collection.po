@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/element/collection/default_collection.rst:5
 msgid "QET collection"
-msgstr "QET 收藏"
+msgstr "QET 集合"
 
 #: ../../source/users/element/collection/default_collection.rst:7
 msgid ""
@@ -31,26 +31,26 @@ msgid ""
 "cannot be edited. The user cannot add any `element`_, any category or sub-"
 "category and cannot re-organize the `elements`_ in the database."
 msgstr ""
-"QET 收藏是 QElectroTech 的默认收藏。 此收藏是受保护的，用户只能读取它，QET 收藏不能编辑 。 用户不能添加任何 `元件 "
-"<element_>`_，任何类或子类，也不能重新组织数据库中的 `元件 <elements_>`_ 。"
+"QET 集合是 QElectroTech 的默认集合。该集合受保护，用户只能读取，无法编辑 QET 集合。用户不能在其中添加任何 `元件 "
+"<element_>`_、任何类别或子类别，也不能重新组织数据库中的 `元件 <elements_>`_。"
 
 #: ../../source/users/element/collection/default_collection.rst:14
 msgid "Figure: QET collection tree at collection panel"
-msgstr "图：收集面板上的QET采集树"
+msgstr "图：集合面板中的 QET 集合树"
 
 #: ../../source/users/element/collection/default_collection.rst:16
 msgid "The QET collection has the following categories:"
-msgstr "QET收藏有以下几类："
+msgstr "QET 集合包含以下类别："
 
 #: ../../source/users/element/collection/default_collection.rst
 msgid "Electric"
-msgstr "电器"
+msgstr "电气"
 
 #: ../../source/users/element/collection/default_collection.rst:20
 msgid ""
 "Collection of electrical components (motors, converters, switches, "
 "electrical protections, etc.)"
-msgstr "收集电力部件(机动车、转换器、开关、电保护等)"
+msgstr "电气部件集合（电机、变流器、开关、电气保护装置等）"
 
 #: ../../source/users/element/collection/default_collection.rst
 msgid "Logic"
@@ -60,27 +60,27 @@ msgstr "逻辑"
 msgid ""
 "Logic signal symbols (AND, OR, NOT, NOR, etc.), GRAFCET symbols, Ladder "
 "symbols and flow char symbols."
-msgstr "逻辑信号符号(AND,OR,NOT,NOR等),GRAFCET符号，梯形符号和流字符符号。"
+msgstr "逻辑信号符号（AND、OR、NOT、NOR 等）、GRAFCET 符号、梯形图符号和流程图符号。"
 
 #: ../../source/users/element/collection/default_collection.rst
 msgid "Hydraulic"
-msgstr "水力学"
+msgstr "液压"
 
 #: ../../source/users/element/collection/default_collection.rst:28
 msgid ""
 "Collection of hydraulic components (Pumps, cylinders, pressure limit valves,"
 " pressure relief valves, directional valves, etc.)"
-msgstr "收集液压部件(泵、气瓶、压力限制阀、降压阀、定向阀等)"
+msgstr "液压部件集合（泵、液压缸、限压阀、溢流阀、方向阀等）"
 
 #: ../../source/users/element/collection/default_collection.rst
 msgid "Pneumatic"
-msgstr "肺脏"
+msgstr "气动"
 
 #: ../../source/users/element/collection/default_collection.rst:32
 msgid ""
 "Collection of hydraulic components (Compressor, cylinders, air filters, "
 "directional valves, etc.)"
-msgstr "收集液压部件(压缩机、气瓶、空气过滤器、定向阀等)"
+msgstr "液压部件集合（压缩机、气缸、空气过滤器、方向阀等）"
 
 #: ../../source/users/element/collection/default_collection.rst
 msgid "Energy"
@@ -90,4 +90,4 @@ msgstr "能源"
 msgid ""
 "Collection of elements used at the energy field (pumps, turbines, solar "
 "panels, heat exchangers, etc.)"
-msgstr "收集能源领域使用的元素(泵、涡轮机、太阳能板、热交换器等)"
+msgstr "能源领域使用的元件集合（泵、涡轮机、太阳能板、热交换器等）"

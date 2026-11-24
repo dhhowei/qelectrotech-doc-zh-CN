@@ -31,48 +31,48 @@ msgid ""
 "`elements`_, `conductors`_ and `text fields (plain text)`_ which contains a "
 "string at one of the properties."
 msgstr ""
-"要在 `schema <schema_>`_ 中轻松查找信息，QElectroTech 提供了一个搜索功能。 这个功能允许自动查找 `图幅 "
-"<folios_>`_，`元件 <elements_>`_，`导体 <conductors_>`_ 和 `文本字段 (普通文本) <text "
-"fields (plain text)_>`_，其中包含一个属性的字符串 。"
+"为了便于在 `原理图 <schema_>`_ 中查找信息，QElectroTech 提供了搜索功能。该功能可自动查找在某个属性中包含指定字符串的 `图幅"
+" <folios_>`_ 、`元件 <elements_>`_ 、`导体 <conductors_>`_ 和 `文本字段（纯文本） <text "
+"fields (plain text)_>`_ 。"
 
 #: ../../source/users/schema/search.rst:11
 msgid "To find an object which contains a string:"
-msgstr "要找到包含字符串的对象："
+msgstr "要查找包含某个字符串的对象："
 
 #: ../../source/users/schema/search.rst:13
 #: ../../source/users/schema/search.rst:41
 msgid "Go to `search menu`_."
-msgstr "转到 `搜索菜单 <search menu_>`_。"
+msgstr "转到 `搜索菜单 <search menu_>`_ 。"
 
 #: ../../source/users/schema/search.rst:18
 msgid "Figure: QElectroTech search menu"
-msgstr "图：QElectroTech搜索菜单"
+msgstr "图：QElectroTech 搜索菜单"
 
 #: ../../source/users/schema/search.rst:20
 msgid ""
 "Write the string which should be search over the `project`_ in the text box "
 "from the menu."
-msgstr "在菜单的文本框中写 `项目 <project_>`_ 上搜索的字符串。"
+msgstr "在菜单的文本框中输入要在 `项目 <project_>`_ 中搜索的字符串。"
 
 #: ../../source/users/schema/search.rst:21
 msgid ""
 "Press ``Enter`` and QElectroTech will zoom and display the first object from"
 " the list of matches at the `workspace`_."
-msgstr "按 ``Enter`` 和 QElectroTech 将在 `工作区 <workspace_>`_ 上放大并显示匹配列表中的第一个对象。"
+msgstr "按 ``Enter`` 后，QElectroTech 将缩放并在 `工作区 <workspace_>`_ 中显示匹配列表中的第一个对象。"
 
 #: ../../source/users/schema/search.rst:22
 msgid ""
 "Press |icon_next| or |icon_previous| button to zoom the next or previous "
 "object from the list of matches."
-msgstr "按 |icon_next| 或 |icon_previous| 按钮从匹配列表中缩放下一个或上一个对象。"
+msgstr "按 |icon_next| 或 |icon_previous| 按钮，可缩放至匹配列表中的下一个或上一个对象。"
 
 #: ../../source/users/schema/search.rst:25
 msgid "icon_next"
-msgstr "图标"
+msgstr "下一个"
 
 #: ../../source/users/schema/search.rst:26
 msgid "icon_previous"
-msgstr "图标( P)"
+msgstr "上一个"
 
 #: ../../source/users/schema/search.rst:23
 msgid "Press |icon_actualize| button to refresh the search."
@@ -80,34 +80,34 @@ msgstr "按 |icon_actualize| 按钮刷新搜索。"
 
 #: ../../source/users/schema/search.rst:27
 msgid "icon_actualize"
-msgstr "图标( A)"
+msgstr "刷新"
 
 #: ../../source/users/schema/search.rst:31
 msgid ""
 "If the `search menu`_ is not displayed, it can be displayed from **Edit > "
 "Search / Replace** menu item or using ``Ctrl + f`` shortcut keyboard."
 msgstr ""
-"如果不显示 `搜索菜单 <search menu_>`_，可以从 **编辑 > 搜索/替换** 菜单项或使用 ``Ctrl + f`` 快捷键盘显示。"
+"如果 `搜索菜单 <search menu_>`_ 未显示，可通过 **编辑 > 搜索/替换** 菜单项或 ``Ctrl + f`` "
+"快捷键将其显示出来。"
 
 #: ../../source/users/schema/search.rst:33
 msgid ""
 "QElectroTech provides also some advanced properties for searching. Before "
 "searching, a filter can be defined to reduce the list of matches according "
 "the following criteria:"
-msgstr "QElectroTech 还为搜索提供了一些高级属性。在搜索之前，可以定义一个过滤器，以根据以下标准减少匹配列表："
+msgstr "QElectroTech 还提供了一些高级搜索属性。搜索前可以定义过滤器，以根据以下条件缩小匹配列表："
 
 #: ../../source/users/schema/search.rst:36
 msgid "`Text fields (Plain text)`_."
-msgstr "`Text 字段(原始文本) <Text fields (Plain text)_>`_。"
+msgstr "`文本字段（纯文本） <Text fields (Plain text)_>`_ 。"
 
 #: ../../source/users/schema/search.rst:37
 msgid ""
 "Whole words (`Text fields (Plain text)`_, `Conductor properties`_, `Element "
 "properties`_, `Folio properties`_)"
 msgstr ""
-"整词 (`Text 字段 (原始文本) <Text fields (Plain text)_>`_，`制片人属性 <Conductor "
-"properties_>`_，`元素属性 <Element properties_>`_，`Folio属性 <Folio "
-"properties_>`_)."
+"全词匹配（`文本字段（纯文本） <Text fields (Plain text)_>`_ 、`导体属性 <Conductor "
+"properties_>`_ 、`元件属性 <Element properties_>`_ 、`图幅属性 <Folio properties_>`_ ）"
 
 #: ../../source/users/schema/search.rst:39
 msgid "To create an advanced search:"
@@ -115,26 +115,26 @@ msgstr "要创建高级搜索："
 
 #: ../../source/users/schema/search.rst:42
 msgid "Press |icon_advanced| button to display the filter tree."
-msgstr "按 |icon_advanced| 按钮显示过滤树 。"
+msgstr "按 |icon_advanced| 按钮显示过滤器树。"
 
 #: ../../source/users/schema/search.rst:53
 msgid "icon_advanced"
-msgstr "图标"
+msgstr "高级"
 
 #: ../../source/users/schema/search.rst:47
 msgid "Figure: QElectroTech advanced search menu"
-msgstr "图：QElectroTech高级搜索菜单"
+msgstr "图：QElectroTech 高级搜索菜单"
 
 #: ../../source/users/schema/search.rst:49
 msgid ""
 "Select the type of text to be searched (**Plain text** or **Whole words**) "
 "at the combobox from the right side of the text box."
-msgstr "选择要从文本框右侧的组合框中搜索的文本类型 (**Plain text** 或 **整词** 。"
+msgstr "在文本框右侧的下拉框中选择要搜索的文本类型（**Plain text** 或 **Whole words**）。"
 
 #: ../../source/users/schema/search.rst:50
 msgid "Click / unclick the button which selects **Case sensitive**."
-msgstr "单击/ 不单击选择 **Case 敏感的按钮** 。"
+msgstr "勾选或取消勾选 **Case sensitive** 复选框。"
 
 #: ../../source/users/schema/search.rst:51
 msgid "From here, follow the steps from the standard search."
-msgstr "从这里，遵循标准搜索的步骤。"
+msgstr "然后按照标准搜索的步骤操作。"

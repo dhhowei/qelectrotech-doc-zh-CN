@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/panels/undo.rst:5
 msgid "Undo panel"
-msgstr "撤消面板"
+msgstr "撤销面板"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/panels/undo.rst:7
 msgid ""
@@ -30,24 +30,23 @@ msgid ""
 "was saved. Once the `title block`_ is saved, undo panel is automatically "
 "cleaned."
 msgstr ""
-"撤消面板显示自上次保存 `图框 <title block_>`_ 以来的历史。 一旦保存 `图框 <title block_>`_，撤消面板将自动清理 "
-"。"
+"撤销面板显示自上次保存 `图框 <title block_>`_ 以来的历史。保存 `图框 <title block_>`_ 后，撤销面板会自动清空。"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/panels/undo.rst:13
 msgid "Figure: QElectroTech Undo panel"
-msgstr "图：QElectroTech Undo 面板"
+msgstr "图：QElectroTech 撤销面板"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/panels/undo.rst:15
 msgid "To display Undo panel:"
-msgstr "要显示撤消面板："
+msgstr "要显示撤销面板："
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/panels/undo.rst:17
 msgid "Select **Settings > display > Undo** menu item to display Undo panel."
-msgstr "选择 **设置 > 显示 > 撤销** 菜单项以显示撤消面板。"
+msgstr "选择 **设置 > 显示 > 撤销** 菜单项以显示撤销面板。"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/panels/undo.rst:21
 msgid ""
 "For more information about utilities from Undo panel, refer to `QElectroTech"
 " Undo panel`_ section."
 msgstr ""
-"关于Undo面板上的公用事业的更多信息，请参见 `QElectroTech Undo面板 <QElectroTech Undo panel_>`_ 节。"
+"有关撤销面板中各项功能的更多信息，请参阅 `QElectroTech 撤销面板 <QElectroTech Undo panel_>`_ 一节。"

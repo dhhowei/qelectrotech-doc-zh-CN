@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/folio/title_block/properties/extra_info.rst:5
 msgid "Title block extra information"
-msgstr "图框额外信息"
+msgstr "图框附加信息"
 
 #: ../../source/users/folio/title_block/properties/extra_info.rst:7
 msgid ""
@@ -31,26 +31,26 @@ msgid ""
 "defining the author and/or license from `title block`_. Any other "
 "information can also be defined in this property field."
 msgstr ""
-"QElectroTech 提供了定义一个名为 **的字符串字段属性的选项。 extra information**。 此属性字段允许用户从 `图框 "
-"<title block_>`_ 定义作者和/或许可证。 任何其他信息也可以在此属性字段中定义 。"
+"QElectroTech 提供了定义一个名为 **Extra information** 的字符串字段属性的选项。此属性字段用于让用户定义 `图框 "
+"<title block_>`_ 中的作者和/或许可证。任何其他信息也可以在此属性字段中定义。"
 
 #: ../../source/users/folio/title_block/properties/extra_info.rst:14
 msgid "Figure: QElectroTech title block extra information PopUP window"
-msgstr "图：QElectroTech 图框额外信息 PopUP 窗口"
+msgstr "图：QElectroTech 图框附加信息弹出窗口"
 
 #: ../../source/users/folio/title_block/properties/extra_info.rst:16
 msgid "To display/edit the extra information from the `title block`_:"
-msgstr "要显示/编辑来自 `图框 <title block_>`_ 的额外信息："
+msgstr "要显示/编辑 `图框 <title block_>`_ 中的附加信息："
 
 #: ../../source/users/folio/title_block/properties/extra_info.rst:18
 msgid "`Display title block`_ in the `title block editor`_."
-msgstr "`显示图框 <Display title block_>`_ 输入 `图框编辑器 <title block editor_>`_。"
+msgstr "在 `图框编辑器 <title block editor_>`_ 中 `显示图框 <Display title block_>`_ 。"
 
 #: ../../source/users/folio/title_block/properties/extra_info.rst:19
 msgid ""
 "Go to **Edit > Edit extra information** menu item to display extra "
 "information PopUP window."
-msgstr "转到 **Edit > 编辑额外信息** 菜单项以显示额外信息 PopUP 窗口 。"
+msgstr "转到 **Edit > Edit extra information** 菜单项以显示附加信息弹出窗口。"
 
 #: ../../source/users/folio/title_block/properties/extra_info.rst:24
 msgid "Figure: QElectroTech title block edit menu"
@@ -61,4 +61,4 @@ msgid ""
 "For more information about customizing title block extra information, refer "
 "to `define title block extra information`_ section."
 msgstr ""
-"关于自定义图框额外信息的更多信息，请参见 `定义图框额外信息 <define title block extra information_>`_ 节。"
+"有关自定义图框附加信息的更多信息，请参阅 `定义图框附加信息 <define title block extra information_>`_ 一节。"

@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/folio/title_block/collection/title_block_qet_collection.rst:5
 msgid "Title block QET collection"
-msgstr "图框 QET 收藏"
+msgstr "图框 QET 集合"
 
 #: ../../source/users/folio/title_block/collection/title_block_qet_collection.rst:7
 msgid ""
@@ -31,9 +31,9 @@ msgid ""
 "collection cannot be edited. The user cannot add or delete any `title "
 "block`_ in the database."
 msgstr ""
-"**QET** 收藏是QElectroTech的默认收藏，此收藏受到保护，用户只能读取，**QET** 收藏不能编辑，用户不能在数据库中添加或删除任何 "
-"`图框 <title block_>`_。"
+"**QET** 集合是 QElectroTech 的默认集合。该集合受保护，用户只能读取，**QET** 集合不能编辑。用户不能在数据库中添加或删除任何"
+" `图框 <title block_>`_ 。"
 
 #: ../../source/users/folio/title_block/collection/title_block_qet_collection.rst:14
 msgid "Figure: QET collection tree at project panel"
-msgstr "图：项目板上的QET采集树"
+msgstr "图：项目面板中的 QET 集合树"

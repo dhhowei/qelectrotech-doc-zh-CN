@@ -28,7 +28,7 @@ msgstr "自动编号选择面板"
 msgid ""
 "The Auto Numbering Selection panel displays the active `auto numbering "
 "pattern`_ for:"
-msgstr "自动编号选择面板显示活动 `自动编号模式 <auto numbering pattern_>`_ 用于："
+msgstr "自动编号选择面板显示以下对象当前活动的 `自动编号模式 <auto numbering pattern_>`_ ："
 
 #: ../../source/users/interface/panels/autonumbering_panel.rst:11
 msgid "`Folio`_"
@@ -62,38 +62,38 @@ msgstr "自动编号选择面板的主要功能是管理 `自动编号模式 <au
 
 #: ../../source/users/interface/panels/autonumbering_panel.rst:26
 msgid "Select the active folio auto numbering pattern"
-msgstr "选择活动化的自动编号模式"
+msgstr "选择图幅的当前自动编号模式"
 
 #: ../../source/users/interface/panels/autonumbering_panel.rst:27
 msgid "Select the active element auto numbering pattern"
-msgstr "选择活动元素自动编号模式"
+msgstr "选择元件的当前自动编号模式"
 
 #: ../../source/users/interface/panels/autonumbering_panel.rst:32
 msgid "Figure: QElectroTech element pattern selection"
-msgstr "图：QElectroTech元素模式选择"
+msgstr "图：QElectroTech 元件模式选择"
 
 #: ../../source/users/interface/panels/autonumbering_panel.rst:34
 msgid "Select the active conductor auto numbering pattern"
-msgstr "选择活动导线自动编号模式"
+msgstr "选择导体的当前自动编号模式"
 
 #: ../../source/users/interface/panels/autonumbering_panel.rst:41
 msgid "Figure: QElectroTech conductor pattern selection"
-msgstr "图：QElectroTech导电模式选择"
+msgstr "图：QElectroTech 导体模式选择"
 
 #: ../../source/users/interface/panels/autonumbering_panel.rst:45
 msgid ""
 "For more information about how to use the Auto Numbering Select panel during"
 " folio addition, refer to `add folio`_ section."
-msgstr "关于在folio添加时如何使用自动编号选择面板的更多信息，请参见 `add folio <add folio_>`_ 部分。"
+msgstr "有关在添加图幅时如何使用自动编号选择面板的更多信息，请参见 `添加图幅 <add folio_>`_ 一节。"
 
 #: ../../source/users/interface/panels/autonumbering_panel.rst:48
 msgid ""
 "For more information about how to use the Auto Numbering Select panel during"
 " element addition, refer to `add element`_ section."
-msgstr "关于元素添加时如何使用自动编号选择面板的更多信息，请参见 `添加元素 <add element_>`_ 部分。"
+msgstr "有关在添加元件时如何使用自动编号选择面板的更多信息，请参见 `添加元件 <add element_>`_ 一节。"
 
 #: ../../source/users/interface/panels/autonumbering_panel.rst:51
 msgid ""
 "For more information about how to use the Auto Numbering Select panel during"
 " conductor creation, refer to `create conductor`_ section."
-msgstr "关于导电器创建期间如何使用自动编号选择面板的更多信息，请参见 `创建导电器 <create conductor_>`_ 部分。"
+msgstr "有关在创建导体时如何使用自动编号选择面板的更多信息，请参见 `创建导体 <create conductor_>`_ 一节。"

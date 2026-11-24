@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/preferences/appearance.rst:5
 msgid "QElectroTech appearance"
-msgstr "电子技术外观"
+msgstr "QElectroTech 外观"
 
 #: ../../source/users/preferences/appearance.rst:8
 msgid "Project visualization"
@@ -32,7 +32,7 @@ msgstr "项目可视化"
 msgid ""
 "The default project visualization option can be defined at the appearance "
 "settings from QElectroTech. Select between:"
-msgstr "在 QElectroTech 的外观设置中可以定义默认的项目可视化选项。请在："
+msgstr "默认的项目可视化选项可以在 QElectroTech 的外观设置中定义。可在以下选项中选择："
 
 #: ../../source/users/preferences/appearance.rst:12
 msgid "Use windows"
@@ -40,7 +40,7 @@ msgstr "使用窗口"
 
 #: ../../source/users/preferences/appearance.rst:13
 msgid "Use tabs"
-msgstr "使用标签"
+msgstr "使用标签页"
 
 #: ../../source/users/preferences/appearance.rst:17
 msgid ""
@@ -48,8 +48,8 @@ msgid ""
 "QElectroTech or follow the procedure from `customize project "
 "visualization`_."
 msgstr ""
-"这些变化在下一次发射时应用，退出并再次发射QElectroTech或遵循 `定制项目可视化 <customize project "
-"visualization_>`_ 的程序。"
+"这些更改会在下次启动时生效，请退出并重新启动 QElectroTech，或按照 `自定义项目可视化 <customize project "
+"visualization_>`_ 中的步骤操作。"
 
 #: ../../source/users/preferences/appearance.rst:22
 msgid "Figure: QElectroTech appearance settings"

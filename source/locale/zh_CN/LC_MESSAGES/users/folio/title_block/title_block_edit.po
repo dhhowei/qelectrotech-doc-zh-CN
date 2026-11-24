@@ -30,9 +30,8 @@ msgid ""
 "`project embedded collection`_. The `QET collection`_ title blocks cannot be"
 " edited."
 msgstr ""
-"QElectroTech 只允许从 `User collection <User collection_>`_ 或 `project 嵌入式 "
-"collection <project embedded collection_>`_ 编辑模板。`QET collection <QET "
-"collection_>`_ 图框不能编辑。"
+"QElectroTech 只允许编辑 `用户集合 <User collection_>`_ 或 `项目内嵌集合 <project embedded "
+"collection_>`_ 中的模板。`QET 集合 <QET collection_>`_ 中的图框不能编辑。"
 
 #: ../../source/users/folio/title_block/title_block_edit.rst:12
 msgid ""
@@ -40,8 +39,8 @@ msgid ""
 " with `title block editor`_. Once the template is modified, it has to be "
 "saved using the option **Save as** and create a new template."
 msgstr ""
-"QElectroTech 可以打开图框模板 `QET 收藏 <QET collection_>`_ 与 `图框编辑器 <title block "
-"editor_>`_。模板一旦修改，必须使用选项保存 **另存为** 并创建新模板。"
+"QElectroTech 允许使用 `图框编辑器 <title block editor_>`_ 打开 `QET 集合 <QET "
+"collection_>`_ 中的图框模板。模板一旦修改，就必须使用 **Save as** 选项保存，并创建一个新模板。"
 
 #: ../../source/users/folio/title_block/title_block_edit.rst:16
 msgid "Edit title block from menu bar"
@@ -52,40 +51,40 @@ msgid ""
 "Select **Project > Project properties > New folio** menu item to display "
 "`default folio properties`_ from `project`_."
 msgstr ""
-"选择 **项目 > 项目属性 > 新建 folio** 菜单项以显示 `默认 volio 属性 <default folio "
-"properties_>`_ from `项目 <project_>`_。"
+"选择 **Project > Project properties > New folio** 菜单项，以从 `项目 <project_>`_ 显示 "
+"`默认图幅属性 <default folio properties_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_edit.rst:19
 #: ../../source/users/folio/title_block/title_block_edit.rst:31
 msgid ""
 "Go to `title block information`_ and select the title block which should be "
 "edited."
-msgstr "转到 `图框信息 <title block information_>`_ 并选择应该编辑的图框 。"
+msgstr "转到 `图框信息 <title block information_>`_ 并选择要编辑的图框。"
 
 #: ../../source/users/folio/title_block/title_block_edit.rst:20
 #: ../../source/users/folio/title_block/title_block_edit.rst:32
 msgid ""
 "Select the option **Edit this template** to display `title block editor`_."
-msgstr "选择选项 **编辑此模板** 以显示 `图框编辑 <title block editor_>`_ 。"
+msgstr "选择选项 **Edit this template** 以显示 `图框编辑器 <title block editor_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_edit.rst:25
 msgid "Figure: QElectroTech new folio properties PopUP window"
-msgstr "图：QElectroTech 新浮雕属性 PopUP 窗口"
+msgstr "图：QElectroTech 新建图幅属性弹出窗口"
 
 #: ../../source/users/folio/title_block/title_block_edit.rst:28
 msgid "Edit title block from folio properties"
-msgstr "从 folio 属性编辑图框"
+msgstr "从图幅属性编辑图框"
 
 #: ../../source/users/folio/title_block/title_block_edit.rst:30
 msgid ""
 "`Display folio properties`_ from one of the `folios`_ of the `project`_."
 msgstr ""
-"`Display follio属性 <Display folio properties_>`_，来自 `图幅 <folios_>`_ 中的 `项目 "
-"<project_>`_ 之一。"
+"从 `项目 <project_>`_ 的某个 `图幅 <folios_>`_ 中 `显示图幅属性 <Display folio "
+"properties_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_edit.rst:37
 msgid "Figure: QElectroTech folio properties PopUP window"
-msgstr "图：QElectroTech folio 属性 PopUP 窗口"
+msgstr "图：QElectroTech 图幅属性弹出窗口"
 
 #: ../../source/users/folio/title_block/title_block_edit.rst:40
 msgid "Edit title block from project panel"
@@ -99,14 +98,15 @@ msgstr "右键单击应编辑的图框模板。"
 msgid ""
 "Click the option **Edit this template** to open the template with `title "
 "block editor`_."
-msgstr "单击选项 **编辑此模板** 用 `图框编辑器 <title block editor_>`_ 打开模板 。"
+msgstr "单击选项 **Edit this template** ，使用 `图框编辑器 <title block editor_>`_ 打开该模板。"
 
 #: ../../source/users/folio/title_block/title_block_edit.rst:48
 msgid "Figure: QElectroTech Project panel"
-msgstr "图：QElectroTech项目面板"
+msgstr "图：QElectroTech 项目面板"
 
 #: ../../source/users/folio/title_block/title_block_edit.rst:52
 msgid ""
 "If the `project panel`_ is not displayed, it can be displayed from "
 "**Settings > Display > Projects**."
-msgstr "如果 `项目面板 <project panel_>`_ 没有显示，可以从 **设置 > 显示 > 项目** 显示。"
+msgstr ""
+"如果 `项目面板 <project panel_>`_ 未显示，可从 **Settings > Display > Projects** 中将其显示。"

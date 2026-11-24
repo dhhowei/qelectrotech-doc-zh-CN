@@ -32,8 +32,7 @@ msgstr "定义"
 msgid ""
 "A cell from the `title block`_ is the most basic storage unit available. The"
 " three different type of cells are: empty cell, text cell and logo cell."
-msgstr ""
-"来自 `图框 <title block_>`_ 的单元格是可用的最基本的存储单元。三种不同的单元格类型是：空单元格、文本单元格和标识单元格。"
+msgstr "`图框 <title block_>`_ 中的单元格是最基本的存储单位。三种不同的单元格类型为：空单元格、文本单元格和徽标单元格。"
 
 #: ../../source/users/folio/title_block/elements/cell.rst:14
 msgid "Empty cell"
@@ -43,7 +42,7 @@ msgstr "空单元格"
 msgid ""
 "An empty cell is used when the area occupied by the cell should be empty and"
 " without any edge displayed. This type of cell has no properties."
-msgstr "当单元格占用的区域应该是空的且没有显示任何边缘时，则使用空单元格。这类单元格没有属性。"
+msgstr "当单元格占用的区域应为空白且不显示任何边框时，使用空单元格。此类单元格没有属性。"
 
 #: ../../source/users/folio/title_block/elements/cell.rst:22
 msgid "Figure: QElectroTech title block empty cell properties"
@@ -58,7 +57,7 @@ msgid ""
 "An text cell is used when the area occupied by the cell should be filled by "
 "string information inside a rectangle. This type of cell has different "
 "parameters that can be defined."
-msgstr "当单元格占用的区域被矩形内的字符串信息填充时，会使用文本单元格。这类单元格有不同的参数可以定义。"
+msgstr "当单元格占用的区域需要用矩形内的字符串信息填充时，使用文本单元格。此类单元格有多个可定义的参数。"
 
 #: ../../source/users/folio/title_block/elements/cell.rst:34
 msgid "Figure: QElectroTech title block text cell properties"
@@ -71,7 +70,7 @@ msgstr "名称"
 #: ../../source/users/folio/title_block/elements/cell.rst:38
 #: ../../source/users/folio/title_block/elements/cell.rst:69
 msgid "Name from cell"
-msgstr "来自单元格的名称"
+msgstr "单元格的名称"
 
 #: ../../source/users/folio/title_block/elements/cell.rst
 msgid "Label"
@@ -81,7 +80,7 @@ msgstr "标签"
 msgid ""
 "When the cell should display a variable from the folio or project "
 "properties, the label is the text that appears before the variable."
-msgstr "当单元格应当显示一个来自folio或项目属性的变量时，标签就是出现在变量之前的文本。"
+msgstr "当单元格需要显示来自图幅或项目属性的变量时，标签就是出现在该变量之前的文本。"
 
 #: ../../source/users/folio/title_block/elements/cell.rst
 msgid "Text"
@@ -91,9 +90,7 @@ msgstr "文本"
 msgid ""
 "It can be a simple string defined by the user or a variable from the folio "
 "or project (Ex: Author, Revision, Date, project name, folio page, etc.)."
-msgstr ""
-"它可以是用户定义的简单字符串，也可以是folio或项目的变量(Ex:Author,Review,Date,Project name,folio "
-"page等)."
+msgstr "它可以是用户定义的简单字符串，也可以是来自图幅或项目的变量（例如：Author、Revision、Date、项目名称、图幅页码等）。"
 
 #: ../../source/users/folio/title_block/elements/cell.rst
 msgid "Font"
@@ -101,7 +98,7 @@ msgstr "字体"
 
 #: ../../source/users/folio/title_block/elements/cell.rst:50
 msgid "Font from the label and text of the cell."
-msgstr "单元格标签和文本中的字体。"
+msgstr "单元格标签和文本的字体。"
 
 #: ../../source/users/folio/title_block/elements/cell.rst
 msgid "Alignment"
@@ -111,36 +108,34 @@ msgstr "对齐"
 msgid ""
 "Vertical and horizontal position of the label and text from the cell inside "
 "the cell."
-msgstr "从单元格内的单元格中获取标签和文本的垂直和水平位置。"
+msgstr "单元格内标签和文本在垂直和水平方向上的位置。"
 
 #: ../../source/users/folio/title_block/elements/cell.rst:57
 msgid "Logo cell"
-msgstr "日志单元格"
+msgstr "徽标单元格"
 
 #: ../../source/users/folio/title_block/elements/cell.rst:59
 msgid ""
 "A logo cell is used when the area occupied by the cell should be filled by a"
 " picture inside a rectangle. This type of cell has different parameters that"
 " can be defined."
-msgstr "当单元格占用的区域由矩形内的图片填充时，会使用标志单元格。这类单元格有不同的参数可以定义。"
+msgstr "当单元格占用的区域需要用矩形内的图片填充时，使用徽标单元格。此类单元格有多个可定义的参数。"
 
 #: ../../source/users/folio/title_block/elements/cell.rst:65
 msgid "Figure: QElectroTech title block logo cell properties"
-msgstr "图：QElectroTech 图框标志单元格属性"
+msgstr "图：QElectroTech 图框徽标单元格属性"
 
 #: ../../source/users/folio/title_block/elements/cell.rst
 msgid "Logo"
-msgstr "日志"
+msgstr "徽标"
 
 #: ../../source/users/folio/title_block/elements/cell.rst:73
 msgid "Name of the Scalable Vector Graphic (SVG) file with the logo image."
-msgstr "可缩放矢量图形(SVG)文件名称与标志图像。"
+msgstr "包含徽标图像的可缩放矢量图形（SVG）文件名称。"
 
 #: ../../source/users/folio/title_block/elements/cell.rst:77
 msgid ""
 "Many different tools allows you to create Scalable Vector Graphics, SVG "
 "files. Inside the Open Source world, `Inkscape`_ is on of the recommended "
 "tools."
-msgstr ""
-"许多不同的工具允许您创建可缩放矢量图形，SVG 文件。Inside the Open Source world, `Inkscape "
-"<Inkscape_>`_ 在推荐的工具上。"
+msgstr "许多不同的工具都可以用来创建可缩放矢量图形（SVG）文件。在开源世界里，`Inkscape <Inkscape_>`_ 是推荐的工具之一。"

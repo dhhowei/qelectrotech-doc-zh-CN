@@ -22,37 +22,37 @@ msgstr ""
 
 #: ../../source/users/project/project_underlying_directory.rst:5
 msgid "Open project underlying directory"
-msgstr "打开项目基础目录"
+msgstr "打开项目所在目录"
 
 #: ../../source/users/project/project_underlying_directory.rst:7
 msgid ""
 "QElectroTech provides the feature of opening the directory where a opened "
 "project was saved from the user interface, without the need to look for the "
 "directory locally."
-msgstr "QElectroTech提供了打开目录的功能，其中打开的项目从用户界面中保存下来，无需在当地查找目录。"
+msgstr "QElectroTech 提供了直接从用户界面打开已打开项目所在目录的功能，无需在本地查找该目录。"
 
 #: ../../source/users/project/project_underlying_directory.rst:10
 msgid "To open the underlying directory of a project:"
-msgstr "要打开项目的基本目录："
+msgstr "要打开项目所在目录："
 
 #: ../../source/users/project/project_underlying_directory.rst:12
 msgid ""
 "Right click on the opened `project`_ from which the underlying directory is "
 "desired from the `projects panel`_ tree."
-msgstr "右键点击打开的 `项目 <project_>`_，从 `项目面板 <projects panel_>`_ 树中需要从其中获取基本目录 。"
+msgstr "在 `项目面板 <projects panel_>`_ 树中，右键点击要查看其所在目录的已打开 `项目 <project_>`_ 。"
 
 #: ../../source/users/project/project_underlying_directory.rst:13
 msgid ""
 "Select **Open the underlying directory** to open the local directory where "
 "the `project`_ was saved."
-msgstr "选择 **打开基础目录** 打开保存 `项目 <project_>`_ 的本地目录 。"
+msgstr "选择 **打开所在目录** 以打开保存 `项目 <project_>`_ 的本地目录。"
 
 #: ../../source/users/project/project_underlying_directory.rst:18
 msgid "Figure: QElectroTech project options in projects panel"
-msgstr "图：项目小组中的QElectroTech项目选项"
+msgstr "图：项目面板中的 QElectroTech 项目选项"
 
 #: ../../source/users/project/project_underlying_directory.rst:22
 msgid ""
 "If the `projects panel`_ is not displayed, it can be displayed from "
 "**Settings > Display > Projects**."
-msgstr "如果 `项目面板 <projects panel_>`_ 不显示，可以从 **设置 > 显示 > 项目** 显示。"
+msgstr "如果未显示 `项目面板 <projects panel_>`_ ，可以从 **设置 > 显示 > 项目** 中将其显示。"

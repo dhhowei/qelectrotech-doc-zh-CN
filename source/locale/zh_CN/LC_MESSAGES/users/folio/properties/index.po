@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/folio/properties/index.rst:5
 msgid "Folio properties"
-msgstr "组合属性"
+msgstr "图幅属性"

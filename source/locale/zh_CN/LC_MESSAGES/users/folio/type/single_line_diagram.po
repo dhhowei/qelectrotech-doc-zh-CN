@@ -22,31 +22,31 @@ msgstr ""
 
 #: ../../source/users/folio/type/single_line_diagram.rst:5
 msgid "Single line diagram"
-msgstr "单行图"
+msgstr "单线图"
 
 #: ../../source/users/folio/type/single_line_diagram.rst:7
 msgid ""
 "The single line diagrams represent electric, fluid, etc. systems using a "
 "simplified notation."
-msgstr "单行图代表电动，流体等系统使用简化的注解。"
+msgstr "单线图使用简化的表示方法来表示电气、流体等系统。"
 
 #: ../../source/users/folio/type/single_line_diagram.rst:9
 msgid "`Single line conductors`_ are used to draw single line diagrams."
-msgstr "`单行导 <Single line conductors_>`_ 用于绘制单行图。"
+msgstr "`单线导体 <Single line conductors_>`_ 用于绘制单线图。"
 
 #: ../../source/users/folio/type/single_line_diagram.rst:13
 msgid ""
 "At electric schemas, the power system is represented with a simplified "
 "notation and the control system is not represented. The `conductors`_ only "
 "represent power cables."
-msgstr "在电动计时，电源系统以简化符号表示，控制系统不代表。`导体 <conductors_>`_ 只代表电源电缆。"
+msgstr "在电气原理图中，动力系统以简化的表示方法绘制，控制系统则不表示。`导体 <conductors_>`_ 仅表示动力电缆。"
 
 #: ../../source/users/folio/type/single_line_diagram.rst:15
 msgid ""
 "At fluid power schemas, the pressure and return line are represented by the "
 "same `conductor`_."
-msgstr "在流体动力计时，压力和回线由相同的 `导体 <conductor_>`_ 表示。"
+msgstr "在流体动力原理图中，压力管路和回流管路用同一个 `导体 <conductor_>`_ 表示。"
 
 #: ../../source/users/folio/type/single_line_diagram.rst:21
 msgid "Figure: Single line diagram"
-msgstr "图：单行图"
+msgstr "图：单线图"

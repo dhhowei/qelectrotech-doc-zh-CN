@@ -30,25 +30,25 @@ msgid ""
 "`panels`_. The `menu bar`_ is fixed at top. The `panels`_ can be displayed "
 "and hidden."
 msgstr ""
-"QElectroTech GUI 被设计为使用 `菜单栏 <menu bar_>`_ 和 `平板电脑 <panels_>`_ 工作。`菜单栏 <menu"
-" bar_>`_ 固定在顶部，`平板电脑 <panels_>`_ 可以显示和隐藏。"
+"QElectroTech GUI 被设计为使用 `菜单栏 <menu bar_>`_ 和 `面板 <panels_>`_ 工作。`菜单栏 <menu "
+"bar_>`_ 固定在顶部，`面板 <panels_>`_ 可以显示和隐藏。"
 
 #: ../../source/users/interface/customize/organize_panels.rst:12
 msgid "To display or hide `panels`_:"
-msgstr "显示或隐藏 `页 <panels_>`_ :"
+msgstr "显示或隐藏 `面板 <panels_>`_ ："
 
 #: ../../source/users/interface/customize/organize_panels.rst:14
 msgid ""
 "Select **Settings > Display** menu item to display the `panels`_ and "
 "`toolbars`_ list."
-msgstr "选择 **设置 > 显示** 菜单项以显示 `panels <panels_>`_ 和 `工具栏 <toolbars_>`_ 列表 。"
+msgstr "选择 **设置 > 显示** 菜单项，以显示 `面板 <panels_>`_ 和 `工具栏 <toolbars_>`_ 列表。"
 
 #: ../../source/users/interface/customize/organize_panels.rst:15
 msgid ""
 "Click on the different `panels`_ (Projects, Collections, Undo, Selection "
 "properties and Auto numbering Selection) which should be displayed or "
 "hidden."
-msgstr "点击不同的 `面板 <panels_>`_ (项目、收藏、撤消、选择属性和自动编号选择),应当显示或隐藏。"
+msgstr "点击需要显示或隐藏的各个 `面板 <panels_>`_ （项目、集合、撤销、选择属性和自动编号选择）。"
 
 #: ../../source/users/interface/customize/organize_panels.rst:20
 msgid "Figure: QElectroTech Settings > Display menu"
@@ -60,29 +60,29 @@ msgid ""
 " `panels`_ can be organized on column or by tabs. The `panels`_ can also be "
 "displayed as PopUp/floating windows."
 msgstr ""
-"全体 `面板 <panels_>`_ 可以在左右侧显示 `工作区 <workspace_>`_ 编辑 `面板 <panels_>`_ "
-"可以在列或标签上组织。 `面板 <panels_>`_ 也可以显示为弹出/浮动窗口。"
+"所有 `面板 <panels_>`_ 都可以显示在 `工作区 <workspace_>`_ 的左右两侧。`面板 <panels_>`_ "
+"可以按列或按标签页组织，`面板 <panels_>`_ 也可以显示为弹出/浮动窗口。"
 
 #: ../../source/users/interface/customize/organize_panels.rst:29
 msgid "Figure: QElectroTech user interface"
-msgstr "图：QElectroTech用户界面"
+msgstr "图：QElectroTech 用户界面"
 
 #: ../../source/users/interface/customize/organize_panels.rst:31
 msgid "To change the organization of `panels`_:"
-msgstr "改变 `小组 <panels_>`_ 的组织："
+msgstr "要更改 `面板 <panels_>`_ 的组织方式："
 
 #: ../../source/users/interface/customize/organize_panels.rst:33
 msgid "Left click at the title bar from the `panel`_."
-msgstr "在图框左键点击 `panel <panel_>`_。"
+msgstr "在 `面板 <panel_>`_ 的标题栏上单击左键。"
 
 #: ../../source/users/interface/customize/organize_panels.rst:34
 msgid "Without releasing the `panel`_, move the mouse to the final position."
-msgstr "在不释放 `页 <panel_>`_ 的情况下，将鼠标移动到最后位置。"
+msgstr "在不松开 `面板 <panel_>`_ 的情况下，将鼠标移动到最终位置。"
 
 #: ../../source/users/interface/customize/organize_panels.rst:35
 msgid "Release the `panel`_."
-msgstr "释放 `座板 <panel_>`_。"
+msgstr "松开 `面板 <panel_>`_ 。"
 
 #: ../../source/users/interface/customize/organize_panels.rst:40
 msgid "Figure: QElectroTech panels placement"
-msgstr "图：QElectroTech板布置"
+msgstr "图：QElectroTech 面板布局"

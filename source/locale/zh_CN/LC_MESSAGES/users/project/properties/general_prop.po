@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/project/properties/general_prop.rst:5
 msgid "General properties"
-msgstr "一般属性"
+msgstr "常规属性"
 
 #: ../../source/users/project/properties/general_prop.rst:7
 msgid ""
@@ -31,72 +31,71 @@ msgid ""
 "can be used at the `folios title block templates`_ to automate the filling "
 "of the `title block`_."
 msgstr ""
-"来自 `project 属性 <project properties_>`_ "
-"PopUP窗口的一般属性部分是用户可以定义全局项目变量的区域，这些变量日后可以在 `follios图框模板 <folios title block "
-"templates_>`_ 上使用，以自动填充 `图框 <title block_>`_。"
+"`项目属性 <project properties_>`_ 弹出窗口中的常规属性部分，是用户定义全局项目变量的区域，这些变量日后可在 `图幅图框模板 "
+"<folios title block templates_>`_ 中使用，以自动填充 `图框 <title block_>`_ 。"
 
 #: ../../source/users/project/properties/general_prop.rst:11
 msgid ""
 "Creating general project variables is recommended, it increases the working "
 "efficiency. The variables that can be found by default are:"
-msgstr "建议创建一般项目变量，从而提高工作效率。默认情况下可以找到的变量有："
+msgstr "建议创建常规项目变量，这能提高工作效率。默认情况下可用的变量有："
 
 #: ../../source/users/project/properties/general_prop.rst:14
 msgid "**% {projecttitle}**: Project title"
-msgstr "**% {projecttitle}**:项目标题"
+msgstr "**% {projecttitle}** ：项目标题"
 
 #: ../../source/users/project/properties/general_prop.rst:15
 msgid "**% {saveddate}**: File saving date"
-msgstr "**% {saveddate}**: 文件保存日期"
+msgstr "**% {saveddate}** ：文件保存日期"
 
 #: ../../source/users/project/properties/general_prop.rst:16
 msgid "**% {savedfilename}**: Registered file name"
-msgstr "**% {savedfilename}**:已注册的文件名"
+msgstr "**% {savedfilename}** ：已登记的文件名"
 
 #: ../../source/users/project/properties/general_prop.rst:17
 msgid "**% {savedfilepath}**: Saved file path"
-msgstr "**% {savedfilepath}**:已保存的文件路径"
+msgstr "**% {savedfilepath}** ：已保存的文件路径"
 
 #: ../../source/users/project/properties/general_prop.rst:18
 msgid "**% {savedtime}**: File saving time"
-msgstr "**% {savedtime}**:文件保存时间"
+msgstr "**% {savedtime}** ：文件保存时间"
 
 #: ../../source/users/project/properties/general_prop.rst:23
 msgid "Figure: General project properties window"
-msgstr "图：一般项目属性窗口"
+msgstr "图：常规项目属性窗口"
 
 #: ../../source/users/project/properties/general_prop.rst:25
 msgid "To create a new project variable:"
-msgstr "要创建新项目变量："
+msgstr "要创建新的项目变量："
 
 #: ../../source/users/project/properties/general_prop.rst:27
 msgid "`Display project properties`_ PopUp window."
-msgstr "`Display 项目属性 <Display project properties_>`_ PopUp 窗口。"
+msgstr "`显示项目属性 <Display project properties_>`_ 弹出窗口。"
 
 #: ../../source/users/project/properties/general_prop.rst:28
 msgid "Go to **General** project properties section."
-msgstr "转到 **一般** 项目属性部分 。"
+msgstr "转到 **常规** 项目属性部分。"
 
 #: ../../source/users/project/properties/general_prop.rst:29
 msgid ""
 "Define the variable name at the left cell from the last row of the project "
 "variables table."
-msgstr "从项目变量表格的最后一行定义左侧单元格的变量名称。"
+msgstr "在项目变量表格最后一行的左侧单元格中定义变量名称。"
 
 #: ../../source/users/project/properties/general_prop.rst:30
 msgid ""
 "Define the value of the variable at the right cell from the variable row."
-msgstr "从变量行中定义变量在右单元格中的值。"
+msgstr "在变量行右侧的单元格中定义变量的值。"
 
 #: ../../source/users/project/properties/general_prop.rst:31
 msgid ""
 "Press the button **OK** to save the changes and close the PopUp window."
-msgstr "按下按钮 **OK** 保存更改并关闭弹出窗口。"
+msgstr "按下 **OK** 按钮以保存更改并关闭弹出窗口。"
 
 #: ../../source/users/project/properties/general_prop.rst:35
 msgid ""
 "For more information about QElectroTech default variables, refer to `default"
 " QElectroTech variables`_ section."
 msgstr ""
-"关于QElectroTech默认变量的更多信息，参见 `默认QEctroTech变量 <default QElectroTech "
-"variables_>`_ 节。"
+"有关 QElectroTech 默认变量的更多信息，请参阅 `默认 QElectroTech 变量 <default QElectroTech "
+"variables_>`_ 一节。"

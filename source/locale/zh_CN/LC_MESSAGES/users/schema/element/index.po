@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/schema/element/index.rst:5
 msgid "Working with elements"
-msgstr "与要素合作"
+msgstr "使用元件"

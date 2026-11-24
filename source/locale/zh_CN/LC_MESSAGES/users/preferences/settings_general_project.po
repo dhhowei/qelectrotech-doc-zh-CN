@@ -26,4 +26,4 @@ msgstr "项目设置"
 
 #: ../../source/users/preferences/settings_general_project.rst:10
 msgid "Figure: QElectroTech general project settings"
-msgstr "图：QElectroTech 一般项目设置"
+msgstr "图：QElectroTech 常规项目设置"

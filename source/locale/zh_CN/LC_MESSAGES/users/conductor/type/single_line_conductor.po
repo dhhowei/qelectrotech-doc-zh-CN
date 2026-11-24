@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/conductor/type/single_line_conductor.rst:7
 msgid "Single line conductor"
-msgstr "单行导线"
+msgstr "单线导体"
 
 #: ../../source/users/conductor/type/single_line_conductor.rst:9
 msgid ""
@@ -32,14 +32,14 @@ msgid ""
 " only used to represent power systems, control systems are normally not "
 "represented."
 msgstr ""
-"单线导体用于 `单线图 <single line diagrams_>`_。单线导体是代表使用普通 `导体 "
-"<conductor_>`_。单线导体仅用于代表动力系统，控制系统通常不代表。"
+"单线导体用于 `单线图 <single line diagrams_>`_ 。单线导体是用一条公共 `导体 <conductor_>`_ "
+"表示两相和三相电力系统图纸的简化记法。单线导体仅用于表示电力系统，通常不表示控制系统。"
 
 #: ../../source/users/conductor/type/single_line_conductor.rst:16
 msgid ""
 "At fluid power schemas, the pressure and return line are represented by the "
 "same `conductor`_."
-msgstr "在流体动力计时，压力和回线由相同的 `导体 <conductor_>`_ 表示。"
+msgstr "在流体动力原理图中，压力线和回油线由同一根 `导体 <conductor_>`_ 表示。"
 
 #: ../../source/users/conductor/type/single_line_conductor.rst:18
 msgid ""
@@ -47,18 +47,18 @@ msgid ""
 "line conductor. The single line conductor does not have the possibility of "
 "text linking."
 msgstr ""
-"QElectroTech 不允许在单行导线上定义任何 `导体属性 <conductor property_>`_。单行导线没有文本链接的可能性。"
+"QElectroTech 不允许在单线导体上定义任何 `导体属性 <conductor property_>`_ 。单线导体不具备文本链接功能。"
 
 #: ../../source/users/conductor/type/single_line_conductor.rst:24
 msgid "Figure: QElectroTech single line conductors"
-msgstr "图：QElectroTech单行导线"
+msgstr "图：QElectroTech 单线导体"
 
 #: ../../source/users/conductor/type/single_line_conductor.rst:26
 msgid ""
 "The most common single line conductors used at `single line diagrams`_ of "
 "power electric systems are:"
-msgstr "电力系统 `单线图 <single line diagrams_>`_ 中最常用的单线导体是："
+msgstr "电力系统 `单线图 <single line diagrams_>`_ 中最常用的单线导体有："
 
 #: ../../source/users/conductor/type/single_line_conductor.rst:31
 msgid "Figure: Common single line conductors"
-msgstr "图：常见的单行导体"
+msgstr "图：常见的单线导体"

@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/folio/title_block/collection/index.rst:5
 msgid "Title Block collections"
-msgstr "图框收藏"
+msgstr "图框集合"

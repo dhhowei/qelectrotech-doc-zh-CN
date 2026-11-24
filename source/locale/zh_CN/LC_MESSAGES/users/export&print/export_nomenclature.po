@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/export&print/export_nomenclature.rst:4
 msgid "Export nomenclature"
-msgstr "导出名称"
+msgstr "导出物料清单"
 
 #: ../../source/users/export&print/export_nomenclature.rst:6
 msgid ""
@@ -30,24 +30,24 @@ msgid ""
 "`elements`_ from the active project. The CSV file can be opened and edited "
 "with tools as `LibreOffice Calc`_."
 msgstr ""
-"QElectroTech 允许创建 CSV 文件，其中包含当前项目中所有 `元件 <elements_>`_ 的列表。CSV 文件可以用工具打开并编辑为"
-" `LibreOffice Calc <LibreOffice Calc_>`_。"
+"QElectroTech 允许创建 CSV 文件，其中包含活动项目中所有 `元件 <elements_>`_ 的列表。可以使用 `LibreOffice"
+" Calc <LibreOffice Calc_>`_ 等工具打开和编辑 CSV 文件。"
 
 #: ../../source/users/export&print/export_nomenclature.rst:9
 msgid ""
 "The different field properties are listed by columns and the `elements`_ are"
 " ordered by `folio`_."
-msgstr "不同字段属性按列列出，`元件 <elements_>`_ 由 `图幅 <folio_>`_ 订购。"
+msgstr "不同字段属性按列列出，`元件 <elements_>`_ 按 `图幅 <folio_>`_ 排序。"
 
 #: ../../source/users/export&print/export_nomenclature.rst:11
 msgid "To export the nomenclature list to CSV file:"
-msgstr "要将名称列表导出到 CSV 文件："
+msgstr "要将物料清单列表导出为 CSV 文件："
 
 #: ../../source/users/export&print/export_nomenclature.rst:13
 msgid ""
 "Select **Project > Export to CSV** menu item to open the exporting parameter"
 " PopUp window."
-msgstr "选择 **项目 > 导出到 CSV** 菜单项打开导出参数弹出窗口 。"
+msgstr "选择 **项目 > 导出为 CSV** 菜单项，以打开导出参数弹出窗口。"
 
 #: ../../source/users/export&print/export_nomenclature.rst:18
 msgid "Figure: QElectroTech project menu"
@@ -57,7 +57,7 @@ msgstr "图：QElectroTech 项目菜单"
 msgid ""
 "Modify the list of information to be exported by the commands of the "
 "following table."
-msgstr "修改下表命令要导出的信息列表。"
+msgstr "使用下表中的命令修改要导出的信息列表。"
 
 #: ../../source/users/export&print/export_nomenclature.rst:23
 msgid "Icon"
@@ -65,7 +65,7 @@ msgstr "图标"
 
 #: ../../source/users/export&print/export_nomenclature.rst:23
 msgid "Action"
-msgstr "行动"
+msgstr "操作"
 
 #: ../../source/users/export&print/export_nomenclature.rst:23
 msgid "Keyboard shortcut"
@@ -77,7 +77,7 @@ msgstr "|go-up|"
 
 #: ../../source/users/export&print/export_nomenclature.rst:53
 msgid "go-up"
-msgstr "继续"
+msgstr "向上"
 
 #: ../../source/users/export&print/export_nomenclature.rst:25
 msgid "Move up this field"
@@ -89,15 +89,15 @@ msgstr "|list-add|"
 
 #: ../../source/users/export&print/export_nomenclature.rst:54
 msgid "list-add"
-msgstr "列表添加"
+msgstr "添加"
 
 #: ../../source/users/export&print/export_nomenclature.rst:26
 msgid "Add field to export list"
-msgstr "添加字段到导出列表"
+msgstr "向导出列表添加字段"
 
 #: ../../source/users/export&print/export_nomenclature.rst:26
 msgid "Double click on field at available list"
-msgstr "在可用的列表中双击字段"
+msgstr "双击可用列表中的字段"
 
 #: ../../source/users/export&print/export_nomenclature.rst:27
 msgid "|list-remove|"
@@ -105,7 +105,7 @@ msgstr "|list-remove|"
 
 #: ../../source/users/export&print/export_nomenclature.rst:55
 msgid "list-remove"
-msgstr "移动列表"
+msgstr "移除"
 
 #: ../../source/users/export&print/export_nomenclature.rst:27
 msgid "Remove field from export list"
@@ -113,7 +113,7 @@ msgstr "从导出列表中删除字段"
 
 #: ../../source/users/export&print/export_nomenclature.rst:27
 msgid "Double click on field at export list"
-msgstr "在导出列表中双击字段"
+msgstr "双击导出列表中的字段"
 
 #: ../../source/users/export&print/export_nomenclature.rst:28
 msgid "|go-down|"
@@ -121,7 +121,7 @@ msgstr "|go-down|"
 
 #: ../../source/users/export&print/export_nomenclature.rst:52
 msgid "go-down"
-msgstr "继续下去"
+msgstr "向下"
 
 #: ../../source/users/export&print/export_nomenclature.rst:28
 msgid "Move down this field"
@@ -129,40 +129,40 @@ msgstr "下移这个字段"
 
 #: ../../source/users/export&print/export_nomenclature.rst:34
 msgid "Figure: QElectroTech export nomenclature PopUp window"
-msgstr "图：QElectroTech 导出名词弹出窗口"
+msgstr "图：QElectroTech 导出物料清单弹出窗口"
 
 #: ../../source/users/export&print/export_nomenclature.rst:36
 msgid ""
 "Define the filtering parameters (**Filter by** and type of `elements`_)."
-msgstr "定义过滤参数( E)**过滤器由** 类型 `元件 <elements_>`_)."
+msgstr "定义过滤参数（**Filter by** 和 `元件 <elements_>`_ 的类型）。"
 
 #: ../../source/users/export&print/export_nomenclature.rst:40
 msgid ""
 "The content and filtering request configuration can be saved and chosen from"
 " **Configuration** section to increase working efficiency."
-msgstr "内容和过滤请求配置可以从 **配置** 部分保存和选择，以提高工作效率。"
+msgstr "可由 **配置** 部分保存并选择内容与过滤请求配置，以提高工作效率。"
 
 #: ../../source/users/export&print/export_nomenclature.rst:42
 msgid ""
 "QElectroTech is working with SQLite database, summary table content can also"
 " be defined by SQL query."
-msgstr "QElectroTech正与SQLite数据库合作，总表内容也可以通过SQL查询来定义。"
+msgstr "QElectroTech 使用 SQLite 数据库，汇总表内容也可以通过 SQL 查询来定义。"
 
 #: ../../source/users/export&print/export_nomenclature.rst:44
 msgid ""
 "Define page layout parameters (include table header and type of format)."
-msgstr "定义页面布局参数(包括表格头和格式类型)."
+msgstr "定义页面布局参数（包括表头和格式类型）。"
 
 #: ../../source/users/export&print/export_nomenclature.rst:45
 msgid ""
 "Press **OK** button to apply exporting parameters and display the **Save "
 "As** PopUp window."
-msgstr "按 **OK** 按钮应用导出参数并显示 **保存 As** PopUp 窗口。"
+msgstr "按下 **OK** 按钮应用导出参数，并显示 **另存为** 弹出窗口。"
 
 #: ../../source/users/export&print/export_nomenclature.rst:46
 msgid "Choose target directory and file name."
-msgstr "选择目标目录和文件名称 。"
+msgstr "选择目标目录和文件名。"
 
 #: ../../source/users/export&print/export_nomenclature.rst:47
 msgid "Press **Save** button to create the file with extension ``.csv``."
-msgstr "按 **保存** 按钮创建带有扩展名的文件 ``.csv``."
+msgstr "按下 **保存** 按钮，创建扩展名为 ``.csv`` 的文件。"

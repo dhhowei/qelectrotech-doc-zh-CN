@@ -26,13 +26,13 @@ msgstr "创建类别"
 
 #: ../../source/users/element/collection/create_folder.rst:7
 msgid "Working with collections can only be done from `collections panel`_."
-msgstr "只能从 `收集面板 <collections panel_>`_ 中进行收藏工作。"
+msgstr "集合的相关操作只能在 `集合面板 <collections panel_>`_ 中进行。"
 
 #: ../../source/users/element/collection/create_folder.rst:11
 msgid ""
 "Select **Settings > Display > Collections** menu item to display the "
 "`collections panel`_."
-msgstr "选择 **设置 > 显示 > 收藏** 菜单项以显示 `收藏面板 <collections panel_>`_ 。"
+msgstr "选择 **设置 > 显示 > 集合** 菜单项以显示 `集合面板 <collections panel_>`_ 。"
 
 #: ../../source/users/element/collection/create_folder.rst:13
 msgid ""
@@ -40,41 +40,42 @@ msgid ""
 "only read rights at `QET collection`_, the user can create categories at "
 "`User collection`_."
 msgstr ""
-"QElectroTech 允许在某些收藏中创建类。 用户只在 `QET 收藏中读取权利 <QET collection_>`_，用户可以在 "
-"`用户收藏中创建类 <User collection_>`_ 。"
+"QElectroTech 允许在某个集合中创建类别。用户对 `QET 集合 <QET collection_>`_ 只有读取权限，可以在 `用户集合 "
+"<User collection_>`_ 中创建类别。"
 
 #: ../../source/users/element/collection/create_folder.rst:16
 msgid ""
 "Right click on `User collection`_ or at a category / sub-category from the "
 "`User collection`_."
-msgstr "右键点击 `用户收藏 <User collection_>`_ 或 `用户收藏 <User collection_>`_ 的类别/子类别。"
+msgstr ""
+"右键单击 `用户集合 <User collection_>`_，或右键单击 `用户集合 <User collection_>`_ 中的某个类别/子类别。"
 
 #: ../../source/users/element/collection/create_folder.rst:21
 msgid "Figure: Options at folder"
-msgstr "图：文件夹中的选项"
+msgstr "图：文件夹上的选项"
 
 #: ../../source/users/element/collection/create_folder.rst:23
 msgid ""
 "Click the option **New folder** to open **Add a new category** PopUp window."
-msgstr "单击选项 **新文件夹** 打开 **添加一个新的类别** 弹出窗口 。"
+msgstr "单击 **新建文件夹** 选项，打开 **添加新类别** 弹出窗口。"
 
 #: ../../source/users/element/collection/create_folder.rst:28
 msgid "Figure: New category PopUp window"
-msgstr "图：新类弹出窗口"
+msgstr "图：新建类别弹出窗口"
 
 #: ../../source/users/element/collection/create_folder.rst:30
 msgid "Define the internal name for the file system."
-msgstr "定义文件系统的内部名称 。"
+msgstr "定义用于文件系统的内部名称。"
 
 #: ../../source/users/element/collection/create_folder.rst:31
 msgid ""
 "Define the category name that will be displayed at the collection tree, it "
 "can be defined in many languages."
-msgstr "定义收藏树上将显示的类别名称，可以使用多种语言定义。"
+msgstr "定义将显示在集合树中的类别名称，该名称可以用多种语言定义。"
 
 #: ../../source/users/element/collection/create_folder.rst:32
 msgid "Press **OK** to add the new category / sub-category."
-msgstr "按 **OK** 添加新类别/子类别。"
+msgstr "单击 **OK** 添加新类别/子类别。"
 
 #: ../../source/users/element/collection/create_folder.rst:36
 msgid ""
@@ -82,5 +83,4 @@ msgid ""
 "defined using 2 letter code which should be used at the language column from"
 " the folder internal name table."
 msgstr ""
-"QElectroTech 工作符合 `ISO 639-1 <ISO 639-1_>`_ "
-"规范。文件夹名称语言的定义使用两个字母代码，应在文件夹内部名称表的语言栏中使用。"
+"QElectroTech 遵循 `ISO 639-1`_ 规范。文件夹名称的语言使用两位字母代码定义，该代码应填写在文件夹内部名称表的语言列中。"

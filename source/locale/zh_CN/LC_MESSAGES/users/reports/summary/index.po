@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/reports/summary/index.rst:5
 msgid "Summary"
-msgstr "目录"
+msgstr "汇总表"

@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/interface/panels/projects_panel.rst:7
 msgid "Projects panel"
-msgstr "项目小组"
+msgstr "项目面板"
 
 #: ../../source/users/interface/panels/projects_panel.rst:9
 msgid ""
@@ -30,12 +30,12 @@ msgid ""
 "`embedded title blocks`_. The `QET`_ and `user`_ collection title blocks are"
 " also displayed at the projects panel."
 msgstr ""
-"项目面板显示打开的项目树，`图幅 <folios_>`_ 和 `嵌入式图框 <embedded title blocks_>`_。`QET "
-"<QET_>`_ 和 `用户 <user_>`_ 收藏图框也在项目面板上显示。"
+"项目面板显示已打开项目的树状结构、`图幅 <folios_>`_ 和 `嵌入式图框 <embedded title blocks_>`_ 。`QET "
+"<QET_>`_ 和 `用户 <user_>`_ 集合的图框也会显示在项目面板中。"
 
 #: ../../source/users/interface/panels/projects_panel.rst:15
 msgid "Figure: QElectroTech Projects panel"
-msgstr "图：QElectroTech项目面板"
+msgstr "图：QElectroTech 项目面板"
 
 #: ../../source/users/interface/panels/projects_panel.rst:17
 msgid "To display or hidden the projects panel:"
@@ -47,40 +47,40 @@ msgstr "选择 **设置 > 显示 > 项目** 菜单项。"
 
 #: ../../source/users/interface/panels/projects_panel.rst:21
 msgid "The tasks which can be done from projects panels are:"
-msgstr "项目小组可以完成的任务有："
+msgstr "项目面板可以完成的任务有："
 
 #: ../../source/users/interface/panels/projects_panel.rst:23
 msgid ""
 "Manage `folios`_ (Add folios, define folio order at each project, etc.)."
-msgstr "管理 `图幅 <folios_>`_ (添加folios,定义每个项目的folio顺序等)."
+msgstr "管理 `图幅 <folios_>`_ （添加图幅、定义每个项目中图幅的顺序等）。"
 
 #: ../../source/users/interface/panels/projects_panel.rst:24
 msgid "Manage the `embedded title blocks`_ from the project."
-msgstr "管理来自项目的 `嵌入式图框 <embedded title blocks_>`_ 。"
+msgstr "管理项目中的 `嵌入式图框 <embedded title blocks_>`_ 。"
 
 #: ../../source/users/interface/panels/projects_panel.rst:25
 msgid "Manage the default `QET`_ title block collection."
-msgstr "管理默认 `QET <QET_>`_ 图框收藏 。"
+msgstr "管理默认的 `QET <QET_>`_ 图框集合。"
 
 #: ../../source/users/interface/panels/projects_panel.rst:26
 msgid "Manage the `user`_ title block collection."
-msgstr "管理 `用户 <user_>`_ 图框集 。"
+msgstr "管理 `用户 <user_>`_ 图框集合。"
 
 #: ../../source/users/interface/panels/projects_panel.rst:27
 msgid "Define the active project."
-msgstr "定义活动项目 。"
+msgstr "定义活动项目。"
 
 #: ../../source/users/interface/panels/projects_panel.rst:28
 msgid "Define the active folio which should be displayed at the `workspace`_."
-msgstr "定义在 `工作区 <workspace_>`_ 显示的主动光圈 。"
+msgstr "定义应在 `工作区 <workspace_>`_ 中显示的活动图幅。"
 
 #: ../../source/users/interface/panels/projects_panel.rst:29
 msgid "Display the folio properties PopUp window."
-msgstr "显示 Folio 属性弹出窗口 。"
+msgstr "显示图幅属性弹出窗口。"
 
 #: ../../source/users/interface/panels/projects_panel.rst:30
 msgid "Display the project properties PopUp window."
-msgstr "显示项目属性弹出窗口 。"
+msgstr "显示项目属性弹出窗口。"
 
 #: ../../source/users/interface/panels/projects_panel.rst:32
 msgid ""
@@ -88,5 +88,5 @@ msgid ""
 "filter. All `folios`_, `projects`_ and `title blocks`_ without a name or "
 "part of a string can be hidden."
 msgstr ""
-"为方便与项目面板的工作，QElectroTech提供了一个过滤器。所有 `图幅 <folios_>`_，`项目 <projects_>`_ 和 `图框 "
-"<title blocks_>`_ 没有名称或部分字符串都可以隐藏。"
+"为便于使用项目面板，QElectroTech 提供了过滤器。所有没有名称或不包含指定字符串的 `图幅 <folios_>`_ 、`项目 "
+"<projects_>`_ 和 `图框 <title blocks_>`_ 都可以隐藏。"

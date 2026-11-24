@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/interface/index.rst:7
 msgid "Interface"
-msgstr "接口"
+msgstr "界面"

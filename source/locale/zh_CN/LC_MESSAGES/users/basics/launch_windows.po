@@ -30,12 +30,12 @@ msgid ""
 " the shortcut icon has been created at the desktop during installation, "
 "QElectroTech can also be launched from that icon."
 msgstr ""
-"安装后，QElectroTech可以从Windows Start "
-"Menu中启动。如果安装期间在桌面上创建了快捷图标，QEctroTech也可以从该图标中启动。"
+"安装后，可以从 Windows 开始菜单启动 QElectroTech。如果安装期间在桌面上创建了快捷方式图标，也可以从该图标启动 "
+"QElectroTech。"
 
 #: ../../source/users/basics/launch_windows.rst:10
 msgid "Click the Windows **[Start]** button."
-msgstr "点击 Windows **[开始** 按钮。"
+msgstr "单击 Windows 的 **[开始]** 按钮。"
 
 #: ../../source/users/basics/launch_windows.rst:11
 msgid "Select **All Programs**."
@@ -47,16 +47,16 @@ msgstr "打开 **QElectroTech** 程序组。"
 
 #: ../../source/users/basics/launch_windows.rst:13
 msgid "Click QElectroTech icon."
-msgstr "点击 QElectroTech 图标。"
+msgstr "单击 QElectroTech 图标。"
 
 #: ../../source/users/basics/launch_windows.rst:19
 msgid "Figure: Splash screen"
-msgstr "图：溅射屏幕"
+msgstr "图：启动画面"
 
 #: ../../source/users/basics/launch_windows.rst:21
 msgid "Once QElectroTech has been launched, the main window looks as follow:"
-msgstr "QElectroTech推出后，主窗口看起来如下："
+msgstr "QElectroTech 启动后，主窗口如下所示："
 
 #: ../../source/users/basics/launch_windows.rst:27
 msgid "Figure: Main window QElectroTech"
-msgstr "图：主窗口 QElectroTech"
+msgstr "图：QElectroTech 主窗口"

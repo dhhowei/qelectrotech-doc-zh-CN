@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/project/clean_project.rst:5
 msgid "Clean project"
-msgstr "清洁项目"
+msgstr "清理项目"
 
 #: ../../source/users/project/clean_project.rst:7
 msgid ""
@@ -32,34 +32,34 @@ msgid ""
 "`element`_ or `title block`_ will be deleted from the `folio`_ but it will "
 "still be storage at the project database."
 msgstr ""
-"项目数据库中的 QElectroTech 存储 `图框 <title block_>`_，`导体 <conductor_>`_，`元件 "
-"<element_>`_ 等，由用户引入。如果用户删除一个 `元件 <element_>`_ 或替换 `图框 <title block_>`_ 从 "
-"`图幅 <folio_>`_，则 `元件 <element_>`_ 或 `图框 <title block_>`_ 将删除 `图幅 <folio_>`_ "
-"但它仍将存储在项目数据库中。"
+"QElectroTech 会将用户添加的每个 `图框 <title block_>`_ 、 `导体 <conductor_>`_ 、 `元件 "
+"<element_>`_ 等都存储在项目数据库中。如果用户从 `图幅 <folio_>`_ 中删除某个 `元件 <element_>`_ 或替换 `图框"
+" <title block_>`_ ，该 `元件 <element_>`_ 或 `图框 <title block_>`_ 会从 `图幅 "
+"<folio_>`_ 中删除，但仍会保存在项目数据库中。"
 
 #: ../../source/users/project/clean_project.rst:12
 msgid "QElectroTech allows cleaning the project database from `menu bar`_."
-msgstr "QElectroTech允许从 `菜单栏 <menu bar_>`_ 清理项目数据库。"
+msgstr "QElectroTech 允许从 `菜单栏 <menu bar_>`_ 清理项目数据库。"
 
 #: ../../source/users/project/clean_project.rst:14
 msgid ""
 "Select **Project > Clean project** menu item to open the cleaning project "
 "PopUP window."
-msgstr "选择 **项目 > 清洁项目** 菜单项打开清洁项目 PopUP 窗口 。"
+msgstr "选择 **项目 > 清理项目** 菜单项以打开清理项目弹出窗口。"
 
 #: ../../source/users/project/clean_project.rst:19
 msgid "Figure: QElectroTech cleaning project PopUP window"
-msgstr "图：QElectroTech清洁项目 PopUP 窗口"
+msgstr "图：QElectroTech 清理项目弹出窗口"
 
 #: ../../source/users/project/clean_project.rst:21
 msgid "Select the check buttons desired (templates, elements, categories)."
-msgstr "选择想要的检查按钮(templades, 元素，分类) 。"
+msgstr "选择所需的检查按钮（模板、元件、分类）。"
 
 #: ../../source/users/project/clean_project.rst:22
 msgid ""
 "Press the button **OK** to clean the `project`_ and close the cleaning "
 "project PopUP window."
-msgstr "按下按钮 **OK** 清理 `项目 <project_>`_ 并关闭 PopUP 窗口 。"
+msgstr "按下 **OK** 按钮清理 `项目 <project_>`_ 并关闭清理项目弹出窗口。"
 
 #: ../../source/users/project/clean_project.rst:27
 msgid "Figure: QElectroTech Project menu"
@@ -69,4 +69,4 @@ msgstr "图：QElectroTech 项目菜单"
 msgid ""
 "Cleaning the `project`_ is recommended to reduce the size of the project "
 "file and increase the loading speed."
-msgstr "建议清理 `项目 <project_>`_，以减少项目文件的大小，提高加载速度。"
+msgstr "建议清理 `项目 <project_>`_ ，以减小项目文件的大小并提高加载速度。"

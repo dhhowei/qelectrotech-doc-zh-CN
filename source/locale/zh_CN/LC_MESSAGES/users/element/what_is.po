@@ -22,25 +22,25 @@ msgstr ""
 
 #: ../../source/users/element/what_is.rst:5
 msgid "What is an element?"
-msgstr "什么是要素?"
+msgstr "什么是元件？"
 
 #: ../../source/users/element/what_is.rst:7
 msgid "An element is an object which contains information:"
-msgstr "元素是一个包含信息的对象："
+msgstr "元件是一个包含信息的对象："
 
 #: ../../source/users/element/what_is.rst:9
 msgid "Graphical representation information, symbol displayed at the schema."
-msgstr "图形化的表示信息，在图案中显示的符号。"
+msgstr "图形表示信息，即在原理图中显示的符号。"
 
 #: ../../source/users/element/what_is.rst:10
 msgid ""
 "Element data such element position in the project, article number, "
 "manufacturer, supplier, link to any other element from the project, etc."
-msgstr "要素数据此类要素在项目中的位置，条号，制造商，供应商，与项目中任何其他要素的链接等。"
+msgstr "元件数据，例如元件在项目中的位置、货号、制造商、供应商、与项目中任何其他元件的链接等。"
 
 #: ../../source/users/element/what_is.rst:15
 msgid "Figure: QElectroTech thermal circuit breaker element"
-msgstr "图：QElectroTech热电路断路器元件"
+msgstr "图：QElectroTech 热断路器元件"
 
 #: ../../source/users/element/what_is.rst:17
 msgid ""
@@ -49,12 +49,11 @@ msgid ""
 " schemas, Bill Of Materials (BOM) and many other types of reports such "
 "terminal lists, I/O lists, etc."
 msgstr ""
-"一个元素是一个功能是减少项目工作的对象，与元素一起工作，减少了创建计划、Bill Of "
-"Materials(BOM)和许多其他类型的报告所需的时间和工作，如I/O列表等。"
+"元件是一种用于减少工程工作量的对象。使用元件可以减少创建原理图、物料清单（BOM）以及许多其他类型报表（如端子列表、I/O 列表等）所需的时间和精力。"
 
 #: ../../source/users/element/what_is.rst:21
 msgid "The element can be classified at different families:"
-msgstr "该要素可按不同家庭分类："
+msgstr "元件可以分为不同的系列："
 
 #: ../../source/users/element/what_is.rst:23
 msgid "`Simple`_"
@@ -62,19 +61,19 @@ msgstr "`简单 <Simple_>`_"
 
 #: ../../source/users/element/what_is.rst:24
 msgid "`Master`_"
-msgstr "`硕士 <Master_>`_"
+msgstr "`主 <Master_>`_"
 
 #: ../../source/users/element/what_is.rst:25
 msgid "`Slave`_"
-msgstr "`奴隶 <Slave_>`_"
+msgstr "`从 <Slave_>`_"
 
 #: ../../source/users/element/what_is.rst:26
 msgid "`Reference folio following`_"
-msgstr "`后面的参考框 <Reference folio following_>`_"
+msgstr "`后续参考图幅 <Reference folio following_>`_"
 
 #: ../../source/users/element/what_is.rst:27
 msgid "`Previous reference folio`_"
-msgstr "`先前的参考文件 <Previous reference folio_>`_"
+msgstr "`前一参考图幅 <Previous reference folio_>`_"
 
 #: ../../source/users/element/what_is.rst:28
 msgid "`Terminal block`_"
@@ -85,4 +84,4 @@ msgid ""
 "The graphical representation information characteristics are the same for "
 "all families. The element data properties fields and the possible "
 "interlocking options are different between families."
-msgstr "图形化的表示信息特性对于所有家庭都是一样的，元素数据属性字段和可能的互联选项不同。"
+msgstr "所有系列的图形表示信息特征都相同。各系列之间，元件数据的属性字段以及可能的互锁选项有所不同。"

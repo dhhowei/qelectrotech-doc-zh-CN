@@ -22,19 +22,18 @@ msgstr ""
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/define_extra_info.rst:5
 msgid "Define title block extra information"
-msgstr "定义图框额外信息"
+msgstr "定义图框附加信息"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/define_extra_info.rst:8
 msgid "Define extra information from menu bar"
-msgstr "定义菜单栏中的额外信息"
+msgstr "从菜单栏定义附加信息"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/define_extra_info.rst:10
 msgid ""
 "Select **Edit > Edit extra information** menu item to display `extra "
 "information PopUp window`_."
 msgstr ""
-"选择 **Edit > 编辑额外信息** 菜单项以显示 `外部信息 PopUp 窗口 <extra information PopUp "
-"window_>`_。"
+"选择 **编辑 > 编辑附加信息** 菜单项以显示 `附加信息弹出窗口 <extra information PopUp window_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/define_extra_info.rst:15
 msgid "Figure: QElectroTech title block editor Edit Menu"
@@ -43,29 +42,29 @@ msgstr "图：QElectroTech 图框编辑器编辑菜单"
 #: ../../source/users/folio/title_block/title_block_editor/edition/define_extra_info.rst:17
 #: ../../source/users/folio/title_block/title_block_editor/edition/define_extra_info.rst:26
 msgid "Introduce the desired information in the text field."
-msgstr "将想要的信息引入文本栏。"
+msgstr "在文本字段中输入所需信息。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/define_extra_info.rst:18
 #: ../../source/users/folio/title_block/title_block_editor/edition/define_extra_info.rst:27
 msgid "Press **OK** to accept and close `extra information PopUp window`_."
-msgstr "按 **OK** 接受并关闭 `外部信息弹出窗口 <extra information PopUp window_>`_。"
+msgstr "按 **确定** 接受并关闭 `附加信息弹出窗口 <extra information PopUp window_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/define_extra_info.rst:21
 msgid "Define extra information using keyboard shortcut"
-msgstr "使用键盘快捷键定义额外信息"
+msgstr "使用键盘快捷键定义附加信息"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/define_extra_info.rst:23
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/define_extra_info.rst:25
 msgid "Press ``Ctrl + y`` to display the `extra information PopUp window`_."
-msgstr "按 ``Ctrl + y`` 显示 `外部信息弹出窗口 <extra information PopUp window_>`_。"
+msgstr "按 ``Ctrl + y`` 显示 `附加信息弹出窗口 <extra information PopUp window_>`_ 。"
 
 #: ../../source/users/folio/title_block/title_block_editor/edition/define_extra_info.rst:31
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

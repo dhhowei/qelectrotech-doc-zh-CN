@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/interface/elements_interface.rst:11
 msgid "Element editor window"
-msgstr "元素编辑器窗口"
+msgstr "元件编辑器窗口"
 
 #: ../../source/users/element/element_editor/interface/elements_interface.rst:13
 msgid ""
@@ -32,8 +32,8 @@ msgid ""
 "available (Windows, Linux/Unix and MacOS). The window from the element "
 "editor contains the following areas:"
 msgstr ""
-"元素编辑器窗口是一个来自QElectroTech的PopUp窗口，它的设计也使用了 `Qt <Qt_>`_ "
-"框架和部件工具包。QEctroTech元素编辑器的窗口对于所有可用的平台(Windows,Linux/Unix和MacOS)都是相同的。元素编辑器的窗口包含以下领域："
+"元件编辑器窗口是 QElectroTech 的一个弹出窗口，同样使用 `Qt <Qt_>`_ 框架和控件工具包设计。QElectroTech "
+"元件编辑器窗口在所有可用平台（Windows、Linux/Unix 和 MacOS）上都相同。元件编辑器窗口包含以下区域："
 
 #: ../../source/users/element/element_editor/interface/elements_interface.rst:15
 msgid ":greentext:`Menu bar`"
@@ -45,11 +45,11 @@ msgstr ":bluetext:`工具栏`"
 
 #: ../../source/users/element/element_editor/interface/elements_interface.rst:17
 msgid ":yellowtext:`Drawing area`"
-msgstr ":yellowtext:`绘图区域`"
+msgstr ":yellowtext:`绘图区`"
 
 #: ../../source/users/element/element_editor/interface/elements_interface.rst:18
 msgid ":orangetext:`Panels`"
-msgstr ":orangetext:`小组`"
+msgstr ":orangetext:`面板`"
 
 #: ../../source/users/element/element_editor/interface/elements_interface.rst:19
 msgid ":browntext:`Help bar`"
@@ -57,4 +57,4 @@ msgstr ":browntext:`帮助栏`"
 
 #: ../../source/users/element/element_editor/interface/elements_interface.rst:24
 msgid "Figure: QElectroTech Element editor window"
-msgstr "图：QElectroTech 元素编辑器窗口"
+msgstr "图：QElectroTech 元件编辑器窗口"

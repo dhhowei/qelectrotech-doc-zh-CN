@@ -22,4 +22,4 @@ msgstr ""
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/panels/index.rst:5
 msgid "Title block editor panels"
-msgstr "图框编辑面板"
+msgstr "图框编辑器面板"

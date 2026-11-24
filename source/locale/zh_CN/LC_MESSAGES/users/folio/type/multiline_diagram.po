@@ -22,18 +22,18 @@ msgstr ""
 
 #: ../../source/users/folio/type/multiline_diagram.rst:5
 msgid "Multiline diagram"
-msgstr "多行图"
+msgstr "多线图"
 
 #: ../../source/users/folio/type/multiline_diagram.rst:7
 msgid ""
 "The multiline diagrams represent electric, fluid, etc. systems including all"
 " details: terminals, all phases, power and control system, etc."
-msgstr "多线图代表电动，流体等系统，包括所有细节：终端，所有阶段，动力和控制系统等。"
+msgstr "多线图表示电气、流体等系统，包含所有细节：端子、全部相线、动力与控制系统等。"
 
 #: ../../source/users/folio/type/multiline_diagram.rst:9
 msgid "`Multiline conductors`_ are used to draw single line diagrams."
-msgstr "`多线导 <Multiline conductors_>`_ 用于绘制单线图。"
+msgstr "`多线导体 <Multiline conductors_>`_ 用于绘制单线图。"
 
 #: ../../source/users/folio/type/multiline_diagram.rst:14
 msgid "Figure: Multiline diagram"
-msgstr "图：多行图"
+msgstr "图：多线图"

@@ -33,7 +33,8 @@ msgid ""
 "To draw more easily, the folio grid can be displayed from **Display > "
 "Display the grid** or from `toolbar`_ icon |grid|."
 msgstr ""
-"为了更方便地绘制，folio网格可以从 **Display > 显示网格** 或 `工具栏 <toolbar_>`_ 图标 |grid| 显示。"
+"为了更方便地绘制，可以通过 **Display > Display the grid** 或 `工具栏 <toolbar_>`_ 上的 |grid| "
+"图标显示图幅网格。"
 
 #: ../../source/users/schema/basics/rectangle.rst:20
 msgid "grid"
@@ -41,11 +42,11 @@ msgstr "网格"
 
 #: ../../source/users/schema/basics/rectangle.rst:14
 msgid "The rectangle can only be added to the `workspace`_ by `toolbar`_."
-msgstr "矩形只能由 `工作区 <workspace_>`_ 添加到 `工具栏 <toolbar_>`_。"
+msgstr "矩形只能通过 `工具栏 <toolbar_>`_ 添加到 `工作区 <workspace_>`_ 。"
 
 #: ../../source/users/schema/basics/rectangle.rst:16
 msgid "Select the icon |rectangle| from `toolbar`_ to add a rectangle."
-msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |rectangle| 添加矩形 。"
+msgstr "从 `工具栏 <toolbar_>`_ 中选择 |rectangle| 图标以添加矩形。"
 
 #: ../../source/users/schema/basics/rectangle.rst:21
 msgid "rectangle"
@@ -53,17 +54,17 @@ msgstr "矩形"
 
 #: ../../source/users/schema/basics/rectangle.rst:17
 msgid "Click on the initial vertex from the rectangle."
-msgstr "点击矩形的初始顶点。"
+msgstr "单击矩形的起始顶点。"
 
 #: ../../source/users/schema/basics/rectangle.rst:18
 msgid "Click on the end vertex from the rectangle."
-msgstr "从矩形上点击端顶点。"
+msgstr "单击矩形的末端顶点。"
 
 #: ../../source/users/schema/basics/rectangle.rst:25
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Add**."
-msgstr "如果 `工具栏 <toolbar_>`_ 不显示，可以从 **设置 > 显示 > Add** 显示。"
+msgstr "如果未显示 `工具栏 <toolbar_>`_ ，可以从 **Settings > Display > Add** 中将其显示出来。"
 
 #: ../../source/users/schema/basics/rectangle.rst:28
 msgid "Rectangle properties"
@@ -73,54 +74,54 @@ msgstr "矩形属性"
 msgid ""
 "The edges and the internal area from the triangle can be customized at "
 "QElectroTech."
-msgstr "三角形的边缘和内部区域可以在QEelectroTech定制。"
+msgstr "三角形的边缘线和内部区域可以在 QElectroTech 中自定义。"
 
 #: ../../source/users/schema/basics/rectangle.rst:32
 msgid "The edges from a rectangle have the same properties as a `line`_."
-msgstr "来自矩形的边缘具有与 `线条 <line_>`_ 相同的属性。"
+msgstr "矩形的边缘线与 `线条 <line_>`_ 具有相同的属性。"
 
 #: ../../source/users/schema/basics/rectangle.rst:33
 msgid ""
 "The type of filling for closed primitive objects (rectangle, ellipse and "
 "closed polygon) are: **None**, **Solid line** and some types of grids."
-msgstr "闭合原始物体(矩形，椭圆形和闭合多边形)的填充类型为：**None**,**Solid line** 和一些类型的网格。"
+msgstr "闭合的基本图元对象（矩形、椭圆和闭合多边形）的填充类型有 **None** 和 **Solid line** 等，还有多种网格样式。"
 
 #: ../../source/users/schema/basics/rectangle.rst:38
 msgid "Figure: QElectroTech Color selection PopUP window"
-msgstr "图：QElectroTech 颜色选择 PopUP 窗口"
+msgstr "图：QElectroTech 颜色选择弹出窗口"
 
 #: ../../source/users/schema/basics/rectangle.rst:40
 msgid "The possible filling colors are defined by the `RGB scale range`_."
-msgstr "可能的填充颜色由 `RGB比例范围 <RGB scale range_>`_ 定义。"
+msgstr "可用的填充颜色由 `RGB 色阶范围 <RGB scale range_>`_ 定义。"
 
 #: ../../source/users/schema/basics/rectangle.rst:44
 msgid ""
 "The position from the rectangle can be locked to prevent involuntary "
 "movement. To unlock, go to rectangle properties and check the **Lock "
 "position** button."
-msgstr "矩形的位置可以被锁定以防止非自愿移动。要解锁，去检查矩形属性并检查 **Lock 位置** 按钮。"
+msgstr "可以锁定矩形的位置，以避免意外移动。要解锁，请转到矩形属性，取消勾选 **Lock position** 按钮。"
 
 #: ../../source/users/schema/basics/rectangle.rst:46
 msgid ""
 "The rectangle properties can be displayed from `menu bar`_, by right click "
 "on one rectangle edge, from selection properties panel and using keyboard "
 "shortcut."
-msgstr "矩形属性可以从 `菜单栏 <menu bar_>`_ 显示，通过右键点击一个矩形边缘，从选择属性面板和使用键盘快捷键。"
+msgstr "矩形属性可以通过 `菜单栏 <menu bar_>`_ 、右键单击矩形的某条边、选择属性面板以及键盘快捷键来显示。"
 
 #: ../../source/users/schema/basics/rectangle.rst:50
 msgid "Rectangle properties from menu bar"
-msgstr "菜单栏的矩形属性"
+msgstr "从菜单栏显示矩形属性"
 
 #: ../../source/users/schema/basics/rectangle.rst:52
 #: ../../source/users/schema/basics/rectangle.rst:90
 msgid "Select one of the edges from the rectangle which should be edited."
-msgstr "从矩形中选择要编辑的边 。"
+msgstr "选择要编辑的矩形边之一。"
 
 #: ../../source/users/schema/basics/rectangle.rst:53
 msgid ""
 "Select **Edit > Edit the selected object** menu item to display the "
 "rectangle properties PopUP window."
-msgstr "选择 **Edit > 编辑选定的对象** 菜单项以显示矩形属性 PopUP 窗口。"
+msgstr "选择 **Edit > Edit the selected object** 菜单项，以显示矩形属性弹出窗口。"
 
 #: ../../source/users/schema/basics/rectangle.rst:58
 msgid "Figure: QElectroTech edit menu"
@@ -128,60 +129,61 @@ msgstr "图：QElectroTech 编辑菜单"
 
 #: ../../source/users/schema/basics/rectangle.rst:61
 msgid "Rectangle properties by right click"
-msgstr "通过右键点击矩形属性"
+msgstr "通过右键单击显示矩形属性"
 
 #: ../../source/users/schema/basics/rectangle.rst:63
 msgid ""
 "Right click on one of the edges from the rectangle which should be edited."
-msgstr "右键单击应当编辑的矩形边缘之一。"
+msgstr "右键单击要编辑的矩形边之一。"
 
 #: ../../source/users/schema/basics/rectangle.rst:64
 msgid ""
 "Select the option **Edit the selected object** to display the rectangle "
 "properties PopUP window."
-msgstr "选择选项 **编辑选定对象** 以显示矩形属性 PopUP 窗口。"
+msgstr "选择 **Edit the selected object** 选项，以显示矩形属性弹出窗口。"
 
 #: ../../source/users/schema/basics/rectangle.rst:69
 msgid "Figure: QElectroTech rectangle selection PopUP window"
-msgstr "图：QElectroTech 矩形选择 PopUP 窗口"
+msgstr "图：QElectroTech 矩形选择弹出窗口"
 
 #: ../../source/users/schema/basics/rectangle.rst:72
 msgid "Rectangle properties from selection properties panel"
-msgstr "选择属性面板的矩形属性"
+msgstr "从选择属性面板显示矩形属性"
 
 #: ../../source/users/schema/basics/rectangle.rst:74
 msgid ""
 "Select one of the edges from the rectangle which should be edited and the "
 "properties from the rectangle will appear at `selection properties panel`_."
-msgstr "在 `选择属性面板 <selection properties panel_>`_ 上选择一个应编辑的矩形边缘，并显示矩形属性。"
+msgstr "选择要编辑的矩形边之一，矩形属性将显示在 `选择属性面板 <selection properties panel_>`_ 中。"
 
 #: ../../source/users/schema/basics/rectangle.rst:79
 msgid "Figure: QElectroTech Rectangle properties panel"
-msgstr "图：QElectroTech矩形属性面板"
+msgstr "图：QElectroTech 矩形属性面板"
 
 #: ../../source/users/schema/basics/rectangle.rst:83
 msgid ""
 "If the `selection properties panel`_ is not displayed, it can be displayed "
 "from **Settings > Display > Selection properties**"
 msgstr ""
-"如果不显示 `选择属性面板 <selection properties panel_>`_，可以从 **设置 > 显示 > 选择属性** 显示"
+"如果未显示 `选择属性面板 <selection properties panel_>`_ ，可以从 **Settings > Display > "
+"Selection properties** 中将其显示出来。"
 
 #: ../../source/users/schema/basics/rectangle.rst:86
 msgid "Rectangle properties using keyboard shortcut"
-msgstr "使用键盘快捷键的矩形属性"
+msgstr "使用键盘快捷键显示矩形属性"
 
 #: ../../source/users/schema/basics/rectangle.rst:88
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/schema/basics/rectangle.rst:91
 msgid "Press ``Ctrl + e`` to display the rectangle properties PopUP window."
-msgstr "按 ``Ctrl + e`` 显示矩形属性 PopUP 窗口。"
+msgstr "按 ``Ctrl + e`` 显示矩形属性弹出窗口。"
 
 #: ../../source/users/schema/basics/rectangle.rst:95
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "关于 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

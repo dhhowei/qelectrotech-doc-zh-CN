@@ -22,18 +22,18 @@ msgstr ""
 
 #: ../../source/users/project/what_is.rst:5
 msgid "What is a project?"
-msgstr "什么是项目?"
+msgstr "什么是项目？"
 
 #: ../../source/users/project/what_is.rst:7
 msgid ""
 "The term project inside QElectroTech can be assimilated to a \"database\". A"
 " project is not a common database, it is a collection of information which "
 "is not structured in columns and rows."
-msgstr "QElectroTech内部的术语项目可以被同化为一个\"数据库\". 一个项目不是一个常见的数据库，它是一个信息集合，不是以列和行结构的。"
+msgstr "QElectroTech 中的“项目”一词可以理解为一个“数据库”。项目并非常规意义上的数据库，而是一组不以行列结构组织的信息集合。"
 
 #: ../../source/users/project/what_is.rst:13
 msgid "Figure: QElectroTech project structure"
-msgstr "图：QElectroTech项目结构"
+msgstr "图：QElectroTech 项目结构"
 
 #: ../../source/users/project/what_is.rst:15
 msgid ""
@@ -46,10 +46,10 @@ msgid ""
 "relation between `elements`_ from the same or different `folios`_ and the "
 "master data (project name, author, year of creation, revision, etc.)."
 msgstr ""
-"一个项目是一组 `图幅 <folios_>`_，`元件 <elements_>`_ 和 `导体 <conductors_>`_ 代表于 `图幅 "
-"<folios_>`_ 与相应的属性，确定应如何代表每个组合的属性(`图框 <title block_>`_ "
-"属性(组合索引、组件列表、连接器列表等)、定义如何导出或打印信息的属性、 `元件 <elements_>`_ 从相同或不同的 `图幅 "
-"<folios_>`_ 和主数据(项目名称、作者、创建年份、修订年等)。"
+"一个项目由一组 `图幅 <folios_>`_ 组成，这些 `图幅 <folios_>`_ 中包含 `元件 <elements_>`_ 和 `导体 "
+"<conductors_>`_ 及其各自的属性；属性定义了每个图幅的呈现方式（ `图框 <title block_>`_ "
+"、尺寸等），定义了报表的呈现方式（图幅索引、元件列表、连接器列表等），定义了如何导出或打印信息，定义了同一或不同 `图幅 <folios_>`_ 中 "
+"`元件 <elements_>`_ 之间的互连关系，以及主数据（项目名称、作者、创建年份、修订版本等）。"
 
 #: ../../source/users/project/what_is.rst:22
 msgid ""
@@ -58,8 +58,8 @@ msgid ""
 "QElectroTech is a E-CAE software. For this reason, QElectroTech is an inter-"
 "disciplinary tool that allows the user to create many type of projects."
 msgstr ""
-"该项目是QElectroTech管理一个作品的基础，开发团队将任务重点放在了已归档的电气和控制上，即使如此，QEectroTech还是一个E-"
-"CAE软件，为此原因，QEctroTech是一个跨学科的工具，可以让用户创建许多类型的项目。"
+"项目是 QElectroTech 管理工作的基础。开发团队将重点放在电气与控制领域，尽管如此，QElectroTech 仍是一款 E-CAE "
+"软件。因此，QElectroTech 是一款跨学科工具，允许用户创建多种类型的项目。"
 
 #: ../../source/users/project/what_is.rst:26
 msgid "Electrical projects: Purely electrical systems"
@@ -67,13 +67,13 @@ msgstr "电气项目：纯电气系统"
 
 #: ../../source/users/project/what_is.rst:27
 msgid "Automation projects: GRAFCET, diagrams, etc."
-msgstr "自动化项目：GRAFCET,图表等。"
+msgstr "自动化项目：GRAFCET、图表等。"
 
 #: ../../source/users/project/what_is.rst:28
 msgid ""
 "Fluid power projects: Hydraulic, pneumatic and central lubrication systems"
-msgstr "流体动力项目：水力、气压和中央润滑系统"
+msgstr "流体动力项目：液压、气动和集中润滑系统"
 
 #: ../../source/users/project/what_is.rst:29
 msgid "Process control projects: Process Industrial Diagrams (PID)"
-msgstr "工艺控制项目：工艺工业图"
+msgstr "过程控制项目：工艺工业图（PID）"

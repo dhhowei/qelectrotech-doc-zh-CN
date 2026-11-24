@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:5
 msgid "Layers in element editor"
-msgstr "元素编辑器中的图层"
+msgstr "元件编辑器中的图层"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:7
 msgid ""
@@ -31,32 +31,32 @@ msgid ""
 "order from part. Working with layers will be necessary, for example, when a "
 "filled part as `rectangle`_ or `ellipse`_ hides a `text`_."
 msgstr ""
-"在元素的图形化表达方式中可能会发生部分重叠，图形元素的重叠。QElectroTech允许从部分定义表达顺序。需要用层来工作，例如当一个填充的部分作为 "
-"`矩形 <rectangle_>`_ 或 `椭圆 <ellipse_>`_ 隐藏一个 `文本 <text_>`_。"
+"在元件的图形表示中，部件（图形元素）可能会相互重叠。QElectroTech 允许定义部件的显示顺序。例如，当填充的 `矩形 "
+"<rectangle_>`_ 或 `椭圆 <ellipse_>`_ 部件遮住 `文本 <text_>`_ 时，就需要使用图层。"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:11
 msgid ""
 "The definition of layer level from each `part`_ can only be done from `menu "
 "bar`_."
-msgstr "从每个 `部件 <part_>`_ 对图层级别的定义只能从 `菜单栏 <menu bar_>`_ 完成。"
+msgstr "每个 `部件 <part_>`_ 的图层级别只能通过 `菜单栏 <menu bar_>`_ 定义。"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:13
 msgid "Select the `part`_ which layer level should be defined."
-msgstr "选择应当定义的 `部件 <part_>`_ 层级 。"
+msgstr "选择要定义图层级别的 `部件 <part_>`_ 。"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:14
 msgid "Select **Edit** from the main bar and the desired layer action."
-msgstr "从主栏和想要的层动作中选择 **Edit** 。"
+msgstr "从菜单栏选择 **编辑** ，再选择所需的图层操作。"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:19
 msgid "Figure: QElectroTech element editor Edit Menu"
-msgstr "图：QElectroTech 元素编辑器编辑菜单"
+msgstr "图：QElectroTech 元件编辑器“编辑”菜单"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:21
 msgid ""
 "Regarding the layer actions allowed by QElectroTech, the following table "
 "defines all possibilities."
-msgstr "关于QEelectroTech允许的层动作，下表定义了所有的可能性。"
+msgstr "下表列出了 QElectroTech 支持的所有图层操作。"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:24
 msgid "Icon"
@@ -64,11 +64,11 @@ msgstr "图标"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:24
 msgid "Action"
-msgstr "行动"
+msgstr "操作"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:24
 msgid "Definition"
-msgstr "定义"
+msgstr "说明"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:24
 msgid "Keyboard shortcut"
@@ -80,15 +80,15 @@ msgstr "|bring_forward|"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:38
 msgid "bring_forward"
-msgstr "带入"
+msgstr "bring_forward"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:26
 msgid "Bring to front"
-msgstr "带到前面"
+msgstr "置于顶层"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:26
 msgid "Brings the selection (s) to front"
-msgstr "将选择带到前面"
+msgstr "将选中对象置于顶层"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:26
 msgid "``Ctrl + Shift + Home``"
@@ -100,15 +100,15 @@ msgstr "|raise|"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:39
 msgid "raise"
-msgstr "提高"
+msgstr "raise"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:27
 msgid "Raise"
-msgstr "提升"
+msgstr "上移一层"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:27
 msgid "Aproachs the selection (s)"
-msgstr "分析选择(s)"
+msgstr "将选中对象上移一层"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:27
 msgid "``Ctrl + Shift + Up``"
@@ -120,15 +120,15 @@ msgstr "|lower|"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:40
 msgid "lower"
-msgstr "下调"
+msgstr "lower"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:28
 msgid "Lower"
-msgstr "下调"
+msgstr "下移一层"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:28
 msgid "Moves away the selection (s)"
-msgstr "移动选择区(s)"
+msgstr "将选中对象下移一层"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:28
 msgid "``Ctrl + Shift + Down``"
@@ -140,15 +140,15 @@ msgstr "|send_backward|"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:41
 msgid "send_backward"
-msgstr "向后发送( B)"
+msgstr "send_backward"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:29
 msgid "Send backwards"
-msgstr "向后发送"
+msgstr "置于底层"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:29
 msgid "Sends in the backwards the selection (s)"
-msgstr "向后发送选择"
+msgstr "将选中对象置于底层"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:29
 msgid "``Ctrl + Shift + End``"

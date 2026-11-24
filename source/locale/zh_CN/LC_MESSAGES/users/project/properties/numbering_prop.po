@@ -30,15 +30,15 @@ msgid ""
 "maintenance phase; a codification criteria has to be defined in the "
 "engineering phase, otherwise, the work is inefficient and the project a "
 "chaos."
-msgstr "在制造、安装、试运行和维护阶段管理项目;必须在项目阶段确定编纂标准，否则工作效率低下，项目混乱。"
+msgstr "在制造、安装、调试和维护阶段管理项目时，必须在工程设计阶段确定编码规则，否则工作效率低下，项目也会陷入混乱。"
 
 #: ../../source/users/project/properties/numbering_prop.rst:11
 msgid ""
 "QElectroTech allows defining auto numbering patterns in the project "
 "properties for the codification of `elements`_, `conductors`_ and `folios`_."
 msgstr ""
-"QElectroTech允许在项目属性中定义自动编号模式，用于编码 `元件 <elements_>`_，`导体 <conductors_>`_ 和 "
-"`图幅 <folios_>`_。"
+"QElectroTech 允许在项目属性中定义自动编号模式，用于对 `元件 <elements_>`_ 、 `导体 <conductors_>`_ 和 "
+"`图幅 <folios_>`_ 进行编码。"
 
 #: ../../source/users/project/properties/numbering_prop.rst:14
 msgid ""
@@ -47,9 +47,9 @@ msgid ""
 "`conductor`_ is codified according to the selected pattern in `auto "
 "numbering selection panel`_."
 msgstr ""
-"每当在 `项目 <project_>`_ 中绘制 `元件 <element_>`_ 或 `导体 <conductor_>`_ 或 `工作区 "
-"<workspace_>`_ 时，`图幅 <folio_>`_，`元件 <element_>`_ 或 `导体 <conductor_>`_ 按照 "
-"`自动编号选择面板中选定的图案进行编纂 <auto numbering selection panel_>`_。"
+"每当向 `项目 <project_>`_ 中添加新图幅，或在 `工作区 <workspace_>`_ 中绘制 `元件 <element_>`_ 或 "
+"`导体 <conductor_>`_ 时， `图幅 <folio_>`_ 、 `元件 <element_>`_ 或 `导体 <conductor_>`_"
+" 都会按照 `自动编号选择面板 <auto numbering selection panel_>`_ 中选定的模式进行编码。"
 
 #: ../../source/users/project/properties/numbering_prop.rst:19
 msgid "Figure: Project management properties window"
@@ -63,18 +63,18 @@ msgstr "从菜单栏显示自动编号属性"
 msgid ""
 "Select **Project > Project properties** menu item to display the project "
 "properties PopUp window."
-msgstr "选择 **项目 > 项目属性** 菜单项以显示项目属性 PopUp 窗口 。"
+msgstr "选择 **项目 > 项目属性** 菜单项以显示项目属性弹出窗口。"
 
 #: ../../source/users/project/properties/numbering_prop.rst:25
 msgid "Go to **Auto Numbering** project properties section."
-msgstr "转到 **自动编号** 项目属性部分 。"
+msgstr "转到 **自动编号** 项目属性部分。"
 
 #: ../../source/users/project/properties/numbering_prop.rst:26
 #: ../../source/users/project/properties/numbering_prop.rst:34
 msgid ""
 "Go to **Conductor**, **Element** or **Folio** tab to display the desired "
 "auto numbering patterns."
-msgstr "转到 **生成器**, **Element** 或 **Folio** 标签以显示想要的自动编号模式 。"
+msgstr "转到 **导体** 、 **元件** 或 **图幅** 标签页，以显示所需的自动编号模式。"
 
 #: ../../source/users/project/properties/numbering_prop.rst:29
 msgid "Display auto numbering properties from panel"
@@ -84,7 +84,7 @@ msgstr "从面板显示自动编号属性"
 msgid ""
 "The project auto numbering properties can be displayed from `auto numbering "
 "selection panel`_."
-msgstr "项目自动编号属性可以从 `自动编号选择面板显示 <auto numbering selection panel_>`_。"
+msgstr "项目自动编号属性可以从 `自动编号选择面板 <auto numbering selection panel_>`_ 中显示。"
 
 #: ../../source/users/project/properties/numbering_prop.rst:33
 msgid ""
@@ -92,8 +92,8 @@ msgid ""
 "panel`_ to display **Auto Numbering** project properties section at a PopUp "
 "window."
 msgstr ""
-"新闻 |configure| **配置** 按钮从 `自动编号选择面板 <auto numbering selection panel_>`_ 要显示 "
-"**自动编号** 弹出窗口上的项目属性部分 。"
+"从 `自动编号选择面板 <auto numbering selection panel_>`_ 中按下 |configure| **配置** "
+"按钮，即可在弹出窗口中显示 **自动编号** 项目属性部分。"
 
 #: ../../source/users/project/properties/numbering_prop.rst:48
 msgid "configure"
@@ -104,21 +104,21 @@ msgid ""
 "If the `auto numbering selection panel`_ is not displayed, it can be "
 "displayed from **Settings > Display > Selection properties**."
 msgstr ""
-"如果不显示 `自动编号选择面板 <auto numbering selection panel_>`_，可以从 **设置 > 显示 > 选择属性** "
-"显示。"
+"如果未显示 `自动编号选择面板 <auto numbering selection panel_>`_ ，可以从 **设置 > 显示 > 选择属性** "
+"中将其显示。"
 
 #: ../../source/users/project/properties/numbering_prop.rst:42
 msgid "For more information about auto numbering pattern definition refer to:"
-msgstr "关于汽车编号模式定义的更多信息，请参考："
+msgstr "关于自动编号模式定义的更多信息，请参阅："
 
 #: ../../source/users/project/properties/numbering_prop.rst:44
 msgid "Folio numbering section"
-msgstr "组合编号部分"
+msgstr "图幅编号部分"
 
 #: ../../source/users/project/properties/numbering_prop.rst:45
 msgid "`Conductor numbering section`_"
-msgstr "`生成器编号部分 <Conductor numbering section_>`_"
+msgstr "`导体编号部分 <Conductor numbering section_>`_"
 
 #: ../../source/users/project/properties/numbering_prop.rst:46
 msgid "`Element numbering section`_"
-msgstr "`内容编号部分 <Element numbering section_>`_"
+msgstr "`元件编号部分 <Element numbering section_>`_"

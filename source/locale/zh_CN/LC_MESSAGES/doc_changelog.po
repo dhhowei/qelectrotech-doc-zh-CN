@@ -68,7 +68,7 @@ msgstr "添加 GitHub CI 以自动构建、 发布和许可证文件 。 使用 
 #: ../../source/doc_changelog.rst:22
 msgid ""
 "Added app changelog in developer/app_changelog.rst + Documentation changelog"
-msgstr "开发者/ app  changlog.rst + 文档更改日志中添加的app changlog"
+msgstr "在开发者文档的 app_changelog.rst 和文档更新日志中添加应用更新日志"
 
 #: ../../source/doc_changelog.rst:23
 msgid "Created doc hub on homepage instead of going directly in user doc"

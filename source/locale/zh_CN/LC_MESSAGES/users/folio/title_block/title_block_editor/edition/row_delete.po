@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/title_block/title_block_editor/edition/row_delete.rst:5
+msgid "Delete row from title block"
+msgstr "从图框中删除行"
+
+#: ../../source/users/folio/title_block/title_block_editor/edition/row_delete.rst:7
+msgid ""
+"QElectroTech `title block editor`_ only allows deleting `rows`_ of the "
+"`title block`_ from `drawing area`_."
+msgstr ""
+"QElectroTech `图框编辑器 <title block editor_>`_ 只允许删除 `图框 <rows_>`_ 的 `图框 <title"
+" block_>`_ 从 `绘图区 <drawing area_>`_。"
+
+#: ../../source/users/folio/title_block/title_block_editor/edition/row_delete.rst:10
+msgid "Right click on the head from the `row`_ which should be deleted."
+msgstr "从 `row <row_>`_ 右键点击头部，应当删除。"
+
+#: ../../source/users/folio/title_block/title_block_editor/edition/row_delete.rst:11
+msgid "Click the option **Delete this row** to delete the selected `row`_."
+msgstr "单击选项 **删除此行** 删除选中的 `row <row_>`_ 。"
+
+#: ../../source/users/folio/title_block/title_block_editor/edition/row_delete.rst:16
+msgid "Figure: QElectroTech title block editor, drawing area"
+msgstr "图：QElectroTech 图框编辑器，绘图区域"

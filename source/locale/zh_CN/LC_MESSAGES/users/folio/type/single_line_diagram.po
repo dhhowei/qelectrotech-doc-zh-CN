@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/type/single_line_diagram.rst:5
+msgid "Single line diagram"
+msgstr "单行图"
+
+#: ../../source/users/folio/type/single_line_diagram.rst:7
+msgid ""
+"The single line diagrams represent electric, fluid, etc. systems using a "
+"simplified notation."
+msgstr "单行图代表电动，流体等系统使用简化的注解。"
+
+#: ../../source/users/folio/type/single_line_diagram.rst:9
+msgid "`Single line conductors`_ are used to draw single line diagrams."
+msgstr "`单行导 <Single line conductors_>`_ 用于绘制单行图。"
+
+#: ../../source/users/folio/type/single_line_diagram.rst:13
+msgid ""
+"At electric schemas, the power system is represented with a simplified "
+"notation and the control system is not represented. The `conductors`_ only "
+"represent power cables."
+msgstr "在电动计时，电源系统以简化符号表示，控制系统不代表。`导体 <conductors_>`_ 只代表电源电缆。"
+
+#: ../../source/users/folio/type/single_line_diagram.rst:15
+msgid ""
+"At fluid power schemas, the pressure and return line are represented by the "
+"same `conductor`_."
+msgstr "在流体动力计时，压力和回线由相同的 `导体 <conductor_>`_ 表示。"
+
+#: ../../source/users/folio/type/single_line_diagram.rst:21
+msgid "Figure: Single line diagram"
+msgstr "图：单行图"

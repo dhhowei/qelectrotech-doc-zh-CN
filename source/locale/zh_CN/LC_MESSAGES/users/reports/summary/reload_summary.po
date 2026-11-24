@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/reports/summary/reload_summary.rst:5
+msgid "Reload summary"
+msgstr "重新装入摘要"
+
+#: ../../source/users/reports/summary/reload_summary.rst:7
+msgid ""
+"When any `folio`_ is added or any `folio property`_ is edited, the changes "
+"are not updated at the summary automatically. To update the `folio "
+"properties`_ at the summary, the summary has to be reload."
+msgstr ""
+"当添加任何 `图幅 <folio_>`_ 或编辑任何 `follio 属性 <folio property_>`_ 时，更改不会在摘要中自动更新。 "
+"要在摘要中更新 `follio 属性 <folio properties_>`_，则摘要必须重新加载 。"
+
+#: ../../source/users/reports/summary/reload_summary.rst:10
+msgid "To reload the summary:"
+msgstr "要重新装入摘要："
+
+#: ../../source/users/reports/summary/reload_summary.rst:12
+msgid ""
+"Select the summary table, or one of the summary tables if there is more than"
+" one, to display the summary properties at `selection properties panel`_."
+msgstr "选择简表，或者如果有多个简表之一，在 `选择属性面板上显示简表属性 <selection properties panel_>`_ 。"
+
+#: ../../source/users/reports/summary/reload_summary.rst:13
+msgid "Go to **Content** tab."
+msgstr "转到 **Content** 标签 。"
+
+#: ../../source/users/reports/summary/reload_summary.rst:14
+msgid ""
+"Click |view-refresh| **Reload** button to update `folio properties`_ at "
+"summary."
+msgstr "点击 |view-refresh| **重装** 按钮在摘要时更新 `follio 属性 <folio properties_>`_。"
+
+#: ../../source/users/reports/summary/reload_summary.rst:21
+msgid "view-refresh"
+msgstr "重新视图"
+
+#: ../../source/users/reports/summary/reload_summary.rst:19
+msgid "Figure: QElectroTech summary properties panel, content tab"
+msgstr "图：QElectroTech 摘要属性面板，内容标签"

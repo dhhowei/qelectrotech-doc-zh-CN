@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/schema/element/element_edit.rst:5
+msgid "Edit element"
+msgstr "编辑元素"
+
+#: ../../source/users/schema/element/element_edit.rst:7
+msgid "To edit an `element`_:"
+msgstr "要编辑 `元件 <element_>`_:"
+
+#: ../../source/users/schema/element/element_edit.rst:9
+msgid "`Display element properties`_ at `selection properties panel`_."
+msgstr ""
+"` 在 `选择属性面板 <Display element properties_>`_ 上显示元素属性 <Display element "
+"properties_>`_。"
+
+#: ../../source/users/schema/element/element_edit.rst:10
+msgid ""
+"Go to `general properties`_ tab and click on the button **Edit element** to "
+"display `element editor`_."
+msgstr ""
+"到 `一般属性 <general properties_>`_ 标签并单击按钮 **Edit元素** 显示 `元素编辑器 <element "
+"editor_>`_ 。"
+
+#: ../../source/users/schema/element/element_edit.rst:15
+msgid "Figure: QElectroTech general element properties"
+msgstr "图：QElectroTech 一般元素属性"
+
+#: ../../source/users/schema/element/element_edit.rst:19
+msgid ""
+"If the `selection properties panel`_ is not displayed, it can be displayed "
+"from **Settings > display > Selection properties**."
+msgstr ""
+"如果 `选择属性面板 <selection properties panel_>`_ 没有显示，可以从 **设置 > 显示 > 选择属性** 显示。"
+
+#: ../../source/users/schema/element/element_edit.rst:24
+msgid ""
+"For more information about how to edit elements, refer to `element editor`_ "
+"section."
+msgstr "有关如何编辑元素的更多信息，参见 `element编辑器 <element editor_>`_ 部分。"

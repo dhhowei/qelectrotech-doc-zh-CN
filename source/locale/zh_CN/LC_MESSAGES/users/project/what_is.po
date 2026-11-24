@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/project/what_is.rst:5
+msgid "What is a project?"
+msgstr "什么是项目?"
+
+#: ../../source/users/project/what_is.rst:7
+msgid ""
+"The term project inside QElectroTech can be assimilated to a \"database\". A"
+" project is not a common database, it is a collection of information which "
+"is not structured in columns and rows."
+msgstr "QElectroTech内部的术语项目可以被同化为一个\"数据库\". 一个项目不是一个常见的数据库，它是一个信息集合，不是以列和行结构的。"
+
+#: ../../source/users/project/what_is.rst:13
+msgid "Figure: QElectroTech project structure"
+msgstr "图：QElectroTech项目结构"
+
+#: ../../source/users/project/what_is.rst:15
+msgid ""
+"A project is a group of `folios`_, `elements`_ and `conductors`_ represented"
+" inside the `folios`_ with the respective properties, properties which "
+"define the way how should be represented each folio (`title block`_, "
+"dimensions, etc.), properties which define how the reports should be "
+"represented (folio index, component list, connector list, etc.), properties "
+"which define how to export or print the information, interconnection "
+"relation between `elements`_ from the same or different `folios`_ and the "
+"master data (project name, author, year of creation, revision, etc.)."
+msgstr ""
+"一个项目是一组 `图幅 <folios_>`_，`元件 <elements_>`_ 和 `导体 <conductors_>`_ 代表于 `图幅 "
+"<folios_>`_ 与相应的属性，确定应如何代表每个组合的属性(`图框 <title block_>`_ "
+"属性(组合索引、组件列表、连接器列表等)、定义如何导出或打印信息的属性、 `元件 <elements_>`_ 从相同或不同的 `图幅 "
+"<folios_>`_ 和主数据(项目名称、作者、创建年份、修订年等)。"
+
+#: ../../source/users/project/what_is.rst:22
+msgid ""
+"The project is the base of QElectroTech to manage a work. The development "
+"team has focus the tasks on the electrical and control filed, even so, "
+"QElectroTech is a E-CAE software. For this reason, QElectroTech is an inter-"
+"disciplinary tool that allows the user to create many type of projects."
+msgstr ""
+"该项目是QElectroTech管理一个作品的基础，开发团队将任务重点放在了已归档的电气和控制上，即使如此，QEectroTech还是一个E-"
+"CAE软件，为此原因，QEctroTech是一个跨学科的工具，可以让用户创建许多类型的项目。"
+
+#: ../../source/users/project/what_is.rst:26
+msgid "Electrical projects: Purely electrical systems"
+msgstr "电气项目：纯电气系统"
+
+#: ../../source/users/project/what_is.rst:27
+msgid "Automation projects: GRAFCET, diagrams, etc."
+msgstr "自动化项目：GRAFCET,图表等。"
+
+#: ../../source/users/project/what_is.rst:28
+msgid ""
+"Fluid power projects: Hydraulic, pneumatic and central lubrication systems"
+msgstr "流体动力项目：水力、气压和中央润滑系统"
+
+#: ../../source/users/project/what_is.rst:29
+msgid "Process control projects: Process Industrial Diagrams (PID)"
+msgstr "工艺控制项目：工艺工业图"

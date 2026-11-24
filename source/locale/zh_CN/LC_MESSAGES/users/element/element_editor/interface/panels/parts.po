@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/element_editor/interface/panels/parts.rst:5
+msgid "Parts panel"
+msgstr "部件面板"
+
+#: ../../source/users/element/element_editor/interface/panels/parts.rst:7
+msgid ""
+"The Parts panel lists all `parts`_ (`lines`_, `terminals`_, `rectangles`_, "
+"`dynamic texts`_, etc.) which make up the `element`_."
+msgstr ""
+"部件面板列出了组成 `元件 <element_>`_ 的所有 `部件 <parts_>`_，包括 `线条 <lines_>`_、"
+"`终端 <terminals_>`_、`矩形 <rectangles_>`_、`动态文本 <dynamic texts_>`_ 等。"
+
+#: ../../source/users/element/element_editor/interface/panels/parts.rst:13
+msgid "Figure: QElectroTech element editor Parts panel"
+msgstr "图：QElectroTech 元素编辑器部件面板"
+
+#: ../../source/users/element/element_editor/interface/panels/parts.rst:15
+msgid "To display the Parts panel"
+msgstr "显示部件面板"
+
+#: ../../source/users/element/element_editor/interface/panels/parts.rst:17
+msgid ""
+"Select **Settings > Display > Parts** menu item to display the Parts panel."
+msgstr "选择 **设置 > 显示 > 部件** 菜单项以显示部件面板。"

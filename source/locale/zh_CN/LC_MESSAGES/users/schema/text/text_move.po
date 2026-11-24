@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/schema/text/text_move.rst:5
+msgid "Move text"
+msgstr "移动文本"
+
+#: ../../source/users/schema/text/text_move.rst:7
+msgid ""
+"A `text field`_ is considered on object more in the `workspace`_. A `text "
+"field`_ can be move around the `workspace`_ using the mouse or the keyboard "
+"like `elements`_, `basic objects`_ or `pictures`_."
+msgstr ""
+"A `文本字段 <text field_>`_ 更多在 `工作区 <workspace_>`_ 中考虑对象。A `文本字段 <text "
+"field_>`_ 可用鼠标或键盘如 `工作区 <workspace_>`_，`元件 <elements_>`_ 或 `图片 <basic "
+"objects_>`_ 绕 `工作空间 <pictures_>`_ 移动。"
+
+#: ../../source/users/schema/text/text_move.rst:11
+msgid "Move text field by mouse"
+msgstr "通过鼠标移动文本字段"
+
+#: ../../source/users/schema/text/text_move.rst:13
+msgid "Left click on the `text field`_ which should be moved."
+msgstr "左键单击应当移动的 `文本字段 <text field_>`_ 。"
+
+#: ../../source/users/schema/text/text_move.rst:14
+msgid "Without releasing, move the mouse to the new desired position."
+msgstr "在不释放的情况下，将鼠标移动到新想要的位置。"
+
+#: ../../source/users/schema/text/text_move.rst:17
+msgid "Move text field from selection properties panel"
+msgstr "从选择属性面板中移动文本字段"
+
+#: ../../source/users/schema/text/text_move.rst:19
+msgid "Select the `text field`_ which should be moved."
+msgstr "选择应当移动的 `文本字段 <text field_>`_ 。"
+
+#: ../../source/users/schema/text/text_move.rst:20
+msgid ""
+"Define coordinates **X** and **Y** from `text field`_ at `selection "
+"properties panel`_."
+msgstr ""
+"从 `文本字段 <text field_>`_ 定义坐标 **X** 和 **Y**,位于 `选择属性面板 <selection properties "
+"panel_>`_。"
+
+#: ../../source/users/schema/text/text_move.rst:25
+msgid "Figure: QElectroTech text field selection properties panel"
+msgstr "图：QElectroTech 文本字段选择属性面板"
+
+#: ../../source/users/schema/text/text_move.rst:29
+msgid ""
+"If the `selection properties panel`_ is not displayed, it can be displayed "
+"from **Settings > Display > Selection properties**"
+msgstr ""
+"如果不显示 `选择属性面板 <selection properties panel_>`_，可以从 **设置 > 显示 > 选择属性** 显示"
+
+#: ../../source/users/schema/text/text_move.rst:32
+msgid "Move text field by keyboard"
+msgstr "通过键盘移动文本字段"
+
+#: ../../source/users/schema/text/text_move.rst:34
+msgid "`Select the text field`_ which should be moved."
+msgstr "`选择应当移动的文本字段 <Select the text field_>`_。"
+
+#: ../../source/users/schema/text/text_move.rst:35
+msgid ""
+"Press the corresponding arrow (``Downwards``, ``Rightward``, ``Leftwards`` "
+"or ``Upwards``) to move the `text field`_ one grid row or column."
+msgstr ""
+"按相应的箭头(``Downwards``,``Rightward``,``Leftwards`` 或 ``Upwards``)移动 `文本字段 "
+"<text field_>`_ 一个网格行或列。"

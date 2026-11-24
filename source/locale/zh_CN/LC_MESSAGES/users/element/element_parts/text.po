@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/element_parts/text.rst:5
+msgid "Text field"
+msgstr "文本字段"
+
+#: ../../source/users/element/element_parts/text.rst:7
+msgid ""
+"The normal text field is an object that displays a static text. Once the "
+"`element`_ has been created, the text can only be changed if the `element`_ "
+"is edited. Any different value can be introduced from outside of the "
+"`element editor`_."
+msgstr ""
+"普通文本字段是显示静态文本的对象。一旦创建了 `元件 <element_>`_，只有编辑了 `元件 <element_>`_ "
+"文本才能更改。任何不同的值都可以从 `元素编辑器 <element editor_>`_ 外部引入。"
+
+#: ../../source/users/element/element_parts/text.rst:12
+msgid "Create text"
+msgstr "创建文本"
+
+#: ../../source/users/element/element_parts/text.rst:14
+msgid "The text field can only be added to `workspace`_ from `toolbar`_."
+msgstr "文本字段只能从 `工作区 <workspace_>`_ 添加到 `工具栏 <toolbar_>`_。"
+
+#: ../../source/users/element/element_parts/text.rst:16
+msgid "Select the icon |icon_text| from `toolbar`_ to add a text field."
+msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |icon_text| 以添加文本字段。"
+
+#: ../../source/users/element/element_parts/text.rst:19
+msgid "icon_text"
+msgstr "图标( T)"
+
+#: ../../source/users/element/element_parts/text.rst:17
+msgid "Click the positional point from the text in the `workspace`_."
+msgstr "单击 `工作区 <workspace_>`_ 中文本的位置点。"
+
+#: ../../source/users/element/element_parts/text.rst:23
+msgid ""
+"If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
+"Display > Parts**."
+msgstr "如果 `工具栏 <toolbar_>`_ 不显示，可以从 **设置 > 显示 > 部件** 显示。"
+
+#: ../../source/users/element/element_parts/text.rst:26
+msgid "Text properties"
+msgstr "文本属性"
+
+#: ../../source/users/element/element_parts/text.rst:28
+msgid ""
+"Element part properties can be displayed from `information panel`_ when the "
+"part is selected."
+msgstr "元素部分属性可以在选择该部分时从 `信息面板 <information panel_>`_ 显示。"
+
+#: ../../source/users/element/element_parts/text.rst:33
+msgid ""
+"If the `information panel`_ is not displayed, it can be displayed from "
+"**Settings > Display > Information**."
+msgstr "如果 `信息面板 <information panel_>`_ 未显示，可以从 **设置 > 显示 > 信息** 显示。"
+
+#: ../../source/users/element/element_parts/text.rst:38
+msgid "Figure: QElectroTech text field part from element"
+msgstr "图：来自元素的QElectroTech文本字段"
+
+#: ../../source/users/element/element_parts/text.rst:40
+msgid "QElectroTech allows customizing different text properties:"
+msgstr "QElectroTech 允许自定义不同的文本属性："
+
+#: ../../source/users/element/element_parts/text.rst
+msgid "Placement"
+msgstr "职位安排"
+
+#: ../../source/users/element/element_parts/text.rst
+msgid "Position"
+msgstr "立场"
+
+#: ../../source/users/element/element_parts/text.rst:46
+msgid "The text coordinates (x, y) can be defined."
+msgstr "文本坐标(x,y)可以定义。"
+
+#: ../../source/users/element/element_parts/text.rst
+msgid "Text angle"
+msgstr "文本角度"
+
+#: ../../source/users/element/element_parts/text.rst:50
+msgid ""
+"The text display angle can be defined in the range of 0 to 360 degrees."
+msgstr "文本显示角度可以定义为0到360度。"
+
+#: ../../source/users/element/element_parts/text.rst
+msgid "Content"
+msgstr "内容"
+
+#: ../../source/users/element/element_parts/text.rst
+msgid "Size"
+msgstr "大小"
+
+#: ../../source/users/element/element_parts/text.rst:56
+msgid "The text size can be defined."
+msgstr "文本大小可以定义。"
+
+#: ../../source/users/element/element_parts/text.rst
+msgid "Color"
+msgstr "颜色"
+
+#: ../../source/users/element/element_parts/text.rst:60
+msgid "The color text can be chosen between black and white."
+msgstr "颜色文本可以在黑白之间选择。"

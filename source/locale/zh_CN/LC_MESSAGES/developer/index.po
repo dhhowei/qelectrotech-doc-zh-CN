@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/developer/index.rst:25
+msgid "Table of Content:"
+msgstr "目录："
+
+#: ../../source/developer/index.rst:9
+msgid "Developer Manual"
+msgstr "开发者手册"
+
+#: ../../source/developer/index.rst:13
+msgid "Image showing QElectroTech's interface wizard"
+msgstr "显示 QElectroTech 接口向导的图像"
+
+#: ../../source/developer/index.rst:13
+msgid "Building QET from source"
+msgstr "从源头构建QET"
+
+#: ../../source/developer/index.rst:19
+msgid "Image showing Git logo"
+msgstr "显示 Git 标志的图像"
+
+#: ../../source/developer/index.rst:19
+msgid "Contributing to the QET source code"
+msgstr "贡献 QET 源代码"

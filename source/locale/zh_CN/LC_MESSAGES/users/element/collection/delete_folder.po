@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/collection/delete_folder.rst:5
+msgid "Delete category"
+msgstr "删除类别"
+
+#: ../../source/users/element/collection/delete_folder.rst:7
+msgid "Working with collections can only be done from `collections panel`_."
+msgstr "只能从 `收集面板 <collections panel_>`_ 中进行收藏工作。"
+
+#: ../../source/users/element/collection/delete_folder.rst:11
+msgid ""
+"Select **Settings > Display > Collections** menu item to display the "
+"`collections panel`_."
+msgstr "选择 **设置 > 显示 > 收藏** 菜单项以显示 `收藏面板 <collections panel_>`_ 。"
+
+#: ../../source/users/element/collection/delete_folder.rst:13
+msgid ""
+"QElectroTech allows deleting categories from some collection. The user has "
+"only read rights at QET element collection, the user can delete categories "
+"from all collections except QET collection."
+msgstr "QElectroTech允许删除一些收藏中的类。用户只在QET元素收藏中拥有阅读权限，用户可以删除除QET收藏以外的所有收藏中的类。"
+
+#: ../../source/users/element/collection/delete_folder.rst:16
+msgid ""
+"Right click on the category / sub-category from the collection that should "
+"be deleted."
+msgstr "从收藏中右键单击应删除的类别 / 子类别 。"
+
+#: ../../source/users/element/collection/delete_folder.rst:21
+msgid "Figure: Options at folder"
+msgstr "图：文件夹中的选项"
+
+#: ../../source/users/element/collection/delete_folder.rst:23
+msgid ""
+"Click the option **Delete folder** to delete the category / sub-category."
+msgstr "单击选项 **删除文件夹** 删除类别/子类别 。"
+
+#: ../../source/users/element/collection/delete_folder.rst:24
+msgid ""
+"A PopUp confirmation window will be displayed, press **OK** to confirm and "
+"delete the category / sub-category."
+msgstr "将显示一个 PopUp 确认窗口，按 **OK** 确认并删除该类别 / 子类别 。"
+
+#: ../../source/users/element/collection/delete_folder.rst:29
+msgid "Figure: Deleting PopUp window confirmation"
+msgstr "图：删除弹出窗口确认"
+
+#: ../../source/users/element/collection/delete_folder.rst:33
+msgid ""
+"Be sure about what should be deleted, the category / sub-category and all "
+"elements will be deleted from the collection and file system."
+msgstr "请确定应该删除什么，分类 / 子分类和所有元素将从收藏和文件系统中删除 。"

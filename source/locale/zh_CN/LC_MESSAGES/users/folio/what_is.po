@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/what_is.rst:5
+msgid "What is a folio?"
+msgstr "什么是阴茎?"
+
+#: ../../source/users/folio/what_is.rst:7
+msgid ""
+"A `folio`_ is part of the `project`_ that can be considered as a unit. It "
+"can be the `project index`_, part of the `schema`_, the part list complete "
+"or partly, etc."
+msgstr ""
+"A`图幅 <folio_>`_ 是可视为单位的 `项目 <project_>`_ 的一部分，可以是 `项目指数 <project "
+"index_>`_，`schema <schema_>`_ 的一部分，该部分列表完整或部分等。"
+
+#: ../../source/users/folio/what_is.rst:10
+msgid ""
+"The `folio`_ defines the maximum part of the project information that can be"
+" displayed at the same time in the `workspace`_, a `folio`_ from a "
+"`project`_ is equivalent to a page of a book. When a `project`_ is exported "
+"to PDF, each `folio`_ is one page from the document. When a `project`_ is "
+"exported to any other format (PNG, JPG, DXF, etc.), each `folio`_ is one "
+"file."
+msgstr ""
+"`图幅 <folio_>`_ 定义了项目信息中可以同时在 `工作区 <workspace_>`_ 中显示的最大部分，一个 `图幅 <folio_>`_ "
+"的 `项目 <project_>`_ 相当于一页书页，当一个 `项目 <project_>`_ 输出到PDF时，每个 `图幅 <folio_>`_ "
+"是文档中的一页，当一个 `项目 <project_>`_ 输出到任何其他格式(PNG,JPG,DXF等)时，每个 `图幅 <folio_>`_ "
+"是一个文件。"
+
+#: ../../source/users/folio/what_is.rst:15
+msgid ""
+"Inside a `project`_, the `folios`_ should have an order. For an easy "
+"understanding of the `schema`_, it is important that the user takes care "
+"about the position and information that is included at each `folio`_."
+msgstr ""
+"内置 a `项目 <project_>`_，则 `图幅 <folios_>`_ 应该有一个命令。 `计划 "
+"<schema_>`_，用户必须注意每个用户所包括的位置和信息。 `图幅 <folio_>`_。"
+
+#: ../../source/users/folio/what_is.rst:21
+msgid "Figure: QElectroTech folios"
+msgstr "图：QElectroTech光圈"

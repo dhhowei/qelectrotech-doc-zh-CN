@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/schema/conductor/conductor_change_appearance.rst:5
+msgid "Change appearance conductor"
+msgstr "更改外观导线"
+
+#: ../../source/users/schema/conductor/conductor_change_appearance.rst:7
+msgid ""
+"QElectroTech allows changing the `conductors appearance`_, the line style "
+"and color can be defined for each `conductor`_."
+msgstr ""
+"QElectroTech允许改变 `导体外观 <conductors appearance_>`_，每 `导体 <conductor_>`_ "
+"的线条样式和颜色可以定义。"
+
+#: ../../source/users/schema/conductor/conductor_change_appearance.rst:10
+msgid "To change the conductor appearance:"
+msgstr "要改变导线外观："
+
+#: ../../source/users/schema/conductor/conductor_change_appearance.rst:12
+msgid "`Select the conductor`_ which should be edited."
+msgstr "`选择应当编辑的导体 <Select the conductor_>`_。"
+
+#: ../../source/users/schema/conductor/conductor_change_appearance.rst:13
+msgid "`Display conductor properties`_ PopUp window."
+msgstr "`播放导体属性 <Display conductor properties_>`_ 弹出窗口。"
+
+#: ../../source/users/schema/conductor/conductor_change_appearance.rst:14
+msgid "Go to **Appearance** tab."
+msgstr "转到 **Appearance** 标签 。"
+
+#: ../../source/users/schema/conductor/conductor_change_appearance.rst:19
+msgid "Figure: QElectroTech conductor appearance PopUP window"
+msgstr "图：QElectroTech导体外观 PopUP 窗口"
+
+#: ../../source/users/schema/conductor/conductor_change_appearance.rst:22
+msgid ""
+"Choose the desired parameters for main color and secondary color if "
+"necessary."
+msgstr "必要时选择主色和次色的理想参数。"
+
+#: ../../source/users/schema/conductor/conductor_change_appearance.rst:23
+msgid ""
+"Click the check button **Apply properties to all conductor of this "
+"potential** if the changes should be applied for all `conductor`_ with "
+"common initial or end `terminal`_."
+msgstr ""
+"单击检查按钮 **将属性应用到此潜力的所有导师** 如果修改应适用于所有人 `导体 <conductor_>`_ 带有共同初始或结束 `端子 "
+"<terminal_>`_。"
+
+#: ../../source/users/schema/conductor/conductor_change_appearance.rst:24
+msgid ""
+"Click or unclick the option **Apply properties to all conductors of this "
+"potential**."
+msgstr "单击或取消单击此选项 **, 将属性应用到此潜能的所有导师** 。"
+
+#: ../../source/users/schema/conductor/conductor_change_appearance.rst:25
+msgid "Press **OK** button to save and apply the property changes."
+msgstr "按 **OK** 按钮保存并应用属性更改 。"
+
+#: ../../source/users/schema/conductor/conductor_change_appearance.rst:29
+msgid ""
+"For more information about conductor appearance, refer to `conductor "
+"appearance`_ section."
+msgstr "关于导体外观的更多信息，参见 `导体外观 <conductor appearance_>`_ 节。"

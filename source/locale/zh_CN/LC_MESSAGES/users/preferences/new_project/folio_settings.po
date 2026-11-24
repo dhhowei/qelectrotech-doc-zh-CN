@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:5
+msgid "Folio settings"
+msgstr "组合设置"
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:7
+msgid ""
+"QElectroTech provides the option to storage at the Data from the application"
+" some `project properties`_ pre-defined by the user. This feature allows the"
+" user avoiding to define many `project properties`_ each time that the user "
+"`creates new projects`_."
+msgstr ""
+"QElectroTech 从应用程序中提供了从数据中存储一些 `项目属性 <project properties_>`_ "
+"由用户预先定义的选项。该特性允许用户每次在用户 `创建新项目 <project properties_>`_ 时避免定义许多 `项目属性 "
+"<creates new projects_>`_ 。"
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:11
+msgid ""
+"The **Folio** tab from **New project** settings section allows pre-defining "
+"some `folio properties`_:"
+msgstr "**Folio** 选项卡来自 **新项目** 设置部分允许预先定义一些 `组合属性 <folio properties_>`_ :"
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:13
+msgid "`Folio size`_."
+msgstr "`Folio大小 <Folio size_>`_。"
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:14
+msgid "`Folio title block`_."
+msgstr "`Folio 图框 <Folio title block_>`_。"
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:15
+msgid "`Folio default variables values`_."
+msgstr "`Folio 默认变量值 <Folio default variables values_>`_。"
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:16
+msgid "`Folio user variables`_."
+msgstr "`Folio 用户变量 <Folio user variables_>`_。"
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:21
+msgid "Figure: QElectroTech New project folio settings"
+msgstr "图：QElectroTech 新的项目组合设置"
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:23
+msgid "To define folio settings:"
+msgstr "要定义组合设置："
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:25
+msgid "`Display`_ QElectroTech settings PopUP window."
+msgstr "`显示 <Display_>`_ QElectroTech设置 PopUP 窗口。"
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:26
+msgid "Go to **New project** section."
+msgstr "转到 **新项目** 部分。"
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:27
+msgid "Go to **Folio** tab."
+msgstr "转到 **Folio** 标签 。"
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:28
+msgid "Define the desired parameters for each field."
+msgstr "定义每个字段的理想参数。"
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:29
+msgid ""
+"Press **OK** button to save the configuration changes and close settings "
+"PopUP window."
+msgstr "按 **OK** 按钮保存配置更改和关闭设置 PopUP 窗口。"
+
+#: ../../source/users/preferences/new_project/folio_settings.rst:33
+msgid ""
+"All pre-defined `folio properties`_ defined at QElectroTech settings PopUP "
+"window will be automatically defined during `project creation`_ at `project "
+"properties`_. The `folio properties`_ can be found at `Folio tab`_ from  "
+"`New folio`_ section."
+msgstr ""
+"所有预定义 `folio 属性 <folio properties_>`_ 在 QElectroTech 设置中定义的 PopUP 窗口将在 `项目创建"
+" <project creation_>`_ 时间 `项目属性 <project properties_>`_ 编辑 `folio 属性 <folio "
+"properties_>`_ 可见于 `组合标签 <Folio tab_>`_ 从  `新组合 <New folio_>`_ 节。"

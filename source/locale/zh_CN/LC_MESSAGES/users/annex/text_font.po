@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/annex/text_font.rst:7
+msgid "QElectroTech text font"
+msgstr "QElectroTech 文本字体"
+
+#: ../../source/users/annex/text_font.rst:9
+msgid "To define the text font at the **Select font** PopUp window:"
+msgstr "在 **选择字体** 弹出窗口时定义文本字体："
+
+#: ../../source/users/annex/text_font.rst:11
+msgid ""
+"Search for the font using the searching box or using the scrollbar from "
+"right side."
+msgstr "使用搜索框或从右侧使用滚动条搜索字体。"
+
+#: ../../source/users/annex/text_font.rst:12
+msgid "Click on the text font in the list box."
+msgstr "单击列表框中的文字字体。"
+
+#: ../../source/users/annex/text_font.rst:13
+msgid ""
+"Define font size by horizontal scrollbar, defining the size in the text box "
+"or using +/- buttons."
+msgstr "通过水平滚动栏定义字体大小，定义文本框中的大小或使用+/-按钮。"
+
+#: ../../source/users/annex/text_font.rst:18
+msgid "Figure: QElectroTech select font PopUp window"
+msgstr "图：QElectroTech 选择字体弹出窗口"

@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/schema/text/link_url.rst:5
+msgid "Insert URL link"
+msgstr "插入 URL 链接"
+
+#: ../../source/users/schema/text/link_url.rst:7
+msgid ""
+"QElectroTech works with text as html code. This property allows the user "
+"introducing at the `workspace`_ anything that is possible with HTM code. "
+"This section explains how the user can create an URL link for a text."
+msgstr ""
+"QElectroTech 以文本作为 html 代码进行工作。 此属性允许用户在 `工作区 <workspace_>`_ 中引入 HTM "
+"代码中的任何可能内容。 本节解释用户如何为文本创建 URL 链接 。"
+
+#: ../../source/users/schema/text/link_url.rst:13
+msgid ""
+"The URL link is only activated at the PDF version of the document. The link "
+"is not activated at the native QElectroTech format."
+msgstr "URL链接仅在文档的PDF版本中激活，链接不以原生的QEelectroTech格式激活。"
+
+#: ../../source/users/schema/text/link_url.rst:16
+msgid ""
+"At the current released version, version 0.7, QElectroTech allows creating "
+"an URL link internally or using external html code generators."
+msgstr "在目前发布的版本0.7,QElectroTech允许内部创建URL链接或使用外部html代码生成器。"
+
+#: ../../source/users/schema/text/link_url.rst:20
+msgid "Insert URL link from QElectroTech text editor"
+msgstr "从 QElectroTech 文本编辑器插入 URL 链接"
+
+#: ../../source/users/schema/text/link_url.rst:22
+#: ../../source/users/schema/text/link_url.rst:46
+msgid "Display the `text editor`_ by editing the desired `text field`_."
+msgstr "通过编辑想要的 `文本字段 <text editor_>`_，显示 `文本编辑器 <text field_>`_。"
+
+#: ../../source/users/schema/text/link_url.rst:27
+#: ../../source/users/schema/text/link_url.rst:51
+msgid "Figure: QElectroTech Text editor rich text tab"
+msgstr "图：QElectroTech 文本编辑器丰富文本标签"
+
+#: ../../source/users/schema/text/link_url.rst:29
+msgid ""
+"Press the icon **Insert link** from the Menu bar for displaying the Insert "
+"link PopUP window."
+msgstr "按下菜单栏的图标 **插入链接** 显示插入链接 PopUP 窗口。"
+
+#: ../../source/users/schema/text/link_url.rst:34
+msgid "Figure: QElectroTech insert link PopUP window"
+msgstr "图：QElectroTech 插入链接 PopUP 窗口"
+
+#: ../../source/users/schema/text/link_url.rst:36
+msgid ""
+"Define the text which should be displayed at the `workspace`_ and the "
+"desired URL where the link should redirect."
+msgstr "定义应当显示在 `工作区 <workspace_>`_ 的文字，以及链接应当重定向的想要的 URL 。"
+
+#: ../../source/users/schema/text/link_url.rst:37
+msgid ""
+"Press the button **OK** to close the Insert link PopUP window and add the "
+"link to the text field content."
+msgstr "按下按钮 **OK** 关闭插入链接 PopUP 窗口，并将链接添加到文本字段内容中。"
+
+#: ../../source/users/schema/text/link_url.rst:38
+#: ../../source/users/schema/text/link_url.rst:61
+msgid ""
+"Press the button **OK** to save the text field content and close the `text "
+"editor`_."
+msgstr "按下按钮 **OK** 保存文本字段内容并关闭 `文本编辑器 <text editor_>`_。"
+
+#: ../../source/users/schema/text/link_url.rst:41
+msgid "Insert URL link using external html code generators"
+msgstr "使用 html 外部代码生成器插入 URL 链接"
+
+#: ../../source/users/schema/text/link_url.rst:43
+msgid ""
+"At the case that something special should be included or any properties "
+"should be different, QElectroTech allows creating the html source code using"
+" an external code generator and later on introduce the code."
+msgstr "在应该包含特殊的东西或者任何属性应该不同的情况下，QEelectroTech允许使用外部代码生成器创建html源代码，后来引入代码。"
+
+#: ../../source/users/schema/text/link_url.rst:53
+msgid "Select the source Tab."
+msgstr "选择源标签。"
+
+#: ../../source/users/schema/text/link_url.rst:58
+msgid "Figure: QElectroTech Text editor source tab"
+msgstr "图：QElectroTech 文本编辑器源选项卡"
+
+#: ../../source/users/schema/text/link_url.rst:60
+msgid "Copy the html code from the html code generator."
+msgstr "从 html 代码生成器复制 html 代码 。"
+
+#: ../../source/users/schema/text/link_url.rst:65
+msgid ""
+"Many different HTML Table Generator can be found on interned or can be "
+"installed at the computer. One internet example is the following:"
+msgstr "许多不同的 HTML 表格生成器可以在计算机中找到或安装。"
+
+#: ../../source/users/schema/text/link_url.rst:68
+msgid "https://html-css-js.com/html/generator/"
+msgstr "https://html-css-js.com/html/generator/"

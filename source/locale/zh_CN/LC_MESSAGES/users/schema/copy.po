@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/schema/copy.rst:5
+msgid "Copy object"
+msgstr "复制对象"
+
+#: ../../source/users/schema/copy.rst:7
+msgid ""
+"QElectroTech allows copying objects (`element`_, `conductor`_, `text "
+"field`_, `basic object`_ and `picture`_) to `paste`_ them at the same "
+"`folio`_ or at different `folio`_ and/or `project`_ later."
+msgstr ""
+"QElectroTech允许复制对象(`元件 <element_>`_，`导体 <conductor_>`_，`文本字段 <text "
+"field_>`_，`基本对象 <basic object_>`_ 和 `图片 <picture_>`_),在同一个 `粘贴 <paste_>`_ "
+"或不同的 `图幅 <folio_>`_ 和/或以后的 `图幅 <folio_>`_ 上复制 `项目 <project_>`_。"
+
+#: ../../source/users/schema/copy.rst:13
+msgid ""
+"Multiples objects can be copied at the same time `selecting multiple "
+"objects`_."
+msgstr "多个对象可以同时复制 `选择多个对象 <selecting multiple objects_>`_。"
+
+#: ../../source/users/schema/copy.rst:17
+msgid ""
+"The `element`_ would suffer data losses if the intention is to `paste`_ it "
+"at different `project`_."
+msgstr ""
+"`元件 <element_>`_ 如果意图在不同的 `粘贴 <paste_>`_ 中将 `项目 <project_>`_ 加以粘贴，则将遭受数据损失。"
+
+#: ../../source/users/schema/copy.rst:19
+msgid ""
+"Copying objects can be done from `menu bar`_, `toolbar`_, by right click on "
+"the object and using the corresponding keyboard shortcut."
+msgstr "复制对象可以从 `菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_ 中通过右键点击对象并使用相应的键盘快捷键完成。"
+
+#: ../../source/users/schema/copy.rst:23
+msgid "Copy object from menu bar"
+msgstr "从菜单栏复制对象"
+
+#: ../../source/users/schema/copy.rst:25 ../../source/users/schema/copy.rst:36
+#: ../../source/users/schema/copy.rst:61
+msgid "`Select the object/s`_ which should be copied."
+msgstr "`选择应当复制的对象/s <Select the object/s_>`_。"
+
+#: ../../source/users/schema/copy.rst:26
+msgid "Select **Edit > Copy** menu item to copy the object."
+msgstr "选择 **Edit > 复制** 菜单项目复制对象。"
+
+#: ../../source/users/schema/copy.rst:31
+msgid "Figure: QElectroTech edit menu"
+msgstr "图：QElectroTech 编辑菜单"
+
+#: ../../source/users/schema/copy.rst:34
+msgid "Copy object from toolbar"
+msgstr "从工具栏复制对象"
+
+#: ../../source/users/schema/copy.rst:37
+msgid "Select the icon |edit-copy| from `toolbar`_ to copy the object."
+msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |edit-copy| 复制对象。"
+
+#: ../../source/users/schema/copy.rst:39
+msgid "edit-copy"
+msgstr "编辑复制"
+
+#: ../../source/users/schema/copy.rst:43
+msgid ""
+"If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
+"Display > Tools**."
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示。"
+
+#: ../../source/users/schema/copy.rst:46
+msgid "Copy object by right click"
+msgstr "按右键复制对象"
+
+#: ../../source/users/schema/copy.rst:48
+msgid "Right click on the object which should be copied."
+msgstr "右键单击应复制的对象。"
+
+#: ../../source/users/schema/copy.rst:49
+msgid "Select the option **Copy** to copy the object."
+msgstr "选择选项 **复制** 以复制对象。"
+
+#: ../../source/users/schema/copy.rst:54
+msgid "Figure: QElectroTech right click PopUP window"
+msgstr "图：右键点击 PopUP 窗口的QElectroTech"
+
+#: ../../source/users/schema/copy.rst:57
+msgid "Copy object using keyboard shortcut"
+msgstr "使用键盘快捷键复制对象"
+
+#: ../../source/users/schema/copy.rst:59
+msgid "QElectroTech allows using keyboard shortcut to increase productivity."
+msgstr "QElectroTech允许使用键盘快捷键来提高生产力。"
+
+#: ../../source/users/schema/copy.rst:62
+msgid "Press ``Ctrl + c`` to copy the object."
+msgstr "按 ``Ctrl + c`` 复制对象。"
+
+#: ../../source/users/schema/copy.rst:66
+msgid ""
+"For more information about QElectroTech keyboard shortcuts, refer to `menu "
+"bar`_ section."
+msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/title_block/elements/row.rst:5
+msgid "Row"
+msgstr "行"
+
+#: ../../source/users/folio/title_block/elements/row.rst:8
+msgid "Definition"
+msgstr "定义"
+
+#: ../../source/users/folio/title_block/elements/row.rst:10
+msgid ""
+"A row of `cells`_ from the `title block`_ is a group of `cells`_ that are "
+"placed one beside the other."
+msgstr ""
+"`图框 <cells_>`_ 的 `图框 <title block_>`_ 的一行是一组 `个细胞 <cells_>`_，它们被放在另一边。"
+
+#: ../../source/users/folio/title_block/elements/row.rst:15
+msgid "Figure: QElectroTech title block row"
+msgstr "图：QElectroTech 图框行"
+
+#: ../../source/users/folio/title_block/elements/row.rst:18
+msgid "Properties"
+msgstr "属性"
+
+#: ../../source/users/folio/title_block/elements/row.rst:20
+msgid ""
+"A row from the `title block`_ has only one property, the height of the "
+"`cells`_ that are part of the row."
+msgstr "从 `图框 <title block_>`_ 的一行只有一个属性，是属于该行的 `细胞的高度 <cells_>`_。"
+
+#: ../../source/users/folio/title_block/elements/row.rst:23
+msgid "To display the row height:"
+msgstr "要显示行高："
+
+#: ../../source/users/folio/title_block/elements/row.rst:25
+msgid "Double click on the row head."
+msgstr "双击行头。"
+
+#: ../../source/users/folio/title_block/elements/row.rst:30
+msgid "Figure: QElectroTech title block row height property"
+msgstr "图：QElectroTech图框行高度属性"
+
+#: ../../source/users/folio/title_block/elements/row.rst:34
+msgid ""
+"QElectroTech works with pixels, the height of the row can only be defined "
+"according pixel unit."
+msgstr "QElectroTech用像素工作，行的高度只能按照像素单位来定义。"

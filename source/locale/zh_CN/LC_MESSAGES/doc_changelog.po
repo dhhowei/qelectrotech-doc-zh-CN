@@ -1,0 +1,151 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/doc_changelog.rst:5
+msgid "Documentation Changelog"
+msgstr "文档更新日志"
+
+#: ../../source/doc_changelog.rst:8
+msgid "QET Documentation Changelog 0.9 (2025-12-18)"
+msgstr "QET 文档更改log 0.9 (2025-12-18)"
+
+#: ../../source/doc_changelog.rst:10
+msgid ""
+"Adding Windows build instructions (Huge Thanks to  `ssweber`_` for the "
+"original Gist)"
+msgstr "添加 Windows 构建指令 (Huge 感谢 `ssweber <ssweber_>`_` 原始 Gist)"
+
+#: ../../source/doc_changelog.rst:13 ../../source/doc_changelog.rst:48
+msgid "Doc"
+msgstr "医生"
+
+#: ../../source/doc_changelog.rst:14
+msgid ""
+"Switched from using bootstap4 theme to furo sphinx theme. (Reason is that "
+"the former isn't updated anymore. The later is updated, is used for the "
+"python + pip doc and has built-in support for dark theme.)"
+msgstr ""
+"切换自使用 pirtap4 主题到 furo sphinx 主题 。 (Reason 表示前者不再更新，后面更新，用于 python + pip doc"
+" 并有内置支持黑暗主题 。 )"
+
+#: ../../source/doc_changelog.rst:15
+msgid "Use sphinx-design extension to simplify appearance of welcome page."
+msgstr "使用狮身人面像设计扩展来简化欢迎页的外观。"
+
+#: ../../source/doc_changelog.rst:18 ../../source/doc_changelog.rst:56
+msgid "Feature"
+msgstr "特性"
+
+#: ../../source/doc_changelog.rst:20
+msgid "Added Dev docs on how to build the app"
+msgstr "添加关于如何构建应用程序的 Dev 文件"
+
+#: ../../source/doc_changelog.rst:21
+msgid ""
+"Added GitHub CI to automatically build, publish and licence files on "
+"push/merge/ pull request to branch. Using Sphinx-note's page action"
+msgstr "添加 GitHub CI 以自动构建、 发布和许可证文件 。 使用 Sphinx- Note 的页面动作"
+
+#: ../../source/doc_changelog.rst:22
+msgid ""
+"Added app changelog in developer/app_changelog.rst + Documentation changelog"
+msgstr "开发者/ app  changlog.rst + 文档更改日志中添加的app changlog"
+
+#: ../../source/doc_changelog.rst:23
+msgid "Created doc hub on homepage instead of going directly in user doc"
+msgstr "在主页上创建了 Doc 中枢，而不是直接在用户 doc 中运行"
+
+#: ../../source/doc_changelog.rst:24
+msgid "Added automatic Doxygen doc support"
+msgstr "添加自动 Doxygen doc 支持"
+
+#: ../../source/doc_changelog.rst:25
+msgid "Add spellchecking system on deploy"
+msgstr "部署时添加拼写检查系统"
+
+#: ../../source/doc_changelog.rst:29 ../../source/doc_changelog.rst:41
+msgid "Bugfix"
+msgstr "错误修正"
+
+#: ../../source/doc_changelog.rst:31
+msgid "Update User docs"
+msgstr "更新用户文件"
+
+#: ../../source/doc_changelog.rst:32
+msgid "Update low-res icons/images"
+msgstr "更新低级图标/图像"
+
+#: ../../source/doc_changelog.rst:33
+msgid ""
+"Create a (proprer) directory structure to switch from a messy structure to "
+"an organized one (especially for images)"
+msgstr "创建一个( proprer) 目录结构，从乱七八糟的结构切换为有条理的结构( 特别是图像)"
+
+#: ../../source/doc_changelog.rst:38
+msgid "QET Documentation Changelog 0.8 (2020-03-22)"
+msgstr "QET 文档更改log 0.8 (2020-03-22)"
+
+#: ../../source/doc_changelog.rst:43
+msgid "Documentation re-structured to minimize the size using common figures."
+msgstr "文档重新编排，以便使用共同数字将大小最小化。"
+
+#: ../../source/doc_changelog.rst:44
+msgid "Some grammatical corrections."
+msgstr "一些语法更正。"
+
+#: ../../source/doc_changelog.rst:50
+msgid ""
+"Documentation ready for internationalization, file structure and new "
+"filename definition (``figure_languge_filename = "
+"\"{path}{language}/{basename}{ext}\"``) for the automatic selection of "
+"figures depending on the language."
+msgstr ""
+"为国际化准备的文档，文件结构和新的文件名定义(``figure_languge_filename = "
+"\"{path}{language}/{basename}{ext}\"``),用于根据语言自动选择数字。"
+
+#: ../../source/doc_changelog.rst:51
+msgid "Official icons added in the images."
+msgstr "图像中增加了官方图标。"
+
+#: ../../source/doc_changelog.rst:52
+msgid "test"
+msgstr "测试"
+
+#: ../../source/doc_changelog.rst:58
+msgid "Forum and Home page links added to the documentation menu."
+msgstr "论坛和主页链接添加到文档菜单中。"
+
+#: ../../source/doc_changelog.rst:59
+msgid "New theme used (sphinxbootstrap4theme)."
+msgstr "使用的新主题( sphinxbootstrap4主题) 。"
+
+#: ../../source/doc_changelog.rst:60
+msgid "Some new information added"
+msgstr "增加了一些新资料"
+
+#: ../../source/doc_changelog.rst:61
+msgid "pdf version created and download link added to index page."
+msgstr "pdf版本创建并下载链接添加到索引页面。"
+
+#: ../../source/doc_changelog.rst:66
+msgid "https://github.com/ssweber"
+msgstr "https://github.com/ssweber"

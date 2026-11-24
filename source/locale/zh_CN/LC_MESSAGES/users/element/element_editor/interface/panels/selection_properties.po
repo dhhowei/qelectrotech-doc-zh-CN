@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/element_editor/interface/panels/selection_properties.rst:5
+msgid "Selection properties panel"
+msgstr "选择属性面板"
+
+#: ../../source/users/element/element_editor/interface/panels/selection_properties.rst:7
+msgid ""
+"The Selection properties panel displays the appearance and geometry "
+"properties from the selected `part`_ (`line`_, `terminal`_, `rectangle`_, "
+"`dynamic text`_, etc.)."
+msgstr ""
+"选择属性面板显示所选 `部件 <part_>`_ (`线条 <line_>`_，`端子 <terminal_>`_，`矩形 "
+"<rectangle_>`_，`动态文本 <dynamic text_>`_ 等的外观和几何属性。"
+
+#: ../../source/users/element/element_editor/interface/panels/selection_properties.rst:13
+msgid "Figure: QElectroTech element editor Selection properties panel"
+msgstr "图：QElectroTech 元素编辑器选择属性面板"
+
+#: ../../source/users/element/element_editor/interface/panels/selection_properties.rst:15
+msgid "To display the Selection properties panel:"
+msgstr "要显示选择属性面板："
+
+#: ../../source/users/element/element_editor/interface/panels/selection_properties.rst:17
+msgid ""
+"Select **Settings > Display > Selection properties** menu item to display "
+"the Selection properties panel."
+msgstr "选择 **设置 > 显示 > 选择属性** 菜单项以显示选择属性面板。"

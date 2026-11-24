@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/type/element_master.rst:5
+msgid "Master element"
+msgstr "主元件"
+
+#: ../../source/users/element/type/element_master.rst:7
+msgid ""
+"The master elements represent the devices from the command circuit such the "
+"coil from a relay or contactor."
+msgstr "主元件代表了从中继器或接触器发出的指令电路上这种线圈的设备。"
+
+#: ../../source/users/element/type/element_master.rst:13
+msgid "Figure: QElectroTech master element"
+msgstr "图：QElectroTech主元件"
+
+#: ../../source/users/element/type/element_master.rst:15
+msgid ""
+"For master element exist two type of variables, the general variables that "
+"are common for all type of elements and managed internally by QElectroTech, "
+"and the specific variables for this type of element."
+msgstr "对于主元件，存在两种类型的变量，即所有类型元素通用并由QEelectroTech内部管理的一般变量，以及这类元素的具体变量。"
+
+#: ../../source/users/element/type/element_master.rst:19
+msgid ""
+"QElectroTech allows defining variable values from master element at the "
+"**Selection properties** panel. QElectroTech does not allow defining new "
+"variables. QElectroTech allows only displaying variables at dynamic texts "
+"and define value of the specific variables."
+msgstr ""
+"QElectroTech允许在 **选择属性** "
+"面板上定义主元件的变量值。QEctroTech不允许定义新的变量。QEctroTech只允许在动态文本中显示变量，并定义特定变量的值。"
+
+#: ../../source/users/element/type/element_master.rst:25
+msgid ""
+"If the Selection properties panel is not displayed, it can be displayed from"
+" **Settings > Display > Selection properties**."
+msgstr "如果选择属性面板未显示，可以从 **设置 > 显示 > 选择属性** 显示。"
+
+#: ../../source/users/element/type/element_master.rst:27
+msgid "General variables"
+msgstr "一般变量"
+
+#: ../../source/users/element/type/element_master.rst:29
+msgid "**% {F}**: Label from the folio where the element can be found"
+msgstr "**% {F}**:从可找到元素的圆柱处划出标签"
+
+#: ../../source/users/element/type/element_master.rst:30
+msgid "**% {f}**: Number from the folio where the element can be found"
+msgstr "**% {f}**:可以找到元素的光圈中的数字"
+
+#: ../../source/users/element/type/element_master.rst:31
+msgid ""
+"**% {M}**: Plant variable from the folio where the element can be found"
+msgstr "**% {M}**:可以找到元素的圆柱形的植物变量"
+
+#: ../../source/users/element/type/element_master.rst:32
+msgid ""
+"**% {LM}**: Location variable of the folio where the element can be found"
+msgstr "**% {LM}**:可以找到元素的光圈位置变量"
+
+#: ../../source/users/element/type/element_master.rst:33
+msgid ""
+"**% {l}**: Folio line number from the workspace where the element can be "
+"found"
+msgstr "**% {l}**:可以找到元素的工作空间的Folio行号"
+
+#: ../../source/users/element/type/element_master.rst:34
+msgid ""
+"**% {c}**: Folio column number from the workspace where the element can be "
+"found"
+msgstr "**% {c}**:可以找到元素的工作空间的Folio列号"
+
+#: ../../source/users/element/type/element_master.rst:35
+msgid "**% {id}**: Folio position in the project (Schema number)"
+msgstr "**% {id}**:项目中的Folio位置(计划编号)"
+
+#: ../../source/users/element/type/element_master.rst:37
+msgid "Specific variables"
+msgstr "具体变量"
+
+#: ../../source/users/element/type/element_master.rst:39
+msgid ""
+"**Label formula**: Definition of the formula which defines the **Label** "
+"value. If a auto numbering pattern is selected during terminal creation, "
+"QElectroTech defines ``%autnum`` as default formula."
+msgstr ""
+"**标签公式**:定义定义 **标签** 值的公式。如果在终端创建过程中选择了自动编号模式，QEelectroTech将 ``%autnum`` "
+"定义为默认公式。"
+
+#: ../../source/users/element/type/element_master.rst:40
+msgid ""
+"**Label**: Internal variable which is used to defines the element code."
+msgstr "**标签**:用于定义元素代码的内部变量。"
+
+#: ../../source/users/element/type/element_master.rst:41
+msgid ""
+"**Annotation**: Internal variable, it cannot be a formula (group of other "
+"variables)."
+msgstr "**注释**:内部变量，不能是一个公式(组其他变量)."
+
+#: ../../source/users/element/type/element_master.rst:42
+msgid ""
+"**Textual description**: Internal variable, it cannot be a formula (group of"
+" other variables)."
+msgstr "**文字描述**:内部变量，不能是一个公式(组其他变量)."
+
+#: ../../source/users/element/type/element_master.rst:43
+msgid ""
+"**Article number**: Internal variable which, it cannot be a formula (group "
+"of other variables)."
+msgstr "**第** 条：内部变量，它不能是一个公式(其他变量组)。"
+
+#: ../../source/users/element/type/element_master.rst:44
+msgid ""
+"**Manufacturer**: Internal variable, it cannot be a formula (group of other "
+"variables)."
+msgstr "**制造商**:内部变量，不能是一个公式(组其他变量)."
+
+#: ../../source/users/element/type/element_master.rst:45
+msgid ""
+"**Order number**: Internal variable, it cannot be a formula (group of other "
+"variables)."
+msgstr "**命令号**:内部变量，不能是一个公式(组其他变量)."
+
+#: ../../source/users/element/type/element_master.rst:46
+msgid ""
+"**Supplier**: Internal variable, it cannot be a formula (group of other "
+"variables)."
+msgstr "**Supplier**:内部变量，不能是一个公式(其他变量组)."
+
+#: ../../source/users/element/type/element_master.rst:47
+msgid ""
+"**Auxiliary block 1**: Internal variable, it cannot be a formula (group of "
+"other variables)."
+msgstr "**辅助区块1**:内部变量，不能是一个公式(其他变量组)."
+
+#: ../../source/users/element/type/element_master.rst:48
+msgid ""
+"**Auxiliary block 2**: Internal variable, it cannot be a formula (group of "
+"other variables)."
+msgstr "**辅助区块2**:内部变量，不能是一个公式(组其他变量)."
+
+#: ../../source/users/element/type/element_master.rst:49
+msgid ""
+"**Internal number**: Internal variable, it cannot be a formula (group of "
+"other variables)."
+msgstr "**内数**:内部变量，不能是一个公式(其他变量组)."
+
+#: ../../source/users/element/type/element_master.rst:50
+msgid ""
+"**Location**: Internal variable, it cannot be a formula (group of other "
+"variables)."
+msgstr "**Location**:内部变量，不能是一个公式(组其他变量)."
+
+#: ../../source/users/element/type/element_master.rst:51
+msgid ""
+"**Function**: Internal variable, it cannot be a formula (group of other "
+"variables)."
+msgstr "**功能**:内部变量，不能是一个公式(组其他变量)."
+
+#: ../../source/users/element/type/element_master.rst:52
+msgid ""
+"**Voltage/Protocol**: Internal variable, it cannot be a formula (group of "
+"other variables)."
+msgstr "**Voltage/Protocol**:内部变量，不能是一个公式(组其他变量)."

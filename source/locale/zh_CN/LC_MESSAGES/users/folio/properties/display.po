@@ -1,0 +1,179 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/properties/display.rst:5
+msgid "Display folio properties"
+msgstr "显示光圈属性"
+
+#: ../../source/users/folio/properties/display.rst:7
+msgid ""
+"The `folio properties`_ can be common at all `folios`_ from the same "
+"`project`_. QElectroTech also allows that each `folio`_ has its own "
+"properties. For example, two `folios`_ can be created by different authors "
+"or they can have different revision item."
+msgstr ""
+"`follios <folio properties_>`_ 属性完全可以常见于同一 `图幅 <folios_>`_ 中的 `项目 "
+"<project_>`_。QElectroTech 也允许每个 `图幅 <folio_>`_ 拥有自己的属性，例如，两个 `图幅 <folios_>`_"
+" 可以由不同的作者创建，也可以有不同的修订项。"
+
+#: ../../source/users/folio/properties/display.rst:14
+msgid ""
+"To reduce the creation time, QElectroTech allows creating some pre-setting "
+"for all future `folios`_ that will be created at the `project`_. For more "
+"information about how to pre-define `folio properties`_, refer to `project "
+"properties`_ section."
+msgstr ""
+"为了缩短创建时间，QElectroTech 允许在 `图幅 <folios_>`_ 上为未来所有 `项目 <project_>`_ "
+"创建一些预设。有关如何预先定义 `folio属性 <folio properties_>`_ 的更多信息，请参考 `project polity "
+"<project properties_>`_ 一节。"
+
+#: ../../source/users/folio/properties/display.rst:18
+msgid ""
+"The folio properties window can be displayed from `menu bar`_, `workspace`_,"
+" `toolbar`_, `projects panel`_, `folios tabs bar`_ and using the "
+"corresponding keyboard shortcut."
+msgstr ""
+"folio属性窗口可以从 `菜单栏 <menu bar_>`_，`工作区 <workspace_>`_，`工具栏 <toolbar_>`_，`项目面板 "
+"<projects panel_>`_，`follios tabs bar <folios tabs bar_>`_ 显示，并使用相应的键盘快捷键。"
+
+#: ../../source/users/folio/properties/display.rst:22
+msgid "Display folio properties from menu bar"
+msgstr "从菜单栏显示光滑属性"
+
+#: ../../source/users/folio/properties/display.rst:24
+msgid ""
+"Select **Edit > Folio properties** menu item to display `folio properties`_ "
+"from the active `folio`_."
+msgstr ""
+"选择 **Edit > Folio 属性** 菜单项从活动 `folio <folio properties_>`_ 中显示 `图幅 "
+"<folio_>`_ 。"
+
+#: ../../source/users/folio/properties/display.rst:29
+msgid "Figure: QElectroTech Edit menu"
+msgstr "图：QElectroTech 编辑菜单"
+
+#: ../../source/users/folio/properties/display.rst:32
+msgid "Display folio properties from workspace"
+msgstr "从工作空间显示光圈属性"
+
+#: ../../source/users/folio/properties/display.rst:34
+msgid ""
+"Right click on the `workspace`_ area. Should be somewhere without any "
+"`element`_, `conductor`_, `table`_, etc."
+msgstr ""
+"右键点击 `工作区 <workspace_>`_ 区域。 应该在没有 `元件 <element_>`_，`导体 "
+"<conductor_>`_，`table <table_>`_ 等的地方 。"
+
+#: ../../source/users/folio/properties/display.rst:35
+msgid ""
+"Click the option **Folio properties** to display `folio properties`_ from "
+"the active `folio`_."
+msgstr ""
+"单击选项 **Folio 属性** 从活动 `folio <folio properties_>`_ 显示 `图幅 <folio_>`_ 。"
+
+#: ../../source/users/folio/properties/display.rst:40
+msgid "Figure: QElectroTech Workspace Menu"
+msgstr "图：QElectroTech 工作空间菜单"
+
+#: ../../source/users/folio/properties/display.rst:43
+msgid "Display folio properties from toolbar"
+msgstr "从工具栏显示软体属性"
+
+#: ../../source/users/folio/properties/display.rst:45
+msgid ""
+"Select the icon |dialog-information| from `toolbar`_ to display `folio "
+"properties`_ from the active `folio`_."
+msgstr ""
+"从 `工具栏 <toolbar_>`_ 中选择图标 |dialog-information| 以显示活动 `follio <folio "
+"properties_>`_ 中的 `图幅 <folio_>`_ 。"
+
+#: ../../source/users/folio/properties/display.rst:47
+msgid "dialog-information"
+msgstr "对话框信息"
+
+#: ../../source/users/folio/properties/display.rst:51
+msgid ""
+"If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
+"Display > Diagram**."
+msgstr "如果 `工具栏 <toolbar_>`_ 没有显示，可以从 **设置 > 显示 > 图表** 中显示。"
+
+#: ../../source/users/folio/properties/display.rst:54
+msgid "Display folio properties from projects panel"
+msgstr "从项目面板显示光滑属性"
+
+#: ../../source/users/folio/properties/display.rst:56
+msgid ""
+"Right click on the `folio`_ where any property should be defined, it can be "
+"an inactive `folio`_ from an inactive `project`_."
+msgstr ""
+"右键点击应当定义任何属性的 `图幅 <folio_>`_，它可以是非活动 `图幅 <folio_>`_ 从非活动 `项目 <project_>`_。"
+
+#: ../../source/users/folio/properties/display.rst:57
+msgid ""
+"Click the option **Folio properties** to display `folio properties`_ from "
+"the selected `folio`_."
+msgstr ""
+"单击选项 **Folio 属性** 从选中的 `folio <folio properties_>`_ 显示 `图幅 <folio_>`_ 。"
+
+#: ../../source/users/folio/properties/display.rst:62
+msgid "Figure: QElectroTech Project panel"
+msgstr "图：QElectroTech项目面板"
+
+#: ../../source/users/folio/properties/display.rst:66
+msgid ""
+"If the `projects panel`_ is not displayed, it can be displayed from "
+"**Settings > Display > Projects**"
+msgstr "如果 `项目面板 <projects panel_>`_ 没有显示，可以从 **设置 > 显示 > 项目** 显示"
+
+#: ../../source/users/folio/properties/display.rst:69
+msgid "Display folio properties from folios tabs bar"
+msgstr "从 folios 标签栏显示 folio 属性"
+
+#: ../../source/users/folio/properties/display.rst:71
+msgid "Double click on the `folio tab`_ to display `folio properties`_."
+msgstr "双击 `follio tab <folio tab_>`_ 显示 `follio 属性 <folio properties_>`_。"
+
+#: ../../source/users/folio/properties/display.rst:76
+msgid "Figure: QElectroTech folio tabs bar"
+msgstr "图：QElectroTech folio 标签栏"
+
+#: ../../source/users/folio/properties/display.rst:79
+msgid "Display folio properties using keyboard shortcut"
+msgstr "使用键盘快捷键显示软体属性"
+
+#: ../../source/users/folio/properties/display.rst:81
+msgid ""
+"QElectroTech allows using keyboard shortcut to increase the working "
+"efficiency."
+msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+
+#: ../../source/users/folio/properties/display.rst:83
+msgid ""
+"Press ``Ctrl + l`` to display `folio properties`_ from the active `folio`_."
+msgstr ""
+"按 ``Ctrl + l`` 显示 `follio 属性 <folio properties_>`_ 从活动 `图幅 <folio_>`_。"
+
+#: ../../source/users/folio/properties/display.rst:87
+msgid ""
+"For more information about QElectroTech keyboard shortcuts, refer to `menu "
+"bar`_ section."
+msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

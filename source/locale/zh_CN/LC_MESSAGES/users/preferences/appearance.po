@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/preferences/appearance.rst:5
+msgid "QElectroTech appearance"
+msgstr "电子技术外观"
+
+#: ../../source/users/preferences/appearance.rst:8
+msgid "Project visualization"
+msgstr "项目可视化"
+
+#: ../../source/users/preferences/appearance.rst:10
+msgid ""
+"The default project visualization option can be defined at the appearance "
+"settings from QElectroTech. Select between:"
+msgstr "在 QElectroTech 的外观设置中可以定义默认的项目可视化选项。请在："
+
+#: ../../source/users/preferences/appearance.rst:12
+msgid "Use windows"
+msgstr "使用窗口"
+
+#: ../../source/users/preferences/appearance.rst:13
+msgid "Use tabs"
+msgstr "使用标签"
+
+#: ../../source/users/preferences/appearance.rst:17
+msgid ""
+"The changes are applied at the next launch, quit and launch again "
+"QElectroTech or follow the procedure from `customize project "
+"visualization`_."
+msgstr ""
+"这些变化在下一次发射时应用，退出并再次发射QElectroTech或遵循 `定制项目可视化 <customize project "
+"visualization_>`_ 的程序。"
+
+#: ../../source/users/preferences/appearance.rst:22
+msgid "Figure: QElectroTech appearance settings"
+msgstr "图：QElectroTech 外观设置"

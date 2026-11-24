@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/preferences/display_settings.rst:5
+msgid "Display settings"
+msgstr "显示设置"
+
+#: ../../source/users/preferences/display_settings.rst:7
+msgid ""
+"QElectroTech allows the user customizing many settings: `language`_, "
+"`appearance`_, `export`_ and `printing`_ settings, pre-define `new project`_"
+" settings, `element`_ collection paths, etc."
+msgstr ""
+"QElectroTech允许用户自定义许多设置：`语言 <language_>`_，`外观 <appearance_>`_，`导出 "
+"<export_>`_ 和 `打印 <printing_>`_ 设置，预定义 `新项目 <new project_>`_ 设置，`元件 "
+"<element_>`_ 收藏路径等。"
+
+#: ../../source/users/preferences/display_settings.rst:10
+msgid "To display QElectroTech settings:"
+msgstr "要显示 QElectroTech 设置："
+
+#: ../../source/users/preferences/display_settings.rst:12
+msgid "Select **Settings > Configure QElectroTech** menu item."
+msgstr "选择 **设置 > 配置 QElectroTech** 菜单项。"
+
+#: ../../source/users/preferences/display_settings.rst:17
+msgid "Figure: QElectroTech settings menu"
+msgstr "图：QElectroTech 设置菜单"

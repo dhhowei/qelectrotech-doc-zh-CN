@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/title_block/properties/parent_collection.rst:5
+msgid "Title block parent collection"
+msgstr "图框父收藏"
+
+#: ../../source/users/folio/title_block/properties/parent_collection.rst:7
+msgid ""
+"The parent collection property from a `title block`_ defines the `title "
+"block collection`_ to which the `title block`_ belongs."
+msgstr ""
+"父收藏属性来自 `图框 <title block_>`_ 定义了 `图框 <title block collection_>`_ 所属的 `图框 "
+"<title block_>`_。"
+
+#: ../../source/users/folio/title_block/properties/parent_collection.rst:10
+msgid ""
+"This property defines the rights from the user to `edit the title block`_. A"
+" `title block`_ with `QET title block collection`_ as parent collection can "
+"only be read by the user. A `title block`_ with `user title block "
+"collection`_ or `project title block collection`_ as parent collection can "
+"be read and written (`edited`_) by the user."
+msgstr ""
+"此属性定义了用户对 `编辑图框 <edit the title block_>`_。A `图框 <title block_>`_ 与 `QET 图框收藏"
+" <QET title block collection_>`_ 作为父收藏只能由用户阅读。 A `图框 <title block_>`_ 与 "
+"`用户图框收藏 <user title block collection_>`_ 或 `项目图框集 <project title block "
+"collection_>`_ 作为父收藏可以读和写(`编辑 <edited_>`_) 由用户进行。"
+
+#: ../../source/users/folio/title_block/properties/parent_collection.rst:15
+msgid ""
+"The parent collection from a `title block`_ can be defined during the `save "
+"process`_."
+msgstr "从 `图框 <title block_>`_ 的母集可以在 `save process <save process_>`_ 中定义。"
+
+#: ../../source/users/folio/title_block/properties/parent_collection.rst:20
+msgid "Figure: QElectroTech title block save PopUP window"
+msgstr "图：QElectroTech 图框保存 PopUP 窗口"

@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/preferences/settings_printing.rst:5
+msgid "Printing settings"
+msgstr "打印设置"
+
+#: ../../source/users/preferences/settings_printing.rst:7
+msgid ""
+"QElectroTech allows predefining printing settings for reducing the working "
+"configuration effort each time that a `project`_ have to be printed."
+msgstr "QElectroTech允许每次需要打印一个 `项目 <project_>`_ 时，预先定义打印设置以减少工作配置工作。"
+
+#: ../../source/users/preferences/settings_printing.rst:10
+msgid "The default exporting settings which can be chosen are:"
+msgstr "可以选择的默认导出设置为："
+
+#: ../../source/users/preferences/settings_printing.rst:12
+msgid "Default rendering options:"
+msgstr "默认渲染选项："
+
+#: ../../source/users/preferences/settings_printing.rst:13
+msgid "Draw or not borders."
+msgstr "画不画边际。"
+
+#: ../../source/users/preferences/settings_printing.rst:14
+msgid "Title block."
+msgstr "图框。"
+
+#: ../../source/users/preferences/settings_printing.rst:15
+msgid "Draw grid."
+msgstr "绘制网格。"
+
+#: ../../source/users/preferences/settings_printing.rst:16
+msgid "Draw terminals."
+msgstr "绘制终端。"
+
+#: ../../source/users/preferences/settings_printing.rst:17
+msgid "Keep conductor colors or monochrome."
+msgstr "保持导体颜色或单色。"
+
+#: ../../source/users/preferences/settings_printing.rst:19
+msgid "To define default printing settings:"
+msgstr "要定义默认打印设置："
+
+#: ../../source/users/preferences/settings_printing.rst:21
+msgid "`Display`_ QElectroTech settings PopUP window."
+msgstr "`显示 <Display_>`_ QElectroTech设置 PopUP 窗口。"
+
+#: ../../source/users/preferences/settings_printing.rst:22
+msgid "Go to **Printing** section."
+msgstr "转到 **平分** 节。"
+
+#: ../../source/users/preferences/settings_printing.rst:23
+msgid "Select the desired setting values for each field."
+msgstr "选择每个字段想要的设置值。"
+
+#: ../../source/users/preferences/settings_printing.rst:24
+msgid "Press **OK** button to save the configuration changes."
+msgstr "按 **OK** 按钮保存配置更改。"
+
+#: ../../source/users/preferences/settings_printing.rst:29
+msgid "Figure: QElectroTech printing settings"
+msgstr "图：QElectroTech打印设置"
+
+#: ../../source/users/preferences/settings_printing.rst:33
+msgid ""
+"For more information about QElectroTech printing options, refer to "
+"`printing`_ section."
+msgstr "关于QElectroTech打印选项的更多信息，请参见 `打印 <printing_>`_ 部分。"

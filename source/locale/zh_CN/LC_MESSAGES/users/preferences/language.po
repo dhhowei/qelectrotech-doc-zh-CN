@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/preferences/language.rst:5
+msgid "Select language"
+msgstr "选择语言"
+
+#: ../../source/users/preferences/language.rst:7
+msgid ""
+"QElectroTech is a multilingual tool already translated to 21 languages."
+msgstr "QElectroTech是一个多语种工具，已经翻译成21种语言。"
+
+#: ../../source/users/preferences/language.rst:9
+msgid "To select the working language:"
+msgstr "选择工作语文："
+
+#: ../../source/users/preferences/language.rst:11
+msgid "`Display`_ QElectroTech settings PopUP window."
+msgstr "`显示 <Display_>`_ QElectroTech设置 PopUP 窗口。"
+
+#: ../../source/users/preferences/language.rst:12
+msgid "Go to **General** section."
+msgstr "至 **总** 节。"
+
+#: ../../source/users/preferences/language.rst:13
+msgid "Go to **Language** tab."
+msgstr "转到 **Language** 标签 。"
+
+#: ../../source/users/preferences/language.rst:14
+msgid "Spread out the combo box and select the desired language."
+msgstr "展开组合框并选择想要的语言。"
+
+#: ../../source/users/preferences/language.rst:15
+msgid ""
+"Press **OK** button to save the configuration changes and close settings "
+"PopUP window."
+msgstr "按 **OK** 按钮保存配置更改和关闭设置 PopUP 窗口。"
+
+#: ../../source/users/preferences/language.rst:19
+msgid ""
+"The changes are applied at the next launch, `quit`_ and `launch`_ again "
+"QElectroTech."
+msgstr "在下一次发射 `退出 <quit_>`_ 和 `发射 <launch_>`_ 再次使用QElectroTech."
+
+#: ../../source/users/preferences/language.rst:24
+msgid "Figure: QElectroTech configure language section"
+msgstr "图：QElectroTech 配置语言部分"

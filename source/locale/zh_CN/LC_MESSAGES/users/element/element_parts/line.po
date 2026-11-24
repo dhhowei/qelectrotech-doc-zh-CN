@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/element_parts/line.rst:5
+msgid "Line"
+msgstr "线条"
+
+#: ../../source/users/element/element_parts/line.rst:8
+msgid "Create line"
+msgstr "创建行"
+
+#: ../../source/users/element/element_parts/line.rst:10
+msgid "The line can only be added to `workspace`_ from `toolbar`_."
+msgstr "该行只能从 `工作区 <workspace_>`_ 添加到 `工具栏 <toolbar_>`_。"
+
+#: ../../source/users/element/element_parts/line.rst:12
+msgid "Select the icon |icon_line| from `toolbar`_ to add a line."
+msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |icon_line| 添加一行 。"
+
+#: ../../source/users/element/element_parts/line.rst:16
+msgid "icon_line"
+msgstr "图标( L)"
+
+#: ../../source/users/element/element_parts/line.rst:13
+msgid "Click on the initial point from the line in the `workspace`_."
+msgstr "点击 `工作区 <workspace_>`_ 中线的初始点。"
+
+#: ../../source/users/element/element_parts/line.rst:14
+msgid "Click on the end point from the line in the `workspace`_."
+msgstr "点击 `工作区 <workspace_>`_ 中线的终点。"
+
+#: ../../source/users/element/element_parts/line.rst:20
+msgid ""
+"If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
+"Display > Parts**."
+msgstr "如果 `工具栏 <toolbar_>`_ 不显示，可以从 **设置 > 显示 > 部件** 显示。"
+
+#: ../../source/users/element/element_parts/line.rst:23
+msgid "Line properties"
+msgstr "行属性"
+
+#: ../../source/users/element/element_parts/line.rst:25
+msgid ""
+"Element part properties can be displayed from `information panel`_ when the "
+"part is selected."
+msgstr "元素部分属性可以在选择该部分时从 `信息面板 <information panel_>`_ 显示。"
+
+#: ../../source/users/element/element_parts/line.rst:30
+msgid ""
+"If the `information panel`_ is not displayed, it can be displayed from "
+"**Settings > Display > Information**."
+msgstr "如果 `信息面板 <information panel_>`_ 未显示，可以从 **设置 > 显示 > 信息** 显示。"
+
+#: ../../source/users/element/element_parts/line.rst:35
+msgid "Figure: QElectroTech line from element"
+msgstr "图：来自元素的QElectroTech线"
+
+#: ../../source/users/element/element_parts/line.rst:37
+msgid "QElectroTech allows customizing different line properties:"
+msgstr "QElectroTech 允许自定义不同行属性："
+
+#: ../../source/users/element/element_parts/line.rst
+msgid "Appearance"
+msgstr "外观"
+
+#: ../../source/users/element/element_parts/line.rst
+msgid "Color"
+msgstr "颜色"
+
+#: ../../source/users/element/element_parts/line.rst:43
+msgid ""
+"The outline and filling color of the part can be defined from a list of pre-"
+"defined colors. At the case of the line part the filling color is **None**."
+msgstr "部分的轮廓和填充颜色可以从预定义的颜色列表中定义。在线条部分中，填充颜色是 **None** 。"
+
+#: ../../source/users/element/element_parts/line.rst
+msgid "Style"
+msgstr "样式"
+
+#: ../../source/users/element/element_parts/line.rst:48
+msgid ""
+"The outline representation type can be chosen between: Normal (Continuous), "
+"Dashed, Dotted or, Dots and dashes."
+msgstr "大纲表达式类型可以在：正常(持续), Dashed, Dotted 或，Dots 和 dustes 之间选择。"
+
+#: ../../source/users/element/element_parts/line.rst
+msgid "Thickness"
+msgstr "厚度"
+
+#: ../../source/users/element/element_parts/line.rst:53
+msgid ""
+"The outline thickness (Weight) can be chosen between: None, Thin, Normal, "
+"Strong or High."
+msgstr "轮廓厚度(重量)可以在：无，细，正常，强或高之间选择。"
+
+#: ../../source/users/element/element_parts/line.rst
+msgid "Geometry"
+msgstr "几何"
+
+#: ../../source/users/element/element_parts/line.rst
+msgid "Coordinates"
+msgstr "坐标"
+
+#: ../../source/users/element/element_parts/line.rst:60
+msgid "The start and end point coordinates (x, y) can be defined."
+msgstr "起点和终点坐标(x,y)可以定义。"
+
+#: ../../source/users/element/element_parts/line.rst
+msgid "End point"
+msgstr "终点"
+
+#: ../../source/users/element/element_parts/line.rst:64
+msgid "The extreme point from the line can be represented individually as:"
+msgstr "该线的极端点可以分别表示为："
+
+#: ../../source/users/element/element_parts/line.rst
+msgid "Normal"
+msgstr "常规"
+
+#: ../../source/users/element/element_parts/line.rst:67
+msgid ""
+"The extreme point is represented as the rest of the line, there is no "
+"different representation for the end point."
+msgstr "极点作为线的其余部分表示，终点没有不同的表示。"
+
+#: ../../source/users/element/element_parts/line.rst
+msgid "Simple arrow"
+msgstr "简单箭头"
+
+#: ../../source/users/element/element_parts/line.rst:70
+msgid "The extreme point is represented as a filled arrow."
+msgstr "极点表示为填充箭头。"
+
+#: ../../source/users/element/element_parts/line.rst
+msgid "Triangle arrow"
+msgstr "三角箭头"
+
+#: ../../source/users/element/element_parts/line.rst:72
+msgid "The extreme point is represented as an empty triangle arrow."
+msgstr "极点表示为空三角箭头。"
+
+#: ../../source/users/element/element_parts/line.rst
+msgid "Circle"
+msgstr "圆形"
+
+#: ../../source/users/element/element_parts/line.rst:74
+msgid "The extreme point is represented as an empty circle."
+msgstr "极点表示为空圆。"
+
+#: ../../source/users/element/element_parts/line.rst
+msgid "Diamond"
+msgstr "钻石"
+
+#: ../../source/users/element/element_parts/line.rst:76
+msgid "The extreme point is represented as an empty diamond."
+msgstr "极点代表为空方块。"

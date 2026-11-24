@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/preferences/new_project/conductor_settings.rst:5
+msgid "Conductor settings"
+msgstr "导师设置"
+
+#: ../../source/users/preferences/new_project/conductor_settings.rst:7
+msgid ""
+"QElectroTech provides the option to storage at the Data from the application"
+" some `project properties`_ pre-defined by the user. This feature allows the"
+" user avoiding to define many `project properties`_ each time that the user "
+"`creates new projects`_."
+msgstr ""
+"QElectroTech 从应用程序中提供了从数据中存储一些 `项目属性 <project properties_>`_ "
+"由用户预先定义的选项。该特性允许用户每次在用户 `创建新项目 <project properties_>`_ 时避免定义许多 `项目属性 "
+"<creates new projects_>`_ 。"
+
+#: ../../source/users/preferences/new_project/conductor_settings.rst:11
+msgid ""
+"The **Conductor** tab from **New project** settings section allows pre-"
+"defining some `conductor properties`_:"
+msgstr "**生成器** 选项卡来自 **新项目** 设置部分允许预定义一些 `导体属性 <conductor properties_>`_ :"
+
+#: ../../source/users/preferences/new_project/conductor_settings.rst:13
+msgid "`Conductor type`_ (`Multiline`_ or `Single line`_)."
+msgstr ""
+"`导体类型 <Conductor type_>`_ (`多线 <Multiline_>`_ 或 `单行 <Single line_>`_)."
+
+#: ../../source/users/preferences/new_project/conductor_settings.rst:14
+msgid "`Conductor appearance`_."
+msgstr "`制片人外观 <Conductor appearance_>`_。"
+
+#: ../../source/users/preferences/new_project/conductor_settings.rst:19
+msgid "Figure: QElectroTech New project conductor settings"
+msgstr "图：QElectroTech 新项目导电器设置"
+
+#: ../../source/users/preferences/new_project/conductor_settings.rst:21
+msgid "To define conductor settings:"
+msgstr "要定义导师设置："
+
+#: ../../source/users/preferences/new_project/conductor_settings.rst:23
+msgid "`Display`_ QElectroTech settings PopUP window."
+msgstr "`显示 <Display_>`_ QElectroTech设置 PopUP 窗口。"
+
+#: ../../source/users/preferences/new_project/conductor_settings.rst:24
+msgid "Go to **New project** section."
+msgstr "转到 **新项目** 部分。"
+
+#: ../../source/users/preferences/new_project/conductor_settings.rst:25
+msgid "Go to **Conductor** tab."
+msgstr "转到 **制片人** 标签 。"
+
+#: ../../source/users/preferences/new_project/conductor_settings.rst:26
+msgid "Define the desired parameters for each field."
+msgstr "定义每个字段的理想参数。"
+
+#: ../../source/users/preferences/new_project/conductor_settings.rst:27
+msgid ""
+"Press **OK** button to save the configuration changes and close settings "
+"PopUP window."
+msgstr "按 **OK** 按钮保存配置更改和关闭设置 PopUP 窗口。"
+
+#: ../../source/users/preferences/new_project/conductor_settings.rst:31
+msgid ""
+"All pre-defined conductor properties defined at QElectroTech settings PopUP "
+"window will be automatically defined during `project creation`_ at `project "
+"properties`_. The `conductor properties`_ can be found at `Conductor tab`_ "
+"from `New folio`_ section."
+msgstr ""
+"在 QElectroTech 设置 PopUP 窗口中定义的所有预定义导体属性将在 `项目创建 <project creation_>`_ 项目属性 "
+"`项目属性 <project properties_>`_ 中自动定义。`导体属性 <conductor properties_>`_ 可以在 "
+"`Conductor tab <Conductor tab_>`_ 从 `New folio <New folio_>`_ 部分找到。"

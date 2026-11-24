@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/interface/panels/projects_panel.rst:7
+msgid "Projects panel"
+msgstr "项目小组"
+
+#: ../../source/users/interface/panels/projects_panel.rst:9
+msgid ""
+"The projects panel displays the opened projects trees, `folios`_ and "
+"`embedded title blocks`_. The `QET`_ and `user`_ collection title blocks are"
+" also displayed at the projects panel."
+msgstr ""
+"项目面板显示打开的项目树，`图幅 <folios_>`_ 和 `嵌入式图框 <embedded title blocks_>`_。`QET "
+"<QET_>`_ 和 `用户 <user_>`_ 收藏图框也在项目面板上显示。"
+
+#: ../../source/users/interface/panels/projects_panel.rst:15
+msgid "Figure: QElectroTech Projects panel"
+msgstr "图：QElectroTech项目面板"
+
+#: ../../source/users/interface/panels/projects_panel.rst:17
+msgid "To display or hidden the projects panel:"
+msgstr "要显示或隐藏项目面板："
+
+#: ../../source/users/interface/panels/projects_panel.rst:19
+msgid "Select **Settings > Display > Projects** menu item."
+msgstr "选择 **设置 > 显示 > 项目** 菜单项。"
+
+#: ../../source/users/interface/panels/projects_panel.rst:21
+msgid "The tasks which can be done from projects panels are:"
+msgstr "项目小组可以完成的任务有："
+
+#: ../../source/users/interface/panels/projects_panel.rst:23
+msgid ""
+"Manage `folios`_ (Add folios, define folio order at each project, etc.)."
+msgstr "管理 `图幅 <folios_>`_ (添加folios,定义每个项目的folio顺序等)."
+
+#: ../../source/users/interface/panels/projects_panel.rst:24
+msgid "Manage the `embedded title blocks`_ from the project."
+msgstr "管理来自项目的 `嵌入式图框 <embedded title blocks_>`_ 。"
+
+#: ../../source/users/interface/panels/projects_panel.rst:25
+msgid "Manage the default `QET`_ title block collection."
+msgstr "管理默认 `QET <QET_>`_ 图框收藏 。"
+
+#: ../../source/users/interface/panels/projects_panel.rst:26
+msgid "Manage the `user`_ title block collection."
+msgstr "管理 `用户 <user_>`_ 图框集 。"
+
+#: ../../source/users/interface/panels/projects_panel.rst:27
+msgid "Define the active project."
+msgstr "定义活动项目 。"
+
+#: ../../source/users/interface/panels/projects_panel.rst:28
+msgid "Define the active folio which should be displayed at the `workspace`_."
+msgstr "定义在 `工作区 <workspace_>`_ 显示的主动光圈 。"
+
+#: ../../source/users/interface/panels/projects_panel.rst:29
+msgid "Display the folio properties PopUp window."
+msgstr "显示 Folio 属性弹出窗口 。"
+
+#: ../../source/users/interface/panels/projects_panel.rst:30
+msgid "Display the project properties PopUp window."
+msgstr "显示项目属性弹出窗口 。"
+
+#: ../../source/users/interface/panels/projects_panel.rst:32
+msgid ""
+"To make easier the work with the project panel, QElectroTech provides a "
+"filter. All `folios`_, `projects`_ and `title blocks`_ without a name or "
+"part of a string can be hidden."
+msgstr ""
+"为方便与项目面板的工作，QElectroTech提供了一个过滤器。所有 `图幅 <folios_>`_，`项目 <projects_>`_ 和 `图框 "
+"<title blocks_>`_ 没有名称或部分字符串都可以隐藏。"

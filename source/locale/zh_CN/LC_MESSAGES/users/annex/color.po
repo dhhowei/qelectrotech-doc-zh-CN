@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/annex/color.rst:7
+msgid "Color selection"
+msgstr "颜色选择"
+
+#: ../../source/users/annex/color.rst:10
+msgid "Basic color"
+msgstr "基本颜色"
+
+#: ../../source/users/annex/color.rst:12
+msgid ""
+"QElectroTech provides a **Select color** PopUp window with some basic "
+"colors."
+msgstr "QElectroTech 提供了 **选择颜色** 弹出窗口带有一些基本颜色。"
+
+#: ../../source/users/annex/color.rst:16
+msgid "To select a color:"
+msgstr "选择颜色："
+
+#: ../../source/users/annex/color.rst:18
+msgid "Click on the desired color."
+msgstr "点击想要的颜色 。"
+
+#: ../../source/users/annex/color.rst:19
+msgid "Press **Select** button."
+msgstr "按 **选择** 按钮。"
+
+#: ../../source/users/annex/color.rst:21
+msgid ""
+"The **Select color** PopUp window is also provided with a custom section "
+"where the colors defined in the past are stored."
+msgstr "**选择颜色** 弹出窗口还提供自定义区域，用于存储过去定义的颜色。"
+
+#: ../../source/users/annex/color.rst:24
+msgid "Custom color"
+msgstr "自定义颜色"
+
+#: ../../source/users/annex/color.rst:26
+msgid "QElectroTech allows customizing colors by defining the HTML code."
+msgstr "QElectroTech允许通过定义HTML代码来自定义颜色。"
+
+#: ../../source/users/annex/color.rst:28
+msgid "To define a custom color:"
+msgstr "要定义自定义颜色："
+
+#: ../../source/users/annex/color.rst:30
+msgid ""
+"Press the button + from the custom color section of the **Select color** "
+"PopUp window."
+msgstr "从 **的自定义颜色区域按下按钮 + 选择颜色** 弹出窗口 。"
+
+#: ../../source/users/annex/color.rst:31
+msgid "Define the HTML code of the desired color in the text box."
+msgstr "定义文本框中想要的颜色的 HTML 代码。"
+
+#: ../../source/users/annex/color.rst:36
+msgid "Figure: QElectroTech custom color selection window"
+msgstr "图：QElectroTech 自定义颜色选择窗口"
+
+#: ../../source/users/annex/color.rst:38
+msgid ""
+"Press **Select** button to add the new color to the custom section of the  "
+"**Select color** PopUp window."
+msgstr "按 **选择** 按钮将新颜色添加到 **的自定义区域中，选择颜色** 弹出窗口。"
+
+#: ../../source/users/annex/color.rst:42
+msgid "The custom color can also be defined visually:"
+msgstr "自定义颜色也可以在视觉上定义："
+
+#: ../../source/users/annex/color.rst:44
+msgid "The color scale can be defined by the scrollbar placed at left side."
+msgstr "颜色尺度可以通过放置在左侧的滚动条来定义。"
+
+#: ../../source/users/annex/color.rst:45
+msgid "The grays scale can be defined by a cursor click on the color scale."
+msgstr "灰色尺度可以通过光标点击颜色尺度来定义。"
+
+#: ../../source/users/annex/color.rst:49
+msgid ""
+"For more information about HTML color code, refer to online resources as:"
+msgstr "关于HTML色彩代码的更多信息，请参考在线资源如下："
+
+#: ../../source/users/annex/color.rst:51
+msgid "https://htmlcolorcodes.com/"
+msgstr "https://htmlcolorcodes.com/"

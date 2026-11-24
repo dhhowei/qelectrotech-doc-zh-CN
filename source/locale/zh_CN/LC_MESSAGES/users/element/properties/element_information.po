@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/properties/element_information.rst:5
+msgid "Element information"
+msgstr "元素信息"
+
+#: ../../source/users/element/properties/element_information.rst:7
+msgid ""
+"The element information section provides all information from the `element`_"
+" which can be exported to the `Bill of Materials (BOM)`_. At this section "
+"the available information is:"
+msgstr ""
+"要素信息部分提供 `元件 <element_>`_ 的所有信息，这些信息可以出口到 `材料清单 <Bill of Materials "
+"(BOM)_>`_。"
+
+#: ../../source/users/element/properties/element_information.rst:9
+msgid "Element label"
+msgstr "元素标签"
+
+#: ../../source/users/element/properties/element_information.rst:10
+msgid "Element location in the system"
+msgstr "系统中的要素位置"
+
+#: ../../source/users/element/properties/element_information.rst:11
+msgid "Element article number"
+msgstr "元素条号"
+
+#: ../../source/users/element/properties/element_information.rst:12
+msgid "Element manufacturer"
+msgstr "元素制造商"
+
+#: ../../source/users/element/properties/element_information.rst:13
+msgid "Element supplier"
+msgstr "元素供应商"
+
+#: ../../source/users/element/properties/element_information.rst:14
+msgid "Etc."
+msgstr "Etc (英语)."
+
+#: ../../source/users/element/properties/element_information.rst:18
+msgid ""
+"The element information section is only available for `simple`_, `master`_ "
+"or `terminal block`_ `elements`_."
+msgstr ""
+"元素信息部分仅供 `简单 <simple_>`_，`师傅 <master_>`_ 或 `端子排 <terminal block_>`_ `元件 "
+"<elements_>`_。"
+
+#: ../../source/users/element/properties/element_information.rst:23
+msgid "Figure: QElectroTech information element properties"
+msgstr "图：QElectroTech信息元素属性"

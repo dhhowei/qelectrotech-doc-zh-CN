@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/title_block/title_block_editor/interface/panels/properties.rst:5
+msgid "Cell properties panel"
+msgstr "单元格属性面板"
+
+#: ../../source/users/folio/title_block/title_block_editor/interface/panels/properties.rst:7
+msgid ""
+"The Cell properties panel displays the properties from the selected `cell`_."
+msgstr "单元格属性面板显示所选 `单元格 <cell_>`_ 的属性。"
+
+#: ../../source/users/folio/title_block/title_block_editor/interface/panels/properties.rst:12
+msgid "Figure: QElectroTech Cell properties panel"
+msgstr "图：QElectroTech 单元格属性面板"
+
+#: ../../source/users/folio/title_block/title_block_editor/interface/panels/properties.rst:14
+msgid "To display the Cell properties panel:"
+msgstr "要显示单元格属性面板："
+
+#: ../../source/users/folio/title_block/title_block_editor/interface/panels/properties.rst:16
+msgid ""
+"Select **Settings > display > Cell properties** menu item to display Cell "
+"properties panel."
+msgstr "选择 **设置 > 显示 > 单元格属性** 菜单项以显示单元格属性面板 。"

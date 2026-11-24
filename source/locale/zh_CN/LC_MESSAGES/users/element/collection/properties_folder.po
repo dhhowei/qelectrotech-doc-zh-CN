@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/collection/properties_folder.rst:5
+msgid "Folder properties"
+msgstr "文件夹属性"
+
+#: ../../source/users/element/collection/properties_folder.rst:7
+msgid ""
+"A QElectroTech folder and category are the same. The properties from a "
+"folder are:"
+msgstr "一个 QElectroTech 文件夹和类相同。 文件夹中的属性为："
+
+#: ../../source/users/element/collection/properties_folder.rst:9
+msgid "Number of elements in the folder."
+msgstr "文件夹中的元素数量 。"
+
+#: ../../source/users/element/collection/properties_folder.rst:10
+msgid "Number of sub-folders (sub-categories) in the folder."
+msgstr "文件夹中的子文件夹( 子类) 数量 。"
+
+#: ../../source/users/element/collection/properties_folder.rst:11
+msgid "Internal QElectroTech collection path from the folder."
+msgstr "文件夹中的 QElectroTech 内部收藏路径 。"
+
+#: ../../source/users/element/collection/properties_folder.rst:12
+msgid "File system path from the folder."
+msgstr "文件夹中的文件系统路径 。"
+
+#: ../../source/users/element/collection/properties_folder.rst:14
+msgid "Working with collections can only be done from `collections panel`_."
+msgstr "只能从 `收集面板 <collections panel_>`_ 中进行收藏工作。"
+
+#: ../../source/users/element/collection/properties_folder.rst:18
+msgid ""
+"Select **Settings > Display > Collections** menu item to display the "
+"`collections panel`_."
+msgstr "选择 **设置 > 显示 > 收藏** 菜单项以显示 `收藏面板 <collections panel_>`_ 。"
+
+#: ../../source/users/element/collection/properties_folder.rst:20
+msgid ""
+"Right click on the category (folder) from the collection whose properties "
+"should be displayed."
+msgstr "右键单击收藏中应当显示其属性的类别(文件夹)。"
+
+#: ../../source/users/element/collection/properties_folder.rst:25
+msgid "Figure: Options at folder"
+msgstr "图：文件夹中的选项"
+
+#: ../../source/users/element/collection/properties_folder.rst:27
+msgid ""
+"Click the option **Folder properties** to display the PopUp window which "
+"shows the folder properties."
+msgstr "单击选项 **Folder 属性** 显示显示文件夹属性的 PopUp 窗口 。"
+
+#: ../../source/users/element/collection/properties_folder.rst:32
+msgid "Figure: Folder properties PopUp window"
+msgstr "图：文件夹属性弹出窗口"

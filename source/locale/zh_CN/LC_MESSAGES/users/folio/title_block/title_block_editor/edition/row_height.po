@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/title_block/title_block_editor/edition/row_height.rst:5
+msgid "Row height definition"
+msgstr "行高度定义"
+
+#: ../../source/users/folio/title_block/title_block_editor/edition/row_height.rst:7
+msgid ""
+"The height from a `row`_ can only be defined from row head, the left cell "
+"which is given the height value from the corresponding `row`_ . The head "
+"from the `row`_ is not displayed at `folio`_, it is only displayed at `title"
+" block editor`_."
+msgstr ""
+"从 `row <row_>`_ 的高度只能从行头来定义，从相应的 `row <row_>`_ 得到高度值的左单元格。 `row <row_>`_ "
+"的高度不显示在 `图幅 <folio_>`_ 上，它只显示在 `图框编辑器 <title block editor_>`_ 上。"
+
+#: ../../source/users/folio/title_block/title_block_editor/edition/row_height.rst:14
+msgid "Figure: QElectroTech Title block"
+msgstr "图：QElectroTech 图框"
+
+#: ../../source/users/folio/title_block/title_block_editor/edition/row_height.rst:17
+msgid "Double click on row head to display the row height PopUp window."
+msgstr "双击行头显示行高度弹出窗口 。"
+
+#: ../../source/users/folio/title_block/title_block_editor/edition/row_height.rst:22
+msgid "Figure: QElectroTech Title block row height PopUP window"
+msgstr "图：QElectroTech 标题行块高度 PopUP 窗口"
+
+#: ../../source/users/folio/title_block/title_block_editor/edition/row_height.rst:25
+msgid "Define the height value in pixels."
+msgstr "以像素定义高度值。"
+
+#: ../../source/users/folio/title_block/title_block_editor/edition/row_height.rst:27
+msgid "Press **OK**."
+msgstr "按 **OK**."

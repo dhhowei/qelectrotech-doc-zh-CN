@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/conductor/properties/conductor_appearance.rst:7
+msgid "Conductor appearance"
+msgstr "指挥"
+
+#: ../../source/users/conductor/properties/conductor_appearance.rst:9
+msgid ""
+"The color, type and width from the line of the schema that represents the "
+"conductor can be defined. A line can have a main color and, if desired, a "
+"secondary color."
+msgstr "代表导线的图案线的颜色，类型和宽度可以定义。一条线可以有主色，如果需要，也可以有次色。"
+
+#: ../../source/users/conductor/properties/conductor_appearance.rst:14
+msgid ""
+"The secondary line is used when a dashes line with double color is desired."
+msgstr "当需要双色的破折线时使用副线。"
+
+#: ../../source/users/conductor/properties/conductor_appearance.rst:19
+msgid "Figure: Conductor with red secondary color"
+msgstr "图：红色二次颜色的导师"
+
+#: ../../source/users/conductor/properties/conductor_appearance.rst:24
+msgid "Figure: Multiline conductor appearance"
+msgstr "图：多线导体外观"
+
+#: ../../source/users/conductor/properties/conductor_appearance.rst:26
+msgid ""
+"The different types of lines are: **Solid**, **Dashed** and **Dots and "
+"dashes**."
+msgstr "不同类型的线条有：**索利德**,**达谢德** 和 **多茨和破折号**."
+
+#: ../../source/users/conductor/properties/conductor_appearance.rst:27
+msgid "The possible colors are defined by the `RGB scale range`_."
+msgstr "可能的颜色由 `RGB比例范围 <RGB scale range_>`_ 定义。"
+
+#: ../../source/users/conductor/properties/conductor_appearance.rst:28
+msgid ""
+"The possible line thickness are between 0.4 and 10 mm (0.4, 0.6, 0.8, 1.0, "
+"1.2, 1.4, 1.6, ... , 10)."
+msgstr "可能的线厚度在0.4至10毫米(0.4,0.6,0.8,1.0,1.2,1.4,1.6,.,10)之间。"
+
+#: ../../source/users/conductor/properties/conductor_appearance.rst:32
+msgid ""
+"QElectroTech provides the option to pre-define the appearance of conductor "
+"before starting to draw conductors at the folio. This feature increase the "
+"working efficiency and avoid defining the appearance conductor by conductors"
+" after their creation."
+msgstr "QElectroTech 提供了在folio开始绘制导师前预先定义导师外观的选项，这个特性提高了工作效率，避免在创建后由导师定义外观导师。"
+
+#: ../../source/users/conductor/properties/conductor_appearance.rst:36
+msgid ""
+"For more information about appearance pre-definition, refer to `folio "
+"properties`_ section."
+msgstr "关于外观前定义的更多信息，请参见 `follio属性 <folio properties_>`_ 节。"

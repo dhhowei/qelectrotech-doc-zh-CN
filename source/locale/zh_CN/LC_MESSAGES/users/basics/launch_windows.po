@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/basics/launch_windows.rst:6
+msgid "Launch QElectroTech on Windows"
+msgstr "在 Windows 上启动 QElectroTech"
+
+#: ../../source/users/basics/launch_windows.rst:8
+msgid ""
+"After installation, QElectroTech can be launched from Windows Start Menu. If"
+" the shortcut icon has been created at the desktop during installation, "
+"QElectroTech can also be launched from that icon."
+msgstr ""
+"安装后，QElectroTech可以从Windows Start "
+"Menu中启动。如果安装期间在桌面上创建了快捷图标，QEctroTech也可以从该图标中启动。"
+
+#: ../../source/users/basics/launch_windows.rst:10
+msgid "Click the Windows **[Start]** button."
+msgstr "点击 Windows **[开始** 按钮。"
+
+#: ../../source/users/basics/launch_windows.rst:11
+msgid "Select **All Programs**."
+msgstr "选择 **所有程序** 。"
+
+#: ../../source/users/basics/launch_windows.rst:12
+msgid "Open **QElectroTech** program group."
+msgstr "打开 **QElectroTech** 程序组。"
+
+#: ../../source/users/basics/launch_windows.rst:13
+msgid "Click QElectroTech icon."
+msgstr "点击 QElectroTech 图标。"
+
+#: ../../source/users/basics/launch_windows.rst:19
+msgid "Figure: Splash screen"
+msgstr "图：溅射屏幕"
+
+#: ../../source/users/basics/launch_windows.rst:21
+msgid "Once QElectroTech has been launched, the main window looks as follow:"
+msgstr "QElectroTech推出后，主窗口看起来如下："
+
+#: ../../source/users/basics/launch_windows.rst:27
+msgid "Figure: Main window QElectroTech"
+msgstr "图：主窗口 QElectroTech"

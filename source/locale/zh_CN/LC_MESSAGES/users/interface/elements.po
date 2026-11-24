@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/interface/elements.rst:15
+msgid "Interface elements"
+msgstr "界面元素"
+
+#: ../../source/users/interface/elements.rst:17
+msgid ""
+"QElectroTech has been designed using `Qt`_ framework and widget toolkit. The"
+" main window from QElectroTech is the same for all platforms where it is "
+"available (Windows, Linux/Unix and MacOS). The main window from QElectroTech"
+" contains the following areas:"
+msgstr ""
+"QElectroTech的设计采用了 `Qt <Qt_>`_ "
+"框架和部件工具包。QEctroTech的主窗口对于所有可用的平台(Windows,Linux/Unix和MacOS)来说都是相同的。QEctroTech的主窗口包含以下领域：."
+
+#: ../../source/users/interface/elements.rst:19
+msgid ":greentext:`Menu bar`"
+msgstr ":greentext:`菜单栏`"
+
+#: ../../source/users/interface/elements.rst:20
+msgid ":bluetext:`Toolbars`"
+msgstr ":bluetext:`工具栏`"
+
+#: ../../source/users/interface/elements.rst:21
+msgid ":yellowtext:`Workspace`"
+msgstr ":yellowtext:`工作空间`"
+
+#: ../../source/users/interface/elements.rst:22
+msgid ":orangetext:`Panels`"
+msgstr ":orangetext:`小组`"
+
+#: ../../source/users/interface/elements.rst:23
+msgid ":redtext:`Project tabs bar`"
+msgstr ":redtext:`项目标签栏`"
+
+#: ../../source/users/interface/elements.rst:24
+msgid ":lilactext:`Folio tabs bar`"
+msgstr ":lilactext:`Folio 标签栏`"
+
+#: ../../source/users/interface/elements.rst:25
+msgid ":browntext:`Help bar`"
+msgstr ":browntext:`帮助栏`"
+
+#: ../../source/users/interface/elements.rst:26
+msgid ":pinktext:`Search Menu`"
+msgstr ":pinktext:`搜索菜单`"
+
+#: ../../source/users/interface/elements.rst:31
+msgid "Figure: QElectroTech main window"
+msgstr "图：QElectroTech主窗口"

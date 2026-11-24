@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/element_editor/editor_open.rst:5
+msgid "Open element editor"
+msgstr "打开元素编辑器"
+
+#: ../../source/users/element/element_editor/editor_open.rst:7
+msgid ""
+"QElectroTech allows displaying the element editor PopUp window by creating a"
+" new element or by editing an existing element."
+msgstr "QElectroTech允许通过创建新元素或编辑已有元素来显示元素编辑器PopUp窗口。"
+
+#: ../../source/users/element/element_editor/editor_open.rst:11
+msgid "Creating a new element"
+msgstr "创建新元素"
+
+#: ../../source/users/element/element_editor/editor_open.rst:13
+msgid ""
+"Refers to the section **link** for opening the element editor by creating a "
+"new element from the project panel."
+msgstr "指通过从项目面板中创建新元素来打开元素编辑器的 **链接** 节。"
+
+#: ../../source/users/element/element_editor/editor_open.rst:16
+msgid "Editing an element"
+msgstr "编辑元素"
+
+#: ../../source/users/element/element_editor/editor_open.rst:18
+msgid ""
+"Refers to the section **Link** for opening the element editor by editing an "
+"element from collection."
+msgstr "参考 **Link** 节，通过编辑集合中的元素来打开元素编辑器。"
+
+#: ../../source/users/element/element_editor/editor_open.rst:19
+msgid ""
+"Refers to section **Link** for opening the element editor by editing an "
+"element from the workspace."
+msgstr "参考 **Link** 节，通过编辑工作空间中的元素打开元素编辑器。"

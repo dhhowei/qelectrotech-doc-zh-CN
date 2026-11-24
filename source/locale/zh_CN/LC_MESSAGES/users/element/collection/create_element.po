@@ -1,0 +1,164 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/collection/create_element.rst:5
+msgid "Create element"
+msgstr "创建元素"
+
+#: ../../source/users/element/collection/create_element.rst:7
+msgid ""
+"Working with collections can only be done from the collections panel. Before"
+" starting to work with collections, the collections panel has to be "
+"displayed."
+msgstr "合作收藏只能从收藏面板上完成，在开始合作收藏之前，必须展示收藏面板。"
+
+#: ../../source/users/element/collection/create_element.rst:12
+msgid ""
+"Select **Settings > Display > Collections** menu item to display the "
+"Collections panel."
+msgstr "选择 **设置 > 显示 > 收藏** 菜单项以显示收藏面板。"
+
+#: ../../source/users/element/collection/create_element.rst:14
+msgid ""
+"QElectroTech allows creating element at some collection. The user has only "
+"read rights at QET element collection, the user can create element at all "
+"collections except QET collection."
+msgstr "QElectroTech允许在某些收藏中创建元素。用户只在QET元素收藏中拥有阅读权限，用户可以在除QET收藏外的所有收藏中创建元素。"
+
+#: ../../source/users/element/collection/create_element.rst:17
+msgid ""
+"There is two different ways to create a new element at the user collection. "
+"A new element can be created from cero or from an already existing element "
+"from the QET or user collection."
+msgstr "在用户收藏中创建新元素有两种不同的方式。可以从 cero 或从 QET 或用户收藏中已经存在的元素中创建新元素 。"
+
+#: ../../source/users/element/collection/create_element.rst:21
+msgid "Create element from cero"
+msgstr "从 cero 创建元素"
+
+#: ../../source/users/element/collection/create_element.rst:23
+msgid ""
+"Right click on the user collection or at the category / sub-category from "
+"the collection where the new element should be added."
+msgstr "右键单击用户收藏或从收藏中添加新元素的类别/子类别。"
+
+#: ../../source/users/element/collection/create_element.rst:28
+msgid "Figure: Options at folder"
+msgstr "图：文件夹中的选项"
+
+#: ../../source/users/element/collection/create_element.rst:30
+msgid "Click the option **New element** to start the element creation."
+msgstr "点击选项 **新元素** 启动元素创建 。"
+
+#: ../../source/users/element/collection/create_element.rst:31
+msgid "Confirm or change the category from the element."
+msgstr "确认或更改元素中的类别。"
+
+#: ../../source/users/element/collection/create_element.rst:36
+msgid "Figure: Category election PopUp window"
+msgstr "图：选举类别"
+
+#: ../../source/users/element/collection/create_element.rst:39
+msgid "Define the element file name."
+msgstr "定义元素文件名 。"
+
+#: ../../source/users/element/collection/create_element.rst:44
+msgid "Figure: File name definition PopUp window"
+msgstr "图：文件名定义 PopUp 窗口"
+
+#: ../../source/users/element/collection/create_element.rst:46
+msgid ""
+"Define the element name for the collection and project tree. It can be "
+"defined in many languages."
+msgstr "定义收藏和项目树的元素名称。它可以用多种语言定义 。"
+
+#: ../../source/users/element/collection/create_element.rst:51
+msgid "Figure: Element name definition PopUp window"
+msgstr "图：元素名称定义弹出窗口"
+
+#: ../../source/users/element/collection/create_element.rst:55
+msgid ""
+"QElectroTech works according `ISO 639-1`_ norm. The element name language is"
+" defined using 2 letter code which should be used at the language column "
+"from the folder internal name table."
+msgstr ""
+"QElectroTech 工作符合 `ISO 639-1 <ISO 639-1_>`_ 规范。 "
+"元素名称语言的定义使用两个字母代码，应在文件夹内部名称表的语言栏中使用。"
+
+#: ../../source/users/element/collection/create_element.rst:60
+msgid ""
+"Once the element editor PopUp window is opened, design the symbol element "
+"and define the properties."
+msgstr "元素编辑器PopUp窗口打开后，设计符号元素并定义属性。"
+
+#: ../../source/users/element/collection/create_element.rst:61
+msgid "Save the element and it will appear at the collection."
+msgstr "保存元素并会在收藏中显示 。"
+
+#: ../../source/users/element/collection/create_element.rst:65
+msgid ""
+"For more information about the element editor, refer to `Element editor "
+"<../../../en/element/elementeditor/index.html>`_ section."
+msgstr ""
+"关于元素编辑器的更多信息，请参见： `元素编辑器 <../../../en/element/elementeditor/index.html>`_ 节。"
+
+#: ../../source/users/element/collection/create_element.rst:68
+msgid "Create an element from an existing element"
+msgstr "从现有元素创建元素"
+
+#: ../../source/users/element/collection/create_element.rst:70
+msgid ""
+"Right click on the element which will be used as base for the new element."
+msgstr "右键单击将用作新元素基础的元素。"
+
+#: ../../source/users/element/collection/create_element.rst:75
+msgid "Figure: Options at element"
+msgstr "图：元素的选项"
+
+#: ../../source/users/element/collection/create_element.rst:77
+msgid ""
+"Click the option **Edit element** to open the element at the element editor."
+msgstr "单击选项 **Edit 元素** 在元素编辑器上打开元素。"
+
+#: ../../source/users/element/collection/create_element.rst:78
+msgid "Select **File > Save as** menu item to open the save window."
+msgstr "选择 **文件 > 另存为** 菜单项以打开保存窗口 。"
+
+#: ../../source/users/element/collection/create_element.rst:83
+msgid "Figure: Element editor File menu"
+msgstr "图：元素编辑器文件菜单"
+
+#: ../../source/users/element/collection/create_element.rst:85
+msgid "Choose the element category at the collection tree."
+msgstr "选择收藏树上的元素类别。"
+
+#: ../../source/users/element/collection/create_element.rst:86
+msgid "Define the file name for the element."
+msgstr "定义元素的文件名称 。"
+
+#: ../../source/users/element/collection/create_element.rst:87
+msgid "Press the button **Save**."
+msgstr "按下按钮 **保存**."
+
+#: ../../source/users/element/collection/create_element.rst:92
+msgid "Figure: Element editor Save as PopUp window"
+msgstr "图：元素编辑器另存为弹出窗口"

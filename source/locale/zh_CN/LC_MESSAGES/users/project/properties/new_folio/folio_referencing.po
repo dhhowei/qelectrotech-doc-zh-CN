@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/project/properties/new_folio/folio_referencing.rst:5
+msgid "Folio referencing properties"
+msgstr "Folio 引用属性"
+
+#: ../../source/users/project/properties/new_folio/folio_referencing.rst:7
+msgid ""
+"QElectroTech allows creating schemas with multiple `folios`_, only part of "
+"the `schema`_ is represented at each `folio`_. This means that part of a "
+"`conductor`_ can be at one `folio`_ and the continuation at a different "
+"`folio`_."
+msgstr ""
+"QElectroTech 允许创建多功能的策略 `图幅 <folios_>`_ 中，仅包含 `计划 <schema_>`_ 代表每个 `图幅 "
+"<folio_>`_。这意味着： `导体 <conductor_>`_ 可能是一个 `图幅 <folio_>`_ 和以不同方式继续 `图幅 "
+"<folio_>`_。"
+
+#: ../../source/users/project/properties/new_folio/folio_referencing.rst:11
+msgid ""
+"QElectroTech provides folio referencing elements to indicate from where a "
+"`conductor`_ is coming or where it is going. These `elements`_ can display "
+"at the `workspace`_ from the `folio`_ some information about the folio "
+"referencing element linked. The information which should be displayed can be"
+" defined by the user at **Folio referencing** tab from **New Folio** section"
+" of the `project properties`_."
+msgstr ""
+"QElectroTech 提供了folio 参考元素，以说明从何处 `导体 <conductor_>`_ 这些东西会飞到哪里 `元件 "
+"<elements_>`_ 可以在 `工作区 <workspace_>`_ 从 `图幅 <folio_>`_ "
+"关于链接的folio引用元素的一些信息。应当显示的信息可由用户定义。 **Folio 参考** 选项卡 **新组合** 报告 `项目属性 "
+"<project properties_>`_。"
+
+#: ../../source/users/project/properties/new_folio/folio_referencing.rst:18
+msgid ""
+"For more information about folio referencing, refer to `Reference folio "
+"following`_ and `Previous reference folio`_."
+msgstr ""
+"有关folio参考物的更多信息，请参见 `后面的参考物 <Reference folio following_>`_ 和 `之前的参考物 "
+"<Previous reference folio_>`_。"
+
+#: ../../source/users/project/properties/new_folio/folio_referencing.rst:24
+msgid "Figure: Project folio referencing properties window"
+msgstr "图：Folio 项目属性引用窗口"
+
+#: ../../source/users/project/properties/new_folio/folio_referencing.rst:26
+msgid "To define folio referencing Label:"
+msgstr "要定义标注符的缩写："
+
+#: ../../source/users/project/properties/new_folio/folio_referencing.rst:28
+msgid "`Display`_ project properties PopUP window."
+msgstr "`显示 <Display_>`_ 项目属性 PopUP 窗口。"
+
+#: ../../source/users/project/properties/new_folio/folio_referencing.rst:29
+msgid "Go to **New folio** section."
+msgstr "转到 **新folio** 部分。"
+
+#: ../../source/users/project/properties/new_folio/folio_referencing.rst:30
+msgid "Go to **Folio referencing** tab."
+msgstr "转到 **Folio 引用** 标签 。"
+
+#: ../../source/users/project/properties/new_folio/folio_referencing.rst:31
+msgid "Define the desired parameters for each field."
+msgstr "定义每个字段的理想参数。"
+
+#: ../../source/users/project/properties/new_folio/folio_referencing.rst:32
+msgid ""
+"Press **OK** button to save the configuration changes and close project "
+"properties PopUP window."
+msgstr "按 **OK** 按钮保存配置更改和关闭项目属性 PopUP 窗口。"

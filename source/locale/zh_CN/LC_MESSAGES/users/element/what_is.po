@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/what_is.rst:5
+msgid "What is an element?"
+msgstr "什么是要素?"
+
+#: ../../source/users/element/what_is.rst:7
+msgid "An element is an object which contains information:"
+msgstr "元素是一个包含信息的对象："
+
+#: ../../source/users/element/what_is.rst:9
+msgid "Graphical representation information, symbol displayed at the schema."
+msgstr "图形化的表示信息，在图案中显示的符号。"
+
+#: ../../source/users/element/what_is.rst:10
+msgid ""
+"Element data such element position in the project, article number, "
+"manufacturer, supplier, link to any other element from the project, etc."
+msgstr "要素数据此类要素在项目中的位置，条号，制造商，供应商，与项目中任何其他要素的链接等。"
+
+#: ../../source/users/element/what_is.rst:15
+msgid "Figure: QElectroTech thermal circuit breaker element"
+msgstr "图：QElectroTech热电路断路器元件"
+
+#: ../../source/users/element/what_is.rst:17
+msgid ""
+"An element is an object which function is to reduce the engineering work. "
+"Working with elements reduce the time and work necessary for the creation of"
+" schemas, Bill Of Materials (BOM) and many other types of reports such "
+"terminal lists, I/O lists, etc."
+msgstr ""
+"一个元素是一个功能是减少项目工作的对象，与元素一起工作，减少了创建计划、Bill Of "
+"Materials(BOM)和许多其他类型的报告所需的时间和工作，如I/O列表等。"
+
+#: ../../source/users/element/what_is.rst:21
+msgid "The element can be classified at different families:"
+msgstr "该要素可按不同家庭分类："
+
+#: ../../source/users/element/what_is.rst:23
+msgid "`Simple`_"
+msgstr "`简单 <Simple_>`_"
+
+#: ../../source/users/element/what_is.rst:24
+msgid "`Master`_"
+msgstr "`硕士 <Master_>`_"
+
+#: ../../source/users/element/what_is.rst:25
+msgid "`Slave`_"
+msgstr "`奴隶 <Slave_>`_"
+
+#: ../../source/users/element/what_is.rst:26
+msgid "`Reference folio following`_"
+msgstr "`后面的参考框 <Reference folio following_>`_"
+
+#: ../../source/users/element/what_is.rst:27
+msgid "`Previous reference folio`_"
+msgstr "`先前的参考文件 <Previous reference folio_>`_"
+
+#: ../../source/users/element/what_is.rst:28
+msgid "`Terminal block`_"
+msgstr "`端子排 <Terminal block_>`_"
+
+#: ../../source/users/element/what_is.rst:30
+msgid ""
+"The graphical representation information characteristics are the same for "
+"all families. The element data properties fields and the possible "
+"interlocking options are different between families."
+msgstr "图形化的表示信息特性对于所有家庭都是一样的，元素数据属性字段和可能的互联选项不同。"

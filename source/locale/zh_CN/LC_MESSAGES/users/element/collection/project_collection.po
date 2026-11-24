@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/collection/project_collection.rst:5
+msgid "Project collection"
+msgstr "项目收集"
+
+#: ../../source/users/element/collection/project_collection.rst:7
+msgid ""
+"The project collection is the only collection which is not part from the "
+"software structure. A project collection is an element collection that is "
+"part of the project file, each `project`_ has its own element collection."
+msgstr "元件集合是软件结构之外的唯一收藏，元件集合是属于项目文件的元素收藏，每个 `项目 <project_>`_ 都有自己的元素收藏。"
+
+#: ../../source/users/element/collection/project_collection.rst:14
+msgid "Figure: QElectroTech project collection"
+msgstr "图：QElectroTech项目收集"
+
+#: ../../source/users/element/collection/project_collection.rst:16
+msgid ""
+"QElectroTech does not allow working in this collection, the user cannot add "
+"or delete any element, category or sub-category manually. The user can only "
+"read the category or sub-category properties and use the collection to "
+"access to the `elements`_ of the `project`_ to edit them."
+msgstr ""
+"QElectroTech不允许在此集合中工作，用户不能手动添加或删除任何元素，类别或子类别，用户只能读取该类或子类别属性，并使用该集合访问 `元件 "
+"<elements_>`_ 中的 `项目 <project_>`_ 进行编辑。"
+
+#: ../../source/users/element/collection/project_collection.rst:20
+msgid ""
+"The elements are copied from `QET`_ or `User`_ collection by QElectroTech "
+"automatically when the user introduces a new `element`_ at one `folio`_ of "
+"the `project`_. If the `element`_ has already been used previously, "
+"QElectroTech does not add the `element`_ to the project collection again."
+msgstr ""
+"当用户在 `项目 <QET_>`_ 的一个 `folio <User_>`_ 上引入一个新的 `元件 <element_>`_ 时，这些元素会自动从 "
+"`图幅 <folio_>`_ 或 `项目 <project_>`_ 集合中复制出来。如果 `元件 <element_>`_ "
+"以前已经使用过，则QelectroTech不会在项目集合中再次添加 `元件 <element_>`_。"
+
+#: ../../source/users/element/collection/project_collection.rst:24
+msgid ""
+"If one `element`_ is deleted from the `project`_, QElectroTech does not "
+"delete the `element`_ from the project collection automatically, the "
+"`element`_ is remarked in red. `Cleaning the project`_ deletes all elements "
+"from the project collection that are not used inside the project and reduces"
+" the size of the project file."
+msgstr ""
+"如果从 `元件 <element_>`_ 中删除一个 `项目 <project_>`_，QElectroTech不自动删除元件集合中的 `元件 "
+"<element_>`_，则用红色标注 `元件 <element_>`_。`清理项目 <Cleaning the project_>`_ "
+"删除元件集合中未在项目内使用的所有元素，并缩小项目文件的大小。"

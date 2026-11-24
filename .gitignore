@@ -1,4 +1,6 @@
 LICENCES/
 .venv/
+__pycache__/
+*.mo
 build-cs/
 build/

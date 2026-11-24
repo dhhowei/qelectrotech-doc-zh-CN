@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/cross_reference/index.rst:5
+msgid "Element cross reference"
+msgstr "元素交叉引用"
+
+#: ../../source/users/element/cross_reference/index.rst:7
+msgid ""
+"E-CAD software like QElectroTech allow creating projects where different "
+"type of subsystems or/and disciplines are combined. This means that one "
+"device can be represented many times."
+msgstr "QElectroTech 等 E-CAD 软件允许创建不同类型子系统或/和学科合并的项目，这意味着一个设备可以被多次代表。"
+
+#: ../../source/users/element/cross_reference/index.rst:10
+msgid ""
+"An example of combining subsystems is an electrical control system where the"
+" command system and the power system are combined. The control coil from a "
+"power contactor is represented at the control command system and the "
+"electrical contactors are represented at the electrical power system."
+msgstr ""
+"合并子系统的一个例子是将指令系统和动力系统合并在一起的电气控制系统，来自一个动力接触器的控制线圈在控制指令系统中被代表，电气接触器在电力系统中被代表。"
+
+#: ../../source/users/element/cross_reference/index.rst:14
+msgid ""
+"An example of combining different disciplines is the representation of an "
+"hydraulic valve at the electrical schema and at the hydraulic schema."
+msgstr "将不同学科结合起来的一个例子是，在电图和液压图中代表液压阀。"
+
+#: ../../source/users/element/cross_reference/index.rst:17
+msgid ""
+"The examples mentioned before are situations where different QElectroTech "
+"elements introduced at the project are representing the same device and "
+"later on they have to be listed as one item at the Bill Of Materials (BOM). "
+"For this reason, QElectroTech allow defining Master and Slave elements that "
+"later on will be linked. The link between master and slave elements is known"
+" at QElectroTech as cross reference."
+msgstr ""
+"前面提到的例子有：项目中引入的不同QElectroTech元素代表同一设备，后来在Bill Of "
+"Materials(BOM)中必须列为一个项目，因此，QEctroTech允许定义Master和Slave元素，这些元素以后会被连接起来。Master和Slave元素之间的联系在QEctroTech中被称为交叉参考。"

@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/title_block/collection/title_block_qet_collection.rst:5
+msgid "Title block QET collection"
+msgstr "图框 QET 收藏"
+
+#: ../../source/users/folio/title_block/collection/title_block_qet_collection.rst:7
+msgid ""
+"The **QET** collection is the default collection from QElectroTech. This "
+"collection is protected and the user can only read it, the **QET** "
+"collection cannot be edited. The user cannot add or delete any `title "
+"block`_ in the database."
+msgstr ""
+"**QET** 收藏是QElectroTech的默认收藏，此收藏受到保护，用户只能读取，**QET** 收藏不能编辑，用户不能在数据库中添加或删除任何 "
+"`图框 <title block_>`_。"
+
+#: ../../source/users/folio/title_block/collection/title_block_qet_collection.rst:14
+msgid "Figure: QET collection tree at project panel"
+msgstr "图：项目板上的QET采集树"

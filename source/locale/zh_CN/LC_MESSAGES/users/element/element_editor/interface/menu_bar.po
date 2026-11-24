@@ -1,0 +1,845 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:5
+msgid "Element editor menu bar"
+msgstr "元素编辑器菜单栏"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:7
+msgid ""
+"The menu bar is placed at top from element editor window. The element editor"
+" contains the menus ``File``, ``Edit``, ``Display``, ``Settings``, and "
+"``Help``. Each menu provides many different options."
+msgstr ""
+"菜单栏从元件编辑器窗口置于顶端。 元素编辑器包含菜单 ``File``, ``Edit``, ``Display``, ``Settings`` 和 "
+"``Help`` 。 每个菜单都提供了许多不同的选项 。"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:13
+msgid ""
+"A brief description of each menu option can be read from `help or "
+"information tool bar`_ by hovering over the option with the cursor."
+msgstr ""
+"每个菜单选项的简要说明可以从 `帮助或信息工具栏 <help or information tool bar_>`_ 读取，方法是用光标在选项上徘徊。"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:16
+msgid "File menu"
+msgstr "文件菜单"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:21
+msgid "Figure: QElectroTech file menu"
+msgstr "图：QElectroTech 文件菜单"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:24
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:56
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:104
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:124
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:142
+msgid "Option"
+msgstr "选项"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:24
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:56
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:104
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:124
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:142
+msgid "Function"
+msgstr "函数"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:24
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:56
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:104
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:124
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:142
+msgid "Keyboard shortcut"
+msgstr "键盘快捷键"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:24
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:56
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:104
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:124
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:142
+msgid "Icon"
+msgstr "图标"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:26
+msgid "New"
+msgstr "新建"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:26
+msgid "Creates a new element"
+msgstr "创建新元素"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:26
+msgid "``Ctrl + n``"
+msgstr "``Ctrl + n``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:26
+msgid "|document-new|"
+msgstr "|document-new|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:161
+msgid "document-new"
+msgstr "文档-新"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:28
+msgid "Open"
+msgstr "打开"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:28
+msgid "Opens an existing element from collection"
+msgstr "从收藏中打开已有元素"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:28
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:30
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:32
+msgid "``Ctrl + o``"
+msgstr "``Ctrl + o``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:28
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:30
+msgid "|folder-open|"
+msgstr "|folder-open|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:162
+msgid "folder-open"
+msgstr "文件夹打开"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:30
+msgid "Open from a file"
+msgstr "从文件中打开"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:30
+msgid "Opens an existing element from file"
+msgstr "从文件打开已有元素"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:32
+msgid "Starting the DXF converter plugin"
+msgstr "启动 DXF 转换器插件"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:32
+msgid "Import element from DXF file"
+msgstr "从 DXF 文件导入元素"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:32
+msgid "|run-dxf|"
+msgstr "|run-dxf|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:163
+msgid "run-dxf"
+msgstr "运行dxf"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:34
+msgid "Recently opened"
+msgstr "最近打开"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:34
+msgid "Open an element from history (recently opened files)"
+msgstr "打开历史元素( 最近打开的文件)"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:34
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:36
+msgid "``Ctrl + s``"
+msgstr "``Ctrl + s``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:34
+msgid "|document-recent|"
+msgstr "|document-recent|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:164
+msgid "document-recent"
+msgstr "文档最近"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:36
+msgid "Save"
+msgstr "保存"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:36
+msgid "Saves the current element changes (overwrites)"
+msgstr "保存当前元素更改( 覆盖)"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:36
+msgid "|document-save|"
+msgstr "|document-save|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:165
+msgid "document-save"
+msgstr "文档保存"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:38
+msgid "Save as"
+msgstr "另存为"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:38
+msgid "Saves the element as a new element from a library"
+msgstr "从库中将元素保存为新元素"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:38
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:40
+msgid "|document-save-as|"
+msgstr "|document-save-as|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:166
+msgid "document-save-as"
+msgstr "文档保存为"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:40
+msgid "Save to a file"
+msgstr "保存到文件"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:40
+msgid "Saves the Element as a different file on disk"
+msgstr "将元素保存为磁盘上不同的文件"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:40
+msgid "``Ctrl + Shift + x``"
+msgstr "``Ctrl + Shift + x``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:42
+msgid "Reload"
+msgstr "重新装入"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:42
+msgid "Reloads the opened element (all changes which are not saved are lost)"
+msgstr "重新装入打开的元素( 未保存的所有更改都丢失)"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:42
+msgid "``Ctrl + p``"
+msgstr "``Ctrl + p``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:42
+msgid "|view-refresh|"
+msgstr "|view-refresh|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:169
+msgid "view-refresh"
+msgstr "重新视图"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:44
+msgid "Quit"
+msgstr "退出"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:44
+msgid "Quits QElectroTech Element editor"
+msgstr "退出 QElectroTech 元素编辑器"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:44
+msgid "``Ctrl + q``"
+msgstr "``Ctrl + q``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:44
+msgid "|application-exit|"
+msgstr "|application-exit|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:170
+msgid "application-exit"
+msgstr "应用程序退出"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:48
+msgid "Edit menu"
+msgstr "编辑菜单"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:53
+msgid "Figure: QElectroTech edit menu"
+msgstr "图：QElectroTech 编辑菜单"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:58
+msgid "Undo"
+msgstr "撤销"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:58
+msgid "Undoes the previous action"
+msgstr "撤消上一个动作"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:58
+msgid "``Ctrl + z``"
+msgstr "``Ctrl + z``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:58
+msgid "|edit-undo|"
+msgstr "|edit-undo|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:171
+msgid "edit-undo"
+msgstr "编辑-取消"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:60
+msgid "Redo"
+msgstr "重做"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:60
+msgid "Restores the undone action"
+msgstr "恢复已撤销的动作"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:60
+msgid "``Ctrl + y``"
+msgstr "``Ctrl + y``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:60
+msgid "|edit-redo|"
+msgstr "|edit-redo|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:172
+msgid "edit-redo"
+msgstr "编辑-重写"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:62
+msgid "Select All"
+msgstr "全部选择"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:62
+msgid "Selects all elements on the folio"
+msgstr "选择文件框上的所有元素"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:62
+msgid "``Ctrl + a``"
+msgstr "``Ctrl + a``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:62
+msgid "|edit-select-all|"
+msgstr "|edit-select-all|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:176
+msgid "edit-select-all"
+msgstr "编辑- 选择全部"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:64
+msgid "Select none"
+msgstr "取消选择"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:64
+msgid "Deselect all elements on the folio"
+msgstr "取消在光圈上选择全部元素"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:64
+msgid "``Ctrl + Shift + a``"
+msgstr "``Ctrl + Shift + a``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:64
+msgid "|edit-select-none|"
+msgstr "|edit-select-none|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:177
+msgid "edit-select-none"
+msgstr "编辑- 选择- 无"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:66
+msgid "Invert selection"
+msgstr "反向选择"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:66
+msgid "Inverts selection of elements"
+msgstr "元素的反向选择"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:66
+msgid "``Ctrl + i``"
+msgstr "``Ctrl + i``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:66
+msgid "|edit-select-invert|"
+msgstr "|edit-select-invert|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:178
+msgid "edit-select-invert"
+msgstr "编辑-选择反转"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:68
+msgid "Cut"
+msgstr "剪切"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:68
+msgid "Puts selected elements into the clipboard"
+msgstr "将选中的元素放入剪贴板"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:68
+msgid "``Ctrl + x``"
+msgstr "``Ctrl + x``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:68
+msgid "|edit-cut|"
+msgstr "|edit-cut|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:173
+msgid "edit-cut"
+msgstr "编辑剪切"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:70
+msgid "Copy"
+msgstr "复制"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:70
+msgid "Copies selected elements"
+msgstr "复制选中元素"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:70
+msgid "``Ctrl + c``"
+msgstr "``Ctrl + c``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:70
+msgid "|edit-copy|"
+msgstr "|edit-copy|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:174
+msgid "edit-copy"
+msgstr "编辑复制"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:72
+msgid "Paste"
+msgstr "粘贴"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:72
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:74
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:76
+msgid "Pastes elements from the clipboard into the folio"
+msgstr "将剪贴板中的元素粘贴到相框中"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:72
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:74
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:76
+msgid "``Ctrl + v``"
+msgstr "``Ctrl + v``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:72
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:74
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:76
+msgid "|edit-paste|"
+msgstr "|edit-paste|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:175
+msgid "edit-paste"
+msgstr "编辑-粘贴"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:74
+msgid "Paste in the area"
+msgstr "在区域粘贴"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:76
+msgid "Paste from"
+msgstr "粘贴从"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:78
+msgid "Delete"
+msgstr "删除"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:78
+msgid "Removes selected elements from the folio"
+msgstr "从框中删除选中的元素"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:78
+msgid "``Del``"
+msgstr "``Del``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:78
+msgid "|edit-delete|"
+msgstr "|edit-delete|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:179
+msgid "edit-delete"
+msgstr "编辑-删除"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:80
+msgid "Edit name and information of the element"
+msgstr "编辑元素的名称和信息"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:80
+msgid "Rotates selected elements and texts"
+msgstr "旋转选定的要素和文本"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:80
+msgid "``Space``"
+msgstr "``Space``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:80
+msgid "|names|"
+msgstr "|names|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:180
+msgid "names"
+msgstr "名称"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:82
+msgid "Edit author information"
+msgstr "编辑作者信息"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:82
+msgid "Rotates selected texts to a specific angle"
+msgstr "将选定的文本旋转到特定角度"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:82
+msgid "``Ctrl + Space``"
+msgstr "``Ctrl + Space``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:82
+msgid "|preferences-user|"
+msgstr "|preferences-user|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:181
+msgid "preferences-user"
+msgstr "偏好用户"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:84
+msgid "Edit element properties"
+msgstr "编辑元素属性"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:84
+msgid "Finds the selected element in the collections panel"
+msgstr "查找收藏面板中选定的元素"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:84
+msgid "|element-edit|"
+msgstr "|element-edit|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:182
+msgid "element-edit"
+msgstr "元素编辑器"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:86
+msgid "Bring to front"
+msgstr "带到前面"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:86
+msgid "Brings the selection (s) to front"
+msgstr "将选择带到前面"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:86
+msgid "``Ctrl + Shift + Home``"
+msgstr "``Ctrl + Shift + Home``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:86
+msgid "|bring_forward|"
+msgstr "|bring_forward|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:183
+msgid "bring_forward"
+msgstr "带入"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:88
+msgid "Raise"
+msgstr "提升"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:88
+msgid "Moves the selection over other objects (s)"
+msgstr "将选定区域移到其他对象(s)上"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:88
+msgid "``Ctrl + Shift + Up``"
+msgstr "``Ctrl + Shift + Up``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:88
+msgid "|raise|"
+msgstr "|raise|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:184
+msgid "raise"
+msgstr "提高"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:90
+msgid "Lower"
+msgstr "下调"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:90
+msgid "Moves the selection under other objects (s)"
+msgstr "将选择移至其他对象(s)"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:90
+msgid "``Ctrl + Shift + Down``"
+msgstr "``Ctrl + Shift + Down``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:90
+msgid "|lower|"
+msgstr "|lower|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:185
+msgid "lower"
+msgstr "下调"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:92
+msgid "Send backwards"
+msgstr "向后发送"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:92
+msgid "Sends in the backwards the selection (s)"
+msgstr "向后发送选择"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:92
+msgid "``Ctrl + Shift + End``"
+msgstr "``Ctrl + Shift + End``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:92
+msgid "|send_backward|"
+msgstr "|send_backward|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:186
+msgid "send_backward"
+msgstr "向后发送( B)"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:96
+msgid "Display menu"
+msgstr "显示菜单"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:101
+msgid "Figure: QElectroTech display menu"
+msgstr "图：QElectroTech 显示菜单"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:106
+msgid "Zoom In"
+msgstr "缩放"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:106
+msgid "Expands the workspace"
+msgstr "扩展工作空间"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:106
+msgid "``Ctrl + +``"
+msgstr "``Ctrl + +``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:106
+msgid "|zoom-in|"
+msgstr "|zoom-in|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:187
+msgid "zoom-in"
+msgstr "缩放"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:108
+msgid "Zoom Out"
+msgstr "缩小"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:108
+msgid "Shrinks the workspace"
+msgstr "缩小工作空间"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:108
+msgid "``Ctrl + -``"
+msgstr "``Ctrl + -``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:108
+msgid "|zoom-out|"
+msgstr "|zoom-out|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:188
+msgid "zoom-out"
+msgstr "缩放"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:110
+msgid "Fit in view"
+msgstr "适合视图"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:110
+msgid "Adjusts the zoom on exactly the part of the workspace"
+msgstr "调整工作空间的缩放"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:110
+msgid "``Ctrl + 9``"
+msgstr "``Ctrl + 9``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:110
+msgid "|view-fit-window|"
+msgstr "|view-fit-window|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:189
+msgid "view-fit-window"
+msgstr "视图适应窗口"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:112
+msgid "Reset zoom"
+msgstr "重置缩放"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:112
+msgid "Restores default zoom level"
+msgstr "恢复默认缩放级别"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:112
+msgid "``Ctrl + 0``"
+msgstr "``Ctrl + 0``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:112
+msgid "|zoom-original|"
+msgstr "|zoom-original|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:190
+msgid "zoom-original"
+msgstr "缩放- 原始"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:116
+msgid "Settings menu"
+msgstr "设置菜单"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:121
+msgid "Figure: QElectroTech settings menu"
+msgstr "图：QElectroTech 设置菜单"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:126
+msgid "Display"
+msgstr "显示"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:126
+msgid "Displays or hides toolbars and panels"
+msgstr "显示或隐藏工具栏和面板"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:126
+msgid "|configure-toolbars|"
+msgstr "|configure-toolbars|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:191
+msgid "configure-toolbars"
+msgstr "配置工具栏"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:128
+msgid "Full screen mode"
+msgstr "全屏模式"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:128
+msgid "Displays QElectroTech in full screen mode"
+msgstr "在全屏模式下显示 QElectroTech"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:128
+msgid "``Ctrl + Shift + f``"
+msgstr "``Ctrl + Shift + f``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:128
+msgid "|view-fullscreen|"
+msgstr "|view-fullscreen|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:192
+msgid "view-fullscreen"
+msgstr "视图全屏"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:130
+msgid "Configure QElectroTech"
+msgstr "配置 QElectroTech 设备"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:130
+msgid "Allows specifying various parameters for QElectroTech"
+msgstr "允许指定 QElectroTech 的各种参数"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:130
+msgid "|configure|"
+msgstr "|configure|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:193
+msgid "configure"
+msgstr "配置"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:134
+msgid "Help menu"
+msgstr "帮助菜单"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:139
+msgid "Figure: QElectroTech help menu"
+msgstr "图：QElectroTech 帮助菜单"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:144
+msgid "What's This?"
+msgstr "这是什么?"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:144
+msgid "Enquires main menu options"
+msgstr "询问主菜单选项"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:144
+msgid "``Shift + f1``"
+msgstr "``Shift + f1``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:146
+msgid "About QElectroTech"
+msgstr "关于 QElectroTech"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:146
+msgid "Displays information about QElectroTech"
+msgstr "显示关于 QElectroTech 的信息"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:146
+msgid "|qet-icon|"
+msgstr "|qet-icon|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:194
+msgid "qet-icon"
+msgstr "齐角"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:148
+msgid "Online manual"
+msgstr "在线手册"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:148
+msgid "Launches the default browser to the online manual of QElectroTech"
+msgstr "启动 QElectroTech 在线手册的默认浏览器"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:148
+msgid "``f1``"
+msgstr "``f1``"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:148
+msgid "|help-contents|"
+msgstr "|help-contents|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:195
+msgid "help-contents"
+msgstr "帮助内容"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:150
+msgid "Youtube channel"
+msgstr "Youtube 频道"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:150
+msgid "Launches the default browser on the Youtube channel of QElectroTech"
+msgstr "在 QElectroTech 的 Youtube 频道启动默认浏览器"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:150
+msgid "|show-video|"
+msgstr "|show-video|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:196
+msgid "show-video"
+msgstr "显示视频"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:152
+msgid "Support the project with a donation"
+msgstr "捐款支持该项目"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:152
+msgid ""
+"Launches the default browser on the QElectroTech donation paypal account"
+msgstr "在 QElectroTech 捐赠付费账户上启动默认浏览器"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:152
+msgid "|help-donate|"
+msgstr "|help-donate|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:197
+msgid "help-donate"
+msgstr "帮助捐赠"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:154
+msgid "About Qt"
+msgstr "关于 Qt"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:154
+msgid "Displays information about `Qt`_ library"
+msgstr "显示关于 `Qt <Qt_>`_ 库的信息"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:154
+msgid "|qt-icon|"
+msgstr "|qt-icon|"
+
+#: ../../source/users/element/element_editor/interface/menu_bar.rst:198
+msgid "qt-icon"
+msgstr "qt-icon 缩写"

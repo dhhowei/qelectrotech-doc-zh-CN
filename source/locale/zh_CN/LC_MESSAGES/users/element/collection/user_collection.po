@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/collection/user_collection.rst:5
+msgid "User collection"
+msgstr "用户收藏"
+
+#: ../../source/users/element/collection/user_collection.rst:7
+msgid ""
+"The User collection is the QElectroTech collection where the user can create"
+" and organize `elements`_, the user is allowed to read and edit the "
+"collection. The actions allowed at the user collection are:"
+msgstr ""
+"用户库是用户可以创建和组织 `元件 <elements_>`_ 的QEelectroTech集合，允许用户阅读和编辑集合。用户库允许的行动有："
+
+#: ../../source/users/element/collection/user_collection.rst:10
+msgid "Add new elements."
+msgstr "添加新元素。"
+
+#: ../../source/users/element/collection/user_collection.rst:11
+msgid "Edit elements from the collection."
+msgstr "从收藏中编辑元素 。"
+
+#: ../../source/users/element/collection/user_collection.rst:12
+msgid "Delete elements from the collection."
+msgstr "从收藏中删除元素。"
+
+#: ../../source/users/element/collection/user_collection.rst:13
+msgid "Create new categories / folders."
+msgstr "创建新类别/ 文件夹 。"
+
+#: ../../source/users/element/collection/user_collection.rst:14
+msgid "Create new sub-categories / sub-folders."
+msgstr "创建新的子类别/子文件夹 。"
+
+#: ../../source/users/element/collection/user_collection.rst:15
+msgid "Delete categories or sub-categories."
+msgstr "删除类别或子类别。"
+
+#: ../../source/users/element/collection/user_collection.rst:16
+msgid "Re-organize the collection."
+msgstr "重新组织藏书。"
+
+#: ../../source/users/element/collection/user_collection.rst:21
+msgid "Figure: Example user collection tree at collection panel"
+msgstr "图：收藏面板上的用户收藏树示例"

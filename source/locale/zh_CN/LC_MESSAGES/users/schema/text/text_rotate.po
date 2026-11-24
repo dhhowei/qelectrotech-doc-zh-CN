@@ -1,0 +1,136 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/schema/text/text_rotate.rst:5
+msgid "Rotate text"
+msgstr "旋转文字"
+
+#: ../../source/users/schema/text/text_rotate.rst:7
+msgid "The content from a `text field`_ can be rotated in two different ways:"
+msgstr "`文本字段 <text field_>`_ 的内容可以两种不同的方式旋转："
+
+#: ../../source/users/schema/text/text_rotate.rst:9
+msgid "Rotating the `text field`_ as an object."
+msgstr "旋转 `文本字段 <text field_>`_ 作为对象。"
+
+#: ../../source/users/schema/text/text_rotate.rst:10
+msgid "Defining the text orientation inside the `text field`_."
+msgstr "定义 `文本字段 <text field_>`_ 中的文本方向。"
+
+#: ../../source/users/schema/text/text_rotate.rst:13
+msgid "Rotate text field"
+msgstr "旋转文本字段"
+
+#: ../../source/users/schema/text/text_rotate.rst:15
+msgid ""
+"The text field is considered an object by QElectroTech, it can be selected, "
+"placed and rotated as `elements`_ and `pictures`_. It can be rotated *90*, "
+"*180* or *270* degrees."
+msgstr ""
+"文字字段被QElectroTech视为对象，可以选择，放置和旋转为 `元件 <elements_>`_ 和 `图片 <pictures_>`_，可以旋转"
+" *90*,*180* 或 *270* 度。"
+
+#: ../../source/users/schema/text/text_rotate.rst:18
+msgid "Right click on the `text field`_ which should be rotated."
+msgstr "右键点击应当旋转的 `文本字段 <text field_>`_ 。"
+
+#: ../../source/users/schema/text/text_rotate.rst:23
+#: ../../source/users/schema/text/text_rotate.rst:46
+msgid "Figure: QElectroTech text field options"
+msgstr "图：QElectroTech 文本字段选项"
+
+#: ../../source/users/schema/text/text_rotate.rst:25
+msgid ""
+"Select the option **Rotate** to rotate the `text field`_ *90* degrees on the"
+" clock direction."
+msgstr "选择 **旋转** 在时钟方向旋转 `文本字段 <text field_>`_ *90* 度 。"
+
+#: ../../source/users/schema/text/text_rotate.rst:29
+msgid ""
+"For more information about rotating objects at the `workspace`_, refer to "
+"`rotate object section`_."
+msgstr ""
+"关于在 `工作区 <workspace_>`_ 旋转物体的更多信息，参见 `旋转物体部分 <rotate object section_>`_。"
+
+#: ../../source/users/schema/text/text_rotate.rst:32
+msgid "Define text orientation"
+msgstr "定义文本方向"
+
+#: ../../source/users/schema/text/text_rotate.rst:34
+msgid ""
+"Defining the text orientation rotates only the content from the `text "
+"field`_. The advantage of choosing the text orientation is the possibility "
+"to choose any angle between *-360* and *360* degrees."
+msgstr ""
+"定义文本方向只旋转 `文本字段 <text field_>`_ 的内容。选择文本方向的好处是在 *-360* 和 *360* "
+"度之间选择任意角度的可能性。"
+
+#: ../../source/users/schema/text/text_rotate.rst:39
+msgid "Define text orientation from workspace"
+msgstr "从工作空间定义文本方向"
+
+#: ../../source/users/schema/text/text_rotate.rst:41
+msgid "Right click on the `text field`_ which should be oriented."
+msgstr "右键单击应当面向的 `文本字段 <text field_>`_ 。"
+
+#: ../../source/users/schema/text/text_rotate.rst:48
+msgid ""
+"Select the option **Choose text orientation** to display the text "
+"orientation PopUP window."
+msgstr "选择选项 **选择文本方向** 以显示文本方向 PopUP 窗口。"
+
+#: ../../source/users/schema/text/text_rotate.rst:53
+msgid "Figure: QElectroTech choose orientation PopUP window"
+msgstr "图：QElectroTech 选择方向 PopUP 窗口"
+
+#: ../../source/users/schema/text/text_rotate.rst:55
+msgid "Define the orientation angle of the text."
+msgstr "定义文本的方向角度。"
+
+#: ../../source/users/schema/text/text_rotate.rst:56
+msgid "Press **OK** to save the changes."
+msgstr "按 **OK** 保存更改。"
+
+#: ../../source/users/schema/text/text_rotate.rst:59
+msgid "Define text orientation from selection properties panel"
+msgstr "从选择属性面板定义文本方向"
+
+#: ../../source/users/schema/text/text_rotate.rst:61
+msgid "Select the `text field`_ which should be oriented."
+msgstr "选择应当面向的 `文本字段 <text field_>`_。"
+
+#: ../../source/users/schema/text/text_rotate.rst:62
+msgid ""
+"Define the orientation angle of the text at **Angle** field from `selection "
+"properties panel`_."
+msgstr "从 `选择属性面板 <selection properties panel_>`_ 定义文本在 **Angle** 字段的方向角。"
+
+#: ../../source/users/schema/text/text_rotate.rst:67
+msgid "Figure: QElectroTech text field selection properties panel"
+msgstr "图：QElectroTech 文本字段选择属性面板"
+
+#: ../../source/users/schema/text/text_rotate.rst:71
+msgid ""
+"If the `selection properties panel`_ is not displayed, it can be displayed "
+"from **Settings > Display > Selection properties**"
+msgstr ""
+"如果不显示 `选择属性面板 <selection properties panel_>`_，可以从 **设置 > 显示 > 选择属性** 显示"

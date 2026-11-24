@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/title_block/collection/title_block_project_collection.rst:5
+msgid "Title block project collection"
+msgstr "图框元件集合"
+
+#: ../../source/users/folio/title_block/collection/title_block_project_collection.rst:7
+msgid ""
+"The project collection is the only `collection`_ which is not part from the "
+"software structure. A project collection is a `title block collection`_ that"
+" is part of the project file, each `project`_ has its own `title block "
+"collection`_."
+msgstr ""
+"元件集合是软件结构中唯一的 `收集 <collection_>`_。元件集合是属于项目文件的 `标题区块收藏 <title block "
+"collection_>`_，每个 `项目 <project_>`_ 都有自己的 `标题区块收藏 <title block "
+"collection_>`_。"
+
+#: ../../source/users/folio/title_block/collection/title_block_project_collection.rst:14
+msgid "Figure: QElectroTech project tree"
+msgstr "图：QElectroTech项目树"
+
+#: ../../source/users/folio/title_block/collection/title_block_project_collection.rst:16
+msgid ""
+"QElectroTech does not allow working on this `collection`_, the user cannot "
+"add or delete any `title block`_ manually. The user can only edit `title "
+"blocks`_ used in the project without modifying the original `title block`_ "
+"from `QET`_ or `User`_ collection."
+msgstr ""
+"QElectroTech不允许在此 `collection <collection_>`_ 上工作，用户无法手动添加或删除任何 `图框 <title "
+"block_>`_。用户只能编辑项目中使用的 `图框 <title blocks_>`_，而无需修改来自 `图框 <title block_>`_ 或 "
+"`用户 <QET_>`_ 集的 `图框 <User_>`_ 原件。"
+
+#: ../../source/users/folio/title_block/collection/title_block_project_collection.rst:20
+msgid ""
+"The `title block`_ is copied from `QET`_ or `User`_ collection automatically"
+" by QElectroTech when the user introduces a new `title block`_ in one "
+"`folio`_ of the `project`_. If the `title block`_ has already been used "
+"previously, QElectroTech does not need to add again the `title block`_ to "
+"the project collection."
+msgstr ""
+"`图框 <title block_>`_ 从 `QET <QET_>`_ 或 `User <User_>`_ "
+"收集自动复制给QEelectroTech,用户在 `图框 <title block_>`_ 的1 `图幅 <folio_>`_ 中引入一个新的 `项目 "
+"<project_>`_。如果 `图框 <title block_>`_ 以前已经使用过，则QElectroTech无需在项目集中再次添加 `图框 "
+"<title block_>`_。"
+
+#: ../../source/users/folio/title_block/collection/title_block_project_collection.rst:25
+msgid ""
+"If one `title block`_ is deleted from the `project`_, QElectroTech does not "
+"delete the `title block`_ from the project collection automatically, the "
+"`title block`_ is marked in red. `Cleaning the project`_ deletes all `title "
+"block`_ from the project collection that are not used inside the `project`_ "
+"automatically at the cleaning time."
+msgstr ""
+"如果一个 `图框 <title block_>`_ 从 `项目 <project_>`_ 中删除，QElectroTech不会自动删除项目集中的 `图框"
+" <title block_>`_，则 `图框 <title block_>`_ 用红色标注。`清理项目 <Cleaning the "
+"project_>`_ 从项目集中删去 `图框 <title block_>`_，在清理时不自动使用 `项目 <project_>`_。"

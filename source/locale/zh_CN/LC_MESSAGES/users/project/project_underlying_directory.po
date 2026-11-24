@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/project/project_underlying_directory.rst:5
+msgid "Open project underlying directory"
+msgstr "打开项目基础目录"
+
+#: ../../source/users/project/project_underlying_directory.rst:7
+msgid ""
+"QElectroTech provides the feature of opening the directory where a opened "
+"project was saved from the user interface, without the need to look for the "
+"directory locally."
+msgstr "QElectroTech提供了打开目录的功能，其中打开的项目从用户界面中保存下来，无需在当地查找目录。"
+
+#: ../../source/users/project/project_underlying_directory.rst:10
+msgid "To open the underlying directory of a project:"
+msgstr "要打开项目的基本目录："
+
+#: ../../source/users/project/project_underlying_directory.rst:12
+msgid ""
+"Right click on the opened `project`_ from which the underlying directory is "
+"desired from the `projects panel`_ tree."
+msgstr "右键点击打开的 `项目 <project_>`_，从 `项目面板 <projects panel_>`_ 树中需要从其中获取基本目录 。"
+
+#: ../../source/users/project/project_underlying_directory.rst:13
+msgid ""
+"Select **Open the underlying directory** to open the local directory where "
+"the `project`_ was saved."
+msgstr "选择 **打开基础目录** 打开保存 `项目 <project_>`_ 的本地目录 。"
+
+#: ../../source/users/project/project_underlying_directory.rst:18
+msgid "Figure: QElectroTech project options in projects panel"
+msgstr "图：项目小组中的QElectroTech项目选项"
+
+#: ../../source/users/project/project_underlying_directory.rst:22
+msgid ""
+"If the `projects panel`_ is not displayed, it can be displayed from "
+"**Settings > Display > Projects**."
+msgstr "如果 `项目面板 <projects panel_>`_ 不显示，可以从 **设置 > 显示 > 项目** 显示。"

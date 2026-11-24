@@ -1,0 +1,1284 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/interface/menu_bar.rst:7
+msgid "Menu bar"
+msgstr "菜单栏"
+
+#: ../../source/users/interface/menu_bar.rst:9
+msgid ""
+"The menu bar is placed at top from QElectroTech interface. QElectroTech "
+"contains the menus ``File``, ``Edit``, ``Project``, ``Display``, "
+"``Settings``, ``Windows`` and ``Help``. Each menu provides many different "
+"options."
+msgstr ""
+"菜单栏从QElectroTech接口置于顶端。QEctroTech包含菜单 "
+"``File``,``Edit``,``Project``,``Display``,``Settings``,``Windows`` 和 "
+"``Help``,每个菜单提供了许多不同的选项。"
+
+#: ../../source/users/interface/menu_bar.rst:15
+msgid ""
+"A brief description of each menu option can be read from `help or "
+"information tool bar`_ by hovering over the option with the cursor."
+msgstr ""
+"每个菜单选项的简要说明可以从 `帮助或信息工具栏 <help or information tool bar_>`_ 读取，方法是用光标在选项上徘徊。"
+
+#: ../../source/users/interface/menu_bar.rst:18
+msgid "File menu"
+msgstr "文件菜单"
+
+#: ../../source/users/interface/menu_bar.rst:23
+msgid "Figure: QElectroTech file menu"
+msgstr "图：QElectroTech 文件菜单"
+
+#: ../../source/users/interface/menu_bar.rst:26
+#: ../../source/users/interface/menu_bar.rst:56
+#: ../../source/users/interface/menu_bar.rst:118
+#: ../../source/users/interface/menu_bar.rst:150
+#: ../../source/users/interface/menu_bar.rst:182
+#: ../../source/users/interface/menu_bar.rst:200
+#: ../../source/users/interface/menu_bar.rst:224
+msgid "Option"
+msgstr "选项"
+
+#: ../../source/users/interface/menu_bar.rst:26
+#: ../../source/users/interface/menu_bar.rst:56
+#: ../../source/users/interface/menu_bar.rst:118
+#: ../../source/users/interface/menu_bar.rst:150
+#: ../../source/users/interface/menu_bar.rst:182
+#: ../../source/users/interface/menu_bar.rst:200
+#: ../../source/users/interface/menu_bar.rst:224
+msgid "Function"
+msgstr "函数"
+
+#: ../../source/users/interface/menu_bar.rst:26
+#: ../../source/users/interface/menu_bar.rst:56
+#: ../../source/users/interface/menu_bar.rst:118
+#: ../../source/users/interface/menu_bar.rst:150
+#: ../../source/users/interface/menu_bar.rst:182
+#: ../../source/users/interface/menu_bar.rst:200
+#: ../../source/users/interface/menu_bar.rst:224
+msgid "Keyboard shortcut"
+msgstr "键盘快捷键"
+
+#: ../../source/users/interface/menu_bar.rst:26
+#: ../../source/users/interface/menu_bar.rst:56
+#: ../../source/users/interface/menu_bar.rst:118
+#: ../../source/users/interface/menu_bar.rst:150
+#: ../../source/users/interface/menu_bar.rst:182
+#: ../../source/users/interface/menu_bar.rst:200
+#: ../../source/users/interface/menu_bar.rst:224
+msgid "Icon"
+msgstr "图标"
+
+#: ../../source/users/interface/menu_bar.rst:28
+msgid "Latest files"
+msgstr "最近的文件"
+
+#: ../../source/users/interface/menu_bar.rst:28
+msgid "Opens a project from history (recently opened files)"
+msgstr "打开历史中的项目( 最近打开的文件)"
+
+#: ../../source/users/interface/menu_bar.rst:28
+msgid "|document-recent|"
+msgstr "|document-recent|"
+
+#: ../../source/users/interface/menu_bar.rst:243
+msgid "document-recent"
+msgstr "文档最近"
+
+#: ../../source/users/interface/menu_bar.rst:30
+msgid "New"
+msgstr "新建"
+
+#: ../../source/users/interface/menu_bar.rst:30
+msgid "Creates a new Project"
+msgstr "创建新项目"
+
+#: ../../source/users/interface/menu_bar.rst:30
+msgid "``Ctrl + n``"
+msgstr "``Ctrl + n``"
+
+#: ../../source/users/interface/menu_bar.rst:30
+msgid "|project-new|"
+msgstr "|project-new|"
+
+#: ../../source/users/interface/menu_bar.rst:244
+msgid "project-new"
+msgstr "项目-新"
+
+#: ../../source/users/interface/menu_bar.rst:32
+msgid "Open"
+msgstr "打开"
+
+#: ../../source/users/interface/menu_bar.rst:32
+msgid "Opens an existing project"
+msgstr "打开已有的项目"
+
+#: ../../source/users/interface/menu_bar.rst:32
+msgid "``Ctrl + o``"
+msgstr "``Ctrl + o``"
+
+#: ../../source/users/interface/menu_bar.rst:32
+msgid "|project|"
+msgstr "|project|"
+
+#: ../../source/users/interface/menu_bar.rst:245
+msgid "project"
+msgstr "项目"
+
+#: ../../source/users/interface/menu_bar.rst:34
+msgid "Save"
+msgstr "保存"
+
+#: ../../source/users/interface/menu_bar.rst:34
+msgid "Saves the current project and all its folios"
+msgstr "保存当前项目及其所有组合"
+
+#: ../../source/users/interface/menu_bar.rst:34
+msgid "``Ctrl + s``"
+msgstr "``Ctrl + s``"
+
+#: ../../source/users/interface/menu_bar.rst:34
+msgid "|document-save|"
+msgstr "|document-save|"
+
+#: ../../source/users/interface/menu_bar.rst:246
+msgid "document-save"
+msgstr "文档保存"
+
+#: ../../source/users/interface/menu_bar.rst:36
+msgid "Save as"
+msgstr "另存为"
+
+#: ../../source/users/interface/menu_bar.rst:36
+msgid "Saves the current project with a different file name"
+msgstr "以不同的文件名称保存当前项目"
+
+#: ../../source/users/interface/menu_bar.rst:36
+msgid "|document-save-as|"
+msgstr "|document-save-as|"
+
+#: ../../source/users/interface/menu_bar.rst:247
+msgid "document-save-as"
+msgstr "文档保存为"
+
+#: ../../source/users/interface/menu_bar.rst:38
+#: ../../source/users/interface/menu_bar.rst:202
+msgid "Close"
+msgstr "关闭"
+
+#: ../../source/users/interface/menu_bar.rst:38
+#: ../../source/users/interface/menu_bar.rst:202
+msgid "Closes the current project"
+msgstr "关闭当前项目"
+
+#: ../../source/users/interface/menu_bar.rst:38
+msgid "``Ctrl + w``"
+msgstr "``Ctrl + w``"
+
+#: ../../source/users/interface/menu_bar.rst:38
+#: ../../source/users/interface/menu_bar.rst:202
+msgid "|project-close|"
+msgstr "|project-close|"
+
+#: ../../source/users/interface/menu_bar.rst:248
+msgid "project-close"
+msgstr "项目关闭"
+
+#: ../../source/users/interface/menu_bar.rst:40
+msgid "Export"
+msgstr "导出"
+
+#: ../../source/users/interface/menu_bar.rst:40
+msgid "Exports the current folio to another format"
+msgstr "导出当前框到其它格式"
+
+#: ../../source/users/interface/menu_bar.rst:40
+msgid "``Ctrl + Shift + x``"
+msgstr "``Ctrl + Shift + x``"
+
+#: ../../source/users/interface/menu_bar.rst:40
+msgid "|document-export|"
+msgstr "|document-export|"
+
+#: ../../source/users/interface/menu_bar.rst:249
+msgid "document-export"
+msgstr "文档导出"
+
+#: ../../source/users/interface/menu_bar.rst:42
+msgid "Print"
+msgstr "打印"
+
+#: ../../source/users/interface/menu_bar.rst:42
+msgid "Print one or more folio of the current project"
+msgstr "打印当前项目的一个或多个框"
+
+#: ../../source/users/interface/menu_bar.rst:42
+msgid "``Ctrl + p``"
+msgstr "``Ctrl + p``"
+
+#: ../../source/users/interface/menu_bar.rst:42
+msgid "|document-print|"
+msgstr "|document-print|"
+
+#: ../../source/users/interface/menu_bar.rst:250
+msgid "document-print"
+msgstr "文档打印"
+
+#: ../../source/users/interface/menu_bar.rst:44
+msgid "Quit"
+msgstr "退出"
+
+#: ../../source/users/interface/menu_bar.rst:44
+msgid "Closes QElectroTech"
+msgstr "关闭 QElectroTech"
+
+#: ../../source/users/interface/menu_bar.rst:44
+msgid "``Ctrl + q``/ ``Alt + F4``"
+msgstr "``Ctrl + q``/ ``Alt + F4``"
+
+#: ../../source/users/interface/menu_bar.rst:44
+msgid "|application-exit|"
+msgstr "|application-exit|"
+
+#: ../../source/users/interface/menu_bar.rst:251
+msgid "application-exit"
+msgstr "应用程序退出"
+
+#: ../../source/users/interface/menu_bar.rst:48
+msgid "Edit menu"
+msgstr "编辑菜单"
+
+#: ../../source/users/interface/menu_bar.rst:53
+msgid "Figure: QElectroTech edit menu"
+msgstr "图：QElectroTech 编辑菜单"
+
+#: ../../source/users/interface/menu_bar.rst:58
+msgid "Undo"
+msgstr "撤销"
+
+#: ../../source/users/interface/menu_bar.rst:58
+msgid "Undoes the previous action"
+msgstr "撤消上一个动作"
+
+#: ../../source/users/interface/menu_bar.rst:58
+msgid "``Ctrl + z``"
+msgstr "``Ctrl + z``"
+
+#: ../../source/users/interface/menu_bar.rst:58
+msgid "|edit-undo|"
+msgstr "|edit-undo|"
+
+#: ../../source/users/interface/menu_bar.rst:252
+msgid "edit-undo"
+msgstr "编辑-取消"
+
+#: ../../source/users/interface/menu_bar.rst:60
+msgid "Redo"
+msgstr "重做"
+
+#: ../../source/users/interface/menu_bar.rst:60
+msgid "Restores the undone action"
+msgstr "恢复已撤销的动作"
+
+#: ../../source/users/interface/menu_bar.rst:60
+msgid "``Ctrl + y``"
+msgstr "``Ctrl + y``"
+
+#: ../../source/users/interface/menu_bar.rst:60
+msgid "|edit-redo|"
+msgstr "|edit-redo|"
+
+#: ../../source/users/interface/menu_bar.rst:253
+msgid "edit-redo"
+msgstr "编辑-重写"
+
+#: ../../source/users/interface/menu_bar.rst:62
+msgid "Cut"
+msgstr "剪切"
+
+#: ../../source/users/interface/menu_bar.rst:62
+msgid "Puts selected elements into the clipboard"
+msgstr "将选中的元素放入剪贴板"
+
+#: ../../source/users/interface/menu_bar.rst:62
+msgid "``Ctrl + x``"
+msgstr "``Ctrl + x``"
+
+#: ../../source/users/interface/menu_bar.rst:62
+msgid "|edit-cut|"
+msgstr "|edit-cut|"
+
+#: ../../source/users/interface/menu_bar.rst:254
+msgid "edit-cut"
+msgstr "编辑剪切"
+
+#: ../../source/users/interface/menu_bar.rst:64
+msgid "Copy"
+msgstr "复制"
+
+#: ../../source/users/interface/menu_bar.rst:64
+msgid "Copies selected elements"
+msgstr "复制选中元素"
+
+#: ../../source/users/interface/menu_bar.rst:64
+msgid "``Ctrl + c``"
+msgstr "``Ctrl + c``"
+
+#: ../../source/users/interface/menu_bar.rst:64
+msgid "|edit-copy|"
+msgstr "|edit-copy|"
+
+#: ../../source/users/interface/menu_bar.rst:255
+msgid "edit-copy"
+msgstr "编辑复制"
+
+#: ../../source/users/interface/menu_bar.rst:66
+msgid "Paste"
+msgstr "粘贴"
+
+#: ../../source/users/interface/menu_bar.rst:66
+msgid "Pastes elements from the clipboard into the folio"
+msgstr "将剪贴板中的元素粘贴到相框中"
+
+#: ../../source/users/interface/menu_bar.rst:66
+msgid "``Ctrl + v``"
+msgstr "``Ctrl + v``"
+
+#: ../../source/users/interface/menu_bar.rst:66
+msgid "|edit-paste|"
+msgstr "|edit-paste|"
+
+#: ../../source/users/interface/menu_bar.rst:256
+msgid "edit-paste"
+msgstr "编辑-粘贴"
+
+#: ../../source/users/interface/menu_bar.rst:68
+msgid "Select All"
+msgstr "全部选择"
+
+#: ../../source/users/interface/menu_bar.rst:68
+msgid "Selects all elements on the folio"
+msgstr "选择文件框上的所有元素"
+
+#: ../../source/users/interface/menu_bar.rst:68
+msgid "``Ctrl + a``"
+msgstr "``Ctrl + a``"
+
+#: ../../source/users/interface/menu_bar.rst:68
+msgid "|edit-select-all|"
+msgstr "|edit-select-all|"
+
+#: ../../source/users/interface/menu_bar.rst:257
+msgid "edit-select-all"
+msgstr "编辑- 选择全部"
+
+#: ../../source/users/interface/menu_bar.rst:70
+msgid "Select none"
+msgstr "取消选择"
+
+#: ../../source/users/interface/menu_bar.rst:70
+msgid "Deselect all elements on the folio"
+msgstr "取消在光圈上选择全部元素"
+
+#: ../../source/users/interface/menu_bar.rst:70
+msgid "``Ctrl + Shift + a``"
+msgstr "``Ctrl + Shift + a``"
+
+#: ../../source/users/interface/menu_bar.rst:70
+msgid "|edit-select-none|"
+msgstr "|edit-select-none|"
+
+#: ../../source/users/interface/menu_bar.rst:258
+msgid "edit-select-none"
+msgstr "编辑- 选择- 无"
+
+#: ../../source/users/interface/menu_bar.rst:72
+msgid "Invert selection"
+msgstr "反向选择"
+
+#: ../../source/users/interface/menu_bar.rst:72
+msgid "Inverts selection of elements"
+msgstr "元素的反向选择"
+
+#: ../../source/users/interface/menu_bar.rst:72
+msgid "``Ctrl + i``"
+msgstr "``Ctrl + i``"
+
+#: ../../source/users/interface/menu_bar.rst:72
+msgid "|edit-select-invert|"
+msgstr "|edit-select-invert|"
+
+#: ../../source/users/interface/menu_bar.rst:259
+msgid "edit-select-invert"
+msgstr "编辑-选择反转"
+
+#: ../../source/users/interface/menu_bar.rst:74
+msgid "Delete"
+msgstr "删除"
+
+#: ../../source/users/interface/menu_bar.rst:74
+msgid "Removes selected elements from the folio"
+msgstr "从框中删除选中的元素"
+
+#: ../../source/users/interface/menu_bar.rst:74
+msgid "``Del``"
+msgstr "``Del``"
+
+#: ../../source/users/interface/menu_bar.rst:74
+msgid "|edit-delete|"
+msgstr "|edit-delete|"
+
+#: ../../source/users/interface/menu_bar.rst:260
+msgid "edit-delete"
+msgstr "编辑-删除"
+
+#: ../../source/users/interface/menu_bar.rst:76
+msgid "Rotate"
+msgstr "旋转"
+
+#: ../../source/users/interface/menu_bar.rst:76
+msgid "Rotates selected elements and texts"
+msgstr "旋转选定的要素和文本"
+
+#: ../../source/users/interface/menu_bar.rst:76
+msgid "``Space``"
+msgstr "``Space``"
+
+#: ../../source/users/interface/menu_bar.rst:76
+msgid "|transform-rotate|"
+msgstr "|transform-rotate|"
+
+#: ../../source/users/interface/menu_bar.rst:261
+msgid "transform-rotate"
+msgstr "变换旋转"
+
+#: ../../source/users/interface/menu_bar.rst:78
+msgid "Choose texts orientation"
+msgstr "选择文本方向"
+
+#: ../../source/users/interface/menu_bar.rst:78
+msgid "Rotates selected texts to a specific angle"
+msgstr "将选定的文本旋转到特定角度"
+
+#: ../../source/users/interface/menu_bar.rst:78
+msgid "``Ctrl + Space``"
+msgstr "``Ctrl + Space``"
+
+#: ../../source/users/interface/menu_bar.rst:78
+msgid "|object-rotate-right|"
+msgstr "|object-rotate-right|"
+
+#: ../../source/users/interface/menu_bar.rst:262
+msgid "object-rotate-right"
+msgstr "对象旋转右侧"
+
+#: ../../source/users/interface/menu_bar.rst:80
+msgid "Find in the panel"
+msgstr "在面板中查找"
+
+#: ../../source/users/interface/menu_bar.rst:80
+msgid "Finds the selected element in the collections panel"
+msgstr "查找收藏面板中选定的元素"
+
+#: ../../source/users/interface/menu_bar.rst:80
+#: ../../source/users/interface/menu_bar.rst:166
+msgid "|zoom-draw|"
+msgstr "|zoom-draw|"
+
+#: ../../source/users/interface/menu_bar.rst:287
+msgid "zoom-draw"
+msgstr "缩放绘图"
+
+#: ../../source/users/interface/menu_bar.rst:82
+msgid "Edit the selected object"
+msgstr "编辑选定对象"
+
+#: ../../source/users/interface/menu_bar.rst:82
+msgid "Displays properties for the selected element / conductor"
+msgstr "显示选定元素/ 导线的属性"
+
+#: ../../source/users/interface/menu_bar.rst:82
+msgid "``Ctrl + e``"
+msgstr "``Ctrl + e``"
+
+#: ../../source/users/interface/menu_bar.rst:82
+msgid "|element-edit|"
+msgstr "|element-edit|"
+
+#: ../../source/users/interface/menu_bar.rst:263
+msgid "element-edit"
+msgstr "元素编辑器"
+
+#: ../../source/users/interface/menu_bar.rst:84
+msgid "Group selected texts"
+msgstr "分组选定的文本"
+
+#: ../../source/users/interface/menu_bar.rst:86
+msgid "Reset conductors"
+msgstr "重置导线"
+
+#: ../../source/users/interface/menu_bar.rst:86
+msgid "Resets the conductors path ignoring the user changes"
+msgstr "重置未忽略用户更改的导线路径"
+
+#: ../../source/users/interface/menu_bar.rst:86
+msgid "``Ctrl + k``"
+msgstr "``Ctrl + k``"
+
+#: ../../source/users/interface/menu_bar.rst:86
+msgid "|conductor-reset|"
+msgstr "|conductor-reset|"
+
+#: ../../source/users/interface/menu_bar.rst:264
+msgid "conductor-reset"
+msgstr "导线重置"
+
+#: ../../source/users/interface/menu_bar.rst:88
+msgid "Folio properties"
+msgstr "组合属性"
+
+#: ../../source/users/interface/menu_bar.rst:88
+msgid "Edits the properties of the folio"
+msgstr "编辑文件的属性"
+
+#: ../../source/users/interface/menu_bar.rst:88
+msgid "``Ctrl + l``"
+msgstr "``Ctrl + l``"
+
+#: ../../source/users/interface/menu_bar.rst:88
+msgid "|folio-properties|"
+msgstr "|folio-properties|"
+
+#: ../../source/users/interface/menu_bar.rst:265
+msgid "folio-properties"
+msgstr "财产"
+
+#: ../../source/users/interface/menu_bar.rst:90
+msgid "Add a column"
+msgstr "添加一栏"
+
+#: ../../source/users/interface/menu_bar.rst:90
+msgid "Adds a column to the folio"
+msgstr "在框中添加一列"
+
+#: ../../source/users/interface/menu_bar.rst:90
+msgid "|insert-column-right|"
+msgstr "|insert-column-right|"
+
+#: ../../source/users/interface/menu_bar.rst:266
+msgid "insert-column-right"
+msgstr "插入栏右"
+
+#: ../../source/users/interface/menu_bar.rst:92
+msgid "Remove a column"
+msgstr "删除列"
+
+#: ../../source/users/interface/menu_bar.rst:92
+msgid "Removes a column from the folio"
+msgstr "从框中删除列"
+
+#: ../../source/users/interface/menu_bar.rst:92
+msgid "|delete-column|"
+msgstr "|delete-column|"
+
+#: ../../source/users/interface/menu_bar.rst:267
+msgid "delete-column"
+msgstr "删除栏"
+
+#: ../../source/users/interface/menu_bar.rst:94
+msgid "Add a row"
+msgstr "添加一行"
+
+#: ../../source/users/interface/menu_bar.rst:94
+msgid "Adds a row to the folio"
+msgstr "将一行添加到文件框"
+
+#: ../../source/users/interface/menu_bar.rst:94
+msgid "|insert-row-under|"
+msgstr "|insert-row-under|"
+
+#: ../../source/users/interface/menu_bar.rst:269
+msgid "insert-row-under"
+msgstr "插入线下"
+
+#: ../../source/users/interface/menu_bar.rst:96
+msgid "Remove a row"
+msgstr "删除一行"
+
+#: ../../source/users/interface/menu_bar.rst:96
+msgid "Removes a row from the folio"
+msgstr "从框中删除一行"
+
+#: ../../source/users/interface/menu_bar.rst:96
+msgid "|delete-row|"
+msgstr "|delete-row|"
+
+#: ../../source/users/interface/menu_bar.rst:268
+msgid "delete-row"
+msgstr "删除行"
+
+#: ../../source/users/interface/menu_bar.rst:98
+msgid "Bring to front"
+msgstr "带到前面"
+
+#: ../../source/users/interface/menu_bar.rst:98
+msgid "Brings the selection (s) to front"
+msgstr "将选择带到前面"
+
+#: ../../source/users/interface/menu_bar.rst:98
+msgid "``Ctrl + Shift + Home``"
+msgstr "``Ctrl + Shift + Home``"
+
+#: ../../source/users/interface/menu_bar.rst:98
+msgid "|bring_forward|"
+msgstr "|bring_forward|"
+
+#: ../../source/users/interface/menu_bar.rst:270
+msgid "bring_forward"
+msgstr "带入"
+
+#: ../../source/users/interface/menu_bar.rst:100
+msgid "Raise"
+msgstr "提升"
+
+#: ../../source/users/interface/menu_bar.rst:100
+msgid "Moves under over objects (s)"
+msgstr "在对象(s)下移动"
+
+#: ../../source/users/interface/menu_bar.rst:100
+msgid "``Ctrl + Shift + Up``"
+msgstr "``Ctrl + Shift + Up``"
+
+#: ../../source/users/interface/menu_bar.rst:100
+msgid "|raise|"
+msgstr "|raise|"
+
+#: ../../source/users/interface/menu_bar.rst:271
+msgid "raise"
+msgstr "提高"
+
+#: ../../source/users/interface/menu_bar.rst:102
+msgid "Lower"
+msgstr "下调"
+
+#: ../../source/users/interface/menu_bar.rst:102
+msgid "Moves under other objects (s)"
+msgstr "移动到其他对象(s)下"
+
+#: ../../source/users/interface/menu_bar.rst:102
+msgid "``Ctrl + Shift + Down``"
+msgstr "``Ctrl + Shift + Down``"
+
+#: ../../source/users/interface/menu_bar.rst:102
+msgid "|lower|"
+msgstr "|lower|"
+
+#: ../../source/users/interface/menu_bar.rst:272
+msgid "lower"
+msgstr "下调"
+
+#: ../../source/users/interface/menu_bar.rst:104
+msgid "Send backwards"
+msgstr "向后发送"
+
+#: ../../source/users/interface/menu_bar.rst:104
+msgid "Sends in the backwards the selection (s)"
+msgstr "向后发送选择"
+
+#: ../../source/users/interface/menu_bar.rst:104
+msgid "``Ctrl + Shift + End``"
+msgstr "``Ctrl + Shift + End``"
+
+#: ../../source/users/interface/menu_bar.rst:104
+msgid "|send_backward|"
+msgstr "|send_backward|"
+
+#: ../../source/users/interface/menu_bar.rst:273
+msgid "send_backward"
+msgstr "向后发送( B)"
+
+#: ../../source/users/interface/menu_bar.rst:106
+msgid "Search / Replace"
+msgstr "搜索/ 替换"
+
+#: ../../source/users/interface/menu_bar.rst:106
+msgid "Display Search / Replace panel"
+msgstr "显示搜索/ 替换面板"
+
+#: ../../source/users/interface/menu_bar.rst:106
+msgid "``Ctrl + f``"
+msgstr "``Ctrl + f``"
+
+#: ../../source/users/interface/menu_bar.rst:110
+msgid "Project menu"
+msgstr "项目菜单"
+
+#: ../../source/users/interface/menu_bar.rst:115
+msgid "Figure: QElectroTech project menu"
+msgstr "图：QElectroTech 项目菜单"
+
+#: ../../source/users/interface/menu_bar.rst:120
+msgid "Project properties"
+msgstr "项目属性"
+
+#: ../../source/users/interface/menu_bar.rst:120
+msgid "Display project properties PopUp window"
+msgstr "显示项目属性弹出窗口"
+
+#: ../../source/users/interface/menu_bar.rst:120
+msgid "|project-properties|"
+msgstr "|project-properties|"
+
+#: ../../source/users/interface/menu_bar.rst:274
+msgid "project-properties"
+msgstr "项目财产"
+
+#: ../../source/users/interface/menu_bar.rst:122
+msgid "Add a folio"
+msgstr "添加缩写"
+
+#: ../../source/users/interface/menu_bar.rst:122
+msgid "Adds a new folio (drawing sheet) to the active project."
+msgstr "在活动项目中添加一个新的页。"
+
+#: ../../source/users/interface/menu_bar.rst:122
+msgid "``Ctrl + t``"
+msgstr "``Ctrl + t``"
+
+#: ../../source/users/interface/menu_bar.rst:122
+msgid "|folio-new|"
+msgstr "|folio-new|"
+
+#: ../../source/users/interface/menu_bar.rst:275
+msgid "folio-new"
+msgstr "新胶片"
+
+#: ../../source/users/interface/menu_bar.rst:124
+msgid "Delete this folio"
+msgstr "删除此缩写"
+
+#: ../../source/users/interface/menu_bar.rst:124
+msgid "Deletes the active folio (drawing sheet) of the project"
+msgstr "删除项目的图幅"
+
+#: ../../source/users/interface/menu_bar.rst:124
+msgid "|folio-delete|"
+msgstr "|folio-delete|"
+
+#: ../../source/users/interface/menu_bar.rst:276
+msgid "folio-delete"
+msgstr "浮点解"
+
+#: ../../source/users/interface/menu_bar.rst:126
+msgid "Clean project"
+msgstr "清洁项目"
+
+#: ../../source/users/interface/menu_bar.rst:126
+msgid ""
+"Purges the active project of unused elements and empty categories and "
+"templates"
+msgstr "清除未使用元素和空类别及模板的当前项目"
+
+#: ../../source/users/interface/menu_bar.rst:126
+msgid "|edit-clear|"
+msgstr "|edit-clear|"
+
+#: ../../source/users/interface/menu_bar.rst:277
+msgid "edit-clear"
+msgstr "编辑清除"
+
+#: ../../source/users/interface/menu_bar.rst:128
+msgid "Add a summary"
+msgstr "添加摘要"
+
+#: ../../source/users/interface/menu_bar.rst:128
+msgid "Creates an index table for the active project"
+msgstr "为活动项目创建索引表"
+
+#: ../../source/users/interface/menu_bar.rst:128
+#: ../../source/users/interface/menu_bar.rst:130
+msgid "|table-of-content|"
+msgstr "|table-of-content|"
+
+#: ../../source/users/interface/menu_bar.rst:278
+msgid "table-of-content"
+msgstr "内容表格"
+
+#: ../../source/users/interface/menu_bar.rst:130
+msgid "Add a nomenclature"
+msgstr "添加一个名称"
+
+#: ../../source/users/interface/menu_bar.rst:130
+msgid "Creates a Bill Of Material (BOM) table for the active project"
+msgstr "为正在运行的项目创建“ 材料清单” 表格"
+
+#: ../../source/users/interface/menu_bar.rst:132
+msgid "Export to CSV"
+msgstr "导出为 CSV"
+
+#: ../../source/users/interface/menu_bar.rst:132
+msgid ""
+"Generates a ``.csv`` file summary of elements used in the active project "
+"according to defined filtering options"
+msgstr "根据定义的过滤选项生成当前项目中使用的元素的 ``.csv`` 文件摘要"
+
+#: ../../source/users/interface/menu_bar.rst:132
+#: ../../source/users/interface/menu_bar.rst:134
+#: ../../source/users/interface/menu_bar.rst:138
+msgid "|export-csv|"
+msgstr "|export-csv|"
+
+#: ../../source/users/interface/menu_bar.rst:279
+msgid "export-csv"
+msgstr "导出- csv"
+
+#: ../../source/users/interface/menu_bar.rst:134
+msgid "Export the list of names of wires"
+msgstr "导出电线名称列表"
+
+#: ../../source/users/interface/menu_bar.rst:134
+msgid ""
+"Generates a ``.csv`` file summary of conductors used in the active project"
+msgstr "生成当前项目中使用的导体的 ``.csv`` 文件摘要"
+
+#: ../../source/users/interface/menu_bar.rst:136
+msgid "Launch the terminal block creation plugin"
+msgstr "启动端子排创建插件"
+
+#: ../../source/users/interface/menu_bar.rst:136
+msgid "|terminalstrip|"
+msgstr "|terminalstrip|"
+
+#: ../../source/users/interface/menu_bar.rst:280
+msgid "terminalstrip"
+msgstr "终端"
+
+#: ../../source/users/interface/menu_bar.rst:138
+msgid "Export the internal project database"
+msgstr "导出内部项目数据库"
+
+#: ../../source/users/interface/menu_bar.rst:138
+msgid "Generates a SQLite database of the active project"
+msgstr "生成活动项目的 SQLite 数据库"
+
+#: ../../source/users/interface/menu_bar.rst:142
+msgid "Display menu"
+msgstr "显示菜单"
+
+#: ../../source/users/interface/menu_bar.rst:147
+msgid "Figure: QElectroTech display menu"
+msgstr "图：QElectroTech 显示菜单"
+
+#: ../../source/users/interface/menu_bar.rst:152
+msgid "Display projects"
+msgstr "显示项目"
+
+#: ../../source/users/interface/menu_bar.rst:152
+msgid "Shows the various opened projects in windows or tabs"
+msgstr "在窗口或标签中显示各种打开的项目"
+
+#: ../../source/users/interface/menu_bar.rst:152
+#: ../../source/users/interface/menu_bar.rst:184
+msgid "|configure-toolbars|"
+msgstr "|configure-toolbars|"
+
+#: ../../source/users/interface/menu_bar.rst:290
+msgid "configure-toolbars"
+msgstr "配置工具栏"
+
+#: ../../source/users/interface/menu_bar.rst:154
+msgid "Select"
+msgstr "选择"
+
+#: ../../source/users/interface/menu_bar.rst:154
+msgid "Allows to select elements"
+msgstr "允许选择元素"
+
+#: ../../source/users/interface/menu_bar.rst:154
+msgid "|select|"
+msgstr "|select|"
+
+#: ../../source/users/interface/menu_bar.rst:281
+msgid "select"
+msgstr "选择"
+
+#: ../../source/users/interface/menu_bar.rst:156
+msgid "Move"
+msgstr "移动"
+
+#: ../../source/users/interface/menu_bar.rst:156
+msgid "Allows to view the folio without modifying it"
+msgstr "允许在不修改的情况下查看浮雕"
+
+#: ../../source/users/interface/menu_bar.rst:156
+msgid "|move|"
+msgstr "|move|"
+
+#: ../../source/users/interface/menu_bar.rst:282
+msgid "move"
+msgstr "移动"
+
+#: ../../source/users/interface/menu_bar.rst:158
+msgid "Display the grid"
+msgstr "显示网格"
+
+#: ../../source/users/interface/menu_bar.rst:158
+msgid "Displays or hidden the grid of folio"
+msgstr "显示或隐藏光栅格"
+
+#: ../../source/users/interface/menu_bar.rst:158
+msgid "|grid|"
+msgstr "|grid|"
+
+#: ../../source/users/interface/menu_bar.rst:283
+msgid "grid"
+msgstr "网格"
+
+#: ../../source/users/interface/menu_bar.rst:160
+msgid "Background color white / gray"
+msgstr "背景颜色为白色/ 灰色"
+
+#: ../../source/users/interface/menu_bar.rst:160
+msgid "Displays the background color of the folio in white or gray"
+msgstr "显示白色或灰色圆顶的背景颜色"
+
+#: ../../source/users/interface/menu_bar.rst:160
+msgid "|diagram_bg|"
+msgstr "|diagram_bg|"
+
+#: ../../source/users/interface/menu_bar.rst:284
+msgid "diagram_bg"
+msgstr "图表  bg"
+
+#: ../../source/users/interface/menu_bar.rst:162
+msgid "Zoom In"
+msgstr "缩放"
+
+#: ../../source/users/interface/menu_bar.rst:162
+msgid "Expands the folio"
+msgstr "扩展窗体"
+
+#: ../../source/users/interface/menu_bar.rst:162
+msgid "``Ctrl + +``"
+msgstr "``Ctrl + +``"
+
+#: ../../source/users/interface/menu_bar.rst:162
+msgid "|zoom-in|"
+msgstr "|zoom-in|"
+
+#: ../../source/users/interface/menu_bar.rst:285
+msgid "zoom-in"
+msgstr "缩放"
+
+#: ../../source/users/interface/menu_bar.rst:164
+msgid "Zoom Out"
+msgstr "缩小"
+
+#: ../../source/users/interface/menu_bar.rst:164
+msgid "Shrinks the folio"
+msgstr "闪闪发光"
+
+#: ../../source/users/interface/menu_bar.rst:164
+msgid "``Ctrl + -``"
+msgstr "``Ctrl + -``"
+
+#: ../../source/users/interface/menu_bar.rst:164
+msgid "|zoom-out|"
+msgstr "|zoom-out|"
+
+#: ../../source/users/interface/menu_bar.rst:286
+msgid "zoom-out"
+msgstr "缩放"
+
+#: ../../source/users/interface/menu_bar.rst:166
+msgid "Zoom content"
+msgstr "缩放内容"
+
+#: ../../source/users/interface/menu_bar.rst:166
+msgid ""
+"Adjusts the zoom to display all the content of folio regardless of context"
+msgstr "调整缩放以显示光标的所有内容，不管上下文"
+
+#: ../../source/users/interface/menu_bar.rst:166
+msgid "``Ctrl + 8``"
+msgstr "``Ctrl + 8``"
+
+#: ../../source/users/interface/menu_bar.rst:168
+msgid "Fit in view"
+msgstr "适合视图"
+
+#: ../../source/users/interface/menu_bar.rst:168
+msgid "Adjusts the zoom on exactly the part of the folio"
+msgstr "调整缩放在球体的确切部分"
+
+#: ../../source/users/interface/menu_bar.rst:168
+msgid "``Ctrl + 9``"
+msgstr "``Ctrl + 9``"
+
+#: ../../source/users/interface/menu_bar.rst:168
+msgid "|view-fit-window|"
+msgstr "|view-fit-window|"
+
+#: ../../source/users/interface/menu_bar.rst:288
+msgid "view-fit-window"
+msgstr "视图适应窗口"
+
+#: ../../source/users/interface/menu_bar.rst:170
+msgid "Reset zoom"
+msgstr "重置缩放"
+
+#: ../../source/users/interface/menu_bar.rst:170
+msgid "Restores default zoom level"
+msgstr "恢复默认缩放级别"
+
+#: ../../source/users/interface/menu_bar.rst:170
+msgid "``Ctrl + 0``"
+msgstr "``Ctrl + 0``"
+
+#: ../../source/users/interface/menu_bar.rst:170
+msgid "|zoom-original|"
+msgstr "|zoom-original|"
+
+#: ../../source/users/interface/menu_bar.rst:289
+msgid "zoom-original"
+msgstr "缩放- 原始"
+
+#: ../../source/users/interface/menu_bar.rst:174
+msgid "Settings menu"
+msgstr "设置菜单"
+
+#: ../../source/users/interface/menu_bar.rst:179
+msgid "Figure: QElectroTech settings menu"
+msgstr "图：QElectroTech 设置菜单"
+
+#: ../../source/users/interface/menu_bar.rst:184
+msgid "Display"
+msgstr "显示"
+
+#: ../../source/users/interface/menu_bar.rst:184
+msgid "Displays or hides toolbars and panels"
+msgstr "显示或隐藏工具栏和面板"
+
+#: ../../source/users/interface/menu_bar.rst:186
+msgid "Full screen mode"
+msgstr "全屏模式"
+
+#: ../../source/users/interface/menu_bar.rst:186
+msgid "Displays QElectroTech in full screen mode"
+msgstr "在全屏模式下显示 QElectroTech"
+
+#: ../../source/users/interface/menu_bar.rst:186
+msgid "``Ctrl + Shift + f``"
+msgstr "``Ctrl + Shift + f``"
+
+#: ../../source/users/interface/menu_bar.rst:186
+msgid "|view-fullscreen|"
+msgstr "|view-fullscreen|"
+
+#: ../../source/users/interface/menu_bar.rst:291
+msgid "view-fullscreen"
+msgstr "视图全屏"
+
+#: ../../source/users/interface/menu_bar.rst:188
+msgid "Configure QElectroTech"
+msgstr "配置 QElectroTech 设备"
+
+#: ../../source/users/interface/menu_bar.rst:188
+msgid "Allows specifying various parameters for QElectroTech"
+msgstr "允许指定 QElectroTech 的各种参数"
+
+#: ../../source/users/interface/menu_bar.rst:188
+msgid "|configure|"
+msgstr "|configure|"
+
+#: ../../source/users/interface/menu_bar.rst:292
+msgid "configure"
+msgstr "配置"
+
+#: ../../source/users/interface/menu_bar.rst:192
+msgid "Windows menu"
+msgstr "窗口菜单"
+
+#: ../../source/users/interface/menu_bar.rst:197
+msgid "Figure: QElectroTech windows menu"
+msgstr "图：QElectroTech 窗口菜单"
+
+#: ../../source/users/interface/menu_bar.rst:202
+msgid "``Ctrl + f4``"
+msgstr "``Ctrl + f4``"
+
+#: ../../source/users/interface/menu_bar.rst:204
+msgid "Tile"
+msgstr "平铺"
+
+#: ../../source/users/interface/menu_bar.rst:204
+msgid "Arrange the projects by placing them side by side"
+msgstr "通过并排安排项目"
+
+#: ../../source/users/interface/menu_bar.rst:206
+msgid "Cascade"
+msgstr "连锁店"
+
+#: ../../source/users/interface/menu_bar.rst:206
+msgid "Arrange projects by placing them on top of each other."
+msgstr "通过将它们放在对方的顶部来安排项目。"
+
+#: ../../source/users/interface/menu_bar.rst:208
+msgid "Next Project"
+msgstr "下一个项目"
+
+#: ../../source/users/interface/menu_bar.rst:208
+msgid "Switches to the next project"
+msgstr "切换到下一个项目"
+
+#: ../../source/users/interface/menu_bar.rst:208
+msgid "``Ctrl + tab``"
+msgstr "``Ctrl + tab``"
+
+#: ../../source/users/interface/menu_bar.rst:210
+msgid "Previous Project"
+msgstr "上一个项目"
+
+#: ../../source/users/interface/menu_bar.rst:210
+msgid "Switches to the previous project"
+msgstr "切换到上一个项目"
+
+#: ../../source/users/interface/menu_bar.rst:210
+msgid "``Ctrl + Shift + Backtab``"
+msgstr "``Ctrl + Shift + Backtab``"
+
+#: ../../source/users/interface/menu_bar.rst:212
+msgid "(Opened Projects)"
+msgstr "(开放项目)"
+
+#: ../../source/users/interface/menu_bar.rst:212
+msgid ""
+"Below **Previous Project** QElectroTech list all opened projects to select "
+"the active project"
+msgstr "下 **先前的项目** QElectroTech 列表中所有已打开的项目来选择正在运行的项目"
+
+#: ../../source/users/interface/menu_bar.rst:216
+msgid "Help menu"
+msgstr "帮助菜单"
+
+#: ../../source/users/interface/menu_bar.rst:221
+msgid "Figure: QElectroTech help menu"
+msgstr "图：QElectroTech 帮助菜单"
+
+#: ../../source/users/interface/menu_bar.rst:226
+msgid "What's This?"
+msgstr "这是什么?"
+
+#: ../../source/users/interface/menu_bar.rst:226
+msgid "Enquires main menu options"
+msgstr "询问主菜单选项"
+
+#: ../../source/users/interface/menu_bar.rst:226
+msgid "``Shift + f1``"
+msgstr "``Shift + f1``"
+
+#: ../../source/users/interface/menu_bar.rst:228
+msgid "About QElectroTech"
+msgstr "关于 QElectroTech"
+
+#: ../../source/users/interface/menu_bar.rst:228
+msgid "Displays information about QElectroTech"
+msgstr "显示关于 QElectroTech 的信息"
+
+#: ../../source/users/interface/menu_bar.rst:228
+msgid "|qet-icon|"
+msgstr "|qet-icon|"
+
+#: ../../source/users/interface/menu_bar.rst:293
+msgid "qet-icon"
+msgstr "齐角"
+
+#: ../../source/users/interface/menu_bar.rst:230
+msgid "Online manual"
+msgstr "在线手册"
+
+#: ../../source/users/interface/menu_bar.rst:230
+msgid "Launches the default browser to the online manual of QElectroTech"
+msgstr "启动 QElectroTech 在线手册的默认浏览器"
+
+#: ../../source/users/interface/menu_bar.rst:230
+msgid "``f1``"
+msgstr "``f1``"
+
+#: ../../source/users/interface/menu_bar.rst:230
+msgid "|help-contents|"
+msgstr "|help-contents|"
+
+#: ../../source/users/interface/menu_bar.rst:294
+msgid "help-contents"
+msgstr "帮助内容"
+
+#: ../../source/users/interface/menu_bar.rst:232
+msgid "Youtube channel"
+msgstr "Youtube 频道"
+
+#: ../../source/users/interface/menu_bar.rst:232
+msgid "Launches the default browser on the Youtube channel of QElectroTech"
+msgstr "在 QElectroTech 的 Youtube 频道启动默认浏览器"
+
+#: ../../source/users/interface/menu_bar.rst:232
+msgid "|show-video|"
+msgstr "|show-video|"
+
+#: ../../source/users/interface/menu_bar.rst:295
+msgid "show-video"
+msgstr "显示视频"
+
+#: ../../source/users/interface/menu_bar.rst:234
+msgid "Support the project with a donation"
+msgstr "捐款支持该项目"
+
+#: ../../source/users/interface/menu_bar.rst:234
+msgid ""
+"Launches the default browser on the QElectroTech donation paypal account"
+msgstr "在 QElectroTech 捐赠付费账户上启动默认浏览器"
+
+#: ../../source/users/interface/menu_bar.rst:234
+msgid "|help-donate|"
+msgstr "|help-donate|"
+
+#: ../../source/users/interface/menu_bar.rst:296
+msgid "help-donate"
+msgstr "帮助捐赠"
+
+#: ../../source/users/interface/menu_bar.rst:236
+msgid "About Qt"
+msgstr "关于 Qt"
+
+#: ../../source/users/interface/menu_bar.rst:236
+msgid "Displays information about `Qt`_ library"
+msgstr "显示关于 `Qt <Qt_>`_ 库的信息"
+
+#: ../../source/users/interface/menu_bar.rst:236
+msgid "|qt-icon|"
+msgstr "|qt-icon|"
+
+#: ../../source/users/interface/menu_bar.rst:297
+msgid "qt-icon"
+msgstr "qt-icon 缩写"

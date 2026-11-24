@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/schema/delete.rst:5
+msgid "Delete object"
+msgstr "删除对象"
+
+#: ../../source/users/schema/delete.rst:7
+msgid ""
+"Choosing the correct `element`_, `conductor`_, `text field`_, etc. from the "
+"beginning is always nice, even so, QElectroTech allows deleting all type of "
+"object that can be add to the folios (`element`_, `conductor`_, `text "
+"field`_, `basic object`_  and `picture`_)."
+msgstr ""
+"从一开始选择正确的 `元件 <element_>`_，`导体 <conductor_>`_，`文本字段 <text field_>`_ "
+"等总是不错的，即使如此，QEelectroTech允许删除可以添加到光圈的所有类型的物体(`元件 <element_>`_，`导体 "
+"<conductor_>`_，`文本字段 <text field_>`_，`基本对象 <basic object_>`_ 和 `图片 "
+"<picture_>`_)."
+
+#: ../../source/users/schema/delete.rst:13
+msgid ""
+"Multiples objects can be deleted at the same time `selecting multiples "
+"object`_."
+msgstr "多个对象可以同时删除 `选择多个对象 <selecting multiples object_>`_。"
+
+#: ../../source/users/schema/delete.rst:15
+msgid ""
+"Deleting objects can be done from `menu bar`_, `toolbar`_, by right click on"
+" the object and using the corresponding keyboard shortcut."
+msgstr "删除对象可以从 `菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_ 中通过右键点击对象并使用相应的键盘快捷键完成。"
+
+#: ../../source/users/schema/delete.rst:19
+msgid "Delete object from menu bar"
+msgstr "从菜单栏中删除对象"
+
+#: ../../source/users/schema/delete.rst:21
+msgid "`Select the object/s`_ which should be delete."
+msgstr "`选择应当删除的对象/s <Select the object/s_>`_。"
+
+#: ../../source/users/schema/delete.rst:22
+msgid "Select **Edit > Delete** menu item to delete the object."
+msgstr "选择 **编辑 > 删除** 菜单项以删除对象。"
+
+#: ../../source/users/schema/delete.rst:27
+msgid "Figure: QElectroTech edit menu"
+msgstr "图：QElectroTech 编辑菜单"
+
+#: ../../source/users/schema/delete.rst:30
+msgid "Delete object from toolbar"
+msgstr "从工具栏中删除对象"
+
+#: ../../source/users/schema/delete.rst:32
+#: ../../source/users/schema/delete.rst:57
+msgid "`Select the object/s`_ which should be deleted."
+msgstr "`选择应当删除的对象/s <Select the object/s_>`_。"
+
+#: ../../source/users/schema/delete.rst:33
+msgid "Select the icon |edit-delete| from `toolbar`_ to delete the object."
+msgstr "从 `工具栏 <toolbar_>`_ 中选择图标 |edit-delete| 删除对象。"
+
+#: ../../source/users/schema/delete.rst:35
+msgid "edit-delete"
+msgstr "编辑-删除"
+
+#: ../../source/users/schema/delete.rst:39
+msgid ""
+"If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
+"Display > Tools**."
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示。"
+
+#: ../../source/users/schema/delete.rst:42
+msgid "Delete object by right click"
+msgstr "右键删除对象"
+
+#: ../../source/users/schema/delete.rst:44
+msgid "Right click on the object which should be deleted."
+msgstr "右键单击应删除的对象。"
+
+#: ../../source/users/schema/delete.rst:45
+msgid "Select the option **Delete** to delete the object."
+msgstr "选择选项 **删除** 删除对象。"
+
+#: ../../source/users/schema/delete.rst:50
+msgid "Figure: QElectroTech right click PopUP window"
+msgstr "图：右键点击 PopUP 窗口的QElectroTech"
+
+#: ../../source/users/schema/delete.rst:53
+msgid "Delete object using keyboard shortcut"
+msgstr "使用键盘快捷键删除对象"
+
+#: ../../source/users/schema/delete.rst:55
+msgid ""
+"QElectroTech allows using keyboard shortcut to increase the working "
+"efficiency."
+msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+
+#: ../../source/users/schema/delete.rst:58
+msgid "Press ``delete`` to delete the object."
+msgstr "按 ``delete`` 删除对象。"
+
+#: ../../source/users/schema/delete.rst:62
+msgid ""
+"For more information about QElectroTech keyboard shortcuts, refer to `menu "
+"bar`_ section."
+msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

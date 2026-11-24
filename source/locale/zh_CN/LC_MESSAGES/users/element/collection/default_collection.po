@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/collection/default_collection.rst:5
+msgid "QET collection"
+msgstr "QET 收藏"
+
+#: ../../source/users/element/collection/default_collection.rst:7
+msgid ""
+"The QET collection is the default collection from QElectroTech. This "
+"collection is protected and the user can only read it, the QET collection "
+"cannot be edited. The user cannot add any `element`_, any category or sub-"
+"category and cannot re-organize the `elements`_ in the database."
+msgstr ""
+"QET 收藏是 QElectroTech 的默认收藏。 此收藏是受保护的，用户只能读取它，QET 收藏不能编辑 。 用户不能添加任何 `元件 "
+"<element_>`_，任何类或子类，也不能重新组织数据库中的 `元件 <elements_>`_ 。"
+
+#: ../../source/users/element/collection/default_collection.rst:14
+msgid "Figure: QET collection tree at collection panel"
+msgstr "图：收集面板上的QET采集树"
+
+#: ../../source/users/element/collection/default_collection.rst:16
+msgid "The QET collection has the following categories:"
+msgstr "QET收藏有以下几类："
+
+#: ../../source/users/element/collection/default_collection.rst
+msgid "Electric"
+msgstr "电器"
+
+#: ../../source/users/element/collection/default_collection.rst:20
+msgid ""
+"Collection of electrical components (motors, converters, switches, "
+"electrical protections, etc.)"
+msgstr "收集电力部件(机动车、转换器、开关、电保护等)"
+
+#: ../../source/users/element/collection/default_collection.rst
+msgid "Logic"
+msgstr "逻辑"
+
+#: ../../source/users/element/collection/default_collection.rst:24
+msgid ""
+"Logic signal symbols (AND, OR, NOT, NOR, etc.), GRAFCET symbols, Ladder "
+"symbols and flow char symbols."
+msgstr "逻辑信号符号(AND,OR,NOT,NOR等),GRAFCET符号，梯形符号和流字符符号。"
+
+#: ../../source/users/element/collection/default_collection.rst
+msgid "Hydraulic"
+msgstr "水力学"
+
+#: ../../source/users/element/collection/default_collection.rst:28
+msgid ""
+"Collection of hydraulic components (Pumps, cylinders, pressure limit valves,"
+" pressure relief valves, directional valves, etc.)"
+msgstr "收集液压部件(泵、气瓶、压力限制阀、降压阀、定向阀等)"
+
+#: ../../source/users/element/collection/default_collection.rst
+msgid "Pneumatic"
+msgstr "肺脏"
+
+#: ../../source/users/element/collection/default_collection.rst:32
+msgid ""
+"Collection of hydraulic components (Compressor, cylinders, air filters, "
+"directional valves, etc.)"
+msgstr "收集液压部件(压缩机、气瓶、空气过滤器、定向阀等)"
+
+#: ../../source/users/element/collection/default_collection.rst
+msgid "Energy"
+msgstr "能源"
+
+#: ../../source/users/element/collection/default_collection.rst:36
+msgid ""
+"Collection of elements used at the energy field (pumps, turbines, solar "
+"panels, heat exchangers, etc.)"
+msgstr "收集能源领域使用的元素(泵、涡轮机、太阳能板、热交换器等)"

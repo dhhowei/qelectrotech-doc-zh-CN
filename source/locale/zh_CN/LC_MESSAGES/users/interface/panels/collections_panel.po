@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/interface/panels/collections_panel.rst:7
+msgid "Collections panel"
+msgstr "收藏面板"
+
+#: ../../source/users/interface/panels/collections_panel.rst:9
+msgid ""
+"The collections panel displays the `QET`_, `user`_ and `projects`_ element "
+"collections."
+msgstr "集合面板显示 `QET <QET_>`_，`用户 <user_>`_ 和 `项目 <projects_>`_ 元件集合。"
+
+#: ../../source/users/interface/panels/collections_panel.rst:14
+msgid "Figure: QElectroTech collections panel"
+msgstr "图：QElectroTech收藏面板"
+
+#: ../../source/users/interface/panels/collections_panel.rst:16
+msgid "To display or hidden the collections panel:"
+msgstr "要显示或隐藏收藏面板："
+
+#: ../../source/users/interface/panels/collections_panel.rst:18
+msgid "Select **Settings > Display > Collections** menu item."
+msgstr "选择 **设置 > 显示 > 收藏** 菜单项。"
+
+#: ../../source/users/interface/panels/collections_panel.rst:20
+msgid ""
+"The main function from the collections panel is to manage `elements`_. The "
+"tasks which can be done from collections panel are:"
+msgstr "收藏面板的主要功能是管理 `元件 <elements_>`_。收藏面板可以完成的任务有：收藏面板："
+
+#: ../../source/users/interface/panels/collections_panel.rst:23
+msgid ""
+"Manage `user`_ collection (Create, edit and delete elements from the "
+"collection)."
+msgstr "管理 `用户 <user_>`_ 集合(创建，编辑和删除集合中的元素)."
+
+#: ../../source/users/interface/panels/collections_panel.rst:24
+msgid "Edit elements from project collection."
+msgstr "从元件集合中编辑元素 。"
+
+#: ../../source/users/interface/panels/collections_panel.rst:25
+msgid "Search elements from the project collection at the `workspace`_."
+msgstr "从 `工作区 <workspace_>`_ 的元件集合中查找元素。"
+
+#: ../../source/users/interface/panels/collections_panel.rst:26
+msgid ""
+"Import elements from `QET`_ or `user`_ collection to the project (Add new "
+"element to workspace)."
+msgstr "从 `QET <QET_>`_ 或 `用户 <user_>`_ 收集元素导入到项目(添加新元素到工作空间) 。"
+
+#: ../../source/users/interface/panels/collections_panel.rst:28
+msgid ""
+"To make easier the work with the collections panel, QElectroTech provides a "
+"search tool that makes faster finding elements inside the different "
+"collections."
+msgstr "为了方便收藏面板的工作，QEelectroTech提供了一个搜索工具，使不同收藏内部的查找元素更快。"

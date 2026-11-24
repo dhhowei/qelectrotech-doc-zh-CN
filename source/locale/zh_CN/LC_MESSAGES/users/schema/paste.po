@@ -1,0 +1,134 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/schema/paste.rst:5
+msgid "Paste object"
+msgstr "粘贴对象"
+
+#: ../../source/users/schema/paste.rst:7
+msgid ""
+"QElectroTech allows pasting objects (`element`_, `conductor`_, `text "
+"field`_, `basic object`_ and `picture`_) which has already been `copied`_ or"
+" `cut`_ at the same `folio`_ or at different `folio`_ and/or `project`_."
+msgstr ""
+"QElectroTech允许粘贴对象(`元件 <element_>`_，`导体 <conductor_>`_，`文本字段 <text "
+"field_>`_，`基本对象 <basic object_>`_ 和 `图片 <picture_>`_) 已经 `复制 <copied_>`_ 或 "
+"`剪切 <cut_>`_ 同为 `图幅 <folio_>`_ 或不同地点 `图幅 <folio_>`_ 和(或) `项目 <project_>`_。"
+
+#: ../../source/users/schema/paste.rst:13
+msgid ""
+"Multiples objects can be pasted at the same time `copying`_ or `cutting`_ "
+"multiple objects."
+msgstr "多个对象可以同时粘贴 `复制 <copying_>`_ 或 `剪切 <cutting_>`_ 多个对象。"
+
+#: ../../source/users/schema/paste.rst:17
+msgid ""
+"The `element`_ would suffer data losses if the intention is to paste it at "
+"different `project`_."
+msgstr "如果打算用不同的 `元件 <element_>`_ 粘贴数据，则 `项目 <project_>`_ 将遭受数据损失。"
+
+#: ../../source/users/schema/paste.rst:19
+msgid ""
+"Pasting objects can be done from `menu bar`_, `toolbar`_, by right click at "
+"the `workspace`_ and using the corresponding keyboard shortcut."
+msgstr ""
+"粘贴对象可以从 `菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_ 中通过右键点击 `工作区 <workspace_>`_ "
+"并使用相应的键盘快捷键完成。"
+
+#: ../../source/users/schema/paste.rst:23
+msgid "Paste object from menu bar"
+msgstr "从菜单栏粘贴对象"
+
+#: ../../source/users/schema/paste.rst:25
+msgid ""
+"Select **Edit > Paste** menu item to paste at the active `folio`_ an object "
+"`copied`_ or `cut`_ previously."
+msgstr ""
+"选择 **编辑 > 粘贴** 菜单项在活动 `图幅 <folio_>`_ 上粘贴对象 `复制 <copied_>`_ 或 `剪切 <cut_>`_ 。"
+
+#: ../../source/users/schema/paste.rst:30
+msgid "Figure: QElectroTech edit menu"
+msgstr "图：QElectroTech 编辑菜单"
+
+#: ../../source/users/schema/paste.rst:33
+msgid "Paste object from toolbar"
+msgstr "从工具栏粘贴对象"
+
+#: ../../source/users/schema/paste.rst:35
+msgid ""
+"Select the icon |edit-paste| from `toolbar`_ to paste at the active `folio`_"
+" an object `copied`_ or `cut`_ previously."
+msgstr ""
+"从 `工具栏 <toolbar_>`_ 选择图标 |edit-paste| 在活动 `图幅 <folio_>`_ 上粘贴一个对象 `复制 "
+"<copied_>`_ 或 `剪切 <cut_>`_ 。"
+
+#: ../../source/users/schema/paste.rst:37
+msgid "edit-paste"
+msgstr "编辑-粘贴"
+
+#: ../../source/users/schema/paste.rst:41
+msgid ""
+"If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
+"Display > Tools**."
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示。"
+
+#: ../../source/users/schema/paste.rst:44
+msgid "Paste object by right click"
+msgstr "右键粘贴对象"
+
+#: ../../source/users/schema/paste.rst:46
+msgid ""
+"Right click at the `workspace`_ area where the object should be pasted."
+msgstr "在 `工作区 <workspace_>`_ 区域右键单击，该物体应当粘贴。"
+
+#: ../../source/users/schema/paste.rst:47
+msgid ""
+"Select the option **Paste Here** to paste an object `copied`_ or `cut`_ "
+"previously."
+msgstr "选择选项 **Paste Here** 粘贴一个对象 `复制 <copied_>`_ 或 `剪切 <cut_>`_ 。"
+
+#: ../../source/users/schema/paste.rst:52
+msgid "Figure: QElectroTech right click PopUP window"
+msgstr "图：右键点击 PopUP 窗口的QElectroTech"
+
+#: ../../source/users/schema/paste.rst:55
+msgid "Paste object using keyboard shortcut"
+msgstr "使用键盘快捷键粘贴对象"
+
+#: ../../source/users/schema/paste.rst:57
+msgid ""
+"QElectroTech allows using keyboard shortcut to increase the working "
+"efficiency."
+msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+
+#: ../../source/users/schema/paste.rst:59
+msgid ""
+"Press ``Ctrl + v`` to paste at the active `folio`_ an object `copied`_ or "
+"`cut`_ previously."
+msgstr ""
+"按 ``Ctrl + v`` 在活动 `图幅 <folio_>`_ 粘贴一个对象 `复制 <copied_>`_ 或 `剪切 <cut_>`_ 。"
+
+#: ../../source/users/schema/paste.rst:63
+msgid ""
+"For more information about QElectroTech keyboard shortcuts, refer to `menu "
+"bar`_ section."
+msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

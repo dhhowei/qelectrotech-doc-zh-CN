@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/element_editor/edition/graphic/element_size.rst:5
+msgid "Change element size"
+msgstr "更改元素大小"
+
+#: ../../source/users/element/element_editor/edition/graphic/element_size.rst:7
+msgid ""
+"QElectroTech provide the feature of changing the size of the graphical "
+"symbol from an `element`_. This feature is equivalent to the scale feature "
+"from CAD tools and graphical vector editors."
+msgstr ""
+"QElectroTech 提供了从 `元件 <element_>`_ 中更改图形符号大小的特性，这个特性相当于 CAD 工具和图形向量编辑器的尺度特性。"
+
+#: ../../source/users/element/element_editor/edition/graphic/element_size.rst:12
+msgid ""
+"QElectroTech version 0.7, does not provide the option of defining the "
+"proportion to scale."
+msgstr "QElectroTech版本0.7,没有提供定义比例与规模的选项。"
+
+#: ../../source/users/element/element_editor/edition/graphic/element_size.rst:15
+msgid "To change the size from element symbol:"
+msgstr "要改变元素符号的大小："
+
+#: ../../source/users/element/element_editor/edition/graphic/element_size.rst:17
+msgid "Open the `element`_ desired using the `element editor`_."
+msgstr "打开 `元件 <element_>`_ 希望使用 `元素编辑器 <element editor_>`_。"
+
+#: ../../source/users/element/element_editor/edition/graphic/element_size.rst:18
+msgid "`Select all element parts`_ from `workspace`_."
+msgstr ""
+"` 从 `工作空间 <Select all element parts_>`_ 选择全部元素部件 <Select all element "
+"parts_>`_。"
+
+#: ../../source/users/element/element_editor/edition/graphic/element_size.rst:19
+msgid ""
+"Press one of the control points from the global element symbol rectangle "
+"(green points from the figure)."
+msgstr "从全局元素符号矩形(图中的绿点)按一个控制点。"
+
+#: ../../source/users/element/element_editor/edition/graphic/element_size.rst:24
+msgid "Figure: QElectroTech element editor workspace"
+msgstr "图：QElectroTech 元素编辑器工作空间"
+
+#: ../../source/users/element/element_editor/edition/graphic/element_size.rst:26
+msgid "Move the point without releasing the left button of the mouse."
+msgstr "移动点而不释放鼠标的左键 。"
+
+#: ../../source/users/element/element_editor/edition/graphic/element_size.rst:27
+msgid ""
+"Once the element symbol has been scaled, `save changes`_ and `close element "
+"editor`_."
+msgstr ""
+"一旦元素符号缩放，`save会改变 <save changes_>`_ 和 `close 元素编辑器 <close element "
+"editor_>`_。"

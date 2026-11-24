@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/title_block/collection/what_is.rst:5
+msgid "What is a collection?"
+msgstr "什么是收藏品吗?"
+
+#: ../../source/users/folio/title_block/collection/what_is.rst:7
+msgid ""
+"A title block collection is a database where all title block files are "
+"stored and classified."
+msgstr "图框集合是一个数据库，所有图框文件都在这里存储和分类。"
+
+#: ../../source/users/folio/title_block/collection/what_is.rst:10
+msgid ""
+"QElectroTech has two different title block collections integrated, `QET "
+"collection`_ and `User collection`_. The title block collections can be "
+"found at `projects panel`_."
+msgstr ""
+"QElectroTech有两个不同的图框集集集集，`QET集 <QET collection_>`_ 和 `用户集 <User "
+"collection_>`_。图框集可以在 `项目面板 <projects panel_>`_ 找到。"
+
+#: ../../source/users/folio/title_block/collection/what_is.rst:16
+msgid "Figure: QElectroTech projects panel"
+msgstr "图：QElectroTech项目小组"
+
+#: ../../source/users/folio/title_block/collection/what_is.rst:18
+msgid ""
+"QElectroTech displays also a third collection when a `project`_ is opened, "
+"the `project collection`_. This collection is not part from the software "
+"structure and it is managed automatically by QElectroTech during the folio "
+"title block definition."
+msgstr ""
+"QElectroTech 当一个 `项目 <project_>`_ 打开时， `项目收集 <project "
+"collection_>`_。此收藏不是软件结构的一部分，而是在folio图框定义期间由 QElectroTech 自动管理。"

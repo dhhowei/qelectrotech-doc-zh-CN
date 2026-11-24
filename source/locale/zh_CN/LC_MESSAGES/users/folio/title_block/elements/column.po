@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/title_block/elements/column.rst:5
+msgid "Column"
+msgstr "栏"
+
+#: ../../source/users/folio/title_block/elements/column.rst:8
+msgid "Definition"
+msgstr "定义"
+
+#: ../../source/users/folio/title_block/elements/column.rst:10
+msgid ""
+"A column of `cells`_ from the `title block`_ is a group of `cells`_ that are"
+" placed one over the other."
+msgstr ""
+"`图框 <cells_>`_ 的 `图框 <title block_>`_ 的一列，是一组 `个电池 <cells_>`_，放在另一组之上。"
+
+#: ../../source/users/folio/title_block/elements/column.rst:13
+msgid "Properties"
+msgstr "属性"
+
+#: ../../source/users/folio/title_block/elements/column.rst:15
+msgid ""
+"At QElectroTech, a column from the `title block`_ has only one property, the"
+" width of the `cells`_ that are part of the columns."
+msgstr ""
+"在QEelectroTech中，`图框 <title block_>`_ 的一列只有一个属性，即属于各列的 `单元格 <cells_>`_ 的宽度。"
+
+#: ../../source/users/folio/title_block/elements/column.rst:18
+msgid "To display the column width:"
+msgstr "显示列宽："
+
+#: ../../source/users/folio/title_block/elements/column.rst:20
+msgid "Double click on the column head."
+msgstr "双击列头。"
+
+#: ../../source/users/folio/title_block/elements/column.rst:25
+msgid "Figure: QElectroTech title block column width property"
+msgstr "图：QElectroTech 图框列宽度属性"
+
+#: ../../source/users/folio/title_block/elements/column.rst:27
+msgid ""
+"QElectroTech works with pixels, the width is defined according pixel unit."
+msgstr "QElectroTech用像素工作，宽度按照像素单位定义。"
+
+#: ../../source/users/folio/title_block/elements/column.rst:29
+msgid "Unlike rows, the width of a column can be defined as:"
+msgstr "与行不同，一列的宽度可以定义为："
+
+#: ../../source/users/folio/title_block/elements/column.rst:31
+msgid "Absolute value, pixel units."
+msgstr "绝对值，像素单位 。"
+
+#: ../../source/users/folio/title_block/elements/column.rst:32
+msgid ""
+"Relative value to total, percent of the total width of the `title block`_."
+msgstr "相对于总值，占 `图框 <title block_>`_ 总宽度的百分比。"
+
+#: ../../source/users/folio/title_block/elements/column.rst:33
+msgid ""
+"Relative value to remaining, percent of the remaining width of the `title "
+"block`_."
+msgstr "剩余值的相对值，占 `图框 <title block_>`_ 剩余宽度的%."

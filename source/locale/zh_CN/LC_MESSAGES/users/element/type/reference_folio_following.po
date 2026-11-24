@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/type/reference_folio_following.rst:5
+msgid "Reference folio following"
+msgstr "以下参考框"
+
+#: ../../source/users/element/type/reference_folio_following.rst:7
+msgid ""
+"Element which link the end of a `conductor`_ with the beginning of the "
+"`conductor`_ represented at previous, following or the same `folio`_."
+msgstr ""
+"将 `导体 <conductor_>`_ 的末端与以前代表的 `导体 <conductor_>`_ 的开头，跟随或相同 `图幅 <folio_>`_ "
+"的元素。"
+
+#: ../../source/users/element/type/reference_folio_following.rst:13
+msgid "Figure: QElectroTech reference folio following"
+msgstr "图：QElectroTech 参考文件如下："
+
+#: ../../source/users/element/type/reference_folio_following.rst:15
+msgid ""
+"For reference folio following element exist two type of variables, the "
+"general variables that are common for all type of `elements`_ and the "
+"specific variables for this type of `element`_."
+msgstr ""
+"对于元素后面的参考folio,存在两类变量，即所有类型 `元件 <elements_>`_ 通用的一般变量和该类型 `元件 <element_>`_ "
+"的特定变量。"
+
+#: ../../source/users/element/type/reference_folio_following.rst:18
+msgid ""
+"QElectroTech does not allow defining variable values for this type of "
+"`element`_. QElectroTech does also not allows defining new variables. "
+"QElectroTech allows only displaying the specific variables at `dynamic "
+"texts`_."
+msgstr ""
+"QElectroTech不允许定义该类型 `元件 <element_>`_ "
+"的变量值。QEctroTech也不允许定义新的变量。QEctroTech只允许在 `动态文本 <dynamic texts_>`_ 上显示特定的变量。"
+
+#: ../../source/users/element/type/reference_folio_following.rst:22
+msgid "General variables"
+msgstr "一般变量"
+
+#: ../../source/users/element/type/reference_folio_following.rst:24
+msgid "**% {F}**: Label from the `folio`_ where the `element`_ can be found."
+msgstr "**% {F} (韩语)** 标签 `图幅 <folio_>`_ 地点 `元件 <element_>`_ 可见。"
+
+#: ../../source/users/element/type/reference_folio_following.rst:25
+msgid "**% {f}**: Number from the `folio`_ where the `element`_ can be found."
+msgstr "**% {f} (韩语)** 编号： `图幅 <folio_>`_ 地点 `元件 <element_>`_ 可见。"
+
+#: ../../source/users/element/type/reference_folio_following.rst:26
+msgid ""
+"**% {M}**: Plant variable from the `folio`_ where the `element`_ can be "
+"found."
+msgstr "**% {M}**:可以找到 `图幅 <folio_>`_ 的 `元件 <element_>`_ 的植物变量。"
+
+#: ../../source/users/element/type/reference_folio_following.rst:27
+msgid ""
+"**% {LM}**: Location variable of the `folio`_ where the `element`_ can be "
+"found."
+msgstr "**% {LM}**:可以找到 `图幅 <folio_>`_ 的 `元件 <element_>`_ 的位置变量。"
+
+#: ../../source/users/element/type/reference_folio_following.rst:28
+msgid ""
+"**% {l}**: Folio line number from the `workspace`_ where the `element`_ can "
+"be found."
+msgstr "**% {l}**:可以找到 `工作区 <workspace_>`_ 的 `元件 <element_>`_。"
+
+#: ../../source/users/element/type/reference_folio_following.rst:29
+msgid ""
+"**% {c}**: Folio column number from the `workspace`_ where the `element`_ "
+"can be found."
+msgstr "**% {c}**:可以找到 `工作区 <workspace_>`_ 的 `元件 <element_>`_ 的Folio列号。"
+
+#: ../../source/users/element/type/reference_folio_following.rst:30
+msgid "**% {id}**: Folio position in the `project`_ (Schema number)."
+msgstr "**% {id}**: `项目 <project_>`_ 中的Folio位置(计划编号)."
+
+#: ../../source/users/element/type/reference_folio_following.rst:32
+msgid "Specific variables"
+msgstr "具体变量"
+
+#: ../../source/users/element/type/reference_folio_following.rst:34
+msgid ""
+"**Function**: Function property from the `conductor`_ connected to the "
+"`element terminal`_."
+msgstr "**函数**: 来自 `导体 <conductor_>`_ 连接到 `元素终端 <element terminal_>`_。"
+
+#: ../../source/users/element/type/reference_folio_following.rst:35
+msgid ""
+"**Label**: Internal variable which defines the position of the linked "
+"`previous reference folio`_ element."
+msgstr "**标签**:定义链接 `先前的参考框 <previous reference folio_>`_ 元素位置的内部变量。"
+
+#: ../../source/users/element/type/reference_folio_following.rst:36
+msgid ""
+"**Voltage/Protocol**: Voltage/Protocol property from the `conductor`_ "
+"connected to the `element terminal`_."
+msgstr ""
+"**Voltage/Protocol**:电压/Protocol属性来自 `导体 <conductor_>`_ 连接 `元素终端 <element "
+"terminal_>`_。"
+
+#: ../../source/users/element/type/reference_folio_following.rst:40
+#, python-format
+msgid ""
+"The **Label** property can be defined as a formula by the user at `New "
+"folio`_ section from `project properties`_. By default the formula is "
+"``%id-%l%c``, variables took from `previous reference folio`_ linked "
+"element."
+msgstr ""
+"**标签** 属性可以定义为用户在 `New folio <New folio_>`_ 节中从 `project 属性 <project "
+"properties_>`_ 的公式。默认的公式是 ``%id-%l%c``,变量取自 `先前的参考 <previous reference "
+"folio_>`_ 链接元素 。"
+
+#: ../../source/users/element/type/reference_folio_following.rst:44
+msgid ""
+"For more information about how to define the **Label** formula, please "
+"refers to `folio referencing project properties`_."
+msgstr ""
+"关于如何定义 **Label** 公式的更多信息，请参考 `folio参考项目属性 <folio referencing project "
+"properties_>`_。"

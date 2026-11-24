@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/interface/customize/organize_panels.rst:7
+msgid "Organize panels"
+msgstr "组织面板"
+
+#: ../../source/users/interface/customize/organize_panels.rst:9
+msgid ""
+"QElectroTech GUI has been designed to work using the `menu bar`_ and "
+"`panels`_. The `menu bar`_ is fixed at top. The `panels`_ can be displayed "
+"and hidden."
+msgstr ""
+"QElectroTech GUI 被设计为使用 `菜单栏 <menu bar_>`_ 和 `平板电脑 <panels_>`_ 工作。`菜单栏 <menu"
+" bar_>`_ 固定在顶部，`平板电脑 <panels_>`_ 可以显示和隐藏。"
+
+#: ../../source/users/interface/customize/organize_panels.rst:12
+msgid "To display or hide `panels`_:"
+msgstr "显示或隐藏 `页 <panels_>`_ :"
+
+#: ../../source/users/interface/customize/organize_panels.rst:14
+msgid ""
+"Select **Settings > Display** menu item to display the `panels`_ and "
+"`toolbars`_ list."
+msgstr "选择 **设置 > 显示** 菜单项以显示 `panels <panels_>`_ 和 `工具栏 <toolbars_>`_ 列表 。"
+
+#: ../../source/users/interface/customize/organize_panels.rst:15
+msgid ""
+"Click on the different `panels`_ (Projects, Collections, Undo, Selection "
+"properties and Auto numbering Selection) which should be displayed or "
+"hidden."
+msgstr "点击不同的 `面板 <panels_>`_ (项目、收藏、撤消、选择属性和自动编号选择),应当显示或隐藏。"
+
+#: ../../source/users/interface/customize/organize_panels.rst:20
+msgid "Figure: QElectroTech Settings > Display menu"
+msgstr "图：QElectroTech 设置 > 显示菜单"
+
+#: ../../source/users/interface/customize/organize_panels.rst:22
+msgid ""
+"All `panels`_ can be displayed at right and left side from `workspace`_. The"
+" `panels`_ can be organized on column or by tabs. The `panels`_ can also be "
+"displayed as PopUp/floating windows."
+msgstr ""
+"全体 `面板 <panels_>`_ 可以在左右侧显示 `工作区 <workspace_>`_ 编辑 `面板 <panels_>`_ "
+"可以在列或标签上组织。 `面板 <panels_>`_ 也可以显示为弹出/浮动窗口。"
+
+#: ../../source/users/interface/customize/organize_panels.rst:29
+msgid "Figure: QElectroTech user interface"
+msgstr "图：QElectroTech用户界面"
+
+#: ../../source/users/interface/customize/organize_panels.rst:31
+msgid "To change the organization of `panels`_:"
+msgstr "改变 `小组 <panels_>`_ 的组织："
+
+#: ../../source/users/interface/customize/organize_panels.rst:33
+msgid "Left click at the title bar from the `panel`_."
+msgstr "在图框左键点击 `panel <panel_>`_。"
+
+#: ../../source/users/interface/customize/organize_panels.rst:34
+msgid "Without releasing the `panel`_, move the mouse to the final position."
+msgstr "在不释放 `页 <panel_>`_ 的情况下，将鼠标移动到最后位置。"
+
+#: ../../source/users/interface/customize/organize_panels.rst:35
+msgid "Release the `panel`_."
+msgstr "释放 `座板 <panel_>`_。"
+
+#: ../../source/users/interface/customize/organize_panels.rst:40
+msgid "Figure: QElectroTech panels placement"
+msgstr "图：QElectroTech板布置"

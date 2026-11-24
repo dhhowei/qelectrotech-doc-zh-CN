@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:5
+msgid "Replace conductor property"
+msgstr "替换导体属性"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:7
+msgid ""
+"QElectroTech provides the feature of automatic searching of `conductor`_ "
+"with an specific property for replacing `conductor properties`_ without the "
+"need of searching the `conductor`_ manually around the project."
+msgstr ""
+"QElectroTech提供了 `导体 <conductor_>`_ 的自动搜索特性，具有替换 `导体属性 <conductor "
+"properties_>`_ 的特定属性，而无需在项目周围人工搜索 `导体 <conductor_>`_。"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:13
+msgid ""
+"If the `search menu`_ is not displayed, it can be displayed from **Edit > "
+"Search / Replace** menu item."
+msgstr "如果不显示 `搜索菜单 <search menu_>`_，可以从 **编辑 > 搜索/替换** 菜单项中显示。"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:16
+msgid "To replace some `conductor properties`_:"
+msgstr "替换一些 `导体特性 <conductor properties_>`_:"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:18
+msgid ""
+"`Search`_ the property (Manufacturer, Label, etc.) which identifies the "
+"`conductor`_ from which a property has to be changed."
+msgstr "`搜索 <Search_>`_ 能够识别以下特征的财产(制造商、标签等)。 `导体 <conductor_>`_ 必须改变财产。"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:23
+msgid "Figure: QElectroTech search menu"
+msgstr "图：QElectroTech搜索菜单"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:25
+msgid ""
+"Press the **Conductor** button to display the conductor properties PopUp "
+"window."
+msgstr "按 **出纳器** 按钮显示导师属性 PopUp 窗口 。"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:30
+msgid "Figure: QElectroTech conductor properties replace PopUp windows"
+msgstr "图：QElectroTech 导体属性替换弹出窗口"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:32
+msgid ""
+"Fill the text line box from the `conductor properties`_ which should be "
+"changed."
+msgstr "从 `导体属性 <conductor properties_>`_ 中填充文本行框，该属性应当修改。"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:36
+msgid ""
+"QElectroTech also allows deleting and making empty a filled property. Click "
+"the checkbox button located right from the text which should be deleted."
+msgstr "QElectroTech 还允许删除并空置一个已填充的属性。单击位于文本右侧的复选框按钮，该按钮应当删除 。"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:39
+msgid "Press **Accept**."
+msgstr "按 **接受**."
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:40
+msgid ""
+"From the `conductors`_ found at the search process, select the `conductors`_"
+" where the replace action have to be applied. The selection can be made at "
+"the object tree from the `search menu`_."
+msgstr ""
+"从搜索过程中发现的 `导体 <conductors_>`_，选择必须应用替换动作的 `导体 <conductors_>`_。选择可以在 `搜索菜单 "
+"<search menu_>`_ 中的对象树上进行。"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:41
+msgid ""
+"Press **Replace all** button to apply the replace action to all selected "
+"`conductors`_."
+msgstr "按 **替换所有** 按钮，将替换动作应用到所有选定的 `导体 <conductors_>`_ 。"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:45
+msgid ""
+"Replacing action can also be applied `conductor`_ by `conductor`_. The "
+"button **Replace** will only apply the action to the displayed `conductor`_ "
+"at the `workspace`_. The buttons |go-top| and |go-bottom| can be used to "
+"display the previous and next `conductor`_ from the search result."
+msgstr ""
+"替换动作也可以由 `导体 <conductor_>`_ 应用 `导体 <conductor_>`_。按钮 **替换** 只将动作应用到在 `导体 "
+"<conductor_>`_ 显示的 `工作区 <workspace_>`_，按钮 |go-top| 和 |go-bottom| "
+"可以用来显示搜索结果中上一个和下一个 `导体 <conductor_>`_。"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:50
+msgid "go-top"
+msgstr "上进"
+
+#: ../../source/users/schema/replace/conductor_prop_replace.rst:49
+msgid "go-bottom"
+msgstr "向下移动"

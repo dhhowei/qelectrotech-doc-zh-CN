@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/faq.rst:5
+msgid "FAQ"
+msgstr "常见问题"
+
+#: ../../source/faq.rst:8
+msgid "What is QET?"
+msgstr "问题是什么?"
+
+#: ../../source/faq.rst:10
+msgid ""
+"**QET** (QElectroTech) is a cross-platform free and open-source (FOSS) tool "
+"allowing you to create electrical, hydraulic and pneumatic drawings."
+msgstr "**QET** (QElectroTech)是一种跨平台自由开源(FOSS)工具，允许您创建电气，液压和肺动画。"
+
+#: ../../source/faq.rst:11
+msgid ""
+"These drawings are essential tools for Electricians and Electrical Engineers"
+" alike, allowing them to easily identify components and connections of a "
+"electrical circuit."
+msgstr "这些图纸是电气师和电气项目师的基本工具，使他们能够很容易地识别电路的组件和连接。"
+
+#: ../../source/faq.rst:14
+msgid "Why does </feature> isn't yet implemented?"
+msgstr "为什么</feature>还没有执行?"
+
+#: ../../source/faq.rst:16
+msgid ""
+"Contrary to proprietary drawing software, QET is a a hobby project created "
+"by `the QElectroTech Team <https://qelectrotech.org/contact.php>`_. As we "
+"are a small developer team, we sadly do not have the capacity to implement "
+"every feature that our users propose."
+msgstr ""
+"与专有绘图软件相反，QET是一个爱好项目，由 `电力技术小组 <https://qelectrotech.org/contact.php>`_ "
+"由于我们是一个小型的开发者团队，我们可悲地没有能力实施我们用户提出的每一个功能。"
+
+#: ../../source/faq.rst:19
+msgid ""
+"That said, if you have some experience in C programming or with `QT "
+"<https://doc.qt.io/>`_ and are willing to implement a feature for QET, "
+"please do. We welcome contributions and have a `dedicated entry "
+"<developer/index>`_ in the documentation explaining you how to setup a dev "
+"environment."
+msgstr ""
+"也就是说，如果你在C编程方面有一些经验的话 `问题T <https://doc.qt.io/>`_ 并且愿意执行QET的功能，请这样做。 `专用条目 "
+"<developer/index>`_ 在文档中解释如何设置一个 dev 环境。"
+
+#: ../../source/faq.rst:23
+msgid "How long has QET been in existence?"
+msgstr "QET存在多久了?"
+
+#: ../../source/faq.rst:25
+msgid ""
+"The project began in October 2006 in the form of small experiments. However,"
+" due to the development team's other involvement in OSS, the project's time "
+"estimation isn't very precise."
+msgstr "该项目于2006年10月开始以小型实验的形式进行，但由于开发团队的其他参与OSS,该项目的时间估计并不十分精确。"
+
+#: ../../source/faq.rst:29
+msgid "When is the next version of QElectroTech scheduled for release?"
+msgstr "QEelectroTech的下一个版本何时安排发布?."
+
+#: ../../source/faq.rst:30
+msgid ""
+"Although one of the mottos of open source software is “Release early, "
+"release often,” the development team takes the time to fine-tune the "
+"software before each release. As a result, it no longer even attempts to set"
+" a target date (which would inevitably be missed) for the next release. The "
+"next version of QElectroTech will therefore be released “When it's done.”"
+msgstr ""
+"虽然开源软件的格言之一是“提前发布，经常发布 ” , 但开发团队需要时间在每次发布之前对软件进行微调。 "
+"因此，它甚至不再试图为下一次发布设定一个目标日期(将不可避免地错过),因此，下一个版本的QEElectroTech将“完成之后”发布。"

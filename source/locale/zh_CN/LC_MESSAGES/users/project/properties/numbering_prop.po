@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/project/properties/numbering_prop.rst:5
+msgid "Auto numbering properties"
+msgstr "自动编号属性"
+
+#: ../../source/users/project/properties/numbering_prop.rst:7
+msgid ""
+"For managing projects during manufacturing, erection, commissioning and "
+"maintenance phase; a codification criteria has to be defined in the "
+"engineering phase, otherwise, the work is inefficient and the project a "
+"chaos."
+msgstr "在制造、安装、试运行和维护阶段管理项目;必须在项目阶段确定编纂标准，否则工作效率低下，项目混乱。"
+
+#: ../../source/users/project/properties/numbering_prop.rst:11
+msgid ""
+"QElectroTech allows defining auto numbering patterns in the project "
+"properties for the codification of `elements`_, `conductors`_ and `folios`_."
+msgstr ""
+"QElectroTech允许在项目属性中定义自动编号模式，用于编码 `元件 <elements_>`_，`导体 <conductors_>`_ 和 "
+"`图幅 <folios_>`_。"
+
+#: ../../source/users/project/properties/numbering_prop.rst:14
+msgid ""
+"Every time that a new folio is added to the `project`_ or an `element`_ or "
+"`conductor`_ is drawn in the `workspace`_; the `folio`_, `element`_ or "
+"`conductor`_ is codified according to the selected pattern in `auto "
+"numbering selection panel`_."
+msgstr ""
+"每当在 `项目 <project_>`_ 中绘制 `元件 <element_>`_ 或 `导体 <conductor_>`_ 或 `工作区 "
+"<workspace_>`_ 时，`图幅 <folio_>`_，`元件 <element_>`_ 或 `导体 <conductor_>`_ 按照 "
+"`自动编号选择面板中选定的图案进行编纂 <auto numbering selection panel_>`_。"
+
+#: ../../source/users/project/properties/numbering_prop.rst:19
+msgid "Figure: Project management properties window"
+msgstr "图：项目管理属性窗口"
+
+#: ../../source/users/project/properties/numbering_prop.rst:22
+msgid "Display auto numbering properties from menu bar"
+msgstr "从菜单栏显示自动编号属性"
+
+#: ../../source/users/project/properties/numbering_prop.rst:24
+msgid ""
+"Select **Project > Project properties** menu item to display the project "
+"properties PopUp window."
+msgstr "选择 **项目 > 项目属性** 菜单项以显示项目属性 PopUp 窗口 。"
+
+#: ../../source/users/project/properties/numbering_prop.rst:25
+msgid "Go to **Auto Numbering** project properties section."
+msgstr "转到 **自动编号** 项目属性部分 。"
+
+#: ../../source/users/project/properties/numbering_prop.rst:26
+#: ../../source/users/project/properties/numbering_prop.rst:34
+msgid ""
+"Go to **Conductor**, **Element** or **Folio** tab to display the desired "
+"auto numbering patterns."
+msgstr "转到 **生成器**, **Element** 或 **Folio** 标签以显示想要的自动编号模式 。"
+
+#: ../../source/users/project/properties/numbering_prop.rst:29
+msgid "Display auto numbering properties from panel"
+msgstr "从面板显示自动编号属性"
+
+#: ../../source/users/project/properties/numbering_prop.rst:31
+msgid ""
+"The project auto numbering properties can be displayed from `auto numbering "
+"selection panel`_."
+msgstr "项目自动编号属性可以从 `自动编号选择面板显示 <auto numbering selection panel_>`_。"
+
+#: ../../source/users/project/properties/numbering_prop.rst:33
+msgid ""
+"Press |configure| **Configure** button from `auto numbering selection "
+"panel`_ to display **Auto Numbering** project properties section at a PopUp "
+"window."
+msgstr ""
+"新闻 |configure| **配置** 按钮从 `自动编号选择面板 <auto numbering selection panel_>`_ 要显示 "
+"**自动编号** 弹出窗口上的项目属性部分 。"
+
+#: ../../source/users/project/properties/numbering_prop.rst:48
+msgid "configure"
+msgstr "配置"
+
+#: ../../source/users/project/properties/numbering_prop.rst:38
+msgid ""
+"If the `auto numbering selection panel`_ is not displayed, it can be "
+"displayed from **Settings > Display > Selection properties**."
+msgstr ""
+"如果不显示 `自动编号选择面板 <auto numbering selection panel_>`_，可以从 **设置 > 显示 > 选择属性** "
+"显示。"
+
+#: ../../source/users/project/properties/numbering_prop.rst:42
+msgid "For more information about auto numbering pattern definition refer to:"
+msgstr "关于汽车编号模式定义的更多信息，请参考："
+
+#: ../../source/users/project/properties/numbering_prop.rst:44
+msgid "Folio numbering section"
+msgstr "组合编号部分"
+
+#: ../../source/users/project/properties/numbering_prop.rst:45
+msgid "`Conductor numbering section`_"
+msgstr "`生成器编号部分 <Conductor numbering section_>`_"
+
+#: ../../source/users/project/properties/numbering_prop.rst:46
+msgid "`Element numbering section`_"
+msgstr "`内容编号部分 <Element numbering section_>`_"

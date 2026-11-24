@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/schema/replace/advanced_replace.rst:5
+msgid "Advanced replace"
+msgstr "高级替换"
+
+#: ../../source/users/schema/replace/advanced_replace.rst:7
+msgid ""
+"QElectroTech provides the possibility to define a string and replace if for "
+"a new defining some conditions:"
+msgstr "QElectroTech 提供了定义字符串和替换的可能性，如果对于新的定义一些条件："
+
+#: ../../source/users/schema/replace/advanced_replace.rst:9
+msgid "Type of object."
+msgstr "对象类型。"
+
+#: ../../source/users/schema/replace/advanced_replace.rst:10
+msgid "Object property with the defined value."
+msgstr "带有定义值的对象属性 。"
+
+#: ../../source/users/schema/replace/advanced_replace.rst:11
+msgid "Filtering `folio`_, `type of element`_, etc."
+msgstr "过滤 `图幅 <folio_>`_，`元素 <type of element_>`_ 类型等。"
+
+#: ../../source/users/schema/replace/advanced_replace.rst:15
+msgid ""
+"If the `search menu`_ is not displayed, it can be displayed from **Edit > "
+"Search / Replace** menu item."
+msgstr "如果不显示 `搜索菜单 <search menu_>`_，可以从 **编辑 > 搜索/替换** 菜单项中显示。"
+
+#: ../../source/users/schema/replace/advanced_replace.rst:19
+msgid "To replace text information from project objects:"
+msgstr "替换项目对象的文本信息："
+
+#: ../../source/users/schema/replace/advanced_replace.rst:21
+msgid "Press **advanced** button to display advanced replace PopUp window."
+msgstr "按 **高级** 按钮显示高级替换 PopUp 窗口 。"
+
+#: ../../source/users/schema/replace/advanced_replace.rst:22
+msgid ""
+"Define QElectroTech object type from **Who** combobox (Ex.: `Element`_)."
+msgstr "从 **定义 QElectroTech 对象类型** 组合框 (Ex: `元件 <Element_>`_) 。"
+
+#: ../../source/users/schema/replace/advanced_replace.rst:27
+#: ../../source/users/schema/replace/advanced_replace.rst:34
+#: ../../source/users/schema/replace/advanced_replace.rst:42
+msgid "Figure: QElectroTech advanced replace PopUp window"
+msgstr "图：QElectroTech高级替换弹出窗口"
+
+#: ../../source/users/schema/replace/advanced_replace.rst:29
+msgid ""
+"Define object property type from **What** combobox (Ex.: Manufacturer)."
+msgstr "定义对象属性类型来自 **What** 组合框(Ex: Manuter)."
+
+#: ../../source/users/schema/replace/advanced_replace.rst:36
+msgid ""
+"Define the property value which should be replaced in the **Replace** text "
+"box (Ex.: SIEMENS)."
+msgstr "定义在 **替换** 文本框(ex: SIEMENS)中应当替换的属性值。"
+
+#: ../../source/users/schema/replace/advanced_replace.rst:37
+msgid ""
+"Define the new property value at the replace text box in the **By** text box"
+" (Ex.: SCHNEIDER)."
+msgstr "在 **By** 文本框(ex:SCHNEIDER)中替换文本框时定义新的属性值。"
+
+#: ../../source/users/schema/replace/advanced_replace.rst:44
+msgid "Press **OK** button to storage the desired replacing conditions."
+msgstr "按 **OK** 按钮存储想要的替换条件。"
+
+#: ../../source/users/schema/replace/advanced_replace.rst:45
+msgid ""
+"Filter in the object tree the `folios`_ where the action should be applied."
+msgstr "在对象树中过滤应应用动作的 `图幅 <folios_>`_ 。"
+
+#: ../../source/users/schema/replace/advanced_replace.rst:50
+msgid "Figure: QElectroTech search menu element properties PopUP window"
+msgstr "图：QElectroTech 搜索菜单属性 PopUP 窗口"
+
+#: ../../source/users/schema/replace/advanced_replace.rst:52
+msgid "Press **Replace all** button to apply the replace action."
+msgstr "按 **替换全部** 按钮以应用替换动作 。"

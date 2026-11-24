@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:5
+msgid "Conductor properties"
+msgstr "导体属性"
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:7
+msgid ""
+"Some `conductor properties`_ can be common at all or large proportion of "
+"`conductors`_ from all or large proportion of `folios`_. For example, the "
+"`conductor type`_ is normally common for a complete `project`_ or for a "
+"group of `folios`_."
+msgstr ""
+"某些 `导体特性 <conductor properties_>`_ 完全或大部分 `导体 <conductors_>`_ 可以从全部或大部分 `图幅 "
+"<folios_>`_ 中常见，例如，`导体型 <conductor type_>`_ 通常常见于一个完整的 `项目 <project_>`_ 或一组 "
+"`图幅 <folios_>`_。"
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:10
+msgid ""
+"To increase the working efficiency, QElectroTech provides the option to "
+"storage at the project Data some `project properties`_ pre-defined by the "
+"user. This feature allows the user avoiding to define many `conductor "
+"properties`_ each time that the user `creates new conductor`_ inside the "
+"`project`_."
+msgstr ""
+"为了提高工作效率，QElectroTech提供了在项目中存储数据的一些选择。 `项目属性 <project properties_>`_ "
+"。此特性允许用户避免定义许多 `导体属性 <conductor properties_>`_ 用户每次 `创建新导线 <creates new "
+"conductor_>`_ 内部 `项目 <project_>`_。"
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:16
+msgid ""
+"QElectroTech allows defining automatically `conductor properties`_ during "
+"`project creation`_. For more information about how to standardize some "
+"`conductor properties`_ from `project`_ to `project`_, please refers to the "
+"`QElectroTech conductor settings`_ section."
+msgstr ""
+"QElectroTech 允许自动定义 `导体属性 <conductor properties_>`_ 期间 `项目创建 <project "
+"creation_>`_。关于如何使某些标准标准化的更多信息 `导体属性 <conductor properties_>`_ 从 `项目 "
+"<project_>`_ 改为 `项目 <project_>`_，请参考 `QElectroTech 导电器设置 <QElectroTech "
+"conductor settings_>`_ 节。"
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:20
+msgid ""
+"The **Conductor** tab from **New folio** settings section allows pre-"
+"defining some `conductor properties`_:"
+msgstr ""
+"**生成器** 选项卡来自 **新的folio** 设置部分允许预先定义一些 `导体属性 <conductor properties_>`_ :"
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:22
+msgid "`Conductor type`_ (`Multiline`_ or `Single line`_)."
+msgstr ""
+"`导体类型 <Conductor type_>`_ (`多线 <Multiline_>`_ 或 `单行 <Single line_>`_)."
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:23
+msgid "`Conductor appearance`_."
+msgstr "`制片人外观 <Conductor appearance_>`_。"
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:28
+msgid "Figure: Project conductor properties window"
+msgstr "图：项目导体属性窗口"
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:30
+msgid "To define conductor settings:"
+msgstr "要定义导师设置："
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:32
+msgid "`Display`_ project properties PopUP window."
+msgstr "`显示 <Display_>`_ 项目属性 PopUP 窗口。"
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:33
+msgid "Go to **New folio** section."
+msgstr "转到 **新folio** 部分。"
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:34
+msgid "Go to **Conductor** tab."
+msgstr "转到 **制片人** 标签 。"
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:35
+msgid "Define the desired parameters for each field."
+msgstr "定义每个字段的理想参数。"
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:36
+msgid ""
+"Press **OK** button to save the configuration changes and close project "
+"properties PopUP window."
+msgstr "按 **OK** 按钮保存配置更改和关闭项目属性 PopUP 窗口。"
+
+#: ../../source/users/project/properties/new_folio/conductor.rst:40
+msgid ""
+"All pre-defined `conductor properties`_ at `project properties`_ will be "
+"automatically defined during `folio creation`_ at `folio properties`_."
+msgstr ""
+"在 `项目属性 <conductor properties_>`_ 上所有预定义的 `导体属性 <project properties_>`_ 将在 "
+"`follio创建 <folio creation_>`_ 在 `follio属性 <folio properties_>`_ 中自动定义。"

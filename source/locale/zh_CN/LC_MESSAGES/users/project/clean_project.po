@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/project/clean_project.rst:5
+msgid "Clean project"
+msgstr "清洁项目"
+
+#: ../../source/users/project/clean_project.rst:7
+msgid ""
+"QElectroTech stores on the project database every `title block`_, "
+"`conductor`_, `element`_, etc. which is introduced by the user. If the user "
+"deletes one `element`_ or replace the `title block`_ from the `folio`_, the "
+"`element`_ or `title block`_ will be deleted from the `folio`_ but it will "
+"still be storage at the project database."
+msgstr ""
+"项目数据库中的 QElectroTech 存储 `图框 <title block_>`_，`导体 <conductor_>`_，`元件 "
+"<element_>`_ 等，由用户引入。如果用户删除一个 `元件 <element_>`_ 或替换 `图框 <title block_>`_ 从 "
+"`图幅 <folio_>`_，则 `元件 <element_>`_ 或 `图框 <title block_>`_ 将删除 `图幅 <folio_>`_ "
+"但它仍将存储在项目数据库中。"
+
+#: ../../source/users/project/clean_project.rst:12
+msgid "QElectroTech allows cleaning the project database from `menu bar`_."
+msgstr "QElectroTech允许从 `菜单栏 <menu bar_>`_ 清理项目数据库。"
+
+#: ../../source/users/project/clean_project.rst:14
+msgid ""
+"Select **Project > Clean project** menu item to open the cleaning project "
+"PopUP window."
+msgstr "选择 **项目 > 清洁项目** 菜单项打开清洁项目 PopUP 窗口 。"
+
+#: ../../source/users/project/clean_project.rst:19
+msgid "Figure: QElectroTech cleaning project PopUP window"
+msgstr "图：QElectroTech清洁项目 PopUP 窗口"
+
+#: ../../source/users/project/clean_project.rst:21
+msgid "Select the check buttons desired (templates, elements, categories)."
+msgstr "选择想要的检查按钮(templades, 元素，分类) 。"
+
+#: ../../source/users/project/clean_project.rst:22
+msgid ""
+"Press the button **OK** to clean the `project`_ and close the cleaning "
+"project PopUP window."
+msgstr "按下按钮 **OK** 清理 `项目 <project_>`_ 并关闭 PopUP 窗口 。"
+
+#: ../../source/users/project/clean_project.rst:27
+msgid "Figure: QElectroTech Project menu"
+msgstr "图：QElectroTech 项目菜单"
+
+#: ../../source/users/project/clean_project.rst:31
+msgid ""
+"Cleaning the `project`_ is recommended to reduce the size of the project "
+"file and increase the loading speed."
+msgstr "建议清理 `项目 <project_>`_，以减少项目文件的大小，提高加载速度。"

@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/export&print/export_wires.rst:4
+msgid "Export wires"
+msgstr "导出电线"
+
+#: ../../source/users/export&print/export_wires.rst:6
+msgid ""
+"QElectroTech allows creating a CSV file which contains a list of all "
+"`conductors`_ / wires from the `project`_. The CSV file can be opened and "
+"edited with tools as `LibreOffice Calc`_."
+msgstr ""
+"QElectroTech 允许创建 CSV 文件，其中包含一个来自 `导体 <conductors_>`_ 的全部 `项目 <project_>`_ /"
+" 线条的列表。CSV 文件可以使用工具打开和编辑为 `LibreOffice Calc <LibreOffice Calc_>`_。"
+
+#: ../../source/users/export&print/export_wires.rst:9
+msgid ""
+"The different field properties are listed by columns and the `conductors`_ /"
+" wires are ordered by `folio`_."
+msgstr "不同字段属性按列列出，`导体 <conductors_>`_/线由 `图幅 <folio_>`_ 订购。"
+
+#: ../../source/users/export&print/export_wires.rst:11
+msgid "To export the `conductors`_ / wires list to CSV file:"
+msgstr "要将 `导体 <conductors_>`_ / 电线列表导出到 CSV 文件："
+
+#: ../../source/users/export&print/export_wires.rst:13
+msgid ""
+"Select **Project > Export the list of names of wires** menu item to open the"
+" exporting PopUp window."
+msgstr "选择 **项目 > 导出线条名称列表** 菜单项打开导出弹出窗口 。"
+
+#: ../../source/users/export&print/export_wires.rst:14
+msgid "Choose target directory and file name."
+msgstr "选择目标目录和文件名称 。"
+
+#: ../../source/users/export&print/export_wires.rst:15
+msgid "Press **Save** button to create the file with extension ``.csv``."
+msgstr "按 **保存** 按钮创建带有扩展名的文件 ``.csv``."
+
+#: ../../source/users/export&print/export_wires.rst:20
+msgid "Figure: QElectroTech project menu"
+msgstr "图：QElectroTech 项目菜单"

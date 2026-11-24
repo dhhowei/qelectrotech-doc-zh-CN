@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:5
+msgid "Folio properties"
+msgstr "组合属性"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:7
+msgid ""
+"At QElectroTech, the `folio properties`_ can be common at all `folios`_ from"
+" the same `project`_. QElectroTech also allows that each `folio`_ has its "
+"own properties. For example, two `folios`_ from the same project will have "
+"the same size and title block but they can be created by different authors "
+"or they can have different revision."
+msgstr ""
+"在 QElectroTech 中，`follios <folio properties_>`_ 属性完全可以常见于同一 `图幅 <folios_>`_ "
+"的 `项目 <project_>`_。QElectroTech 也允许每个 `图幅 <folio_>`_ 都有自己的属性，例如，同一项目的两个 `图幅 "
+"<folios_>`_ 的大小和图框相同，但可以由不同的作者创建，也可以有不同的修订。"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:12
+msgid ""
+"To increase the working efficiency, QElectroTech provides the option to "
+"storage at the project Data some `project properties`_ pre-defined by the "
+"user. This feature allows the user avoiding to define many `folio "
+"properties`_ each time that the user `creates new folio`_ inside the "
+"`project`_."
+msgstr ""
+"为了提高工作效率，QElectroTech提供了在项目中存储数据的一些选择。 `项目属性 <project properties_>`_ "
+"。此特性允许用户避免定义许多 `folio 属性 <folio properties_>`_ 用户每次 `创建新框 <creates new "
+"folio_>`_ 内部 `项目 <project_>`_。"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:18
+msgid ""
+"QElectroTech allows defining automatically `folio properties`_ during "
+"`project creation`_. For more information about how to standardize some "
+"`folio properties`_ from `project`_ to `project`_, please refers to the "
+"`QElectroTech folio settings`_ section."
+msgstr ""
+"QElectroTech 允许自动定义 `folio 属性 <folio properties_>`_ 期间 `项目创建 <project "
+"creation_>`_。关于如何使某些标准标准化的更多信息 `folio 属性 <folio properties_>`_ 从 `项目 "
+"<project_>`_ 改为 `项目 <project_>`_，请参考 `QElectroTech folio 设置 <QElectroTech "
+"folio settings_>`_ 节。"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:22
+msgid ""
+"The **Folio** tab from **New folio** settings section allows pre-defining "
+"some `folio properties`_:"
+msgstr ""
+"**Folio** 选项卡来自 **新的 folio** 设置部分允许预先定义一些 `follio 属性 <folio properties_>`_ :"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:24
+msgid "`Folio size`_."
+msgstr "`Folio大小 <Folio size_>`_。"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:25
+msgid "`Folio title block`_."
+msgstr "`Folio 图框 <Folio title block_>`_。"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:26
+msgid "`Folio default variables values`_."
+msgstr "`Folio 默认变量值 <Folio default variables values_>`_。"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:27
+msgid "`Folio user variables`_."
+msgstr "`Folio 用户变量 <Folio user variables_>`_。"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:32
+msgid "Figure: Project folio properties window"
+msgstr "图：项目组合属性窗口"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:34
+msgid "To define folio properties:"
+msgstr "要定义光圈属性："
+
+#: ../../source/users/project/properties/new_folio/folio.rst:36
+msgid "`Display`_ project properties PopUP window."
+msgstr "`显示 <Display_>`_ 项目属性 PopUP 窗口。"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:37
+msgid "Go to **New folio** section."
+msgstr "转到 **新folio** 部分。"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:38
+msgid "Go to **Folio** tab."
+msgstr "转到 **Folio** 标签 。"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:39
+msgid "Define the desired parameters for each field."
+msgstr "定义每个字段的理想参数。"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:40
+msgid ""
+"Press **OK** button to save the configuration changes and close project "
+"properties PopUP window."
+msgstr "按 **OK** 按钮保存配置更改和关闭项目属性 PopUP 窗口。"
+
+#: ../../source/users/project/properties/new_folio/folio.rst:44
+msgid ""
+"All pre-defined `folio properties`_ at `project properties`_ will be "
+"automatically defined during `folio creation`_ at `folio properties`_."
+msgstr ""
+"在 `项目属性 <folio properties_>`_ 中，所有预定义的 `follio属性 <project properties_>`_ 将在 "
+"`follio创建 <folio creation_>`_ 在 `follio属性 <folio properties_>`_ 中自动定义。"

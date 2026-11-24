@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:7
+msgid "Selection properties panel"
+msgstr "选择属性面板"
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:9
+msgid ""
+"The selection properties panel displays the properties from the selected "
+"object. Only the properties from some object can be displayed at the panel. "
+"The selection properties panel can display the properties from:"
+msgstr "选择属性面板显示来自选定对象的属性。只能在面板上显示来自某些对象的属性。选择属性面板可以显示来自："
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:13
+msgid "`Elements`_"
+msgstr "`元件 <Elements_>`_"
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:14
+msgid ""
+"Some `basic objects`_: `line`_, `rectangle`_, `ellipse`_, `polygon`_ and "
+"`picture`_."
+msgstr ""
+"一些 `基本对象 <basic objects_>`_:`线条 <line_>`_，`矩形 <rectangle_>`_，`椭圆 "
+"<ellipse_>`_，`多边形 <polygon_>`_ 和 `图片 <picture_>`_。"
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:20
+msgid "Figure: QElectroTech selection properties panel"
+msgstr "图：QElectroTech 选择属性面板"
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:22
+msgid "To display or hidden the selection properties panel:"
+msgstr "要显示或隐藏选择属性面板："
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:24
+msgid "Select **Settings > Display > Selection properties** menu item."
+msgstr "选择 **设置 > 显示 > 选择属性** 菜单项。"
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:26
+msgid ""
+"The main function of the selection properties panel is to manage the object "
+"properties. At QElectroTech, the object properties can be different for each"
+" object. The main tasks that can be done from the selection properties panel"
+" are:"
+msgstr "选择属性面板的主要功能是管理对象属性。在 QElectroTech 中，对象属性可以对每个对象不同。选择属性面板可以完成的主要任务是："
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:30
+msgid ""
+"Manage the properties from the basic geometrical objects (`line`_, "
+"`rectangle`_, `ellipse`_ and `polygon`_)."
+msgstr ""
+"管理基本几何对象的属性(`线条 <line_>`_，`矩形 <rectangle_>`_，`椭圆 <ellipse_>`_ 和 `多边形 "
+"<polygon_>`_)."
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:31
+msgid "Define the scale from the imported `pictures`_."
+msgstr "从导入的 `图片中定义比例尺 <pictures_>`_ 。"
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:32
+msgid ""
+"Lock the position of the `basic objects`_ (`line`_, `rectangle`_, "
+"`ellipse`_, `polygon`_ and `picture`_)."
+msgstr ""
+"锁定位置 `基本对象 <basic objects_>`_ (`线条 <line_>`_，`矩形 <rectangle_>`_，`椭圆 "
+"<ellipse_>`_，`多边形 <polygon_>`_ 和 `图片 <picture_>`_)."
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:33
+msgid ""
+"Manage the information from the `elements`_ (label, function, manufacturer, "
+"article number, order number, etc.)."
+msgstr "管理来自 `元件 <elements_>`_ (标签，功能，制造商，物品号，订单号等)."
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:34
+msgid "Manage the text and dynamic text from element symbols."
+msgstr "从元件符号管理文本和动态文本。"
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:35
+msgid ""
+"Display the general element properties (name, position, dimensions, number "
+"of terminals, etc.)."
+msgstr "显示一般元素属性(名称、位置、尺寸、终端数量等)。"
+
+#: ../../source/users/interface/panels/selection_properties_panel.rst:36
+msgid "Manage the element links (cross references)."
+msgstr "管理元素链接( 交叉引用) 。"

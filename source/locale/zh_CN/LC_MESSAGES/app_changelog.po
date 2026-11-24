@@ -1,0 +1,163 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/app_changelog.rst:8
+msgid "App Changelog"
+msgstr "应用更新日志"
+
+#: ../../source/app_changelog.rst:11
+msgid "Releases"
+msgstr "发行"
+
+#: ../../source/app_changelog.rst:14
+msgid "Version 0.9"
+msgstr "版本0.9"
+
+#: ../../source/app_changelog.rst:16
+msgid "Diagram editor :"
+msgstr "图编辑器："
+
+#: ../../source/app_changelog.rst:18
+msgid "Improved QElectroTech speed (launch qet, open project, function)"
+msgstr "改进的QElectroTech速度(发射Qet,开放项目，功能)"
+
+#: ../../source/app_changelog.rst:19
+msgid ""
+"A drop-down list has been added to the toolbar to change the size of the "
+"resize handles."
+msgstr "在工具栏中添加了一个下拉列表，以改变调整大小的手柄大小。"
+
+#: ../../source/app_changelog.rst:20
+msgid "Element Editor:"
+msgstr "元素编辑器："
+
+#: ../../source/app_changelog.rst:22
+msgid ""
+"The \"keep visual rotation\" property of element texts is editable from the "
+"element editor."
+msgstr "元素文本的\"保持视觉旋转\"属性可以从元件编辑器编辑。"
+
+#: ../../source/app_changelog.rst:23
+msgid ""
+"Thanks to the work of antonioaja it is now possible to import a dxf directly"
+" from the element editor in a completely transparent way for the user."
+msgstr "由于antonioaja的工作，现在可以以完全透明的方式从元件编辑器直接导入一个dxf,供用户使用。"
+
+#: ../../source/app_changelog.rst:24
+msgid ""
+"In the background QElectroTech uses the `dxf2elmt software. "
+"<https://qelectrotech.org/forum/viewtopic.php?id=2265 "
+"https://github.com/antonioaja/dxf2elmt>`_"
+msgstr ""
+"在背景中 QEElectroTech 使用 `dxf2elmt软件。 "
+"<https://qelectrotech.org/forum/viewtopic.php?id=2265>`_"
+
+#: ../../source/app_changelog.rst:25
+msgid ""
+"Improved responsiveness when multiple shapes are selected or deleted, "
+"especially when working on a `large converted DXF element. "
+"<https://qelectrotech.org/forum/viewtopic.php?pid=16612#p16612>`_"
+msgstr ""
+"在选择或删除多个形状时，特别是在研究一个形状时，反应能力有所提高 `大型转换的 DXF 元素。 "
+"<https://qelectrotech.org/forum/viewtopic.php?pid=16612#p16612>`_"
+
+#: ../../source/app_changelog.rst:26
+msgid "Other:"
+msgstr "其他情况："
+
+#: ../../source/app_changelog.rst:28
+msgid "Add a \"side project\" tab in the \"about\" window."
+msgstr "在“关于”窗口中添加一个\"侧项目\"标签。"
+
+#: ../../source/app_changelog.rst:29
+msgid ""
+"In the general QElectroTech configuration, a drop down list allows to choose"
+" the scaling method for hdpi screens."
+msgstr "在一般的QElectroTech配置中，一个下拉列表可以选择hdpi屏幕的缩放方法。"
+
+#: ../../source/app_changelog.rst:30
+msgid ""
+"Allow `open polygons (i.e. polylines) when saving in dxf format. "
+"<https://qelectrotech.org/forum/viewtopic.php?pid=16611#p16611>`_"
+msgstr ""
+"在保存 dxf 格式时允许 `打开多边形( 即多线). "
+"<https://qelectrotech.org/forum/viewtopic.php?pid=16611#p16611>`_"
+
+#: ../../source/app_changelog.rst:31
+msgid ""
+"Added 'Other' option for `slave device contact type. #222 "
+"<https://qelectrotech.org/forum/viewtopic.php?id=2264>`_"
+msgstr ""
+"为 `奴隶设备接触类型添加了“ 其他” 选项。 # 222 "
+"<https://qelectrotech.org/forum/viewtopic.php?id=2264>`_"
+
+#: ../../source/app_changelog.rst:33
+msgid "Logs:"
+msgstr "日志："
+
+#: ../../source/app_changelog.rst:35
+msgid ""
+"Added a QElapsedTimer to calculate the time used to reload the item "
+"collection."
+msgstr "添加了 QElapsedTimer 来计算重装元件集合所用的时间 。"
+
+#: ../../source/app_changelog.rst:36
+msgid ""
+"Improved QElapsedTimer to calculate the time used to reload the item "
+"collection in seconds instead of ms."
+msgstr "改进的 QElapsedTimer 以秒数计算重装元件集合所用的时间，而不是毫秒。"
+
+#: ../../source/app_changelog.rst:37
+msgid ""
+"Added Linux pc.gpu.RAM information, but requires mesa-utils dependency on "
+"the Linux OS."
+msgstr "添加了Linux pc.gpu.RAM信息，但需要mesa-utils依赖Linux OS."
+
+#: ../../source/app_changelog.rst:38
+msgid "Added information about mounted disk volumes."
+msgstr "添加了挂载磁盘卷的信息 。"
+
+#: ../../source/app_changelog.rst:39
+msgid ""
+"Added CPU architecture for which Qt was compiled in the aboutqetdialog "
+"widget and in the logs."
+msgstr "添加了 CPU 架构，Qt 在 Aboutqetdialog 部件和日志中被编译 。"
+
+#: ../../source/app_changelog.rst:40
+msgid "Added MSVC support to MachineInfo."
+msgstr "将 MSVC 支持添加到 MachineInfo 中。"
+
+#: ../../source/app_changelog.rst:41
+msgid "Added RAM information on Windows of available RAM."
+msgstr "在可用RAM的Windows上添加了RAM信息。"
+
+#: ../../source/app_changelog.rst:42
+msgid "Added QElectroTech version to the log file."
+msgstr "将QElectroTech版本添加到日志文件中。"
+
+#: ../../source/app_changelog.rst:43
+msgid "Elements collection :"
+msgstr "元件集合："
+
+#: ../../source/app_changelog.rst:45
+msgid "Improve collection 8274 elements in 1097 categories (i.e. 9371 files)."
+msgstr "改进1097类的8274项要素的收集工作(即9371项文件)。"

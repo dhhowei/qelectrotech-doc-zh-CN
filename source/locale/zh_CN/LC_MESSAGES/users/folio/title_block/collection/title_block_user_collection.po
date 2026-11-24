@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/title_block/collection/title_block_user_collection.rst:5
+msgid "Title block User collection"
+msgstr "图框用户收藏"
+
+#: ../../source/users/folio/title_block/collection/title_block_user_collection.rst:7
+msgid ""
+"The **User** collection is the QElectroTech collection where the user can "
+"create `title block`_, the user is allowed to read and edit the collection. "
+"The allowed actions at the **User** collection are:"
+msgstr ""
+"**User** 收藏是用户可以创建 `图框 <title block_>`_ "
+"的QEelectroTech收藏，允许用户阅读和编辑收藏。**User** 收藏中允许的动作是："
+
+#: ../../source/users/folio/title_block/collection/title_block_user_collection.rst:10
+msgid "Add new `title block`_."
+msgstr "新增 `图框 <title block_>`_。"
+
+#: ../../source/users/folio/title_block/collection/title_block_user_collection.rst:11
+msgid "Edit `title block`_ from collection."
+msgstr "从收藏编辑 `图框 <title block_>`_。"
+
+#: ../../source/users/folio/title_block/collection/title_block_user_collection.rst:12
+msgid "Delete `title block`_ from collection."
+msgstr "从收藏中删除 `图框 <title block_>`_。"
+
+#: ../../source/users/folio/title_block/collection/title_block_user_collection.rst:17
+msgid "Figure: Example user collection tree at project panel"
+msgstr "图：项目面板上的用户收藏树示例"

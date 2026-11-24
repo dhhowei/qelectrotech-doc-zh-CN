@@ -1,0 +1,219 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/schema/layers.rst:5
+msgid "Object layer level"
+msgstr "对象层级别"
+
+#: ../../source/users/schema/layers.rst:7
+msgid ""
+"Overlapping of `elements`_ or `pictures`_ may occur at `workspace`_, "
+"QElectroTech allows defining the level order from `elements`_ and "
+"`pictures`_ at each `folio`_."
+msgstr ""
+"重叠 `元件 <elements_>`_ 或 `图片 <pictures_>`_ 可能发生在 `工作区 "
+"<workspace_>`_，QElectroTech允许从 `元件 <elements_>`_ 和 `图片 <pictures_>`_ 每个 `图幅 "
+"<folio_>`_。"
+
+#: ../../source/users/schema/layers.rst:10
+msgid "QElectroTech allows the following actions:"
+msgstr "QElectroTech允许以下动作："
+
+#: ../../source/users/schema/layers.rst:13
+msgid "Icon"
+msgstr "图标"
+
+#: ../../source/users/schema/layers.rst:13
+msgid "Action"
+msgstr "行动"
+
+#: ../../source/users/schema/layers.rst:13
+msgid "Definition"
+msgstr "定义"
+
+#: ../../source/users/schema/layers.rst:13
+msgid "Keyboard shortcut"
+msgstr "键盘快捷键"
+
+#: ../../source/users/schema/layers.rst:15
+msgid "|bring_forward|"
+msgstr "|bring_forward|"
+
+#: ../../source/users/schema/layers.rst:21
+msgid "bring_forward"
+msgstr "带入"
+
+#: ../../source/users/schema/layers.rst:15
+msgid "Bring to front"
+msgstr "带到前面"
+
+#: ../../source/users/schema/layers.rst:15
+msgid "Brings the selection (s) to front"
+msgstr "将选择带到前面"
+
+#: ../../source/users/schema/layers.rst:15
+msgid "``Ctrl + Shift + Home``"
+msgstr "``Ctrl + Shift + Home``"
+
+#: ../../source/users/schema/layers.rst:16
+msgid "|raise|"
+msgstr "|raise|"
+
+#: ../../source/users/schema/layers.rst:22
+msgid "raise"
+msgstr "提高"
+
+#: ../../source/users/schema/layers.rst:16
+msgid "Raise"
+msgstr "提升"
+
+#: ../../source/users/schema/layers.rst:16
+msgid "Move over other elements (s)"
+msgstr "移过其他要素(s)"
+
+#: ../../source/users/schema/layers.rst:16
+msgid "``Ctrl + Shift + Up``"
+msgstr "``Ctrl + Shift + Up``"
+
+#: ../../source/users/schema/layers.rst:17
+msgid "|lower|"
+msgstr "|lower|"
+
+#: ../../source/users/schema/layers.rst:23
+msgid "lower"
+msgstr "下调"
+
+#: ../../source/users/schema/layers.rst:17
+msgid "Lower"
+msgstr "下调"
+
+#: ../../source/users/schema/layers.rst:17
+msgid "Moves under other elements (s)"
+msgstr "移动到其他元素(s)下"
+
+#: ../../source/users/schema/layers.rst:17
+msgid "``Ctrl + Shift + Down``"
+msgstr "``Ctrl + Shift + Down``"
+
+#: ../../source/users/schema/layers.rst:18
+msgid "|send_backward|"
+msgstr "|send_backward|"
+
+#: ../../source/users/schema/layers.rst:24
+msgid "send_backward"
+msgstr "向后发送( B)"
+
+#: ../../source/users/schema/layers.rst:18
+msgid "Send backwards"
+msgstr "向后发送"
+
+#: ../../source/users/schema/layers.rst:18
+msgid "Sends in the backwards the selection (s)"
+msgstr "向后发送选择"
+
+#: ../../source/users/schema/layers.rst:18
+msgid "``Ctrl + Shift + End``"
+msgstr "``Ctrl + Shift + End``"
+
+#: ../../source/users/schema/layers.rst:28
+msgid ""
+"The layer level from multiples objects can be defined at the same time "
+"`selecting multiple objects`_."
+msgstr "从多个对象产生的层级可以同时定义 `选择多个对象 <selecting multiple objects_>`_。"
+
+#: ../../source/users/schema/layers.rst:30
+msgid ""
+"The level from each `element`_ or `picture`_ can be defined from `menu "
+"bar`_, `toolbar`_, by right click on the object and using the corresponding "
+"keyboard shortcut."
+msgstr ""
+"从每个 `元件 <element_>`_ 或 `图片 <picture_>`_ 从 `菜单栏 <menu bar_>`_，`工具栏 "
+"<toolbar_>`_，可以通过右键点击对象并使用相应的键盘快捷键来定义级别。"
+
+#: ../../source/users/schema/layers.rst:34
+msgid "Define object layer from menu bar"
+msgstr "从菜单栏定义对象层"
+
+#: ../../source/users/schema/layers.rst:36
+#: ../../source/users/schema/layers.rst:47
+#: ../../source/users/schema/layers.rst:57
+#: ../../source/users/schema/layers.rst:70
+msgid "`Select the object/s`_ which layer level should be defined."
+msgstr "`选择对象/s <Select the object/s_>`_ 应定义的层级。"
+
+#: ../../source/users/schema/layers.rst:37
+msgid "Select **Edit** menu and the desired action."
+msgstr "选择 **编辑** 菜单和想要的动作 。"
+
+#: ../../source/users/schema/layers.rst:42
+msgid "Figure: QElectroTech Edit menu"
+msgstr "图：QElectroTech 编辑菜单"
+
+#: ../../source/users/schema/layers.rst:45
+msgid "Define object layer from toolbar"
+msgstr "从工具栏中定义对象层"
+
+#: ../../source/users/schema/layers.rst:48
+msgid ""
+"Select the corresponding icon from `toolbar`_ (icons from above table) to "
+"realize the desired action."
+msgstr "从 `工具栏 <toolbar_>`_ (上表中的逗号) 中选择相应的图标来实现想要的动作 。"
+
+#: ../../source/users/schema/layers.rst:52
+msgid ""
+"If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
+"Display > Depth**"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 深度** 显示"
+
+#: ../../source/users/schema/layers.rst:55
+msgid "Define object layer by right click"
+msgstr "按右键定义对象层"
+
+#: ../../source/users/schema/layers.rst:58
+msgid "Right click and select the desired layer definition action."
+msgstr "右键单击并选择想要的层定义动作 。"
+
+#: ../../source/users/schema/layers.rst:63
+msgid "Figure: QElectroTech element right click items"
+msgstr "图：QElectroTech 元素右键点击项目"
+
+#: ../../source/users/schema/layers.rst:66
+msgid "Define object layer using keyboard shortcut"
+msgstr "使用键盘快捷键定义对象层"
+
+#: ../../source/users/schema/layers.rst:68
+msgid ""
+"As many other tools, QElectroTech is an applications which allows using "
+"keyboard shortcut."
+msgstr "与许多其他工具一样，QElectroTech是一种允许使用键盘快捷键的应用程序。"
+
+#: ../../source/users/schema/layers.rst:71
+msgid ""
+"Press the corresponding keyboard shortcut (keyboard shortcut from above "
+"table) to realize the desired action."
+msgstr "按下相应的键盘快捷键(键盘快捷键来自上表)来实现想要的动作。"
+
+#: ../../source/users/schema/layers.rst:75
+msgid ""
+"For more information about QElectroTech keyboard shortcuts, refer to `menu "
+"bar`_ section."
+msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

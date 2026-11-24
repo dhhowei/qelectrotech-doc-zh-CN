@@ -1,0 +1,157 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/properties/element_numbering.rst:5
+msgid "Element numbering"
+msgstr "元素编号"
+
+#: ../../source/users/element/properties/element_numbering.rst:7
+msgid ""
+"QElectroTech allows an automatic codification of `elements`_. This feature "
+"is useful for the creation of reports, `Bill of Materials (BOM)`_, and for "
+"the identification of devices at the physical installation and schemas."
+msgstr ""
+"QElectroTech 允许自动编译 `元件 <elements_>`_。这个特性对于创建报告 `Bill of Materials(BOM) "
+"<Bill of Materials (BOM)_>`_，以及对于在物理安装和计划上识别设备都是有益的。"
+
+#: ../../source/users/element/properties/element_numbering.rst:11
+msgid ""
+"QElectroTech allows defining multiples auto numbering patterns. It also "
+"provides many flexibility on the creation of auto numbering pattern using "
+"text, variables and sequential numbers."
+msgstr "QElectroTech 允许定义多重的汽车编号模式，它也为使用文本，变量和顺序编号创建汽车编号模式提供了许多灵活性。"
+
+#: ../../source/users/element/properties/element_numbering.rst:17
+msgid "Figure: QElectroTech element auto numbering"
+msgstr "图：QElectroTech元素自动编号"
+
+#: ../../source/users/element/properties/element_numbering.rst:19
+msgid "Example"
+msgstr "示例"
+
+#: ../../source/users/element/properties/element_numbering.rst
+#: ../../source/users/element/properties/element_numbering.rst:22
+msgid "X"
+msgstr "X"
+
+#: ../../source/users/element/properties/element_numbering.rst
+#: ../../source/users/element/properties/element_numbering.rst:22
+msgid "AAAA"
+msgstr "亚行"
+
+#: ../../source/users/element/properties/element_numbering.rst:26
+msgid "Code defined by `IEC 81346`_ norm."
+msgstr "由 `IEC 81346 <IEC 81346_>`_ 规范定义的代码。"
+
+#: ../../source/users/element/properties/element_numbering.rst:28
+msgid "**A**: Two or more purposes or tasks."
+msgstr "**A**:两个或两个以上的目的或任务。"
+
+#: ../../source/users/element/properties/element_numbering.rst:29
+msgid ""
+"**B**: Converting an input variable into a signal for further processing."
+msgstr "**B**:将一个输入变量转换成信号供进一步处理。"
+
+#: ../../source/users/element/properties/element_numbering.rst:30
+msgid "**C**: Storing of energy, information or material."
+msgstr "**C**:储存能量，信息或材料。"
+
+#: ../../source/users/element/properties/element_numbering.rst:31
+msgid "**E**: Providing radiant or thermal energy."
+msgstr "**E**:提供光电或热能。"
+
+#: ../../source/users/element/properties/element_numbering.rst:32
+msgid "**F**: Direct protection from dangerous or unwanted conditions."
+msgstr "**F**:直接保护免受危险或不想要的条件。"
+
+#: ../../source/users/element/properties/element_numbering.rst:33
+msgid "**G**: Initiating a flow of energy or material."
+msgstr "**G**:启动能量或材料流。"
+
+#: ../../source/users/element/properties/element_numbering.rst:34
+msgid "**H**: Producing a new kind of material or product."
+msgstr "**H**:生产新型材料或产品。"
+
+#: ../../source/users/element/properties/element_numbering.rst:35
+msgid "**K**: Processing signals or information."
+msgstr "**K**:处理信号或信息。"
+
+#: ../../source/users/element/properties/element_numbering.rst:36
+msgid "**M**: Providing mechanical energy for driving purposes."
+msgstr "**M**:为驾驶目的提供机械能量。"
+
+#: ../../source/users/element/properties/element_numbering.rst:37
+msgid "**P**: Presenting information."
+msgstr "**P**:介绍情况。"
+
+#: ../../source/users/element/properties/element_numbering.rst:38
+msgid ""
+"**Q**: Controlled switching or varying a flow of energy, of signals or of "
+"material."
+msgstr "**Q**:控制下的转换或改变能量、信号或材料的流动。"
+
+#: ../../source/users/element/properties/element_numbering.rst:39
+msgid ""
+"**R**: Restricting or stabilizing motion or a flow of energy or material."
+msgstr "**R**:限制或稳定运动或能量或材料的流动。"
+
+#: ../../source/users/element/properties/element_numbering.rst:40
+msgid ""
+"**S**: Converting a manual operation into a signal for further processing."
+msgstr "**S**:将人工操作转换成信号供进一步处理。"
+
+#: ../../source/users/element/properties/element_numbering.rst:41
+msgid "**T**: Conversion of energy maintaining the kind of energy."
+msgstr "**T**:能量转换维持能量类型。"
+
+#: ../../source/users/element/properties/element_numbering.rst:42
+msgid "**U**: Keeping objects in a defined position."
+msgstr "**U**:将对象保留在定义的位置。"
+
+#: ../../source/users/element/properties/element_numbering.rst:43
+msgid "**V**: Processing (treating) of material or products."
+msgstr "**V**:材料或产品的加工(处理)."
+
+#: ../../source/users/element/properties/element_numbering.rst:44
+msgid "**W**: Guiding or transporting from one place to another."
+msgstr "**W**:指导或从一个地方运送到另一个地方。"
+
+#: ../../source/users/element/properties/element_numbering.rst:45
+msgid "**X**: Connecting objects"
+msgstr "**X**:连接对象"
+
+#: ../../source/users/element/properties/element_numbering.rst:48
+msgid "Alphanumeric code which identify the element."
+msgstr "识别元素的字母代码 。"
+
+#: ../../source/users/element/properties/element_numbering.rst:52
+msgid ""
+"For more information about how to define auto numbering patterns, refer to "
+"`project auto numbering properties`_ section."
+msgstr ""
+"有关如何定义自动编号模式的更多信息，请参见 `项目自动编号属性 <project auto numbering properties_>`_ 节。"
+
+#: ../../source/users/element/properties/element_numbering.rst:54
+msgid ""
+"For more information about how to manage the codification of conductors, "
+"refer to `add element`_ section."
+msgstr "关于如何管理导体编纂的更多信息，请参见 `添加元素 <add element_>`_ 部分。"

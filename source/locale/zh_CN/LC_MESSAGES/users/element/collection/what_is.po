@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/collection/what_is.rst:5
+msgid "What is a collection?"
+msgstr "什么是收藏品吗?"
+
+#: ../../source/users/element/collection/what_is.rst:7
+msgid ""
+"An element collection is a database where all element files are storaged and"
+" classified. The element collection gives the information about the element "
+"name, category (folder); sub-categories (sub-folders) and category or sub-"
+"category path in the file system."
+msgstr ""
+"元件集合是一个存储和分类所有元素文件的数据库。元件集合给出了文件系统中元素名称，类别(文件夹),子类别(子文件夹)和类别或子类别路径的信息。"
+
+#: ../../source/users/element/collection/what_is.rst:11
+msgid ""
+"QElectroTech has two different element collections integrated, `QET "
+"collection`_ and `User collection`_."
+msgstr ""
+"QElectroTech有两种不同的元素集成，`QET集 <QET collection_>`_ 和 `用户集 <User "
+"collection_>`_。"
+
+#: ../../source/users/element/collection/what_is.rst:16
+msgid "Figure: Collection panel"
+msgstr "图：收集面板"
+
+#: ../../source/users/element/collection/what_is.rst:18
+msgid ""
+"QElectroTech displays also a third collection in the `collections panel`_ "
+"when a project is opened, the `project collection`_. This collection is not "
+"part from the software structure and it is treated automatically by "
+"QElectroTech during the draw process in the `workspace`_."
+msgstr ""
+"QElectroTech 在项目打开时的 `收集面板 <collections panel_>`_ 中也显示第三个收藏，`元件集合 <project "
+"collection_>`_ 。 此收藏不是软件结构的一部分，在 `工作区 <workspace_>`_ 的绘图过程中由 QElectroTech "
+"自动处理 。"

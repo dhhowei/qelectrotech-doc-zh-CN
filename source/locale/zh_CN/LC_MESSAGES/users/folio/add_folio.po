@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/add_folio.rst:5
+msgid "Add new Folio"
+msgstr "添加新组合"
+
+#: ../../source/users/folio/add_folio.rst:7
+msgid ""
+"QElectroTech allows creating `folios`_ from `menu bar`_, `projects panel`_, "
+"`folios tabs bar`_ and using the corresponding keyboard shortcut."
+msgstr ""
+"QElectroTech允许从 `图幅 <folios_>`_，`菜单栏 <menu bar_>`_，`folios标签栏 <projects "
+"panel_>`_ 创建 `follios <folios tabs bar_>`_，并使用相应的键盘快捷键。"
+
+#: ../../source/users/folio/add_folio.rst:11
+msgid "Add new folio from menu bar"
+msgstr "从菜单栏中添加新框"
+
+#: ../../source/users/folio/add_folio.rst:13
+msgid ""
+"Select **Project > Add a folio** menu item to add a new `folio`_ to the "
+"active `project`_."
+msgstr ""
+"选择 **项目 > 添加一个 folio** 菜单项，将一个新的 `图幅 <folio_>`_ 添加到活动的 `项目 <project_>`_ 。"
+
+#: ../../source/users/folio/add_folio.rst:18
+msgid "Figure: QElectroTech Project menu"
+msgstr "图：QElectroTech 项目菜单"
+
+#: ../../source/users/folio/add_folio.rst:21
+msgid "Add new folio from projects panel"
+msgstr "从项目面板中添加新框"
+
+#: ../../source/users/folio/add_folio.rst:23
+msgid "Right click on the `project`_ where a new `folio`_ should be added."
+msgstr "右键点击 `项目 <project_>`_，其中应添加一个新的 `图幅 <folio_>`_ 。"
+
+#: ../../source/users/folio/add_folio.rst:24
+msgid ""
+"Click the option **Add a folio** to add a new `folio`_ to the `project`_."
+msgstr "单击选项 **添加缩写** 添加新内容 `图幅 <folio_>`_ 页：1 `项目 <project_>`_。"
+
+#: ../../source/users/folio/add_folio.rst:29
+msgid "Figure: QElectroTech Project panel"
+msgstr "图：QElectroTech项目面板"
+
+#: ../../source/users/folio/add_folio.rst:33
+msgid ""
+"If the `projects panel`_ is not displayed, it can be displayed from "
+"**Settings > Display > Projects**"
+msgstr "如果 `项目面板 <projects panel_>`_ 没有显示，可以从 **设置 > 显示 > 项目** 显示"
+
+#: ../../source/users/folio/add_folio.rst:36
+msgid "Add new folio from folios tabs bar"
+msgstr "从 folios 标签栏添加新文件"
+
+#: ../../source/users/folio/add_folio.rst:38
+msgid ""
+"Click on the **Add folio** icon |folio-new| from right side of the `folios "
+"tabs bar`_ to add a new `folio`_ to the active `project`_."
+msgstr ""
+"点击 **Add folio** 图标 |folio-new| 从 `folios tabs bar <folios tabs bar_>`_ "
+"右侧，在活动 `图幅 <folio_>`_ 上添加一个新的 `项目 <project_>`_。"
+
+#: ../../source/users/folio/add_folio.rst:40
+msgid "folio-new"
+msgstr "新胶片"
+
+#: ../../source/users/folio/add_folio.rst:43
+msgid "Add new folio using keyboard shortcut"
+msgstr "使用键盘快捷键添加新 folio"
+
+#: ../../source/users/folio/add_folio.rst:45
+msgid ""
+"QElectroTech allows using keyboard shortcut to increase the working "
+"efficiency."
+msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+
+#: ../../source/users/folio/add_folio.rst:47
+msgid "Press ``Ctrl + t`` to add a new `folio`_ to the active `project`_."
+msgstr "按 ``Ctrl + t`` 在活动 `图幅 <folio_>`_ 中添加一个新的 `项目 <project_>`_。"
+
+#: ../../source/users/folio/add_folio.rst:51
+msgid ""
+"For more information about QElectroTech keyboard shortcuts, refer to `menu "
+"bar`_ section."
+msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

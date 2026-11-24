@@ -1,0 +1,188 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/schema/basics/ellipse.rst:5
+msgid "Ellipse"
+msgstr "椭圆"
+
+#: ../../source/users/schema/basics/ellipse.rst:8
+msgid "Create ellipse"
+msgstr "创建椭圆"
+
+#: ../../source/users/schema/basics/ellipse.rst:12
+msgid ""
+"To draw more easily, the folio grid can be displayed from **Display > "
+"Display the grid** or from `toolbar`_ icon |grid|."
+msgstr ""
+"为了更方便地绘制，folio网格可以从 **Display > 显示网格** 或 `工具栏 <toolbar_>`_ 图标 |grid| 显示。"
+
+#: ../../source/users/schema/basics/ellipse.rst:20
+msgid "grid"
+msgstr "网格"
+
+#: ../../source/users/schema/basics/ellipse.rst:14
+msgid "The ellipse can only be added to the `workspace`_ by `toolbar`_."
+msgstr "椭圆只能由 `工作区 <workspace_>`_ 添加到 `工具栏 <toolbar_>`_。"
+
+#: ../../source/users/schema/basics/ellipse.rst:16
+msgid "Select the icon |ellipse| from the `toolbar`_ to add an ellipse."
+msgstr "从 `工具栏 <toolbar_>`_ 中选择图标 |ellipse| 以添加椭圆 。"
+
+#: ../../source/users/schema/basics/ellipse.rst:21
+msgid "ellipse"
+msgstr "椭圆"
+
+#: ../../source/users/schema/basics/ellipse.rst:17
+msgid "Click on the initial controlling point from the ellipse."
+msgstr "从椭圆点点击初始控制点。"
+
+#: ../../source/users/schema/basics/ellipse.rst:18
+msgid "Click on the end controlling point from the ellipse."
+msgstr "从椭圆点点击终端控制点。"
+
+#: ../../source/users/schema/basics/ellipse.rst:25
+msgid ""
+"If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
+"Display > Add**."
+msgstr "如果 `工具栏 <toolbar_>`_ 不显示，可以从 **设置 > 显示 > Add** 显示。"
+
+#: ../../source/users/schema/basics/ellipse.rst:28
+msgid "Ellipse properties"
+msgstr "椭圆属性"
+
+#: ../../source/users/schema/basics/ellipse.rst:30
+msgid ""
+"The border line and the internal area from the ellipse can be customized at "
+"QElectroTech."
+msgstr "从椭圆形的边界线和内部区域可以在QEelectroTech定制。"
+
+#: ../../source/users/schema/basics/ellipse.rst:32
+msgid "The border line from a ellipse has the same properties as a `line`_."
+msgstr "来自椭圆的边线具有与 `线条 <line_>`_ 相同的属性。"
+
+#: ../../source/users/schema/basics/ellipse.rst:33
+msgid ""
+"The type of filling for closed primitive objects (rectangle, ellipse and "
+"closed polygon) are: **None**, **Solid line** and some types of grids."
+msgstr "闭合原始物体(矩形，椭圆形和闭合多边形)的填充类型为：**None**,**Solid line** 和一些类型的网格。"
+
+#: ../../source/users/schema/basics/ellipse.rst:38
+msgid "Figure: QElectroTech Color selection PopUP window"
+msgstr "图：QElectroTech 颜色选择 PopUP 窗口"
+
+#: ../../source/users/schema/basics/ellipse.rst:40
+msgid "The possible filling colors are defined by the `RGB scale range`_."
+msgstr "可能的填充颜色由 `RGB比例范围 <RGB scale range_>`_ 定义。"
+
+#: ../../source/users/schema/basics/ellipse.rst:44
+msgid ""
+"The position from the ellipse can be locked to prevent involuntary movement."
+msgstr "从椭圆形的位置可以被锁上以防止非自愿移动。"
+
+#: ../../source/users/schema/basics/ellipse.rst:46
+msgid "Go to ellipse properties and check the **Lock position** button."
+msgstr "转到椭圆属性并检查 **Lock 位置** 按钮 。"
+
+#: ../../source/users/schema/basics/ellipse.rst:48
+msgid ""
+"The ellipse properties can be displayed from `menu bar`_, by right click on "
+"border from the ellipse, from selection properties panel and using keyboard "
+"shortcut."
+msgstr "椭圆属性可以从 `菜单栏 <menu bar_>`_ 显示，从椭圆右键点击边框，从选择属性面板和使用键盘快捷键。"
+
+#: ../../source/users/schema/basics/ellipse.rst:52
+msgid "Ellipse properties from menu bar"
+msgstr "菜单栏的椭圆属性"
+
+#: ../../source/users/schema/basics/ellipse.rst:54
+#: ../../source/users/schema/basics/ellipse.rst:92
+msgid "Select the border from the ellipse which should be edited."
+msgstr "从应编辑的椭圆中选择边框。"
+
+#: ../../source/users/schema/basics/ellipse.rst:55
+msgid ""
+"Select **Edit > Edit the selected object** menu item to display the ellipse "
+"properties PopUP window."
+msgstr "选择 **Edit > 编辑选定的对象** 菜单项以显示椭圆属性 PopUP 窗口。"
+
+#: ../../source/users/schema/basics/ellipse.rst:60
+msgid "Figure: QElectroTech edit menu"
+msgstr "图：QElectroTech 编辑菜单"
+
+#: ../../source/users/schema/basics/ellipse.rst:63
+msgid "Ellipse properties by right click"
+msgstr "通过右键单击椭圆属性"
+
+#: ../../source/users/schema/basics/ellipse.rst:65
+msgid "Right click on the border from the ellipse which should be edited."
+msgstr "右键单击应当编辑的椭圆边框。"
+
+#: ../../source/users/schema/basics/ellipse.rst:66
+msgid ""
+"Select the option **Edit the selected object** to display the ellipse "
+"properties PopUP window."
+msgstr "选择选项 **编辑选定对象** 以显示椭圆属性 PopUP 窗口 。"
+
+#: ../../source/users/schema/basics/ellipse.rst:71
+msgid "Figure: QElectroTech ellipse selection PopUP window"
+msgstr "图：QElectroTech 椭圆选择 PopUP 窗口"
+
+#: ../../source/users/schema/basics/ellipse.rst:74
+msgid "Ellipse properties from selection properties panel"
+msgstr "选择属性面板的椭圆属性"
+
+#: ../../source/users/schema/basics/ellipse.rst:76
+msgid ""
+"Select one the border from the ellipse which should be edited and the "
+"properties from the ellipse will appear at `selection properties panel`_."
+msgstr "在 `选择属性面板 <selection properties panel_>`_ 上选择一个应当编辑的椭圆边框，并显示椭圆的属性。"
+
+#: ../../source/users/schema/basics/ellipse.rst:81
+msgid "Figure: QElectroTech ellipse properties panel"
+msgstr "图：QElectroTech 椭圆属性面板"
+
+#: ../../source/users/schema/basics/ellipse.rst:85
+msgid ""
+"If the `selection properties panel`_ is not displayed, it can be displayed "
+"from **Settings > Display > Selection properties**"
+msgstr ""
+"如果不显示 `选择属性面板 <selection properties panel_>`_，可以从 **设置 > 显示 > 选择属性** 显示"
+
+#: ../../source/users/schema/basics/ellipse.rst:88
+msgid "Ellipse properties using keyboard shortcut"
+msgstr "使用键盘快捷键椭圆属性"
+
+#: ../../source/users/schema/basics/ellipse.rst:90
+msgid ""
+"QElectroTech allows using keyboard shortcut to increase the working "
+"efficiency."
+msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+
+#: ../../source/users/schema/basics/ellipse.rst:93
+msgid "Press ``Ctrl + e`` to display the ellipse properties PopUP window."
+msgstr "按 ``Ctrl + e`` 显示椭圆属性 PopUP 窗口。"
+
+#: ../../source/users/schema/basics/ellipse.rst:97
+msgid ""
+"For more information about QElectroTech keyboard shortcuts, refer to `menu "
+"bar`_ section."
+msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

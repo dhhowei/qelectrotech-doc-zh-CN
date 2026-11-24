@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:7
+msgid "Organize toolbars"
+msgstr "组织工具栏"
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:9
+msgid ""
+"The QElectroTech GUI allows having many different `toolbars`_ switched on to"
+" make more friendly the application."
+msgstr "QElectroTech GUI允许拥有许多不同的 `toolbars <toolbars_>`_ 开关，使应用程序更加友好。"
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:11
+msgid "To display or hide `toolbars`_:"
+msgstr "显示或隐藏 `工具栏 <toolbars_>`_ :"
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:13
+msgid ""
+"Select **Settings > Display** menu item to display the `panels`_ and "
+"`toolbars`_ list."
+msgstr "选择 **设置 > 显示** 菜单项以显示 `panels <panels_>`_ 和 `工具栏 <toolbars_>`_ 列表 。"
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:14
+msgid ""
+"Click on the different `toolbars`_ (Tools, Display, Diagram, Add and Depth) "
+"which should be displayed or hidden."
+msgstr "单击应当显示或隐藏的不同 `工具栏 <toolbars_>`_ (工具、显示、图表、添加和深度)。"
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:19
+msgid "Figure: QElectroTech Settings > Display menu"
+msgstr "图：QElectroTech 设置 > 显示菜单"
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:21
+msgid ""
+"All `toolbars`_ are placed by default under `menu bar`_, in one row. The "
+"user is free reorganizing the `toolbars`_. The `toolbars`_ can be organiced "
+"in rows, columns at the left or right side from the `workspace`_ or as "
+"floating toolbar."
+msgstr ""
+"所有 `工具栏 <toolbars_>`_ 默认都放在 `菜单栏 <menu bar_>`_ 下，排成一行。 用户可以自由重组 `工具栏 "
+"<toolbars_>`_ 。 `工具栏 <toolbars_>`_ 可以从 `工作区 <workspace_>`_ 或作为浮动工具栏 。"
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:28
+msgid "Figure: QElectroTech user interface"
+msgstr "图：QElectroTech用户界面"
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:30
+msgid "To change the organization of `toolbars`_:"
+msgstr "更改 `工具栏 <toolbars_>`_ 的组织："
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:32
+msgid "Left click at the left side from the `toolbar`_."
+msgstr "从 `工具栏 <toolbar_>`_。"
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:33
+msgid ""
+"Without releasing the `toolbar`_, move the mouse to the final position."
+msgstr "在不释放 `工具栏 <toolbar_>`_ 的情况下，将鼠标移动到最后位置。"
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:34
+msgid "Release the `toolbar`_."
+msgstr "释放 `工具栏 <toolbar_>`_。"
+
+#: ../../source/users/interface/customize/organize_toolbars.rst:39
+msgid "Figure: QElectroTech toolbars placement"
+msgstr "图：QElectroTech 工具栏设置"

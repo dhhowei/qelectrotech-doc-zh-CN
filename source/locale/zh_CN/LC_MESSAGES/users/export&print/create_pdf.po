@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/export&print/create_pdf.rst:5
+msgid "Create a PDF from a project"
+msgstr "从项目创建 PDF"
+
+#: ../../source/users/export&print/create_pdf.rst:7
+msgid ""
+"The active `project`_  can be exported to PDF from the `menu bar`_, "
+"`toolbar`_ and using the corresponding keyboard shortcut."
+msgstr ""
+"活动 `项目 <project_>`_ 可以从 `菜单栏 <menu bar_>`_，`工具栏 <toolbar_>`_ 中导出到 "
+"PDF,并使用相应的键盘快捷键。"
+
+#: ../../source/users/export&print/create_pdf.rst:12
+msgid ""
+"Check that the active `project`_ is the project that should be printed."
+msgstr "请检查archive `项目 <project_>`_ 是应该打印的项目。"
+
+#: ../../source/users/export&print/create_pdf.rst:16
+msgid ""
+"The current version from QElectroTech, version 0.7, does not allow keeping "
+"the element links on the PDF document."
+msgstr "QElectroTech目前版本的0.7版本不允许保留PDF文档上的元素链接。"
+
+#: ../../source/users/export&print/create_pdf.rst:20
+msgid "Export project to PDF from menu bar"
+msgstr "从菜单栏导出项目到 PDF"
+
+#: ../../source/users/export&print/create_pdf.rst:22
+msgid "Select **File > Print** menu item to open the printing PopUp window."
+msgstr "选择 **文件 > 打印** 菜单项打开打印 PopUp 窗口 。"
+
+#: ../../source/users/export&print/create_pdf.rst:23
+msgid "Select Print to PDF a file check button."
+msgstr "选择打印到 PDF 文件检查按钮 。"
+
+#: ../../source/users/export&print/create_pdf.rst:24
+msgid "Select the directory where to save the PDF file"
+msgstr "选择保存 PDF 文件的目录"
+
+#: ../../source/users/export&print/create_pdf.rst:29
+msgid "Figure: QElectroTech printing PopUp window"
+msgstr "图：QElectroTech 打印弹出窗口"
+
+#: ../../source/users/export&print/create_pdf.rst:31
+msgid "Press **Ok** Button to open the preview printing PopUp window."
+msgstr "按 **Ok** 按钮打开预览打印 PopUp 窗口。"
+
+#: ../../source/users/export&print/create_pdf.rst:36
+msgid "Figure: QElectroTech printing preview PopUp window"
+msgstr "图：QElectroTech 打印预览"
+
+#: ../../source/users/export&print/create_pdf.rst:38
+msgid "Select the `folios`_ that should be printed."
+msgstr "选择要打印的 `图幅 <folios_>`_ 。"
+
+#: ../../source/users/export&print/create_pdf.rst:39
+msgid "Select the printing option."
+msgstr "选择打印选项。"
+
+#: ../../source/users/export&print/create_pdf.rst:40
+msgid "Press **Print** Button."
+msgstr "按 **Print** 按钮。"
+
+#: ../../source/users/export&print/create_pdf.rst:44
+msgid ""
+"If the folio list is not display, select the icon |icon_folio_list| from the"
+" toolbar."
+msgstr "如果folio列表未显示，请从工具栏中选择图标 |icon_folio_list| 。"
+
+#: ../../source/users/export&print/create_pdf.rst:47
+msgid "icon_folio_list"
+msgstr "图标 folio list"
+
+#: ../../source/users/export&print/create_pdf.rst:45
+msgid ""
+"If the print options panel is not display, select the icon "
+"|icon_print_options| from the toolbar."
+msgstr "如果打印选项面板没有显示，请从工具栏中选择图标 |icon_print_options|."
+
+#: ../../source/users/export&print/create_pdf.rst:48
+msgid "icon_print_options"
+msgstr "图标打印选项"
+
+#: ../../source/users/export&print/create_pdf.rst:51
+msgid "Export project to PDF from toolbar"
+msgstr "从工具栏导出项目到 PDF"
+
+#: ../../source/users/export&print/create_pdf.rst:53
+msgid ""
+"Select the icon |document-print| from the `toolbar`_ to open the printing "
+"PopUp window."
+msgstr "从 `工具栏 <toolbar_>`_ 打开打印的 PopUp 窗口 。"
+
+#: ../../source/users/export&print/create_pdf.rst:56
+msgid "document-print"
+msgstr "文档打印"
+
+#: ../../source/users/export&print/create_pdf.rst:54
+#: ../../source/users/export&print/create_pdf.rst:68
+msgid ""
+"Follow the steps defined at the ``printing project from menu bar`` section."
+msgstr "遵循 ``printing project from menu bar`` 节确定的步骤。"
+
+#: ../../source/users/export&print/create_pdf.rst:60
+msgid ""
+"If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
+"Display > Tools**"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **设置 > 显示 > 工具** 显示"
+
+#: ../../source/users/export&print/create_pdf.rst:63
+msgid "Export project to PDF using keyboard shortcut"
+msgstr "使用键盘快捷键导出项目到 PDF"
+
+#: ../../source/users/export&print/create_pdf.rst:65
+msgid ""
+"QElectroTech allows using keyboard shortcut to increase the working "
+"efficiency."
+msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+
+#: ../../source/users/export&print/create_pdf.rst:67
+msgid "Press ``Ctrl + p`` to open the printing PopUp window."
+msgstr "按 ``Ctrl + p`` 打开打印的 PopUp 窗口 。"
+
+#: ../../source/users/export&print/create_pdf.rst:72
+msgid ""
+"For more information about QElectroTech keyboard shortcuts, refer to `menu "
+"bar`_ section."
+msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

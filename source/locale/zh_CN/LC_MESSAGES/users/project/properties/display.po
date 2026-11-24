@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/project/properties/display.rst:4
+msgid "Display project properties"
+msgstr "显示项目属性"
+
+#: ../../source/users/project/properties/display.rst:6
+msgid ""
+"The `project properties`_ can be displayed in a PopUP window from `menu "
+"bar`_ and `projects panel`_."
+msgstr ""
+"`项目属性 <project properties_>`_ 可以从 `菜单栏 <menu bar_>`_ 和 `项目面板 <projects "
+"panel_>`_ 在 PopUP 窗口中显示。"
+
+#: ../../source/users/project/properties/display.rst:9
+msgid "Project properties from menu bar"
+msgstr "来自菜单栏的项目属性"
+
+#: ../../source/users/project/properties/display.rst:11
+msgid ""
+"Select **Project > Project properties** menu item to display the `project "
+"properties`_ PopUP window from the active project."
+msgstr ""
+"选择 **Project > Project属性** 菜单项，以显示当前项目的 `项目属性 <project properties_>`_ PopUP "
+"窗口 。"
+
+#: ../../source/users/project/properties/display.rst:16
+msgid "Figure: QElectroTech project menu"
+msgstr "图：QElectroTech 项目菜单"
+
+#: ../../source/users/project/properties/display.rst:21
+msgid ""
+"If more than one `projects`_ is opened, be sure that the active `projects`_ "
+"is the correct before changing properties."
+msgstr "如果打开了超过一个 `项目 <projects_>`_，则在改变属性之前，请确定激活的 `项目 <projects_>`_ 是正确的。"
+
+#: ../../source/users/project/properties/display.rst:25
+msgid "Project properties from project panel"
+msgstr "项目小组的项目属性"
+
+#: ../../source/users/project/properties/display.rst:27
+msgid ""
+"The advantage of displaying the `project properties`_ from `projects panel`_"
+" is the possibility to choose `projects`_ which are opened and are not the "
+"active `project`_."
+msgstr ""
+"从 `项目面板 <project properties_>`_ 显示 `项目属性 <projects panel_>`_ "
+"的优点是有可能选择已打开而不是活动 `项目 <projects_>`_ 的 `项目 <project_>`_。"
+
+#: ../../source/users/project/properties/display.rst:30
+msgid "Right click on the `project`_ from the tree of the `projects panel`_."
+msgstr "右键点击 `项目 <project_>`_ 从树上 `专题小组讨论会 <projects panel_>`_。"
+
+#: ../../source/users/project/properties/display.rst:31
+msgid ""
+"Select **Project properties** to display the `project properties`_ PopUP "
+"window."
+msgstr "选择 **项目属性** 以显示 `项目属性 <project properties_>`_ PopUP 窗口 。"
+
+#: ../../source/users/project/properties/display.rst:36
+msgid "Figure: QElectroTech projects panel"
+msgstr "图：QElectroTech项目小组"
+
+#: ../../source/users/project/properties/display.rst:40
+msgid ""
+"If the `projects panel`_ is not displayed, it can be displayed from "
+"**Settings > Display > Projects**."
+msgstr "如果 `项目面板 <projects panel_>`_ 不显示，可以从 **设置 > 显示 > 项目** 显示。"

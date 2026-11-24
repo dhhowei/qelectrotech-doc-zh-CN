@@ -1,0 +1,772 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/interface/toolbars.rst:6
+msgid "Toolbars"
+msgstr "工具栏"
+
+#: ../../source/users/interface/toolbars.rst:8
+msgid ""
+"In addition to the different `menus`_, QElectroTech also provides toolbars. "
+"The toolbars are groups of buttons with icons which initiate actions. In "
+"general, these buttons have its counterpart at one of the menus from the "
+"`menu bar`_."
+msgstr ""
+"除了不同的 `menus <menus_>`_ 之外，QElectroTech还提供了工具栏，工具栏是带有启动动作的图标的按钮组，一般来说，这些按钮在 "
+"`菜单栏 <menu bar_>`_ 的菜单之一有对应的。"
+
+#: ../../source/users/interface/toolbars.rst:14
+msgid ""
+"To help the user, a tooltip is displayed when the arrow is placed on each "
+"button."
+msgstr "为了帮助用户，当箭头放在每个按钮上时会显示工具提示。"
+
+#: ../../source/users/interface/toolbars.rst:17
+msgid "Toolbar Tools"
+msgstr "工具栏工具"
+
+#: ../../source/users/interface/toolbars.rst:22
+msgid "Figure: QElectroTech toolbar Tools"
+msgstr "图：QElectroTech 工具栏"
+
+#: ../../source/users/interface/toolbars.rst:24
+msgid "The different buttons from toolbar **Tools** are:"
+msgstr "工具栏 **Tools** 的不同按钮是："
+
+#: ../../source/users/interface/toolbars.rst:27
+#: ../../source/users/interface/toolbars.rst:71
+#: ../../source/users/interface/toolbars.rst:103
+#: ../../source/users/interface/toolbars.rst:127
+#: ../../source/users/interface/toolbars.rst:157
+msgid "Tool"
+msgstr "工具"
+
+#: ../../source/users/interface/toolbars.rst:27
+#: ../../source/users/interface/toolbars.rst:71
+#: ../../source/users/interface/toolbars.rst:103
+#: ../../source/users/interface/toolbars.rst:127
+#: ../../source/users/interface/toolbars.rst:157
+msgid "Function"
+msgstr "函数"
+
+#: ../../source/users/interface/toolbars.rst:27
+#: ../../source/users/interface/toolbars.rst:71
+#: ../../source/users/interface/toolbars.rst:103
+#: ../../source/users/interface/toolbars.rst:127
+#: ../../source/users/interface/toolbars.rst:157
+msgid "Keyboard shortcut"
+msgstr "键盘快捷键"
+
+#: ../../source/users/interface/toolbars.rst:27
+#: ../../source/users/interface/toolbars.rst:71
+#: ../../source/users/interface/toolbars.rst:103
+#: ../../source/users/interface/toolbars.rst:127
+#: ../../source/users/interface/toolbars.rst:157
+msgid "Icon"
+msgstr "图标"
+
+#: ../../source/users/interface/toolbars.rst:29
+msgid "New"
+msgstr "新建"
+
+#: ../../source/users/interface/toolbars.rst:29
+msgid "Creates a new Project"
+msgstr "创建新项目"
+
+#: ../../source/users/interface/toolbars.rst:29
+msgid "|project-new|"
+msgstr "|project-new|"
+
+#: ../../source/users/interface/toolbars.rst:175
+msgid "project-new"
+msgstr "项目-新"
+
+#: ../../source/users/interface/toolbars.rst:31
+msgid "Open"
+msgstr "打开"
+
+#: ../../source/users/interface/toolbars.rst:31
+msgid "Opens an existing project"
+msgstr "打开已有的项目"
+
+#: ../../source/users/interface/toolbars.rst:31
+msgid "``Ctrl + o``"
+msgstr "``Ctrl + o``"
+
+#: ../../source/users/interface/toolbars.rst:31
+msgid "|project|"
+msgstr "|project|"
+
+#: ../../source/users/interface/toolbars.rst:176
+msgid "project"
+msgstr "项目"
+
+#: ../../source/users/interface/toolbars.rst:33
+msgid "Save"
+msgstr "保存"
+
+#: ../../source/users/interface/toolbars.rst:33
+msgid "Saves the current project and all its folios"
+msgstr "保存当前项目及其所有组合"
+
+#: ../../source/users/interface/toolbars.rst:33
+msgid "``Ctrl + s``"
+msgstr "``Ctrl + s``"
+
+#: ../../source/users/interface/toolbars.rst:33
+msgid "|document-save|"
+msgstr "|document-save|"
+
+#: ../../source/users/interface/toolbars.rst:177
+msgid "document-save"
+msgstr "文档保存"
+
+#: ../../source/users/interface/toolbars.rst:35
+msgid "Save as"
+msgstr "另存为"
+
+#: ../../source/users/interface/toolbars.rst:35
+msgid "Saves the current project with a different file name"
+msgstr "以不同的文件名称保存当前项目"
+
+#: ../../source/users/interface/toolbars.rst:35
+msgid "|document-save-as|"
+msgstr "|document-save-as|"
+
+#: ../../source/users/interface/toolbars.rst:178
+msgid "document-save-as"
+msgstr "文档保存为"
+
+#: ../../source/users/interface/toolbars.rst:37
+msgid "Close"
+msgstr "关闭"
+
+#: ../../source/users/interface/toolbars.rst:37
+msgid "Closes the current project"
+msgstr "关闭当前项目"
+
+#: ../../source/users/interface/toolbars.rst:37
+msgid "``Ctrl + w``"
+msgstr "``Ctrl + w``"
+
+#: ../../source/users/interface/toolbars.rst:37
+msgid "|project-close|"
+msgstr "|project-close|"
+
+#: ../../source/users/interface/toolbars.rst:179
+msgid "project-close"
+msgstr "项目关闭"
+
+#: ../../source/users/interface/toolbars.rst:39
+msgid "Print"
+msgstr "打印"
+
+#: ../../source/users/interface/toolbars.rst:39
+msgid "Print one or more folio of the current project"
+msgstr "打印当前项目的一个或多个框"
+
+#: ../../source/users/interface/toolbars.rst:39
+msgid "``Ctrl + p``"
+msgstr "``Ctrl + p``"
+
+#: ../../source/users/interface/toolbars.rst:39
+msgid "|document-print|"
+msgstr "|document-print|"
+
+#: ../../source/users/interface/toolbars.rst:180
+msgid "document-print"
+msgstr "文档打印"
+
+#: ../../source/users/interface/toolbars.rst:41
+msgid "Undo"
+msgstr "撤销"
+
+#: ../../source/users/interface/toolbars.rst:41
+msgid "Undoes the previous action"
+msgstr "撤消上一个动作"
+
+#: ../../source/users/interface/toolbars.rst:41
+msgid "``Ctrl + z``"
+msgstr "``Ctrl + z``"
+
+#: ../../source/users/interface/toolbars.rst:41
+msgid "|edit-undo|"
+msgstr "|edit-undo|"
+
+#: ../../source/users/interface/toolbars.rst:181
+msgid "edit-undo"
+msgstr "编辑-取消"
+
+#: ../../source/users/interface/toolbars.rst:43
+msgid "Redo"
+msgstr "重做"
+
+#: ../../source/users/interface/toolbars.rst:43
+msgid "Restores the undone action"
+msgstr "恢复已撤销的动作"
+
+#: ../../source/users/interface/toolbars.rst:43
+msgid "``Ctrl + Shift + z``"
+msgstr "``Ctrl + Shift + z``"
+
+#: ../../source/users/interface/toolbars.rst:43
+msgid "|edit-redo|"
+msgstr "|edit-redo|"
+
+#: ../../source/users/interface/toolbars.rst:182
+msgid "edit-redo"
+msgstr "编辑-重写"
+
+#: ../../source/users/interface/toolbars.rst:45
+msgid "Cut"
+msgstr "剪切"
+
+#: ../../source/users/interface/toolbars.rst:45
+msgid "Puts selected elements into the clipboard"
+msgstr "将选中的元素放入剪贴板"
+
+#: ../../source/users/interface/toolbars.rst:45
+msgid "``Ctrl + x``"
+msgstr "``Ctrl + x``"
+
+#: ../../source/users/interface/toolbars.rst:45
+msgid "|edit-cut|"
+msgstr "|edit-cut|"
+
+#: ../../source/users/interface/toolbars.rst:183
+msgid "edit-cut"
+msgstr "编辑剪切"
+
+#: ../../source/users/interface/toolbars.rst:47
+msgid "Copy"
+msgstr "复制"
+
+#: ../../source/users/interface/toolbars.rst:47
+msgid "Copies selected elements"
+msgstr "复制选中元素"
+
+#: ../../source/users/interface/toolbars.rst:47
+msgid "``Ctrl + c``"
+msgstr "``Ctrl + c``"
+
+#: ../../source/users/interface/toolbars.rst:47
+msgid "|edit-copy|"
+msgstr "|edit-copy|"
+
+#: ../../source/users/interface/toolbars.rst:184
+msgid "edit-copy"
+msgstr "编辑复制"
+
+#: ../../source/users/interface/toolbars.rst:49
+msgid "Paste"
+msgstr "粘贴"
+
+#: ../../source/users/interface/toolbars.rst:49
+msgid "Pastes elements from the clipboard into the folio"
+msgstr "将剪贴板中的元素粘贴到相框中"
+
+#: ../../source/users/interface/toolbars.rst:49
+msgid "``Ctrl + v``"
+msgstr "``Ctrl + v``"
+
+#: ../../source/users/interface/toolbars.rst:49
+msgid "|edit-paste|"
+msgstr "|edit-paste|"
+
+#: ../../source/users/interface/toolbars.rst:185
+msgid "edit-paste"
+msgstr "编辑-粘贴"
+
+#: ../../source/users/interface/toolbars.rst:51
+msgid "Delete"
+msgstr "删除"
+
+#: ../../source/users/interface/toolbars.rst:51
+msgid "Removes selected elements from the folio"
+msgstr "从框中删除选中的元素"
+
+#: ../../source/users/interface/toolbars.rst:51
+msgid "``Del``"
+msgstr "``Del``"
+
+#: ../../source/users/interface/toolbars.rst:51
+msgid "|edit-delete|"
+msgstr "|edit-delete|"
+
+#: ../../source/users/interface/toolbars.rst:186
+msgid "edit-delete"
+msgstr "编辑-删除"
+
+#: ../../source/users/interface/toolbars.rst:53
+msgid "Rotate"
+msgstr "旋转"
+
+#: ../../source/users/interface/toolbars.rst:53
+msgid "Rotates selected elements and texts"
+msgstr "旋转选定的要素和文本"
+
+#: ../../source/users/interface/toolbars.rst:53
+msgid "``Space``"
+msgstr "``Space``"
+
+#: ../../source/users/interface/toolbars.rst:53
+msgid "|transform-rotate|"
+msgstr "|transform-rotate|"
+
+#: ../../source/users/interface/toolbars.rst:187
+msgid "transform-rotate"
+msgstr "变换旋转"
+
+#: ../../source/users/interface/toolbars.rst:58
+msgid ""
+"Select **Settings > display > Tools** menu item to display or hidden the "
+"toolbar **Tools**."
+msgstr "选择 **设置 > 显示 > 工具** 菜单项以显示或隐藏工具栏 **Tools**."
+
+#: ../../source/users/interface/toolbars.rst:61
+msgid "Toolbar Display"
+msgstr "工具栏显示"
+
+#: ../../source/users/interface/toolbars.rst:66
+msgid "Figure: QElectroTech toolbar Display"
+msgstr "图：QElectroTech 工具栏显示"
+
+#: ../../source/users/interface/toolbars.rst:68
+msgid "The different buttons from toolbar **Display** are:"
+msgstr "工具栏中不同的按钮 **Display** 是："
+
+#: ../../source/users/interface/toolbars.rst:73
+msgid "Select"
+msgstr "选择"
+
+#: ../../source/users/interface/toolbars.rst:73
+msgid "Allows to select elements"
+msgstr "允许选择元素"
+
+#: ../../source/users/interface/toolbars.rst:73
+msgid "|select|"
+msgstr "|select|"
+
+#: ../../source/users/interface/toolbars.rst:188
+msgid "select"
+msgstr "选择"
+
+#: ../../source/users/interface/toolbars.rst:75
+msgid "Move"
+msgstr "移动"
+
+#: ../../source/users/interface/toolbars.rst:75
+msgid "Allows to view the folio without modifying it"
+msgstr "允许在不修改的情况下查看浮雕"
+
+#: ../../source/users/interface/toolbars.rst:75
+msgid "|move|"
+msgstr "|move|"
+
+#: ../../source/users/interface/toolbars.rst:189
+msgid "move"
+msgstr "移动"
+
+#: ../../source/users/interface/toolbars.rst:77
+msgid "Display the grid"
+msgstr "显示网格"
+
+#: ../../source/users/interface/toolbars.rst:77
+msgid "Displays or hidden the grid of folio"
+msgstr "显示或隐藏光栅格"
+
+#: ../../source/users/interface/toolbars.rst:77
+msgid "|grid|"
+msgstr "|grid|"
+
+#: ../../source/users/interface/toolbars.rst:190
+msgid "grid"
+msgstr "网格"
+
+#: ../../source/users/interface/toolbars.rst:79
+msgid "Background color white / gray"
+msgstr "背景颜色为白色/ 灰色"
+
+#: ../../source/users/interface/toolbars.rst:79
+msgid "Displays the background color of the folio in white or gray"
+msgstr "显示白色或灰色圆顶的背景颜色"
+
+#: ../../source/users/interface/toolbars.rst:79
+msgid "|diagram_bg|"
+msgstr "|diagram_bg|"
+
+#: ../../source/users/interface/toolbars.rst:191
+msgid "diagram_bg"
+msgstr "图表  bg"
+
+#: ../../source/users/interface/toolbars.rst:81
+msgid "Zoom content"
+msgstr "缩放内容"
+
+#: ../../source/users/interface/toolbars.rst:81
+msgid ""
+"Adjusts the zoom to display all the content of folio regardless of context"
+msgstr "调整缩放以显示光标的所有内容，不管上下文"
+
+#: ../../source/users/interface/toolbars.rst:81
+msgid "``Ctrl + 8``"
+msgstr "``Ctrl + 8``"
+
+#: ../../source/users/interface/toolbars.rst:81
+msgid "|zoom-draw|"
+msgstr "|zoom-draw|"
+
+#: ../../source/users/interface/toolbars.rst:192
+msgid "zoom-draw"
+msgstr "缩放绘图"
+
+#: ../../source/users/interface/toolbars.rst:83
+msgid "Fit in view"
+msgstr "适合视图"
+
+#: ../../source/users/interface/toolbars.rst:83
+msgid "Adjusts the zoom on exactly the part of the folio"
+msgstr "调整缩放在球体的确切部分"
+
+#: ../../source/users/interface/toolbars.rst:83
+msgid "``Ctrl + 9``"
+msgstr "``Ctrl + 9``"
+
+#: ../../source/users/interface/toolbars.rst:83
+msgid "|view-fit-window|"
+msgstr "|view-fit-window|"
+
+#: ../../source/users/interface/toolbars.rst:193
+msgid "view-fit-window"
+msgstr "视图适应窗口"
+
+#: ../../source/users/interface/toolbars.rst:85
+msgid "Reset zoom"
+msgstr "重置缩放"
+
+#: ../../source/users/interface/toolbars.rst:85
+msgid "Restores default zoom level"
+msgstr "恢复默认缩放级别"
+
+#: ../../source/users/interface/toolbars.rst:85
+msgid "``Ctrl + 0``"
+msgstr "``Ctrl + 0``"
+
+#: ../../source/users/interface/toolbars.rst:85
+msgid "|zoom-original|"
+msgstr "|zoom-original|"
+
+#: ../../source/users/interface/toolbars.rst:194
+msgid "zoom-original"
+msgstr "缩放- 原始"
+
+#: ../../source/users/interface/toolbars.rst:90
+msgid ""
+"Select **Settings > Display > Display** menu item to display or hidden the "
+"toolbar **Display**."
+msgstr "选择 **设置 > 显示 > 显示** 要显示或隐藏工具栏的菜单项 **Display**."
+
+#: ../../source/users/interface/toolbars.rst:93
+msgid "Toolbar Diagram"
+msgstr "工具栏图表"
+
+#: ../../source/users/interface/toolbars.rst:98
+msgid "Figure: QElectroTech toolbar Diagram"
+msgstr "图：QElectroTech 工具栏图表"
+
+#: ../../source/users/interface/toolbars.rst:100
+msgid "The different buttons from toolbar **Diagram** are:"
+msgstr "工具栏 **Diagram** 的不同按钮是："
+
+#: ../../source/users/interface/toolbars.rst:105
+msgid "Folio properties"
+msgstr "组合属性"
+
+#: ../../source/users/interface/toolbars.rst:105
+msgid "Edits the properties of the folio"
+msgstr "编辑文件的属性"
+
+#: ../../source/users/interface/toolbars.rst:105
+msgid "``Ctrl + l``"
+msgstr "``Ctrl + l``"
+
+#: ../../source/users/interface/toolbars.rst:105
+msgid "|dialog-information|"
+msgstr "|dialog-information|"
+
+#: ../../source/users/interface/toolbars.rst:195
+msgid "dialog-information"
+msgstr "对话框信息"
+
+#: ../../source/users/interface/toolbars.rst:107
+msgid "Reset conductors"
+msgstr "重置导线"
+
+#: ../../source/users/interface/toolbars.rst:107
+msgid "Resets the conductors path ignoring the user changes"
+msgstr "重置未忽略用户更改的导线路径"
+
+#: ../../source/users/interface/toolbars.rst:107
+msgid "``Ctrl + k``"
+msgstr "``Ctrl + k``"
+
+#: ../../source/users/interface/toolbars.rst:107
+msgid "|conductor2|"
+msgstr "|conductor2|"
+
+#: ../../source/users/interface/toolbars.rst:196
+msgid "conductor2"
+msgstr "导线2"
+
+#: ../../source/users/interface/toolbars.rst:109
+msgid "Automatic creation conductor"
+msgstr "自动创建导线"
+
+#: ../../source/users/interface/toolbars.rst:109
+msgid "Using the automatic creation of conductor (s) when possible"
+msgstr "在可能的情况下使用自动创建导体(s)"
+
+#: ../../source/users/interface/toolbars.rst:109
+msgid "|autoconnect|"
+msgstr "|autoconnect|"
+
+#: ../../source/users/interface/toolbars.rst:197
+msgid "autoconnect"
+msgstr "自动连接"
+
+#: ../../source/users/interface/toolbars.rst:114
+msgid ""
+"Select **Settings > Display > Diagram** menu item to display or hidden the "
+"toolbar **Diagram**."
+msgstr "选择 **设置 > 显示 > 图表** 菜单项以显示或隐藏工具栏 **数字** 。"
+
+#: ../../source/users/interface/toolbars.rst:117
+msgid "Toolbar Add"
+msgstr "工具栏添加"
+
+#: ../../source/users/interface/toolbars.rst:122
+msgid "Figure: QElectroTech toolbar Add"
+msgstr "图：QElectroTech 工具栏"
+
+#: ../../source/users/interface/toolbars.rst:124
+msgid "The different buttons from toolbar **Add** are:"
+msgstr "工具栏 **Add** 的不同按钮是："
+
+#: ../../source/users/interface/toolbars.rst:129
+msgid "Add a textfield"
+msgstr "添加文本字段"
+
+#: ../../source/users/interface/toolbars.rst:129
+msgid "Adds a text field to the current folio"
+msgstr "在当前框中添加文本字段"
+
+#: ../../source/users/interface/toolbars.rst:129
+msgid "|textfield|"
+msgstr "|textfield|"
+
+#: ../../source/users/interface/toolbars.rst:198
+msgid "textfield"
+msgstr "文本字段"
+
+#: ../../source/users/interface/toolbars.rst:131
+msgid "Add a picture"
+msgstr "添加图片"
+
+#: ../../source/users/interface/toolbars.rst:131
+msgid "Adds an image to the current folio"
+msgstr "将图像添加到当前文件"
+
+#: ../../source/users/interface/toolbars.rst:131
+msgid "|insert-image|"
+msgstr "|insert-image|"
+
+#: ../../source/users/interface/toolbars.rst:199
+msgid "insert-image"
+msgstr "插入图像"
+
+#: ../../source/users/interface/toolbars.rst:133
+msgid "Add line"
+msgstr "添加行"
+
+#: ../../source/users/interface/toolbars.rst:133
+msgid "Adds a line to the current folio"
+msgstr "在当前文件框中添加一行"
+
+#: ../../source/users/interface/toolbars.rst:133
+msgid "|line|"
+msgstr "|line|"
+
+#: ../../source/users/interface/toolbars.rst:200
+msgid "line"
+msgstr "线条"
+
+#: ../../source/users/interface/toolbars.rst:135
+msgid "Add a rectangle"
+msgstr "添加矩形"
+
+#: ../../source/users/interface/toolbars.rst:135
+msgid "Adds a rectangle to the current folio"
+msgstr "在当前框中添加矩形"
+
+#: ../../source/users/interface/toolbars.rst:135
+msgid "|rectangle|"
+msgstr "|rectangle|"
+
+#: ../../source/users/interface/toolbars.rst:202
+msgid "rectangle"
+msgstr "矩形"
+
+#: ../../source/users/interface/toolbars.rst:137
+msgid "Add an ellipse"
+msgstr "添加椭圆"
+
+#: ../../source/users/interface/toolbars.rst:137
+msgid "Adds an ellipse to the current folio"
+msgstr "在当前框中添加椭圆"
+
+#: ../../source/users/interface/toolbars.rst:137
+msgid "|ellipse|"
+msgstr "|ellipse|"
+
+#: ../../source/users/interface/toolbars.rst:201
+msgid "ellipse"
+msgstr "椭圆"
+
+#: ../../source/users/interface/toolbars.rst:139
+msgid "Add a polygon"
+msgstr "添加多边形"
+
+#: ../../source/users/interface/toolbars.rst:139
+msgid "Adds a polyline to the current folio"
+msgstr "将多线添加到当前框中"
+
+#: ../../source/users/interface/toolbars.rst:139
+msgid "|polygon|"
+msgstr "|polygon|"
+
+#: ../../source/users/interface/toolbars.rst:203
+msgid "polygon"
+msgstr "多边形"
+
+#: ../../source/users/interface/toolbars.rst:144
+msgid ""
+"Select **Settings > Display > Add** menu item to display or hidden the "
+"toolbar **Add**."
+msgstr "选择 **设置 > 显示 > 添加** 菜单项以显示或隐藏工具栏 **Add** 。"
+
+#: ../../source/users/interface/toolbars.rst:147
+msgid "Toolbar Depth"
+msgstr "工具栏深度"
+
+#: ../../source/users/interface/toolbars.rst:152
+msgid "Figure: QElectroTech toolbar Depth"
+msgstr "图：QElectroTech 工具栏深度"
+
+#: ../../source/users/interface/toolbars.rst:154
+msgid "The different buttons from toolbar **Depth** are:"
+msgstr "工具栏的不同按钮 **深度** 是："
+
+#: ../../source/users/interface/toolbars.rst:159
+msgid "Bring forward"
+msgstr "前进"
+
+#: ../../source/users/interface/toolbars.rst:159
+msgid "Brings the selection (s) to front"
+msgstr "将选择带到前面"
+
+#: ../../source/users/interface/toolbars.rst:159
+msgid "``Ctrl + shift + Home``"
+msgstr "``Ctrl + shift + Home``"
+
+#: ../../source/users/interface/toolbars.rst:159
+msgid "|bring_forward|"
+msgstr "|bring_forward|"
+
+#: ../../source/users/interface/toolbars.rst:204
+msgid "bring_forward"
+msgstr "带入"
+
+#: ../../source/users/interface/toolbars.rst:161
+msgid "Raise"
+msgstr "提升"
+
+#: ../../source/users/interface/toolbars.rst:161
+msgid "Approach the selection (s)"
+msgstr "接近选择(s)"
+
+#: ../../source/users/interface/toolbars.rst:161
+msgid "``Ctrl + shift + Up``"
+msgstr "``Ctrl + shift + Up``"
+
+#: ../../source/users/interface/toolbars.rst:161
+msgid "|raise|"
+msgstr "|raise|"
+
+#: ../../source/users/interface/toolbars.rst:205
+msgid "raise"
+msgstr "提高"
+
+#: ../../source/users/interface/toolbars.rst:163
+msgid "Lower"
+msgstr "下调"
+
+#: ../../source/users/interface/toolbars.rst:163
+msgid "Moves away the selection (s)"
+msgstr "移动选择区(s)"
+
+#: ../../source/users/interface/toolbars.rst:163
+msgid "``Ctrl + shift + Down``"
+msgstr "``Ctrl + shift + Down``"
+
+#: ../../source/users/interface/toolbars.rst:163
+msgid "|lower|"
+msgstr "|lower|"
+
+#: ../../source/users/interface/toolbars.rst:206
+msgid "lower"
+msgstr "下调"
+
+#: ../../source/users/interface/toolbars.rst:165
+msgid "Send backwards"
+msgstr "向后发送"
+
+#: ../../source/users/interface/toolbars.rst:165
+msgid "Sends in the backwards the selection (s)"
+msgstr "向后发送选择"
+
+#: ../../source/users/interface/toolbars.rst:165
+msgid "``Ctrl + shift + End``"
+msgstr "``Ctrl + shift + End``"
+
+#: ../../source/users/interface/toolbars.rst:165
+msgid "|send_backward|"
+msgstr "|send_backward|"
+
+#: ../../source/users/interface/toolbars.rst:207
+msgid "send_backward"
+msgstr "向后发送( B)"
+
+#: ../../source/users/interface/toolbars.rst:170
+msgid ""
+"Select **Settings > Display > Depth** menu item to display or hidden the "
+"toolbar **Depth**."
+msgstr "选择 **设置 > 显示 > 深度** 菜单项以显示或隐藏工具栏 **深度** 。"

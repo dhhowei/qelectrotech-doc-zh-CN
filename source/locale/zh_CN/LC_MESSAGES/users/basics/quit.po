@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/basics/quit.rst:6
+msgid "Quit QElectroTech"
+msgstr "退出 QElectroTech"
+
+#: ../../source/users/basics/quit.rst:8
+msgid ""
+"The user can quit QElectroTech at anytime. The user does not need to `close "
+"the project`_ before closing the application."
+msgstr "用户可以随时退出 QElectroTech。 用户不需要 `关闭项目 <close the project_>`_ 在结束申请之前。"
+
+#: ../../source/users/basics/quit.rst:10
+msgid ""
+"If the current work wants to be saved before closing the project, refer to "
+"`save project`_ section. Even so, QElectroTech displays an automatic message"
+" to save the current job if any modification has been created."
+msgstr ""
+"如果当前工作要在项目关闭前保存，请参考 `save project <save project_>`_ 部分。 即使如此，QElectroTech "
+"也会显示一个自动消息，以保存当前任务，如果已创建任何修改 。"
+
+#: ../../source/users/basics/quit.rst:15
+msgid "Figure: QElectroTech Save message"
+msgstr "图：QElectroTech 保存信件"
+
+#: ../../source/users/basics/quit.rst:18
+msgid ""
+"As a large amount of applications which has been developed using `Qt`_, "
+"QElectroTech can be closed from the close tab |close_tab| which can be found"
+" at top right from main window, from `menu bar`_ or using the corresponding "
+"keyboard shortcut."
+msgstr ""
+"作为大量已使用 `Qt <Qt_>`_ 开发的应用程序，QElectroTech可以从关闭标签 |close_tab| "
+"中关闭，该标签可以在主窗口右上方找到，从 `菜单栏 <menu bar_>`_ 或使用相应的键盘快捷键。"
+
+#: ../../source/users/basics/quit.rst:41
+msgid "close_tab"
+msgstr "关闭( T)"
+
+#: ../../source/users/basics/quit.rst:21
+msgid "Quit QElectroTech from menu bar"
+msgstr "从菜单栏退出 QElectroTech"
+
+#: ../../source/users/basics/quit.rst:23
+msgid "Select **File > Quit** menu item to quit QElectroTech."
+msgstr "选择 **文件 > 退出** 菜单项退出QElectroTech 。"
+
+#: ../../source/users/basics/quit.rst:28
+msgid "Figure: QElectroTech File menu"
+msgstr "图：QElectroTech 文件菜单"
+
+#: ../../source/users/basics/quit.rst:31
+msgid "Quit QElectroTech using keyboard shortcut"
+msgstr "使用键盘快捷键退出 QElectroTech"
+
+#: ../../source/users/basics/quit.rst:33
+msgid ""
+"QElectroTech allows using keyboard shortcut to increase the working "
+"efficiency."
+msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+
+#: ../../source/users/basics/quit.rst:35
+msgid "Press ``Ctrl + q`` to quit QElectroTech."
+msgstr "按 ``Ctrl + q`` 退出QElectroTech."
+
+#: ../../source/users/basics/quit.rst:39
+msgid ""
+"For more information about QElectroTech keyboard shortcuts, refer to `menu "
+"bar`_ section."
+msgstr "关于QElectroTech键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"

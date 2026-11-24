@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/title_block/what_is.rst:5
+msgid "What is the title block?"
+msgstr "什么是图框?"
+
+#: ../../source/users/folio/title_block/what_is.rst:8
+msgid ""
+"The title block of a drawing is a table which usually is placed at the "
+"bottom from the drawing. The title block is the responsible to provide all "
+"necessary information to identify and verify the drawing validity."
+msgstr "绘图的图框是一个表格，通常从绘图中放在底部。图框负责提供所有必要的信息，以识别和验证绘图的有效性。"
+
+#: ../../source/users/folio/title_block/what_is.rst:15
+msgid "Figure: QElectroTech Title block example"
+msgstr "图：QElectroTech 图框示例"
+
+#: ../../source/users/folio/title_block/what_is.rst:17
+msgid "Some information which can be found at a title block is:"
+msgstr "在图框中可以找到的一些信息是："
+
+#: ../../source/users/folio/title_block/what_is.rst:19
+msgid "Drawing / Schema title"
+msgstr "绘图 / Schema 标题"
+
+#: ../../source/users/folio/title_block/what_is.rst:20
+msgid "Drawing / Schema number"
+msgstr "绘图 / 图表编号"
+
+#: ../../source/users/folio/title_block/what_is.rst:21
+msgid ""
+"Drawing / Schema size (Horizontal A3 sheet is the more common at electrical "
+"schemas)"
+msgstr "绘图 / Schema 大小(Horizontal A3 工作表在电气计划中更为常见)"
+
+#: ../../source/users/folio/title_block/what_is.rst:22
+msgid "Revision index"
+msgstr "修订索引"
+
+#: ../../source/users/folio/title_block/what_is.rst:23
+msgid "Author"
+msgstr "作者"
+
+#: ../../source/users/folio/title_block/what_is.rst:24
+msgid "Date"
+msgstr "日期"
+
+#: ../../source/users/folio/title_block/what_is.rst:25
+msgid ""
+"License (Ex.: `ISO 16016`_ protection notices for restricting the use of "
+"documents and products)"
+msgstr "许可证(英文：`ISO 16016 <ISO 16016_>`_)"
+
+#: ../../source/users/folio/title_block/what_is.rst:26
+msgid "Logo"
+msgstr "日志"
+
+#: ../../source/users/folio/title_block/what_is.rst:30
+msgid ""
+"Refer to `IEC 61082-1`_ norm for more detailed information about the "
+"recommended content that should be included in the title block."
+msgstr "关于图框中应包含的建议内容的更详细资料，参见 `IEC 61082-1 <IEC 61082-1_>`_ 规范。"
+
+#: ../../source/users/folio/title_block/what_is.rst:33
+msgid "As table, the elements from a title block are:"
+msgstr "作为表格，图框的元素是："
+
+#: ../../source/users/folio/title_block/what_is.rst:35
+msgid "`Cell`_"
+msgstr "`销售 <Cell_>`_"
+
+#: ../../source/users/folio/title_block/what_is.rst:36
+msgid "`Column`_"
+msgstr "`颜色 <Column_>`_"
+
+#: ../../source/users/folio/title_block/what_is.rst:37
+msgid "`Row`_"
+msgstr "`ow <Row_>`_"

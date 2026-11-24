@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/schema/element/references/master_item_untie.rst:5
+msgid "Untie slave item"
+msgstr "解开奴隶物品"
+
+#: ../../source/users/schema/element/references/master_item_untie.rst:7
+msgid ""
+"Some times is necessary to delete previous work, QElectroTech allows "
+"breaking/deleting `links between elements (cross references)`_."
+msgstr ""
+"有时需要删除之前的作品，QElectroTech允许断/删除 `元素之间的链接(交叉引用) <links between elements (cross"
+" references)_>`_。"
+
+#: ../../source/users/schema/element/references/master_item_untie.rst:10
+msgid "A `Slave element`_ can be unlinked from a `master element`_ as follow:"
+msgstr "A `奴隶元素 <Slave element_>`_ 可以与 `主元件 <master element_>`_ 脱钩如下："
+
+#: ../../source/users/schema/element/references/master_item_untie.rst:12
+msgid ""
+"Select the `master element`_ which should be unlinked from the `project "
+"collection`_  or from the `workspace`_."
+msgstr ""
+"选择与 `元件集合 <master element_>`_ 或 `工作空间 <project collection_>`_ 无关的 `工作区 "
+"<workspace_>`_ 。"
+
+#: ../../source/users/schema/element/references/master_item_untie.rst:13
+msgid ""
+"Right click on the selected `element`_ and choose the option **Edit the "
+"element**."
+msgstr "右键点击选中的 `元件 <element_>`_ 并选择选项 **编辑元素** 。"
+
+#: ../../source/users/schema/element/references/master_item_untie.rst:18
+msgid "Figure: QElectroTech element options"
+msgstr "图：QElectroTech 元素选项"
+
+#: ../../source/users/schema/element/references/master_item_untie.rst:20
+msgid ""
+"`Display`_ the **Cross-reference (Master)** tab from the element editor "
+"PopUP window"
+msgstr "`显示 <Display_>`_ 元素编辑器 PopUP 窗口中的 **Cross- reference (Master)** 标签"
+
+#: ../../source/users/schema/element/references/master_item_untie.rst:25
+#: ../../source/users/schema/element/references/master_item_untie.rst:40
+msgid "Figure: QElectroTech cross reference tab element properties"
+msgstr "图：QElectroTech 交叉引用标签元素属性"
+
+#: ../../source/users/schema/element/references/master_item_untie.rst:27
+msgid ""
+"Search and select the desired `slave element`_ from the **Element related** "
+"table."
+msgstr "搜索并选择想要的 `奴隶元素 <slave element_>`_ 从 **相关要素** 表单。"
+
+#: ../../source/users/schema/element/references/master_item_untie.rst:28
+msgid ""
+"Press the **Untie item** button |icon_untie| to unlink the `slave element`_ "
+"from the `master element`_."
+msgstr ""
+"按 **解绑项** 按钮 |icon_untie| 将 `奴隶元素 <slave element_>`_ 与 `主元件 <master "
+"element_>`_ 解锁。"
+
+#: ../../source/users/schema/element/references/master_item_untie.rst:31
+msgid "icon_untie"
+msgstr "图标"
+
+#: ../../source/users/schema/element/references/master_item_untie.rst:29
+msgid "Press  **Apply** to accept and save the changes."
+msgstr "按 **Apply** 接受并保存更改。"
+
+#: ../../source/users/schema/element/references/master_item_untie.rst:35
+msgid ""
+"The `slave element`_ can also be unlinked by right click on the `element`_ "
+"and selecting the option **Unlink the item**."
+msgstr ""
+"`奴隶元素 <slave element_>`_ 也可以通过右键点击 `元件 <element_>`_ 并选择选项 **解链接项目** 而解链接。"

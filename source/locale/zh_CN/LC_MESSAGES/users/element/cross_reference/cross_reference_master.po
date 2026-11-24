@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/cross_reference/cross_reference_master.rst:5
+msgid "Cross reference at master element"
+msgstr "主元件的交叉引用"
+
+#: ../../source/users/element/cross_reference/cross_reference_master.rst:7
+msgid ""
+"A master element can have many slave element linked. QElectroTech allows "
+"that one master element has more than one cross reference defined. This "
+"characteristic is similar to the physical devices, the component which "
+"manage the control signal can define the action from many different "
+"components of the device."
+msgstr ""
+"一个主元件可以有许多奴隶元素链接。QElectroTech允许一个主元件有多个交叉引用定义，这个特性与物理设备类似，管理控制信号的组件可以定义来自设备许多不同组件的动作。"
+
+#: ../../source/users/element/cross_reference/cross_reference_master.rst:15
+msgid "Figure: QElectroTech master element cross reference"
+msgstr "图：QElectroTech主元件交叉参考"
+
+#: ../../source/users/element/cross_reference/cross_reference_master.rst:17
+msgid ""
+"The master element is the element which should appear at the Bill of "
+"Materials (BOM), it s the element with all the information. All slave "
+"element linked are following the master element."
+msgstr "主元件是材料法案(BOM)中应该出现的元素，它是所有信息的元素。所有链接的奴隶元素都遵循主元件。"

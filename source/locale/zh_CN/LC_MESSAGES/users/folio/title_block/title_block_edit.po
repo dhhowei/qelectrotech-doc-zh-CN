@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:5
+msgid "Edit title block"
+msgstr "编辑图框"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:7
+msgid ""
+"QElectroTech only allows editing the templates from `User collection`_ or "
+"`project embedded collection`_. The `QET collection`_ title blocks cannot be"
+" edited."
+msgstr ""
+"QElectroTech 只允许从 `User collection <User collection_>`_ 或 `project 嵌入式 "
+"collection <project embedded collection_>`_ 编辑模板。`QET collection <QET "
+"collection_>`_ 图框不能编辑。"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:12
+msgid ""
+"QElectroTech allows opening the title block templates from `QET collection`_"
+" with `title block editor`_. Once the template is modified, it has to be "
+"saved using the option **Save as** and create a new template."
+msgstr ""
+"QElectroTech 可以打开图框模板 `QET 收藏 <QET collection_>`_ 与 `图框编辑器 <title block "
+"editor_>`_。模板一旦修改，必须使用选项保存 **另存为** 并创建新模板。"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:16
+msgid "Edit title block from menu bar"
+msgstr "从菜单栏编辑图框"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:18
+msgid ""
+"Select **Project > Project properties > New folio** menu item to display "
+"`default folio properties`_ from `project`_."
+msgstr ""
+"选择 **项目 > 项目属性 > 新建 folio** 菜单项以显示 `默认 volio 属性 <default folio "
+"properties_>`_ from `项目 <project_>`_。"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:19
+#: ../../source/users/folio/title_block/title_block_edit.rst:31
+msgid ""
+"Go to `title block information`_ and select the title block which should be "
+"edited."
+msgstr "转到 `图框信息 <title block information_>`_ 并选择应该编辑的图框 。"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:20
+#: ../../source/users/folio/title_block/title_block_edit.rst:32
+msgid ""
+"Select the option **Edit this template** to display `title block editor`_."
+msgstr "选择选项 **编辑此模板** 以显示 `图框编辑 <title block editor_>`_ 。"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:25
+msgid "Figure: QElectroTech new folio properties PopUP window"
+msgstr "图：QElectroTech 新浮雕属性 PopUP 窗口"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:28
+msgid "Edit title block from folio properties"
+msgstr "从 folio 属性编辑图框"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:30
+msgid ""
+"`Display folio properties`_ from one of the `folios`_ of the `project`_."
+msgstr ""
+"`Display follio属性 <Display folio properties_>`_，来自 `图幅 <folios_>`_ 中的 `项目 "
+"<project_>`_ 之一。"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:37
+msgid "Figure: QElectroTech folio properties PopUP window"
+msgstr "图：QElectroTech folio 属性 PopUP 窗口"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:40
+msgid "Edit title block from project panel"
+msgstr "从项目面板编辑图框"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:42
+msgid "Right click on one title block template which should be edited."
+msgstr "右键单击应编辑的图框模板。"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:43
+msgid ""
+"Click the option **Edit this template** to open the template with `title "
+"block editor`_."
+msgstr "单击选项 **编辑此模板** 用 `图框编辑器 <title block editor_>`_ 打开模板 。"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:48
+msgid "Figure: QElectroTech Project panel"
+msgstr "图：QElectroTech项目面板"
+
+#: ../../source/users/folio/title_block/title_block_edit.rst:52
+msgid ""
+"If the `project panel`_ is not displayed, it can be displayed from "
+"**Settings > Display > Projects**."
+msgstr "如果 `项目面板 <project panel_>`_ 没有显示，可以从 **设置 > 显示 > 项目** 显示。"

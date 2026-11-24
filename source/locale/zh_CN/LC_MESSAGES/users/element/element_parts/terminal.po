@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/element/element_parts/terminal.rst:5
+msgid "Terminal"
+msgstr "端子"
+
+#: ../../source/users/element/element_parts/terminal.rst:7
+msgid ""
+"A terminal is a part from the `element`_ that will allow a connection with "
+"one `conductor`_ during the schema creation."
+msgstr "一个终端是来自 `元件 <element_>`_ 的一部分，它将允许在造型过程中与一个 `导体 <conductor_>`_ 连接。"
+
+#: ../../source/users/element/element_parts/terminal.rst:11
+msgid "Create terminal"
+msgstr "创建终端"
+
+#: ../../source/users/element/element_parts/terminal.rst:13
+msgid "The terminal can only be added to `workspace`_ from `toolbar`_."
+msgstr "终端只能从 `工作区 <workspace_>`_ 添加到 `工具栏 <toolbar_>`_。"
+
+#: ../../source/users/element/element_parts/terminal.rst:15
+msgid "Select the icon |icon_terminal| from `toolbar`_ to add a terminal."
+msgstr "从 `工具栏 <toolbar_>`_ 选择图标 |icon_terminal| 以添加终端 。"
+
+#: ../../source/users/element/element_parts/terminal.rst:18
+msgid "icon_terminal"
+msgstr "图标( terminal)"
+
+#: ../../source/users/element/element_parts/terminal.rst:16
+msgid ""
+"Click on the initial point from the terminal in the `workspace`_ to add the "
+"terminal."
+msgstr "点击 `工作区 <workspace_>`_ 中终端的初始点添加终端。"
+
+#: ../../source/users/element/element_parts/terminal.rst:23
+msgid ""
+"If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
+"Display > Parts**."
+msgstr "如果 `工具栏 <toolbar_>`_ 不显示，可以从 **设置 > 显示 > 部件** 显示。"
+
+#: ../../source/users/element/element_parts/terminal.rst:26
+msgid "Terminal properties"
+msgstr "终端属性"
+
+#: ../../source/users/element/element_parts/terminal.rst:28
+msgid ""
+"Element part properties can be displayed from `information panel`_ when the "
+"part is selected."
+msgstr "元素部分属性可以在选择该部分时从 `信息面板 <information panel_>`_ 显示。"
+
+#: ../../source/users/element/element_parts/terminal.rst:33
+msgid ""
+"If the `information panel`_ is not displayed, it can be displayed from "
+"**Settings > Display > Information**."
+msgstr "如果 `信息面板 <information panel_>`_ 未显示，可以从 **设置 > 显示 > 信息** 显示。"
+
+#: ../../source/users/element/element_parts/terminal.rst:38
+msgid "Figure: QElectroTech terminal part from element"
+msgstr "图：来自元素的QElectroTech终端部件"
+
+#: ../../source/users/element/element_parts/terminal.rst:40
+msgid "QElectroTech allows customizing different terminal properties:"
+msgstr "QElectroTech 允许自定义不同的终端属性："
+
+#: ../../source/users/element/element_parts/terminal.rst
+msgid "Position"
+msgstr "立场"
+
+#: ../../source/users/element/element_parts/terminal.rst:44
+msgid "The start point coordinates (x, y) can be defined."
+msgstr "起始点坐标(x,y)可以定义。"
+
+#: ../../source/users/element/element_parts/terminal.rst
+msgid "Orientation"
+msgstr "方向"
+
+#: ../../source/users/element/element_parts/terminal.rst:48
+msgid ""
+"The exit direction from the connector can be defined. The four possible "
+"orientations are *North*, *East*, *South* and *West*."
+msgstr "连接器的退出方向可以定义，四个可能的方向是 *北*,*东*,*南* 和 *西*."
+
+#: ../../source/users/element/element_parts/terminal.rst
+msgid "Name"
+msgstr "名称"
+
+#: ../../source/users/element/element_parts/terminal.rst:52
+msgid "Terminal uuid."
+msgstr "终端uuid。"

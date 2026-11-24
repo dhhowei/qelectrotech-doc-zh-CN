@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/conductor/what_is.rst:7
+msgid "What is a conductor?"
+msgstr "什么是导师?"
+
+#: ../../source/users/conductor/what_is.rst:9
+msgid ""
+"A `conductor`_ or conduit represents the means of transmission of "
+"information, electrical power, flow power (pressure or flow volume) between "
+"source and target."
+msgstr "A`导体 <conductor_>`_ 或导管代表源与目标之间传递信息，电源，流电(压力或流量)的手段。"
+
+#: ../../source/users/conductor/what_is.rst:15
+msgid "Figure: QElectroTech conductor"
+msgstr "图：QElectroTech导电器"
+
+#: ../../source/users/conductor/what_is.rst:17
+msgid ""
+"In physical systems, T-crosses are used at fluid lines and terminal blocks "
+"are used to feed different electrical devices from the same source. "
+"QElectroTech also allows multiple connections between source and target."
+msgstr "在物理系统中，T-cross用于流线，终端区块用于从同一来源提供不同的电气设备。QElectroTech还允许源与目标之间有多个连接。"

@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, QelectroTech Team
+# This file is distributed under the same license as the QElectroTech
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QElectroTech\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-24 09:09+0800\n"
+"PO-Revision-Date: 2026-11-24 10:02+0800\n"
+"Last-Translator: QElectroTech Chinese documentation contributors\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:5
+msgid "Create nomenclature"
+msgstr "创建名称"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:7
+msgid ""
+"A `project`_ is a combination / assembly of `elements`_ / components, "
+"QElectroTech provides the feature to create a nomenclature, also known as "
+"Bill Of Materials (BOM), which shows the information about the different "
+"`elements`_ / components. QElectroTech allows creating the nomenclature "
+"automatically."
+msgstr ""
+"A`项目 <project_>`_ 是 `元件 <elements_>`_/组件的组合/组装，QElectroTech提供了创建名称的功能，又称Bill"
+" Of Materials(BOM),它显示了不同 `元件 <elements_>`_/组件的信息。QEctroTech允许自动创建名称。"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:18
+msgid "To create a project nomenclature:"
+msgstr "要创建项目名称："
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:20
+msgid "Activate the folio where the nomenclature table has to be created."
+msgstr "激活必须创建名称表的框。"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:21
+msgid ""
+"Select **Project > Add a nomenclature** to display the configuration PopUp "
+"window of the nomenclature creator."
+msgstr "选择 **项目 > 添加一个名称** 以显示名称创建者的配置弹出窗口 。"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:26
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:36
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:57
+msgid "Figure: QElectroTech project menu"
+msgstr "图：QElectroTech 项目菜单"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:29
+msgid "Go to **Display** tab to define display table properties."
+msgstr "转到 **Display** 标签，以定义显示表属性 。"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:30
+msgid "Define the **Table name** which will identify the table."
+msgstr "定义将标明表格的 **表名称**。"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:31
+msgid ""
+"Configure the display table settings (header and table cells properties, "
+"auto adjustment of table size, etc.)."
+msgstr "配置显示表设置(标题和表格单元格属性，表格大小的自动调整等)."
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:39
+msgid "Go to **Content** tab to define table columns."
+msgstr "转到 **Content** 标签来定义表格列 。"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:40
+msgid ""
+"Modify the list of information to be displayed according the commands of the"
+" following table."
+msgstr "根据下表的命令修改要显示的信息列表。"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:43
+msgid "Icon"
+msgstr "图标"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:43
+msgid "Action"
+msgstr "行动"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:43
+msgid "Keyboard shortcut"
+msgstr "键盘快捷键"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:45
+msgid "|go_up|"
+msgstr "|go_up|"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:74
+msgid "go_up"
+msgstr "上调"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:45
+msgid "Move up this field"
+msgstr "向上移动此字段"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:45
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:47
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:49
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:51
+msgid "Double-click on element"
+msgstr "双击元素"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:47
+msgid "|list_add|"
+msgstr "|list_add|"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:75
+msgid "list_add"
+msgstr "列表添加"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:47
+msgid "Add field to display list"
+msgstr "添加字段到显示列表"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:49
+msgid "|list_remove|"
+msgstr "|list_remove|"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:76
+msgid "list_remove"
+msgstr "列表( R)"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:49
+msgid "Remove field from display list"
+msgstr "从显示列表中删除字段"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:51
+msgid "|go_down|"
+msgstr "|go_down|"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:73
+msgid "go_down"
+msgstr "下行( L)"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:51
+msgid "Move down this field"
+msgstr "下移这个字段"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:62
+msgid ""
+"The content request configuration can be saved and chosen from "
+"**Configuration** section to increase working efficiency."
+msgstr "内容请求配置可以从 **配置** 部分保存和选择，以提高工作效率。"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:64
+msgid ""
+"QElectroTech is working with SQLite database, nomenclature table content can"
+" also be defined by SQL query."
+msgstr "QElectroTech正与SQLite数据库合作，术语表内容也可以通过SQL查询来定义。"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:66
+msgid ""
+"Define the filtering parameters (**Filter by** and type of `elements`_)."
+msgstr "定义过滤参数( E)**过滤器由** 类型 `元件 <elements_>`_)."
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:67
+msgid ""
+"Once the desired configuration is defined, press **OK** to create "
+"nomenclature tables."
+msgstr "一旦定义了所需的配置，请按 **OK** 创建术语表。"
+
+#: ../../source/users/reports/nomenclature/create_nomenclature.rst:71
+msgid ""
+"The project nomenclature can be created, modified and updated at any time."
+msgstr "项目名称可随时创建、修改和更新。"

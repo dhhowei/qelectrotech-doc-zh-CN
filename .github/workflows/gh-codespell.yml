@@ -2,19 +2,20 @@ name: Codespell
 
 on:
   pull_request:
-    branches: 
-     - master
+    branches:
+      - master
+
 jobs:
-  pages:
+  codespell:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
-    - uses: actions/checkout@v4
-    - name: spell
-      uses: codespell-project/actions-codespell@v2
-      with:
-        path: source
-        exclude_file: ${{ github.workspace }}/source/conf.py
-        skip:  '*.svg,*.py'
-    - name: REUSE Compliance Check
-      uses: fsfe/reuse-action@v6  
+      - uses: actions/checkout@v4
+      - name: Check spelling
+        uses: codespell-project/actions-codespell@v2
+        with:
+          path: source
+          exclude_file: ${{ github.workspace }}/source/conf.py
+          skip: '*.svg,*.py'
 

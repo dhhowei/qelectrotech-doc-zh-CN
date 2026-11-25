@@ -68,7 +68,7 @@ msgstr "操作"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:24
 msgid "Definition"
-msgstr "说明"
+msgstr "定义"
 
 #: ../../source/users/element/element_editor/edition/graphic/layers.rst:24
 msgid "Keyboard shortcut"

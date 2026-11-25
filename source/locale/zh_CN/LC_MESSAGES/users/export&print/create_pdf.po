@@ -127,7 +127,7 @@ msgstr "请按照 ``printing project from menu bar`` 一节中定义的步骤操
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**"
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可从 **设置 > 显示 > 工具** 中将其显示。"
+msgstr "如果未显示 `工具栏 <toolbar_>`_ ，可以从 **设置 > 显示 > 工具** 中将其显示。"
 
 #: ../../source/users/export&print/create_pdf.rst:63
 msgid "Export project to PDF using keyboard shortcut"

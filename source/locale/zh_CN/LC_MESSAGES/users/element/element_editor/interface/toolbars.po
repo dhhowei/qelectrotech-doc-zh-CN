@@ -39,7 +39,7 @@ msgid ""
 "The different toolbars can be hidden or placed in one or more rows below the"
 " `menu bar`_. The toolbars can also be placed on column at the left or right"
 " side from the main window."
-msgstr "各个工具栏可以隐藏，也可以放在 `菜单栏 <menu bar_>`_ 下方的一行或多行中。工具栏还可以放在主窗口左侧或右侧的一列中。"
+msgstr "各种工具栏可以隐藏，也可以放置在 `菜单栏 <menu bar_>`_ 下方的一行或多行中。工具栏还可以纵向放置在主窗口的左侧或右侧。"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:16
 msgid ""
@@ -57,7 +57,7 @@ msgstr "图：QElectroTech 元件编辑器“工具”工具栏"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:26
 msgid "The different buttons from toolbar **Tools** are:"
-msgstr "**Tools** 工具栏中的各个按钮如下："
+msgstr "**工具** 工具栏中的各个按钮如下："
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:29
 #: ../../source/users/element/element_editor/interface/toolbars.rst:64
@@ -263,7 +263,7 @@ msgstr "图：QElectroTech 元件编辑器“显示”工具栏"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:61
 msgid "The different buttons from toolbar **Display** are:"
-msgstr "**Display** 工具栏中的各个按钮如下："
+msgstr "**显示** 工具栏中的各个按钮如下："
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:66
 msgid "Fit in view"
@@ -309,7 +309,7 @@ msgstr "原始缩放"
 msgid ""
 "Select **Settings > Display > Display** menu item to display or hidden the "
 "toolbar **Display**."
-msgstr "选择 **设置 > 显示 > 显示** 菜单项可显示或隐藏 **Display** 工具栏。"
+msgstr "选择 **设置 > 显示 > 显示** 菜单项，以显示或隐藏 **显示** 工具栏。"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:76
 msgid "Toolbar Element"
@@ -521,7 +521,7 @@ msgstr "图：QElectroTech 元件编辑器“深度”工具栏"
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:139
 msgid "The different buttons from toolbar **Depth** are:"
-msgstr "**Depth** 工具栏中的各个按钮如下："
+msgstr "**深度** 工具栏中的各个按钮如下："
 
 #: ../../source/users/element/element_editor/interface/toolbars.rst:144
 msgid "Bring forward"

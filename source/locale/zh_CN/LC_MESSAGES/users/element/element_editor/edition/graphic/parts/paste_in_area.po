@@ -63,7 +63,7 @@ msgstr "在 `绘图区 <Drawing area_>`_ 中要粘贴 `部件 <part_>`_ 的位�
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste_in_area.rst:23
 msgid "Figure: QElectroTech Edit menu"
-msgstr "图：QElectroTech“编辑”菜单"
+msgstr "图：QElectroTech 编辑菜单"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste_in_area.rst:26
 msgid "Paste part by right click"
@@ -96,7 +96,7 @@ msgstr "使用快捷键粘贴部件"
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech 支持使用快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/paste_in_area.rst:42
 msgid ""
@@ -109,4 +109,4 @@ msgstr ""
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "有关 QElectroTech 快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

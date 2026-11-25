@@ -31,7 +31,7 @@ msgid ""
 "general, these buttons have its counterpart at one of the menus from the "
 "`menu bar`_."
 msgstr ""
-"除了各种菜单外，QElectroTech 还提供工具栏。工具栏是带图标、用于触发操作的一组按钮。一般来说，这些按钮在 `菜单栏 <menu "
+"除了各种菜单之外，QElectroTech 还提供工具栏。工具栏是带图标的按钮组，用于启动某个操作。通常，这些按钮在 `菜单栏 <menu "
 "bar_>`_ 的某个菜单中都有对应的菜单项。"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:11
@@ -45,7 +45,7 @@ msgstr "各种工具栏可以隐藏，也可以放置在 `菜单栏 <menu bar_>`
 msgid ""
 "To help the user, a tooltip is displayed when the arrow is placed on each "
 "button."
-msgstr "为方便用户，将鼠标指针移到每个按钮上时会显示工具提示。"
+msgstr "为方便用户，将鼠标指针悬停在每个按钮上时会显示工具提示。"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:19
 msgid "Toolbar Tools"
@@ -320,11 +320,11 @@ msgstr "缩小"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:87
 msgid "Fit in view"
-msgstr "适应视图"
+msgstr "适应窗口"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:87
 msgid "Adjusts the zoom on exactly the part of the workspace"
-msgstr "调整缩放以恰好显示整个工作区"
+msgstr "调整缩放，使工作区恰好完整显示"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/toolbars.rst:87
 msgid "``Ctrl + 9``"

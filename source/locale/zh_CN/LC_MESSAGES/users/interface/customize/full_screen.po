@@ -63,7 +63,7 @@ msgstr "按 ``Ctrl + Shift + f`` 使 QElectroTech 以全屏模式显示。"
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"
 
 #: ../../source/users/interface/customize/full_screen.rst:35
 msgid ""

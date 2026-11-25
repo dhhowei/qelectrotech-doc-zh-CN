@@ -50,7 +50,7 @@ msgstr "`选择 <Select_>`_ 第一个对象。"
 
 #: ../../source/users/schema/select/select_multiple_objects.rst:17
 msgid "Press ``Ctrl``."
-msgstr "按 ``Ctrl`` 。"
+msgstr "按住 ``Ctrl`` 。"
 
 #: ../../source/users/schema/select/select_multiple_objects.rst:18
 msgid "`Select`_ the rest of objects without releasing ``Ctrl``."

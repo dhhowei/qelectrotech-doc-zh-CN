@@ -42,23 +42,23 @@ msgstr "建议创建常规项目变量，这能提高工作效率。默认情况
 
 #: ../../source/users/project/properties/general_prop.rst:14
 msgid "**% {projecttitle}**: Project title"
-msgstr "**% {projecttitle}** ：项目标题"
+msgstr "**% {projecttitle}**: 项目标题"
 
 #: ../../source/users/project/properties/general_prop.rst:15
 msgid "**% {saveddate}**: File saving date"
-msgstr "**% {saveddate}** ：文件保存日期"
+msgstr "**% {saveddate}**: 文件保存日期"
 
 #: ../../source/users/project/properties/general_prop.rst:16
 msgid "**% {savedfilename}**: Registered file name"
-msgstr "**% {savedfilename}** ：已登记的文件名"
+msgstr "**% {savedfilename}**: 已保存的文件名"
 
 #: ../../source/users/project/properties/general_prop.rst:17
 msgid "**% {savedfilepath}**: Saved file path"
-msgstr "**% {savedfilepath}** ：已保存的文件路径"
+msgstr "**% {savedfilepath}**: 已保存的文件路径"
 
 #: ../../source/users/project/properties/general_prop.rst:18
 msgid "**% {savedtime}**: File saving time"
-msgstr "**% {savedtime}** ：文件保存时间"
+msgstr "**% {savedtime}**: 文件保存时间"
 
 #: ../../source/users/project/properties/general_prop.rst:23
 msgid "Figure: General project properties window"

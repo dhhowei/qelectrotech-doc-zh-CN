@@ -59,7 +59,7 @@ msgstr "使用快捷键取消选择"
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech 支持使用快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_none.rst:27
 msgid "Press ``Ctrl + Shift + a`` to unselect all selected `parts`_."
@@ -69,4 +69,4 @@ msgstr "按 ``Ctrl + Shift + a`` 取消选择所有已选中的 `部件 <parts_>
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "有关 QElectroTech 快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

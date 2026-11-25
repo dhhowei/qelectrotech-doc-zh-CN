@@ -166,7 +166,7 @@ msgstr "**% {f}**: 元件所在图幅的编号"
 #: ../../source/users/annex/variables.rst:60
 msgid ""
 "**% {M}**: Plant variable from the folio where the element can be found"
-msgstr "**% {M}**: 元件所在图幅的装置变量"
+msgstr "**% {M}**: 元件所在图幅的设备变量"
 
 #: ../../source/users/annex/variables.rst:61
 msgid ""
@@ -177,13 +177,13 @@ msgstr "**% {LM}**: 元件所在图幅的位置变量"
 msgid ""
 "**% {l}**: Folio line number from the workspace where the element can be "
 "found"
-msgstr "**% {l}**: 元件所在工作区图幅的行号"
+msgstr "**% {l}**: 元件所在工作区中图幅的行号"
 
 #: ../../source/users/annex/variables.rst:63
 msgid ""
 "**% {c}**: Folio column number from the workspace where the element can be "
 "found"
-msgstr "**% {c}**: 元件所在工作区图幅的列号"
+msgstr "**% {c}**: 元件所在工作区中图幅的列号"
 
 #: ../../source/users/annex/variables.rst:64
 #: ../../source/users/annex/variables.rst:78

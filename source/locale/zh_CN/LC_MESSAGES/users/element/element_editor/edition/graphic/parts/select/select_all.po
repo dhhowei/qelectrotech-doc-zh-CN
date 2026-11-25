@@ -51,7 +51,7 @@ msgstr "选择 **编辑 > 全选** 菜单项，选择已打开 `元件 <element_
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_all.rst:21
 msgid "Figure: QElectroTech Edit menu"
-msgstr "图：QElectroTech“编辑”菜单"
+msgstr "图：QElectroTech 编辑菜单"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_all.rst:24
 msgid "Select all parts from workspace"
@@ -77,13 +77,13 @@ msgstr "图：QElectroTech 元件编辑器在工作区中选择"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_all.rst:36
 msgid "Select all objects using keyboard shortcut"
-msgstr "使用快捷键选择所有对象"
+msgstr "使用键盘快捷键选择所有对象"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_all.rst:38
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech 支持使用快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_all.rst:40
 msgid "Press ``Ctrl + a`` to select all `parts`_ from the opened `element`_."
@@ -93,4 +93,4 @@ msgstr "按 ``Ctrl + a`` 选择已打开 `元件 <element_>`_ 中的所有 `部�
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "有关 QElectroTech 快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

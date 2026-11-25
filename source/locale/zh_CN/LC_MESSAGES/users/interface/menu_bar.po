@@ -40,7 +40,7 @@ msgid ""
 "A brief description of each menu option can be read from `help or "
 "information tool bar`_ by hovering over the option with the cursor."
 msgstr ""
-"有关每个菜单选项的简要说明，可将光标悬停在选项上，从 `帮助或信息工具栏 <help or information tool bar_>`_ 中查看。"
+"将光标悬停在某个菜单选项上，即可在 `帮助或信息工具栏 <help or information tool bar_>`_ 中读取该选项的简要说明。"
 
 #: ../../source/users/interface/menu_bar.rst:18
 msgid "File menu"
@@ -339,7 +339,7 @@ msgstr "复制"
 
 #: ../../source/users/interface/menu_bar.rst:64
 msgid "Copies selected elements"
-msgstr "复制选中元件"
+msgstr "复制选中的元件"
 
 #: ../../source/users/interface/menu_bar.rst:64
 msgid "``Ctrl + c``"
@@ -479,7 +479,7 @@ msgstr "选择文本方向"
 
 #: ../../source/users/interface/menu_bar.rst:78
 msgid "Rotates selected texts to a specific angle"
-msgstr "将选定的文本旋转到特定角度"
+msgstr "将选中的文本旋转到指定角度"
 
 #: ../../source/users/interface/menu_bar.rst:78
 msgid "``Ctrl + Space``"
@@ -536,7 +536,7 @@ msgstr "将选中的文本编组"
 
 #: ../../source/users/interface/menu_bar.rst:86
 msgid "Reset conductors"
-msgstr "重置导线"
+msgstr "重置导体"
 
 #: ../../source/users/interface/menu_bar.rst:86
 msgid "Resets the conductors path ignoring the user changes"
@@ -608,7 +608,7 @@ msgstr "删除列"
 
 #: ../../source/users/interface/menu_bar.rst:94
 msgid "Add a row"
-msgstr "添加一行"
+msgstr "添加行"
 
 #: ../../source/users/interface/menu_bar.rst:94
 msgid "Adds a row to the folio"
@@ -1026,7 +1026,7 @@ msgstr "``Ctrl + 8``"
 
 #: ../../source/users/interface/menu_bar.rst:168
 msgid "Fit in view"
-msgstr "适应视图"
+msgstr "适应窗口"
 
 #: ../../source/users/interface/menu_bar.rst:168
 msgid "Adjusts the zoom on exactly the part of the folio"
@@ -1220,7 +1220,7 @@ msgstr "在线手册"
 
 #: ../../source/users/interface/menu_bar.rst:230
 msgid "Launches the default browser to the online manual of QElectroTech"
-msgstr "启动默认浏览器并打开 QElectroTech 在线手册"
+msgstr "使用默认浏览器打开 QElectroTech 在线手册"
 
 #: ../../source/users/interface/menu_bar.rst:230
 msgid "``f1``"
@@ -1240,7 +1240,7 @@ msgstr "YouTube 频道"
 
 #: ../../source/users/interface/menu_bar.rst:232
 msgid "Launches the default browser on the Youtube channel of QElectroTech"
-msgstr "启动默认浏览器并打开 QElectroTech 的 YouTube 频道"
+msgstr "使用默认浏览器打开 QElectroTech 的 YouTube 频道"
 
 #: ../../source/users/interface/menu_bar.rst:232
 msgid "|show-video|"
@@ -1252,12 +1252,12 @@ msgstr "显示视频"
 
 #: ../../source/users/interface/menu_bar.rst:234
 msgid "Support the project with a donation"
-msgstr "通过捐赠支持该项目"
+msgstr "通过捐款支持本项目"
 
 #: ../../source/users/interface/menu_bar.rst:234
 msgid ""
 "Launches the default browser on the QElectroTech donation paypal account"
-msgstr "启动默认浏览器并打开 QElectroTech 的 PayPal 捐赠账户"
+msgstr "使用默认浏览器打开 QElectroTech 的 PayPal 捐款页面"
 
 #: ../../source/users/interface/menu_bar.rst:234
 msgid "|help-donate|"

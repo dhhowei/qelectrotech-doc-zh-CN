@@ -38,7 +38,7 @@ msgstr ""
 msgid ""
 "To help the user, a tooltip is displayed when the arrow is placed on each "
 "button."
-msgstr "为便于用户使用，将鼠标指针移到每个按钮上时会显示工具提示。"
+msgstr "为方便用户，将鼠标指针悬停在每个按钮上时会显示工具提示。"
 
 #: ../../source/users/interface/toolbars.rst:17
 msgid "Toolbar Tools"
@@ -262,7 +262,7 @@ msgstr "复制"
 
 #: ../../source/users/interface/toolbars.rst:47
 msgid "Copies selected elements"
-msgstr "复制选中元件"
+msgstr "复制选中的元件"
 
 #: ../../source/users/interface/toolbars.rst:47
 msgid "``Ctrl + c``"
@@ -441,7 +441,7 @@ msgstr "缩放绘图"
 
 #: ../../source/users/interface/toolbars.rst:83
 msgid "Fit in view"
-msgstr "适应视图"
+msgstr "适应窗口"
 
 #: ../../source/users/interface/toolbars.rst:83
 msgid "Adjusts the zoom on exactly the part of the folio"
@@ -519,7 +519,7 @@ msgstr "信息对话框"
 
 #: ../../source/users/interface/toolbars.rst:107
 msgid "Reset conductors"
-msgstr "重置导线"
+msgstr "重置导体"
 
 #: ../../source/users/interface/toolbars.rst:107
 msgid "Resets the conductors path ignoring the user changes"

@@ -84,7 +84,7 @@ msgstr "由 `IEC 81346 <IEC 81346_>`_ 规范定义的代码。"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:32
 msgid "**W**: Guiding or transporting from one place to another."
-msgstr "**W** ：从一个地方引导或输送到另一个地方。"
+msgstr "**W**：从一个地方引导或输送到另一个地方。"
 
 #: ../../source/users/conductor/properties/conductor_numbering.rst:34
 msgid "Alphanumeric code corresponding to the following coding:"

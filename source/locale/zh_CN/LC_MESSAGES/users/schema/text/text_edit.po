@@ -84,8 +84,8 @@ msgid ""
 "If the `selection properties panel`_ is not displayed, it can be displayed "
 "from **Settings > Display > Selection properties**"
 msgstr ""
-"如果 `选择属性面板 <selection properties panel_>`_ 未显示，可通过 **设置 > 显示 > 选择属性** "
-"将其显示出来。"
+"如果未显示 `选择属性面板 <selection properties panel_>`_ ，可以从 **Settings > Display > "
+"Selection properties** 中将其显示出来。"
 
 #: ../../source/users/schema/text/text_edit.rst:45
 msgid "Edit text field using keyboard shortcut"
@@ -95,7 +95,7 @@ msgstr "使用键盘快捷键编辑文本字段"
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/schema/text/text_edit.rst:50
 msgid "Press ``Ctrl + e`` to display the `text editor PopUP window`_."
@@ -105,4 +105,4 @@ msgstr "按 ``Ctrl + e`` 显示 `文本编辑器弹出窗口 <text editor PopUP 
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

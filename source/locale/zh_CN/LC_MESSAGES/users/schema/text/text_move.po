@@ -71,8 +71,8 @@ msgid ""
 "If the `selection properties panel`_ is not displayed, it can be displayed "
 "from **Settings > Display > Selection properties**"
 msgstr ""
-"如果 `选择属性面板 <selection properties panel_>`_ 未显示，可通过 **设置 > 显示 > 选择属性** "
-"将其显示出来。"
+"如果未显示 `选择属性面板 <selection properties panel_>`_ ，可以从 **Settings > Display > "
+"Selection properties** 中将其显示出来。"
 
 #: ../../source/users/schema/text/text_move.rst:32
 msgid "Move text field by keyboard"

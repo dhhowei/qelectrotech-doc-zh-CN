@@ -68,7 +68,7 @@ msgstr "置于顶层"
 
 #: ../../source/users/schema/layers.rst:15
 msgid "Brings the selection (s) to front"
-msgstr "将所选对象置于顶层"
+msgstr "将选中对象置于顶层"
 
 #: ../../source/users/schema/layers.rst:15
 msgid "``Ctrl + Shift + Home``"
@@ -128,7 +128,7 @@ msgstr "置于底层"
 
 #: ../../source/users/schema/layers.rst:18
 msgid "Sends in the backwards the selection (s)"
-msgstr "将所选对象置于底层"
+msgstr "将选中对象置于底层"
 
 #: ../../source/users/schema/layers.rst:18
 msgid "``Ctrl + Shift + End``"
@@ -216,4 +216,4 @@ msgstr "按下相应的键盘快捷键（见上表），以执行所需操作。
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

@@ -36,7 +36,7 @@ msgstr ""
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Parts**."
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 部件** 将其显示出来。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **Settings > Display > Parts** 中显示。"
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/add.rst:13
 msgid ""

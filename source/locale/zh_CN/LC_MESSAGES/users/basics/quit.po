@@ -41,7 +41,7 @@ msgstr ""
 
 #: ../../source/users/basics/quit.rst:15
 msgid "Figure: QElectroTech Save message"
-msgstr "图：QElectroTech 的保存提示"
+msgstr "图：QElectroTech 保存提示"
 
 #: ../../source/users/basics/quit.rst:18
 msgid ""
@@ -67,7 +67,7 @@ msgstr "选择 **文件 > 退出** 菜单项即可退出 QElectroTech。"
 
 #: ../../source/users/basics/quit.rst:28
 msgid "Figure: QElectroTech File menu"
-msgstr "图：QElectroTech 的文件菜单"
+msgstr "图：QElectroTech 文件菜单"
 
 #: ../../source/users/basics/quit.rst:31
 msgid "Quit QElectroTech using keyboard shortcut"
@@ -87,4 +87,4 @@ msgstr "按 ``Ctrl + q`` 退出 QElectroTech。"
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "关于 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

@@ -59,7 +59,7 @@ msgstr "使用快捷键定义元件作者信息"
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech 支持使用快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/element/element_editor/edition/properties/define_element_author.rst:25
 msgid "Press ``Ctrl + y`` to display the `author information PopUp window`_."
@@ -69,4 +69,4 @@ msgstr "按 ``Ctrl + y`` 显示 `作者信息弹出窗口 <author information Po
 msgid ""
 "For more information about QElectroTech keyboard shortcut, refer to `menu "
 "bar`_ section."
-msgstr "有关 QElectroTech 快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

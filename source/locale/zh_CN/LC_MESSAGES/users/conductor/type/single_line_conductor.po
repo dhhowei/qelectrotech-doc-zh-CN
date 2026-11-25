@@ -39,7 +39,7 @@ msgstr ""
 msgid ""
 "At fluid power schemas, the pressure and return line are represented by the "
 "same `conductor`_."
-msgstr "在流体动力原理图中，压力线和回油线由同一根 `导体 <conductor_>`_ 表示。"
+msgstr "在流体动力原理图中，压力管路和回流管路用同一个 `导体 <conductor_>`_ 表示。"
 
 #: ../../source/users/conductor/type/single_line_conductor.rst:18
 msgid ""

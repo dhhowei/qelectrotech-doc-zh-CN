@@ -135,7 +135,7 @@ msgstr "另存为图标"
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**."
-msgstr "如果未显示 `工具栏 <toolbar_>`_ ，可以从 **设置 > 显示 > 工具** 将其显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 工具** 将其显示出来。"
 
 #: ../../source/users/folio/title_block/title_block_editor/title_block_save.rst:69
 msgid "Save title block using keyboard shortcut"

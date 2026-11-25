@@ -28,7 +28,9 @@ msgstr "插入文本字段"
 msgid ""
 "To draw more easily, the folio grid can be displayed from **Display > "
 "Display the grid** or from `toolbar`_ icon |grid|."
-msgstr "为了更方便地绘制，可通过 **显示 > 显示网格** 或 `工具栏 <toolbar_>`_ 中的 |grid| 图标显示图幅网格。"
+msgstr ""
+"为了更方便地绘制，可以通过 **Display > Display the grid** 或 `工具栏 <toolbar_>`_ 上的 |grid| "
+"图标显示图幅网格。"
 
 #: ../../source/users/schema/text/text_insert.rst:19
 msgid "grid"
@@ -66,4 +68,4 @@ msgstr "单击 `工作区 <workspace_>`_ 的任意位置以结束编辑并保存
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Add**."
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 添加** 将其显示出来。"
+msgstr "如果未显示 `工具栏 <toolbar_>`_ ，可以从 **Settings > Display > Add** 中将其显示出来。"

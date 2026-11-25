@@ -32,8 +32,8 @@ msgid ""
 "field that is pointed by the cursor. A user can learn about a field by "
 "simply pointing it with the mouse and reading the information from help bar."
 msgstr ""
-"帮助栏又称信息栏，位于控制标签下方、主窗口的左下角。它对 QElectroTech "
-"初学者非常有用，因为它会显示光标所指字段的相关信息。用户只需将鼠标指向某个字段，阅读帮助栏中的信息，就能了解它。"
+"帮助栏又称信息栏，位于控制标签页下方、主窗口左下角。它对 QElectroTech "
+"初学者非常有用，因为它会显示光标所指字段的信息。用户只需用鼠标指向某个字段，再读取帮助栏中的信息，就能了解该字段。"
 
 #: ../../source/users/interface/help_bar.rst:14
 msgid "Figure: QElectroTech help bar"

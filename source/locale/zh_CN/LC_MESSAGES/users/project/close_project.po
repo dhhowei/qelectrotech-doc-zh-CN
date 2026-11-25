@@ -36,7 +36,7 @@ msgstr ""
 
 #: ../../source/users/project/close_project.rst:14
 msgid "Figure: QElectroTech Save message"
-msgstr "图：QElectroTech 保存消息"
+msgstr "图：QElectroTech 保存提示"
 
 #: ../../source/users/project/close_project.rst:16
 msgid ""
@@ -84,7 +84,7 @@ msgstr "关闭项目"
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Tools**."
-msgstr "如果未显示 `工具栏 <toolbar_>`_ ，可以从 **设置 > 显示 > 工具** 中将其显示。"
+msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 工具** 将其显示出来。"
 
 #: ../../source/users/project/close_project.rst:44
 msgid "Close project from projects panel"

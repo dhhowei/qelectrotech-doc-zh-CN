@@ -52,7 +52,7 @@ msgstr "线条的不同类型有：**实线** 、**虚线** 和 **点划线** �
 
 #: ../../source/users/conductor/properties/conductor_appearance.rst:27
 msgid "The possible colors are defined by the `RGB scale range`_."
-msgstr "可能的颜色由 `RGB 色阶范围 <RGB scale range_>`_ 定义。"
+msgstr "可用的颜色由 `RGB 色阶范围 <RGB scale range_>`_ 定义。"
 
 #: ../../source/users/conductor/properties/conductor_appearance.rst:28
 msgid ""

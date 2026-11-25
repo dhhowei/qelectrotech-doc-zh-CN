@@ -462,11 +462,11 @@ msgstr "缩小"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:86
 msgid "Fit in view"
-msgstr "适应视图"
+msgstr "适应窗口"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:86
 msgid "Adjusts the zoom on exactly the part of the workspace"
-msgstr "调整缩放以恰好显示整个工作区"
+msgstr "调整缩放，使工作区恰好完整显示"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:86
 msgid "``Ctrl + 9``"
@@ -574,7 +574,7 @@ msgstr "这是什么？"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:120
 msgid "Enquires main menu options"
-msgstr "查询主菜单中各选项的说明"
+msgstr "查询主菜单选项的说明"
 
 #: ../../source/users/folio/title_block/title_block_editor/interface/menu_bar.rst:120
 msgid "``Shift + f1``"

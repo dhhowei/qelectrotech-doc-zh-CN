@@ -79,4 +79,4 @@ msgstr "在要选择的矩形区域的起点点击左键，然后按住左键拖
 
 #: ../../source/users/element/element_editor/edition/graphic/parts/select/select_multiple_parts.rst:35
 msgid "Figure: QElectroTech selecting on workspace"
-msgstr "图：QElectroTech 在工作区中选择"
+msgstr "图：在 QElectroTech 工作区中选择"

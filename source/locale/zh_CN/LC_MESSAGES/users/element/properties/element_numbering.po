@@ -60,7 +60,7 @@ msgstr "AAAA"
 
 #: ../../source/users/element/properties/element_numbering.rst:26
 msgid "Code defined by `IEC 81346`_ norm."
-msgstr "由 `IEC 81346`_ 规范定义的代码。"
+msgstr "由 `IEC 81346 <IEC 81346_>`_ 规范定义的代码。"
 
 #: ../../source/users/element/properties/element_numbering.rst:28
 msgid "**A**: Two or more purposes or tasks."
@@ -133,7 +133,7 @@ msgstr "**V** 表示对材料或产品进行加工（处理）。"
 
 #: ../../source/users/element/properties/element_numbering.rst:44
 msgid "**W**: Guiding or transporting from one place to another."
-msgstr "**W** 表示引导或从一个地方输送到另一个地方。"
+msgstr "**W**：从一个地方引导或输送到另一个地方。"
 
 #: ../../source/users/element/properties/element_numbering.rst:45
 msgid "**X**: Connecting objects"

@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../../source/users/schema/element/element_edit.rst:15
 msgid "Figure: QElectroTech general element properties"
-msgstr "图：QElectroTech 常规元件属性"
+msgstr "图：QElectroTech 元件常规属性"
 
 #: ../../source/users/schema/element/element_edit.rst:19
 msgid ""

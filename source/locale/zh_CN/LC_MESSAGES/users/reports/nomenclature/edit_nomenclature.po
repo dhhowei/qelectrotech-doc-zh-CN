@@ -49,13 +49,13 @@ msgstr "物料清单几何与线条"
 
 #: ../../source/users/reports/nomenclature/edit_nomenclature.rst:25
 msgid "Figure: QElectroTech summary geometry and lines properties"
-msgstr "图：QElectroTech 汇总几何与线条属性"
+msgstr "图：QElectroTech 汇总表几何与线条属性"
 
 #: ../../source/users/reports/nomenclature/edit_nomenclature.rst:27
 msgid ""
 "The **Geometry and lines** section from the summary properties allows "
 "defining:"
-msgstr "可从汇总属性的 **几何与线条** 部分定义："
+msgstr "可从汇总表属性的 **几何与线条** 部分定义："
 
 #: ../../source/users/reports/nomenclature/edit_nomenclature.rst:29
 msgid ""

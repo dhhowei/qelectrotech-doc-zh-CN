@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../source/users/schema/select/select_invert.rst:5
 msgid "Invert the selection"
-msgstr "反转选择"
+msgstr "反向选择"
 
 #: ../../source/users/schema/select/select_invert.rst:7
 msgid ""
@@ -42,7 +42,7 @@ msgstr "反转选择既可以通过 `菜单栏 <menu bar_>`_ 完成，也可以�
 
 #: ../../source/users/schema/select/select_invert.rst:14
 msgid "Invert selection from menu bar"
-msgstr "从菜单栏反转选择"
+msgstr "从菜单栏反向选择"
 
 #: ../../source/users/schema/select/select_invert.rst:16
 #: ../../source/users/schema/select/select_invert.rst:29
@@ -53,7 +53,7 @@ msgstr "从已激活的 `图幅 <folio_>`_ 中选择 `Select the object/s`_ ，�
 
 #: ../../source/users/schema/select/select_invert.rst:17
 msgid "Select **Edit > Invert selection** to invert the selection."
-msgstr "选择 **编辑 > 反转选择** 以反转选择。"
+msgstr "选择 **编辑 > 反向选择** 以反向选择。"
 
 #: ../../source/users/schema/select/select_invert.rst:22
 msgid "Figure: QElectroTech edit menu"
@@ -61,20 +61,20 @@ msgstr "图：QElectroTech 编辑菜单"
 
 #: ../../source/users/schema/select/select_invert.rst:25
 msgid "Invert selection using keyboard shortcut"
-msgstr "使用键盘快捷键反转选择"
+msgstr "使用键盘快捷键反向选择"
 
 #: ../../source/users/schema/select/select_invert.rst:27
 msgid ""
 "QElectroTech allows using keyboard shortcut to increase the working "
 "efficiency."
-msgstr "QElectroTech允许使用键盘快捷键来提高工作效率。"
+msgstr "QElectroTech 允许使用键盘快捷键来提高工作效率。"
 
 #: ../../source/users/schema/select/select_invert.rst:30
 msgid "Press ``Ctrl + i`` to invert the selection."
-msgstr "按 ``Ctrl + i`` 反转选择。"
+msgstr "按 ``Ctrl + i`` 反向选择。"
 
 #: ../../source/users/schema/select/select_invert.rst:34
 msgid ""
 "For more information about QElectroTech keyboard shortcuts, refer to `menu "
 "bar`_ section."
-msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参见 `菜单栏 <menu bar_>`_ 一节。"
+msgstr "有关 QElectroTech 键盘快捷键的更多信息，请参阅 `菜单栏 <menu bar_>`_ 一节。"

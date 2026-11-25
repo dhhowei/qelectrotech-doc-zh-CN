@@ -68,7 +68,7 @@ msgstr "在要放置图片的 `工作区 <workspace_>`_ 区域单击。"
 msgid ""
 "If the `toolbar`_ is not displayed, it can be displayed from **Settings > "
 "Display > Add**."
-msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可通过 **设置 > 显示 > 添加** 将其显示出来。"
+msgstr "如果未显示 `工具栏 <toolbar_>`_ ，可以从 **Settings > Display > Add** 中将其显示出来。"
 
 #: ../../source/users/schema/picture.rst:30
 msgid "Resize picture"

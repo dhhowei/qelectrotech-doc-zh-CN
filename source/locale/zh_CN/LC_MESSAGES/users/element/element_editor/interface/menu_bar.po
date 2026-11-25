@@ -125,7 +125,7 @@ msgstr "打开文件夹"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:30
 msgid "Open from a file"
-msgstr "从文件中打开"
+msgstr "从文件打开"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:30
 msgid "Opens an existing element from file"
@@ -343,7 +343,7 @@ msgstr "全部取消选择"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:66
 msgid "Invert selection"
-msgstr "反选"
+msgstr "反向选择"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:66
 msgid "Inverts selection of elements"
@@ -753,7 +753,7 @@ msgstr "这是什么？"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:144
 msgid "Enquires main menu options"
-msgstr "查看主菜单选项的说明"
+msgstr "查询主菜单选项的说明"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:144
 msgid "``Shift + f1``"
@@ -781,7 +781,7 @@ msgstr "在线手册"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:148
 msgid "Launches the default browser to the online manual of QElectroTech"
-msgstr "用默认浏览器打开 QElectroTech 在线手册"
+msgstr "使用默认浏览器打开 QElectroTech 在线手册"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:148
 msgid "``f1``"
@@ -801,7 +801,7 @@ msgstr "YouTube 频道"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:150
 msgid "Launches the default browser on the Youtube channel of QElectroTech"
-msgstr "用默认浏览器打开 QElectroTech 的 YouTube 频道"
+msgstr "使用默认浏览器打开 QElectroTech 的 YouTube 频道"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:150
 msgid "|show-video|"
@@ -813,12 +813,12 @@ msgstr "显示视频"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:152
 msgid "Support the project with a donation"
-msgstr "捐款支持本项目"
+msgstr "通过捐款支持本项目"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:152
 msgid ""
 "Launches the default browser on the QElectroTech donation paypal account"
-msgstr "用默认浏览器打开 QElectroTech 的 PayPal 捐款账户"
+msgstr "使用默认浏览器打开 QElectroTech 的 PayPal 捐款页面"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:152
 msgid "|help-donate|"

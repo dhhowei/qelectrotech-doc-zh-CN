@@ -32,13 +32,13 @@ msgid ""
 "selection."
 msgstr ""
 "有时，从 `工作区 <workspace_>`_ 中选择与所需操作无关的对象，比直接选择应当选中的对象更容易。为此，QElectroTech "
-"提供了反转选择的功能。"
+"提供了反向选择的功能。"
 
 #: ../../source/users/schema/select/select_invert.rst:11
 msgid ""
 "Inverting the selection can be done from `menu bar`_ or using the "
 "corresponding keyboard shortcut."
-msgstr "反转选择既可以通过 `菜单栏 <menu bar_>`_ 完成，也可以使用相应的键盘快捷键。"
+msgstr "反向选择既可以通过 `菜单栏 <menu bar_>`_ 完成，也可以使用相应的键盘快捷键。"
 
 #: ../../source/users/schema/select/select_invert.rst:14
 msgid "Invert selection from menu bar"

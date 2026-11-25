@@ -419,7 +419,7 @@ msgstr "反向选择"
 
 #: ../../source/users/interface/menu_bar.rst:72
 msgid "Inverts selection of elements"
-msgstr "反转元件的选择"
+msgstr "反向选择元件"
 
 #: ../../source/users/interface/menu_bar.rst:72
 msgid "``Ctrl + i``"
@@ -431,7 +431,7 @@ msgstr "|edit-select-invert|"
 
 #: ../../source/users/interface/menu_bar.rst:259
 msgid "edit-select-invert"
-msgstr "反转选择"
+msgstr "反向选择"
 
 #: ../../source/users/interface/menu_bar.rst:74
 msgid "Delete"
@@ -540,7 +540,7 @@ msgstr "重置导体"
 
 #: ../../source/users/interface/menu_bar.rst:86
 msgid "Resets the conductors path ignoring the user changes"
-msgstr "重置导线路径，忽略用户的更改"
+msgstr "重置导体路径，忽略用户的更改"
 
 #: ../../source/users/interface/menu_bar.rst:86
 msgid "``Ctrl + k``"
@@ -552,7 +552,7 @@ msgstr "|conductor-reset|"
 
 #: ../../source/users/interface/menu_bar.rst:264
 msgid "conductor-reset"
-msgstr "重置导线"
+msgstr "重置导体"
 
 #: ../../source/users/interface/menu_bar.rst:88
 msgid "Folio properties"

@@ -523,7 +523,7 @@ msgstr "重置导体"
 
 #: ../../source/users/interface/toolbars.rst:107
 msgid "Resets the conductors path ignoring the user changes"
-msgstr "重置导线路径，忽略用户的更改"
+msgstr "重置导体路径，忽略用户的更改"
 
 #: ../../source/users/interface/toolbars.rst:107
 msgid "``Ctrl + k``"
@@ -535,11 +535,11 @@ msgstr "|conductor2|"
 
 #: ../../source/users/interface/toolbars.rst:196
 msgid "conductor2"
-msgstr "导线2"
+msgstr "导体2"
 
 #: ../../source/users/interface/toolbars.rst:109
 msgid "Automatic creation conductor"
-msgstr "自动创建导线"
+msgstr "自动创建导体"
 
 #: ../../source/users/interface/toolbars.rst:109
 msgid "Using the automatic creation of conductor (s) when possible"

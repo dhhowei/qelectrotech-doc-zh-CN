@@ -32,7 +32,7 @@ msgstr "端子是 `元件 <element_>`_ 的一个部件，在创建原理图时�
 
 #: ../../source/users/element/element_parts/terminal.rst:11
 msgid "Create terminal"
-msgstr "创建终端"
+msgstr "创建端子"
 
 #: ../../source/users/element/element_parts/terminal.rst:13
 msgid "The terminal can only be added to `workspace`_ from `toolbar`_."
@@ -60,7 +60,7 @@ msgstr "如果 `工具栏 <toolbar_>`_ 未显示，可以从 **Settings > Displa
 
 #: ../../source/users/element/element_parts/terminal.rst:26
 msgid "Terminal properties"
-msgstr "终端属性"
+msgstr "端子属性"
 
 #: ../../source/users/element/element_parts/terminal.rst:28
 msgid ""
@@ -82,7 +82,7 @@ msgstr "图：元件中的 QElectroTech 端子部件"
 
 #: ../../source/users/element/element_parts/terminal.rst:40
 msgid "QElectroTech allows customizing different terminal properties:"
-msgstr "QElectroTech 允许自定义不同的终端属性："
+msgstr "QElectroTech 允许自定义不同的端子属性："
 
 #: ../../source/users/element/element_parts/terminal.rst
 msgid "Position"

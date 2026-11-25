@@ -347,7 +347,7 @@ msgstr "反向选择"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:66
 msgid "Inverts selection of elements"
-msgstr "反转元件的选择"
+msgstr "反向选择元件"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:66
 msgid "``Ctrl + i``"
@@ -359,7 +359,7 @@ msgstr "|edit-select-invert|"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:178
 msgid "edit-select-invert"
-msgstr "反转选择"
+msgstr "反向选择"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:68
 msgid "Cut"
@@ -493,7 +493,7 @@ msgstr "|preferences-user|"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:181
 msgid "preferences-user"
-msgstr "用户偏好"
+msgstr "用户首选项"
 
 #: ../../source/users/element/element_editor/interface/menu_bar.rst:84
 msgid "Edit element properties"
